@@ -6,6 +6,8 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import express from 'express';
 import * as dotenv from 'dotenv';
+import fs from 'fs';
+
 dotenv.config()
 const app = express();
 const port = process.env.PORT;
@@ -168,7 +170,7 @@ async function populateReleasedDates(res, isMovie) {
 async function mapReq(info, movie) {
 
     let year = (new Date(info.released)).getFullYear();
-    let urlAPI = `https://api.themoviedb.org/4/search/${movie ? "movie" : "tv"}?api_key=5201b54eb0968700e693a30576d7d4dc&query=${info.name}&page=1&primary_release_year=${year}`;
+    let urlAPI = `https://api.themoviedb.org/4/search/${movie ? "movie" : "tv"}?api_key=${process.env.KEY}&query=${info.name}&page=1&primary_release_year=${year}`;
     let releaseDateProperty = "release_date";
 
     if (!movie) {
@@ -284,18 +286,24 @@ async function update() {
     await mapIDs(res, isMovie);
 }
 
-
+function runUpdate(){
+    try {
+        throw Error("f");
+        update();
+    } catch (err) {
+        console.log(err);
+        fs.appendFile("error.log", err.toString(), (error) => {
+            console.error(error);
+        });
+    }
+}
 
 // Runs every hour
 setInterval(function () {
-    try {
-        update();
-    } catch (err) {
-
-    }
+    runUpdate();
 }, 3600000);
 
-update();
+runUpdate();
 
 
 
@@ -306,7 +314,7 @@ app.get('/tv', async (req, res) => {
         let id = tvDB.data[req.query.id].toString();
         let response = "";
         try {
-            response = await MakeFetch(`https://api.themoviedb.org/3/tv/${id}?api_key=${process.env.key}`);
+            response = await MakeFetch(`https://api.themoviedb.org/3/tv/${id}?api_key=${process.env.KEY}`);
             res.status(200).send(response);
         } catch (err) {
             response = "Error";
@@ -323,7 +331,7 @@ app.get('/tv/season', async (req, res) => {
         let id = tvDB.data[req.query.id].toString();
         let response = "";
         try {
-            response = await MakeFetch(`https://api.themoviedb.org/3/tv/${id}/season/${req.query.season}?api_key=${process.env.key}`);
+            response = await MakeFetch(`https://api.themoviedb.org/3/tv/${id}/season/${req.query.season}?api_key=${process.env.KEY}`);
             res.status(200).send(response);
         } catch (err) {
             response = "Error";
@@ -341,7 +349,7 @@ app.get('/movies', async (req, res) => {
         let id = movieDB.data[req.query.id].toString();
         let response = "";
         try {
-            response = await MakeFetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${process.env.key}`);
+            response = await MakeFetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${process.env.KEY}`);
             res.status(200).send(response);
         } catch (err) {
             response = "Error";
@@ -351,6 +359,24 @@ app.get('/movies', async (req, res) => {
     } else {
         res.status(404).send("ID not found.");
     }
+});
+
+app.get('/dump/tv', async (req, res) => {
+    res.status(200).json(tvDB.data);
+});
+
+app.get('/dump/movie', async (req, res) => {
+    res.status(200).json(movieDB.data);
+});
+
+app.get('/dump/error', async (req, res) => {
+    let logs = "";
+    try{
+        logs = fs.readFileSync("error.log");
+    }catch(err){
+        logs = err.toString();
+    }
+    res.status(200).send(logs);
 });
 
 
