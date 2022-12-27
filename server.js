@@ -32,7 +32,9 @@ await tvErrordb.read();
 tvErrordb.data = tvErrordb.data || {};
 
 
-
+const errorDB = new Low(new JSONFile(join(__dirname, 'error.json')));
+await errorDB.read();
+errorDB.data = errorDB.data || [];
 
 
 String.prototype.substringAfter = function substringAfter(toFind) {
@@ -135,15 +137,10 @@ async function loadErrored(res, isMovie) {
 
     for (let ID in currentErrorDB.data) {
         if (!(ID in res[1])) {
-            if (currentErrorDB.data[ID].errored > 10 || currentErrorDB.data[ID].mapErrored > 10) {
-                delete currentErrorDB.data[ID];
-                await currentErrorDB.write();
-            } else {
-                res[0].push(ID);
-                res[1][ID] = {
-                    "link": currentErrorDB.data[ID].link,
-                    "name": currentErrorDB.data[ID].name
-                }
+            res[0].push(ID);
+            res[1][ID] = {
+                "link": currentErrorDB.data[ID].link,
+                "name": currentErrorDB.data[ID].name
             }
         }
     }
@@ -168,7 +165,6 @@ async function populateReleasedDates(res, isMovie) {
 }
 
 async function mapReq(info, movie) {
-
     let year = (new Date(info.released)).getFullYear();
     let urlAPI = `https://api.themoviedb.org/4/search/${movie ? "movie" : "tv"}?api_key=${process.env.KEY}&query=${info.name}&page=1&primary_release_year=${year}`;
     let releaseDateProperty = "release_date";
@@ -228,6 +224,11 @@ async function addToError(info, id, isMovie, mapError = true) {
     let name = info.name;
     if (exists) {
         currentErrorDB.data[id][mapError ? "mapErrored" : "errored"]++;
+        if (currentErrorDB.data[id].errored > 10 || currentErrorDB.data[id].mapErrored > 10) {
+            errorDB.data.push(currentErrorDB.data[id]);
+            await errorDB.write();
+            deleteFromError(id, isMovie);
+        }
     } else {
         currentErrorDB.data[id] = {
             link,
@@ -270,9 +271,8 @@ async function mapIDs(res, isMovie) {
     }
 }
 
-async function update() {
+async function update(isMovie) {
     let res = [[], {}];
-    let isMovie = false;
 
     let currentDB;
     if (isMovie) {
@@ -288,7 +288,8 @@ async function update() {
 
 function runUpdate(){
     try {
-        update();
+        update(true);
+        update(false);
     } catch (err) {
         console.log(err);
         fs.appendFile("error.log", err.toString(), (error) => {
@@ -364,20 +365,31 @@ app.get('/dump/tv', async (req, res) => {
     res.status(200).json(tvDB.data);
 });
 
+app.get('/dump/tverror', async (req, res) => {
+    res.status(200).json(tvErrordb.data);
+});
+
 app.get('/dump/movie', async (req, res) => {
     res.status(200).json(movieDB.data);
+});
+
+app.get('/dump/movieerror', async (req, res) => {
+    res.status(200).json(movieErrordb.data);
 });
 
 app.get('/dump/error', async (req, res) => {
     let logs = "";
     try{
-        logs = fs.readFileSync("error.log");
+        logs = fs.readFileSync("error.log").toString();
     }catch(err){
         logs = err.toString();
     }
     res.status(200).send(logs);
 });
 
+app.get('/dump/error.json', async (req, res) => {
+    res.status(200).json(errorDB.data);
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
