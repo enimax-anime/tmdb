@@ -288,7 +288,6 @@ async function update() {
 
 function runUpdate(){
     try {
-        throw Error("f");
         update();
     } catch (err) {
         console.log(err);
