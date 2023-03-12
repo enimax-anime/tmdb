@@ -67,7 +67,7 @@ async function MakeFetch(url) {
 
 async function getInfo(url) {
     let data = {};
-    let html = await MakeFetch(`https://fmovies.app${url}`);
+    let html = await MakeFetch(`https://www.fmovies.ink${url}`);
     const tempDOM = new JSDOM(html).window.document;
     let info = tempDOM.querySelectorAll(".row-line");
     for (let i = 0; i < info.length; i++) {
@@ -81,7 +81,7 @@ async function getInfo(url) {
 }
 
 async function fetchAndStore(pageNum, movie) {
-    let html = await MakeFetch(`https://fmovies.app/${movie ? "movie" : "tv-show"}?page=${pageNum}`);
+    let html = await MakeFetch(`https://www.fmovies.ink/${movie ? "movie" : "tv-show"}?page=${pageNum}`);
     const tempDOM = new JSDOM(html).window.document;
     let IDs = [];
     let links = {};
@@ -166,7 +166,7 @@ async function populateReleasedDates(res, isMovie) {
 
 async function mapReq(info, movie) {
     let year = (new Date(info.released)).getFullYear();
-    let urlAPI = `https://api.themoviedb.org/4/search/${movie ? "movie" : "tv"}?api_key=${process.env.KEY}&query=${info.name}&page=1&primary_release_year=${year}`;
+    let urlAPI = `https://api.themoviedb.org/3/search/${movie ? "movie" : "tv"}?api_key=${process.env.KEY}&query=${info.name}&page=1&primary_release_year=${year}`;
     let releaseDateProperty = "release_date";
 
     if (!movie) {
