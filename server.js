@@ -66,6 +66,7 @@ async function MakeFetch(url) {
 }
 
 async function getInfo(url) {
+    console.log(`Trying to fetch ${url}`);
     let data = {};
     let html = await MakeFetch(`https://www.fmovies.ink${url}`);
     const tempDOM = new JSDOM(html).window.document;
@@ -112,6 +113,7 @@ async function fetchAndStore(pageNum, movie) {
 
 
 async function getShowsUptilID(id, response, movie, pageNum = 1) {
+    console.log(`Getting page ${pageNum} of ${movie ? "movie" : "tv"}`);
     let IDsandLinks = await fetchAndStore(pageNum, movie);
 
     for (let i = 0; i < IDsandLinks[0].length; i++) {
@@ -257,6 +259,7 @@ async function mapIDs(res, isMovie) {
             if (info.dateError !== true) {
                 let response = await mapReq(info, isMovie);
                 currentDB.data[res[0][i]] = response;
+                console.log(`Mapped ${res[0][i]} to ${response}`);
                 await deleteFromError(res[0][i], isMovie);
                 await currentDB.write();
             }
