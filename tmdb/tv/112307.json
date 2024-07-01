@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/tFD5Tn0h4TV03dtLzXJBUBhRFNv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2020-10-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 112307,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-10-29",
+    "last_episode_to_air": {
+        "id": 2482512,
+        "name": "A Discount Service Dog",
+        "overview": "Outside of Austin, Jamie's ranch is a place where humans come to heal alongside a menagerie of over 100 rescue animals.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-10-29",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 112307,
+        "still_path": null
+    },
+    "name": "That Animal Rescue Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1709,
+            "logo_path": "/rSWD2WoY26KJmOw7QHvZjC5OEWG.png",
+            "name": "CBS All Access",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "That Animal Rescue Show",
+    "overview": "Follow the animal rescue community in and around Austin, Texas. The docuseries provides a window into this captivating world through moving, humorous and powerful stories of animals and the humans who love them.",
+    "popularity": 1.887,
+    "poster_path": "/caYovjk1kBNtKa3FgHVycw0Qdxm.jpg",
+    "production_companies": [
+        {
+            "id": 1081,
+            "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+            "name": "CBS Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-10-29",
+            "episode_count": 1,
+            "id": 167127,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/caYovjk1kBNtKa3FgHVycw0Qdxm.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5f9b13b1079a97003745b548",
+            "air_date": "2020-10-29",
+            "episodes": [
+                {
+                    "air_date": "2020-10-29",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2482512,
+                    "name": "A Discount Service Dog",
+                    "overview": "Outside of Austin, Jamie's ranch is a place where humans come to heal alongside a menagerie of over 100 rescue animals.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 112307,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 167127,
+            "poster_path": "/caYovjk1kBNtKa3FgHVycw0Qdxm.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

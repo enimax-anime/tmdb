@@ -1,0 +1,584 @@
+{
+    "adult": false,
+    "backdrop_path": "/xkvkVXJaY2gAUlP5A56w0SmKVMZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2023-04-17",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/cbbc/shows/a-kind-of-spark",
+    "id": 223116,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-05-09",
+    "last_episode_to_air": {
+        "id": 5305677,
+        "name": "Safe",
+        "overview": "Do Good Books is up for sale, and Bonnie is banned from Juniper. However, when the gang find a final clue for the mysterious safe, there might be a way to save both the shop and Bonnie.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-05-09",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 2,
+        "show_id": 223116,
+        "still_path": "/62elOSyYbSvY46zqtJ0q5fAOAyW.jpg"
+    },
+    "name": "A Kind of Spark",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 15,
+            "logo_path": "/9O6hVu6gePt7097QdqKxxSF9Suh.png",
+            "name": "CBBC",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "A Kind of Spark",
+    "overview": "Addie tries to get her village to make a memorial to the women who were put on trial for witch craft there. Can she challenge the way her community see her and her family?",
+    "popularity": 30.792,
+    "poster_path": "/hXUtfKcNknuumcNFVCwHmwWAuS.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-04-17",
+            "episode_count": 10,
+            "id": 334169,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hXUtfKcNknuumcNFVCwHmwWAuS.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        },
+        {
+            "air_date": "2024-04-29",
+            "episode_count": 10,
+            "id": 390272,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.8,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "641ef2aa54a8ac00f3cce4fb",
+            "air_date": "2023-04-17",
+            "episodes": [
+                {
+                    "air_date": "2023-04-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4320401,
+                    "name": "The Spark",
+                    "overview": "Addie has a meltdown on a school trip and finds a strange witch jar. It’s the start of a life-changing adventure full of friendship, frenemies and a mystery that must be solved.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/t42PZ7fGYym3HO303dycfYaIEAL.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4326993,
+                    "name": "Juniper",
+                    "overview": "Addie bravely presents her memorial idea to the old-fashioned village council, and in 16th-century Juniper, Maggie stands up to a fearsome witch hunter.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/qxQeaR42zv6ZtXT7UoR9Lt0Rwyx.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4326994,
+                    "name": "The Witch List",
+                    "overview": "Addie and Audrey’s friendship blossoms as they go door-to-door to spread the word about Juniper’s witches. Maggie starts a secret rebellion, putting her at odds with Elinor.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/nsM32DMM4C2oLXRGLFH20usE23c.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4326995,
+                    "name": "Sisters",
+                    "overview": "A trip to the big city leads to a shocking discovery about Maggie’s disappearance, and Nina and Keedie build a shaky truce while party shopping.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/1FayjWojgJl0SchWRehvOHX1O3X.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4326996,
+                    "name": "Party",
+                    "overview": "Addie is determined to make Nina and Keedie’s party the best ever, but the plan falls apart when Emily blags a ticket. Meanwhile, a party in the 16th century puts Maggie in danger.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/AeUxrrRJEeyR1gHUeYlPsR9NsKG.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-25",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4326997,
+                    "name": "Nicest Village",
+                    "overview": "Addie’s fundraising campaign disrupts a beloved village event, and Maggie’s attempts to get help end in disaster.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/gMdUQ0u7Wysc4wiHN3E4STXrJYJ.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-26",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4326998,
+                    "name": "Sleepover",
+                    "overview": "Inner truths are revealed at Addie’s first ever sleepover, but when Jenna asks awkward questions about Miss Murphy, Keedie clams up. In the 16th century, a jailbreak is planned.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/l2aYMnxqe7KhXXYjWQBFvj2yJmh.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-27",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4326999,
+                    "name": "Something Wicked",
+                    "overview": "It’s the day of Addie’s performance, but there is even more drama behind the scenes as Emily’s jealousy reaches breaking point. With Maggie in prison, Elinor plans a daring rescue.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/2fPBsLzT4vekflTnEnAk9G75iCO.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-01",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4327000,
+                    "name": "Burnout",
+                    "overview": "Keedie is in burnout after the drama at school. Can Addie help her and find out what happened in Miss Murphy’s office all those years ago? Can Frank and Nina find a lost tortoise?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/yB9FL1avbvv2d2IZfTpfMJ940wc.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-02",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4327001,
+                    "name": "The Way I Am",
+                    "overview": "Miss Murphy’s true nature is revealed, and Audrey works out what happened to Maggie. Addie makes one final plea for her memorial - will Juniper do the right thing?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 223116,
+                    "still_path": "/aeQ2L7tNSKZCYwYgEqW2lHW1g1B.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Frank",
+                            "credit_id": "667a3e5e4be38f218a8bde75",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4242539,
+                            "known_for_department": "Acting",
+                            "name": "Zac Looker",
+                            "original_name": "Zac Looker",
+                            "popularity": 7.188,
+                            "profile_path": "/d3LRo3om3mRSwcdnTKaMGyHAxwy.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 334169,
+            "poster_path": "/hXUtfKcNknuumcNFVCwHmwWAuS.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        },
+        "2": {
+            "_id": "662c1d04559d2201285ce0dc",
+            "air_date": "2024-04-29",
+            "episodes": [
+                {
+                    "air_date": "2024-04-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5305659,
+                    "name": "What Next?",
+                    "overview": "Addie’s memorial has made her a local hero, but the attention of a mean-spirited troll signals the start of a new mystery. Who is LostGirl22? And what is her problem with Juniper?",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/6QvfoCKeAxONsi7snOQQ6oMCk4q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5305661,
+                    "name": "Bonnie",
+                    "overview": "Addie finds a mysterious locked safe in the bookshop basement. Meanwhile, Keedie confronts her old friend Bonnie, and Audrey has a secret of her own.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/xqR7lc9VRyux1HLgCUOrqnvSzBP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5305662,
+                    "name": "Le Tour de Frank",
+                    "overview": "Frank’s history tour descends into chaos when Bonnie returns to Juniper determined to cause trouble. Keedie warns Addie to take care, but Addie feels a connection - can she help her?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/8pAtjdL029QlHSAG3KpyeMbyZc1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5305663,
+                    "name": "Shark Day",
+                    "overview": "Audrey organises a Shark Day for Addie as a way to break her big news. However, Jenna’s crush, Emily’s guilt and a break-in at the shop threaten to derail Audrey’s plans.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/mMABzQCtmW1WFmhWraT4OAgS7xY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5305664,
+                    "name": "Choices",
+                    "overview": "Addie is on the hunt for a good news story about Juniper, but Bonnie is determined to prove there isn’t one. Could the bookshop provide the answer Addie is looking for?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/fVpVros6J3dt0FADQCcqErR1Gb0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-06",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5305669,
+                    "name": "The Codebreakers",
+                    "overview": "Bonnie causes chaos in the Darrow house by turning a sleepover into a party. Meanwhile, a clue brings Addie closer to solving the bookshop mystery.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/7FuNyjK1J0uXUnBCPh6Htm15aeD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5305672,
+                    "name": "Miriam",
+                    "overview": "Addie’s council event hangs in the balance when a grumpy Miriam refuses to reveal her secret. Meanwhile, Iona holds band auditions and finds a surprising lead singer.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/tZj6tRZ3pqTDobhMNDHvdO7Lugd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-08",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5305674,
+                    "name": "Juniper at War",
+                    "overview": "The Founders’ Day dance takes Juniper back to 1944. Addie feels on top of the world, but a well-meaning mistake threatens to undo all her good work.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/jE7sLTtTnkT8rrIhgtFYHgd1M7I.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-09",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 5305676,
+                    "name": "Runaway",
+                    "overview": "With everyone in Juniper looking for them, Addie follows runaway Bonnie to the seaside. Addie knows she must convince Bonnie to go home - but how?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/d9qj3ARMnaxlhHZA8UOXLsoC2Wo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-09",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 5305677,
+                    "name": "Safe",
+                    "overview": "Do Good Books is up for sale, and Bonnie is banned from Juniper. However, when the gang find a final clue for the mysterious safe, there might be a way to save both the shop and Bonnie.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 223116,
+                    "still_path": "/62elOSyYbSvY46zqtJ0q5fAOAyW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 390272,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

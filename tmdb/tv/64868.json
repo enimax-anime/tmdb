@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/xYlWAUTn7BbjkEhGhdA6L7NBJNl.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-07-11",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 64868,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2012-07-11",
+    "last_episode_to_air": {
+        "id": 1151813,
+        "name": "Tourist Terror",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2012-07-11",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 64868,
+        "still_path": null
+    },
+    "name": "Dates from Hell",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dates from Hell",
+    "overview": "Romantic outings gone dangerously awry are detailed.",
+    "popularity": 1.459,
+    "poster_path": "/eaEyg2UhDdFiUGTkOIayjz5iRWy.jpg",
+    "production_companies": [
+        {
+            "id": 23619,
+            "logo_path": "/gfXV9y8mo6XEM1NXHwwRC1dXhbo.png",
+            "name": "Sharp Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-07-11",
+            "episode_count": 1,
+            "id": 73163,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "568680ccc3a368227b014995",
+            "air_date": "2012-07-11",
+            "episodes": [
+                {
+                    "air_date": "2012-07-11",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1151813,
+                    "name": "Tourist Terror",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 64868,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 73163,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

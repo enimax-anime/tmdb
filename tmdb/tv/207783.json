@@ -1,0 +1,230 @@
+{
+    "adult": false,
+    "backdrop_path": "/bxN2a21PVhLieDeqgaH0oAbkAVW.jpg",
+    "created_by": [
+        {
+            "id": 2893175,
+            "credit_id": "63928eb2cee2f600e27bda21",
+            "name": "Tina Rygh",
+            "original_name": "Tina Rygh",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "2022-08-21",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://viaplay.no/serier/nede",
+    "id": 207783,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2022-08-21",
+    "last_episode_to_air": {
+        "id": 3906601,
+        "name": "Tramp Stamp",
+        "overview": "Mom wants a party, so she gathers everyone for a party.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2022-08-21",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 33,
+        "season_number": 1,
+        "show_id": 207783,
+        "still_path": "/mlWXAPc2BzLulrSBu3IHS5rm6rs.jpg"
+    },
+    "name": "Below",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2406,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Nede",
+    "overview": "A young woman whose life is turned upside down by a traffic accident that kills her best friend and leaves her paralyzed from the waist down.",
+    "popularity": 8.438,
+    "poster_path": "/9vIwJ3miXHqIOSm2lpMKaC7ifnj.jpg",
+    "production_companies": [
+        {
+            "id": 81482,
+            "logo_path": null,
+            "name": "Monster Scripted",
+            "origin_country": "NO"
+        },
+        {
+            "id": 178553,
+            "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+            "name": "Viaplay Group",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-21",
+            "episode_count": 6,
+            "id": 304016,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.1,
+    "vote_count": 10,
+    "season_data": {
+        "1": {
+            "_id": "62f283cf813cb6007b349dd9",
+            "air_date": "2022-08-21",
+            "episodes": [
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3882305,
+                    "name": "Completely Torn",
+                    "overview": "Fanny moves in with Fam and gets an unwanted visit from Kurt’s widow.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/fdiljscwt8FVzd7WcdEGQ8INBga.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3906597,
+                    "name": "Toot Beirut",
+                    "overview": "Fanny and Jill meet with the driver of the car that hit them.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/oKRSScD3g4sMEgq2UFx99IPb1xs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3906598,
+                    "name": "Have a Nice Day",
+                    "overview": "It’s Fanny and Fam’s birthday, but they have different plans.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/oo6Mi1JkdfRpt5NAMfbBfn78zRx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3906599,
+                    "name": "Problems",
+                    "overview": "Fanny tries grief yoga with Jill.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/993TCW4QyN7mx60tAk5B3UUa5L5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3906600,
+                    "name": "Badger",
+                    "overview": "Fanny and Jill hit the town after a traumatic baby shower.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/fL0XMDylgo5yeEIbUeze4YtSV4v.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3906601,
+                    "name": "Tramp Stamp",
+                    "overview": "Mom wants a party, so she gathers everyone for a party.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/mlWXAPc2BzLulrSBu3IHS5rm6rs.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 304016,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

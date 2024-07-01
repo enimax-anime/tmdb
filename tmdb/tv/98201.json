@@ -1,0 +1,984 @@
+{
+    "adult": false,
+    "backdrop_path": "/k4bE2C5qvnqafgi2cNx6yAoNtff.jpg",
+    "created_by": [
+        {
+            "id": 930426,
+            "credit_id": "5e252e97a894d600153b29ed",
+            "name": "Bert V. Royal",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2021-04-20",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.freeform.com/shows/cruel-summer",
+    "id": 98201,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-07-31",
+    "last_episode_to_air": {
+        "id": 4460856,
+        "name": "Endgame",
+        "overview": "As timelines collide, friendships implode, new evidence emerges, and the shocking truth is revealed...in more ways than one.",
+        "vote_average": 8,
+        "vote_count": 3,
+        "air_date": "2023-07-31",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 2,
+        "show_id": 98201,
+        "still_path": "/nA0Ftm4O8qgwumd1wamxcbadgdo.jpg"
+    },
+    "name": "Cruel Summer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1267,
+            "logo_path": "/jk2Z7WH6JnHSZrxouYh4sireM3a.png",
+            "name": "Freeform",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cruel Summer",
+    "overview": "Taking place over three summers - 1993, 1994, 1995 - in a small Texas town, a beautiful popular teen, Kate, is abducted and, seemingly unrelated, a girl, Jeanette, goes from being a sweet, awkward outlier to the most popular girl in town and, by ’95, the most despised person in America.",
+    "popularity": 33.244,
+    "poster_path": "/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
+    "production_companies": [
+        {
+            "id": 8147,
+            "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+            "name": "Entertainment One",
+            "origin_country": "CA"
+        },
+        {
+            "id": 12687,
+            "logo_path": null,
+            "name": "Iron Ocean Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 51848,
+            "logo_path": "/jmrRZgqHnYmJC4uePQI2sLijpSk.png",
+            "name": "Entertainment One Television",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-20",
+            "episode_count": 10,
+            "id": 179987,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg",
+            "season_number": 1,
+            "vote_average": 7.8
+        },
+        {
+            "air_date": "2023-06-05",
+            "episode_count": 10,
+            "id": 326751,
+            "name": "Season 2",
+            "overview": "Set in an idyllic waterfront town in the Pacific Northwest, season 2 follows the rise and fall of an intense teenage friendship. Approaching the story from three different timelines surrounding Y2K, the season twists and turns as it tracks the early friendship between Megan, Isabella and Megan’s best friend Luke, the love triangle that blossomed, and the mystery that would impact all of their lives going forward.",
+            "poster_path": "/wPLjpLFumH7TBGQv49wpVOYcJWA.jpg",
+            "season_number": 2,
+            "vote_average": 7.6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "The truth is how you see it.",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 295,
+    "season_data": {
+        "1": {
+            "_id": "601cb7e2e38bd8003e49a940",
+            "air_date": "2021-04-20",
+            "episodes": [
+                {
+                    "air_date": "2021-04-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2804601,
+                    "name": "Happy Birthday, Jeanette Turner",
+                    "overview": "Taking place over 3 summers in the 90s when a popular teen goes missing, and a seemingly unrelated girl transforms from a sweet and awkward outlier to the most popular girl in town, eventually becoming the most despised person in America.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/skO3eP0JFqVrMzcuVvJ245FVbT2.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1cfe61ac2920076ad03b8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 930426,
+                            "known_for_department": "Writing",
+                            "name": "Bert V. Royal",
+                            "original_name": "Bert V. Royal",
+                            "popularity": 1.296,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1cff1839018002a1c2ebb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 213614,
+                            "known_for_department": "Directing",
+                            "name": "Max Winkler",
+                            "original_name": "Max Winkler",
+                            "popularity": 5.668,
+                            "profile_path": "/m2muv3nWCJEGTFLGSiQKF22vG6a.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        },
+                        {
+                            "character": "Ben Hallowell",
+                            "credit_id": "647592f296386400fbb20c74",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2478817,
+                            "known_for_department": "Acting",
+                            "name": "Nathaniel Ashton",
+                            "original_name": "Nathaniel Ashton",
+                            "popularity": 0.6,
+                            "profile_path": "/k4rdH8LQ5OzmaEyoNucWoG4r5Dz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2804602,
+                    "name": "A Smashing Good Time",
+                    "overview": "It’s time for the annual Skylin Garden Club Party! Year after year after year, the residents of Skylin struggle with the truth around what happened to Kate, keeping their secrets buried and maintaining appearances.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/gtJQC0tbHiA26UK2r5k56rri0b3.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1cfe61ac2920076ad03b8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 930426,
+                            "known_for_department": "Writing",
+                            "name": "Bert V. Royal",
+                            "original_name": "Bert V. Royal",
+                            "popularity": 1.296,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0032c6b7b00794536bc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1402354,
+                            "known_for_department": "Directing",
+                            "name": "Bill Purple",
+                            "original_name": "Bill Purple",
+                            "popularity": 1.052,
+                            "profile_path": "/qGtPyExoIsLBbXIVVZqiauGKfsx.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        },
+                        {
+                            "character": "Mall Goer / Coffee Shop Patron",
+                            "credit_id": "61958bb9a6e2d200610409da",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3313038,
+                            "known_for_department": "Acting",
+                            "name": "Jason Allen Wear",
+                            "original_name": "Jason Allen Wear",
+                            "popularity": 1.052,
+                            "profile_path": "/xta4QrxfKt2yV9biqaG6CAhB0SO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2804622,
+                    "name": "Off with a Bang",
+                    "overview": "Victim or villain? Jeanette continues to add fuel to the fire as her reckless behavior causes her friends and family to question her even more.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/p0B4ny3Hx3oIkvm95x3Kohsxysm.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1cfe61ac2920076ad03b8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 930426,
+                            "known_for_department": "Writing",
+                            "name": "Bert V. Royal",
+                            "original_name": "Bert V. Royal",
+                            "popularity": 1.296,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0158eda87006d74d64b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1341721,
+                            "known_for_department": "Directing",
+                            "name": "Kellie Cyrus",
+                            "original_name": "Kellie Cyrus",
+                            "popularity": 0.761,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2902863,
+                    "name": "You Don't Hunt, You Don't Eat",
+                    "overview": "Kate, reeling from the lawsuit, prepares her defense and finds friendship in an unlikely source. The annual Wallis hunting trip becomes the setting for an important first meeting.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/sbFFpH0o6rfJd31ObnizHSiuyJZ.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d028963864006f96ab9b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1851626,
+                            "known_for_department": "Writing",
+                            "name": "Imogen Binnie",
+                            "original_name": "Imogen Binnie",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0382c6b7b002a427a6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1788073,
+                            "known_for_department": "Directing",
+                            "name": "Laura Nisbet Peters",
+                            "original_name": "Laura Nisbet Peters",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2906435,
+                    "name": "As the Carny Gods Intended",
+                    "overview": "Jeannette and Kate cross paths at the Skylin High takeover of the County Fair, where one is desperate to prove herself and the other to lose herself.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/16RfELpUHknZcwhbTf06UrpdN4z.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d0589638640040888ea1",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1379191,
+                            "known_for_department": "Writing",
+                            "name": "Tia Napolitano",
+                            "original_name": "Tia Napolitano",
+                            "popularity": 0.952,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0645ab81a003f8bcafc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2174115,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Willis",
+                            "original_name": "Daniel Willis",
+                            "popularity": 1.571,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-18",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2906437,
+                    "name": "An Ocean in Me",
+                    "overview": "A new deposition threatens Jeanette’s case. A discovery causes Cindy’s suspicions about her own daughter to reach new heights as her relationship with Greg becomes further strained.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/AsO7ZkosQ2z6SyBrDNt5NhI0g4A.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0158eda87006d74d64b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1341721,
+                            "known_for_department": "Directing",
+                            "name": "Kellie Cyrus",
+                            "original_name": "Kellie Cyrus",
+                            "popularity": 0.761,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d07b9638640029b410df",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3120268,
+                            "known_for_department": "Writing",
+                            "name": "Brian Otaño",
+                            "original_name": "Brian Otaño",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2906438,
+                    "name": "Happy Birthday, Kate Wallis",
+                    "overview": "Kate struggles with a family secret she’s been holding on to. Joy tries to convince Kate to go on “The Marsha Bailey Show.” Mallory has a birthday surprise.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/6QTXtLDA2yaZ1Z544x9lj2x399C.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d0b5960cde002986be61",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3120271,
+                            "known_for_department": "Writing",
+                            "name": "Savannah Ward",
+                            "original_name": "Savannah Ward",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0c31c6aa7007ac3c07f",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2082195,
+                            "known_for_department": "Directing",
+                            "name": "Alexis Ostrander",
+                            "original_name": "Alexis Ostrander",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Derek Turner",
+                            "credit_id": "614fe255bbcae0004224eaba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1267369,
+                            "known_for_department": "Acting",
+                            "name": "Barrett Carnahan",
+                            "original_name": "Barrett Carnahan",
+                            "popularity": 8.943,
+                            "profile_path": "/weSB0L6oVHWhVkNjUTZnmt6wpvX.jpg"
+                        },
+                        {
+                            "character": "Mall Goer",
+                            "credit_id": "61958bd441aac4008d95a1ff",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3313038,
+                            "known_for_department": "Acting",
+                            "name": "Jason Allen Wear",
+                            "original_name": "Jason Allen Wear",
+                            "popularity": 1.052,
+                            "profile_path": "/xta4QrxfKt2yV9biqaG6CAhB0SO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-06-01",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2963495,
+                    "name": "Proof",
+                    "overview": "On the first day of school, everyone learns that the drama of the summer is anything but over and that some people will pay more for the consequences of Jeanette and Kate's deception than others.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/9U7pKChQv8vsbpjnmtnXJ2t8Y9o.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0645ab81a003f8bcafc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2174115,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Willis",
+                            "original_name": "Daniel Willis",
+                            "popularity": 1.571,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d0da8eda87003f988802",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1470338,
+                            "known_for_department": "Production",
+                            "name": "Addison McQuigg",
+                            "original_name": "Addison McQuigg",
+                            "popularity": 0.612,
+                            "profile_path": "/vfumnxNKVu9KsSZ0hzaXVaKIlBM.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Coffee Shop Patron",
+                            "credit_id": "61958be7fc5f06006ac29d80",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3313038,
+                            "known_for_department": "Acting",
+                            "name": "Jason Allen Wear",
+                            "original_name": "Jason Allen Wear",
+                            "popularity": 1.052,
+                            "profile_path": "/xta4QrxfKt2yV9biqaG6CAhB0SO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-06-08",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2963496,
+                    "name": "A Secret of My Own",
+                    "overview": "Kate's closely held secrets and fragmented memories of her time in Martin's captivity are brought to the surface.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/cMOsQGJzPQOViZf8eZ9oGMHF14x.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0c31c6aa7007ac3c07f",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2082195,
+                            "known_for_department": "Directing",
+                            "name": "Alexis Ostrander",
+                            "original_name": "Alexis Ostrander",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d0fcc51acd0059cac22a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3120273,
+                            "known_for_department": "Writing",
+                            "name": "Matt Antonelli",
+                            "original_name": "Matt Antonelli",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-15",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2963497,
+                    "name": "Hostile Witness",
+                    "overview": "Kate and Jeanette's worlds collide as the court date arrives, finally forcing the two young women to answer the question on everyone's mind, but the answer comes with a price that not everyone can pay.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98201,
+                    "still_path": "/nyk6OHTLN7iQ6JfObfQJGRaBPy0.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1cfe61ac2920076ad03b8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 930426,
+                            "known_for_department": "Writing",
+                            "name": "Bert V. Royal",
+                            "original_name": "Bert V. Royal",
+                            "popularity": 1.296,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0032c6b7b00794536bc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1402354,
+                            "known_for_department": "Directing",
+                            "name": "Bill Purple",
+                            "original_name": "Bill Purple",
+                            "popularity": 1.052,
+                            "profile_path": "/qGtPyExoIsLBbXIVVZqiauGKfsx.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 179987,
+            "poster_path": "/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg",
+            "season_number": 1,
+            "vote_average": 7.8
+        },
+        "2": {
+            "_id": "63d7c188c15b5500a052bb25",
+            "air_date": "2023-06-05",
+            "episodes": [
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4370846,
+                    "name": "Welcome to Chatham",
+                    "overview": "In Summer 1999, small-town computer genius Megan resents the arrival of outgoing and mysterious foreign exchange student Isabella. Little does she know how her life will change by Summer 2000.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/rPJdv82ctGwAsOr3zbEBEHBDyED.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60c1d0032c6b7b00794536bc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1402354,
+                            "known_for_department": "Directing",
+                            "name": "Bill Purple",
+                            "original_name": "Bill Purple",
+                            "popularity": 0.841,
+                            "profile_path": "/qGtPyExoIsLBbXIVVZqiauGKfsx.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60c1d0589638640040888ea1",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1379191,
+                            "known_for_department": "Writing",
+                            "name": "Tia Napolitano",
+                            "original_name": "Tia Napolitano",
+                            "popularity": 1.586,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64ae0cef8a0e9b0100c4db8d",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1254645,
+                            "known_for_department": "Writing",
+                            "name": "Elle Triedman",
+                            "original_name": "Elle Triedman",
+                            "popularity": 1.67,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4370847,
+                    "name": "Ride or Die",
+                    "overview": "In Summer 1999, Isabella grows closer to Luke while struggling to connect with Megan. In Winter 1999, Isabella searches for justice following the disastrous Christmas party.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/v6D1s4qMjiVseHFIlotpmLf26o5.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64839695e375c000ff47e65d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2253178,
+                            "known_for_department": "Writing",
+                            "name": "Matt Morgan",
+                            "original_name": "Matt Morgan",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4370848,
+                    "name": "Bloody Knuckles",
+                    "overview": "In Summer 1999, Megan and Isabella bond during an overnight at the Chambers’ cabin. Luke tries to stand up to Brent, but ends up causing more problems for his dad. Suspicions are raised after fingerprints are found on the gun that shot Luke.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/dJ6FL6wqoWs7NoJYbOGlF44nNmZ.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4391986,
+                    "name": "Springing a Leak",
+                    "overview": "In Summer 1999, Megan wants to be adventurous and makes fake IDs for the gang. In Winter 1999, a burst pipe leads the Landrys and Isabella to a messy night at the Chambers house. Isabella wants to help but is met with resistance from Megan.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/dg2aU8MIs2s1Z2RCXH9mXPDnHgK.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4404689,
+                    "name": "All I Want for Christmas",
+                    "overview": "In Summer 1999, Isabella is rocked by a surprise visit from her past. In Winter 1999, Isabella’s concerns for Megan lead her to some surprising news. In Summer 2000, family loyalties are tested.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/iNRTXi9z1dyxAaHfRHxhtsF2nuy.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4460852,
+                    "name": "The Plunge",
+                    "overview": "In summer 1999, sparks fly at Luke's birthday party. In winter 1999, relationships are tested as Megan becomes more distant from Luke. In summer 2000, Megan obsesses over an interesting letter she received.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/qCC2hlIJs0yUK1kRTtBcLjndKMA.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4460853,
+                    "name": "It's the End of the World",
+                    "overview": "In winter 1999, tensions are high on Y2K. At the New Year's Eve party, a not-so-secret conversation changes the lives of the trio forever. In summer 2000, suspicion falls on Ned after some new evidence from summer 1999 comes to light.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/jJjWQw7O9yDGe7iMkAaxvCWpvv4.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4460854,
+                    "name": "Confess Your Sins",
+                    "overview": "In summer 1999, new friendships are formed and secrets are kept as the crew approaches senior year at the annual school car wash. In winter 1999, Megan and Isabella push for answers. In summer 2000, Debbie wants to protect her daughter.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/qKkPRn9dUl1WF3tPTtpmr6LrfNV.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64be659bb865eb00ada151ce",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4177644,
+                            "known_for_department": "Writing",
+                            "name": "Diana Glogau",
+                            "original_name": "Diana Glogau",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-24",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4460855,
+                    "name": "The Miseducation of Luke Chambers",
+                    "overview": "Luke examines all his relationships and worries that the pressures of being a “Chambers man” have changed him.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/kIjcL9jTL4cT4CgUwPw1l2WpMg9.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-31",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4460856,
+                    "name": "Endgame",
+                    "overview": "As timelines collide, friendships implode, new evidence emerges, and the shocking truth is revealed...in more ways than one.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 98201,
+                    "still_path": "/nA0Ftm4O8qgwumd1wamxcbadgdo.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "Set in an idyllic waterfront town in the Pacific Northwest, season 2 follows the rise and fall of an intense teenage friendship. Approaching the story from three different timelines surrounding Y2K, the season twists and turns as it tracks the early friendship between Megan, Isabella and Megan’s best friend Luke, the love triangle that blossomed, and the mystery that would impact all of their lives going forward.",
+            "id": 326751,
+            "poster_path": "/wPLjpLFumH7TBGQv49wpVOYcJWA.jpg",
+            "season_number": 2,
+            "vote_average": 7.6
+        }
+    }
+}

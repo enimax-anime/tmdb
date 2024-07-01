@@ -1,0 +1,199 @@
+{
+    "adult": false,
+    "backdrop_path": "/aCw3j15TF7nrqeEYcyA35YmXspJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-11-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.discoveryuk.com/series/lost-secrets/",
+    "id": 100205,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-12-15",
+    "last_episode_to_air": {
+        "id": 2184258,
+        "name": "Civil War Spies",
+        "overview": "A mysterious invoice reveals an unlikely network of Civil War spies.",
+        "vote_average": 5,
+        "vote_count": 1,
+        "air_date": "2019-12-15",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 100205,
+        "still_path": "/8Twbt9WfrvW4rahWrU2CRPkRaWJ.jpg"
+    },
+    "name": "Lost Secrets",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 209,
+            "logo_path": "/8SwN81R7P5vD5mhtOE0taw5mji4.png",
+            "name": "Travel Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lost Secrets",
+    "overview": "Historian Justin Jampol unlocks the secrets of the past through recently unearthed artifacts. Using scientific testing and detective work, his investigations reveal new details about the most significant moments in history.",
+    "popularity": 1.473,
+    "poster_path": "/4kokOE8lim11XKt368X97Z8zwiI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-11-10",
+            "episode_count": 6,
+            "id": 144785,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4wI2CKfJbgH0YtxJw6LSJQYH6q.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5e657bb4d35dea001301029a",
+            "air_date": "2019-11-10",
+            "episodes": [
+                {
+                    "air_date": "2019-11-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2184253,
+                    "name": "Nazi Dark Magic",
+                    "overview": "A series of astrological wheels commissioned by Heinrich Himmler takes Justin to Germany to investigate the Nazi party’s supernatural obsession.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/kNHdJBPehSC0uLHkYTn4JwE54HN.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2184254,
+                    "name": "American Viking Queen",
+                    "overview": "Justin investigates if Norse women led the Viking expedition to America.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/juDJbjVdCbltF83YRyFAYE9nVj.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2184255,
+                    "name": "Doomsday Showdown",
+                    "overview": "A rare war medal leads Justin to question just how close we came to WWIII.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/kcyTVaAMgKqTbnGVYvjDoRij8nw.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2184256,
+                    "name": "Space Race Mysteries",
+                    "overview": "Justin uncovers a web of mysteries about America's role in the Space Race.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/cHl7JXAz2Cq4bFOcsBpEXE0npdv.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2184257,
+                    "name": "The Lewis And Clark Conspiracy",
+                    "overview": "Justin investigates the truth behind the death of Meriwether Lewis.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/ndSTr9zaHHZX9fNDAk97TE7bmr3.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-15",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2184258,
+                    "name": "Civil War Spies",
+                    "overview": "A mysterious invoice reveals an unlikely network of Civil War spies.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 100205,
+                    "still_path": "/8Twbt9WfrvW4rahWrU2CRPkRaWJ.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 144785,
+            "poster_path": "/4wI2CKfJbgH0YtxJw6LSJQYH6q.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    }
+}

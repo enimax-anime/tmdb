@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": "/vqmzj8pvoFj9iUqOXkeK02s7iSZ.jpg",
+    "created_by": [
+        {
+            "id": 2420961,
+            "credit_id": "640fbeffb4224200f790a2a7",
+            "name": "Aron Levander",
+            "original_name": "Aron Levander",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2023-03-10",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 222222,
+    "in_production": true,
+    "languages": [
+        "sv"
+    ],
+    "last_air_date": "2023-04-07",
+    "last_episode_to_air": {
+        "id": 4298870,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-04-07",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 222222,
+        "still_path": "/dnr0OkiSDfhjocCWR4ANeM1FnIi.jpg"
+    },
+    "name": "The Detective from Beledweyne",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5570,
+            "logo_path": "/ojnkOr1f0LfdLj04Qjybir2N3kT.png",
+            "name": "SVT",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Detektiven från Beledweyne",
+    "overview": "",
+    "popularity": 6.497,
+    "poster_path": "/2oupm8iKbiF2qr24WAtWGmtNJlQ.jpg",
+    "production_companies": [
+        {
+            "id": 39407,
+            "logo_path": "/1ht2ayBUdGgKuLRCkTjyGVEY5VL.png",
+            "name": "B-Reel Films",
+            "origin_country": "SE"
+        },
+        {
+            "id": 2999,
+            "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+            "name": "SVT",
+            "origin_country": "SE"
+        },
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i Väst",
+            "origin_country": "SE"
+        },
+        {
+            "id": 4606,
+            "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+            "name": "ZDF",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-10",
+            "episode_count": 6,
+            "id": 332458,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2rbWEcSsAoM2huyzYGZ62LLAZUU.jpg",
+            "season_number": 1,
+            "vote_average": 2.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "640fbdf92a09bc00c52e624f",
+            "air_date": "2023-03-10",
+            "episodes": [
+                {
+                    "air_date": "2023-03-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4296040,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/msdQOwwMICpZcJbO3oeX5NzOX6V.jpg",
+                    "vote_average": 3,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4296041,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/gqrPRZGYmPx80XnR6vvznwrFcFu.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4296043,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/1edLp4vxmKUHDXFXF1jZEjX0B9C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4298868,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/8KOzlo5DqQuNJSskFCVOtKjHNlT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4298869,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/a8ohJMyAk7zzja0CuTmFQyhy7JR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4298870,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 222222,
+                    "still_path": "/dnr0OkiSDfhjocCWR4ANeM1FnIi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 332458,
+            "poster_path": "/2rbWEcSsAoM2huyzYGZ62LLAZUU.jpg",
+            "season_number": 1,
+            "vote_average": 2.5
+        }
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 11669,
+            "credit_id": "5694a9a69251414b720015db",
+            "name": "Jimmy Fallon",
+            "gender": 2,
+            "profile_path": "/fHrPNc8fCbnd1vALo0S38E2E51N.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2016-01-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.channel5.com/shows/lip-sync-battle-uk",
+    "id": 65250,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-05-18",
+    "last_episode_to_air": {
+        "id": 1490749,
+        "name": "Matt Richardson vs Daisy Lowe",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-05-18",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 3,
+        "show_id": 65250,
+        "still_path": null
+    },
+    "name": "Lip Sync Battle UK",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 99,
+            "logo_path": "/bMuKs6xuhI0GHSsq4WWd9FsntUN.png",
+            "name": "Channel 5",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Lip Sync Battle UK",
+    "overview": "Join Mel B and Professor Green for some knock-out performances as celebrities face off with mic off.",
+    "popularity": 15.541,
+    "poster_path": "/tlpqBK1IpvQ4txYY6BKzEsTpEcG.jpg",
+    "production_companies": [
+        {
+            "id": 24357,
+            "logo_path": null,
+            "name": "Whizz Kid Entertainment",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-01-08",
+            "episode_count": 6,
+            "id": 73792,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-01-06",
+            "episode_count": 4,
+            "id": 83515,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2018-03-16",
+            "episode_count": 4,
+            "id": 100746,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 3,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "5694a867c3a3680e9d0013fd",
+            "air_date": "2016-01-08",
+            "episodes": [
+                {
+                    "air_date": "2016-01-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1156735,
+                    "name": "Walliams v Dixon",
+                    "overview": "Alesha Dixon and David Walliams battle it out for the title of Lip Sync Champion.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-01-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1156736,
+                    "name": "Manford v Keegan",
+                    "overview": "Jason Manford and Michelle Keegan battle it out for the title of Lip Sync Champion.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-01-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1160448,
+                    "name": "Hound v Porter",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-01-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1161875,
+                    "name": "Katherine Ryan v Kayvan Novack",
+                    "overview": "Katherine Ryan and Kayvan Novack battle it out.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-02-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1163730,
+                    "name": "Vorderman v Kemp",
+                    "overview": "Presenter Carol Vorderman takes on actor and musician Martin Kemp.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-02-12",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1165482,
+                    "name": "Reeves v Vegas",
+                    "overview": "Vic Reeves Vs Johnny Vegas",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 73792,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "586f6322c3a3686dc40018e9",
+            "air_date": "2017-01-06",
+            "episodes": [
+                {
+                    "air_date": "2017-01-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1253470,
+                    "name": "Dyer v Revel-Horwood",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 65250,
+                    "still_path": "/w7p7FgJ13HYR49ByHE4cJrEGfw6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-01-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1256162,
+                    "name": "Alexander Armstrong vs Jimmy Carr",
+                    "overview": "Melanie Brown and Professor Green present the musical game show as comedy actor and presenter Alexander Armstrong and comedy compere Jimmy Carr go head to head lip-synching to hit songs. Their first choice of song is performed in civvies, but for their second the celebs must bring it all to the floor - with wigs, costumes and backing dancers.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 65250,
+                    "still_path": "/hmVD9XNaNbvgSb5GZD2WVuF7TIp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-01-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1259324,
+                    "name": "Price v Fogle",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 65250,
+                    "still_path": "/gLpW8CNcH4lNlZYeYGZ5hGJOslw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-01-27",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1261439,
+                    "name": "Peter Andre v Gino D'Acampo",
+                    "overview": "Singer Peter Andre battles it out against celebrity chef Gino D'Acampo.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 65250,
+                    "still_path": "/t8PULzWe6YTxRIn1rTOXiODqtpW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 83515,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "5aa560a20e0a26075d0279aa",
+            "air_date": "2018-03-16",
+            "episodes": [
+                {
+                    "air_date": "2018-03-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1451932,
+                    "name": "Robert Webb v Sally Philips",
+                    "overview": "A lip syncing contest between two of the UK's top comic actors. Sally Phillips is best known from `Miranda' and `Veep', while Robert Webb has been a comedy writer and performer since the 90s, including for `Peepshow'.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 3,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1451933,
+                    "name": "Aston Merrygold v Chris Ramsey",
+                    "overview": "Comedian and actor Chris Ramsey faces off against JLS singer Aston Merrygold.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 3,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1490748,
+                    "name": "Joey Essex vs Louie Spence",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 3,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-05-18",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1490749,
+                    "name": "Matt Richardson vs Daisy Lowe",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 3,
+                    "show_id": 65250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 100746,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,934 @@
+{
+    "adult": false,
+    "backdrop_path": "/7WBLQ0rR99itvxOhttqVK36nOJY.jpg",
+    "created_by": [
+        {
+            "id": 138699,
+            "credit_id": "60e4245adb154f005e4c7169",
+            "name": "Patxi Amezcua",
+            "original_name": "Patxi Amezcua",
+            "gender": 2,
+            "profile_path": "/ee60Ficc82GTFTeBn0BRqbleuET.jpg"
+        },
+        {
+            "id": 1946650,
+            "credit_id": "60e424526ee3d70075414b09",
+            "name": "Natxo López",
+            "original_name": "Natxo López",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-02-25",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 128676,
+    "in_production": true,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es"
+    ],
+    "last_air_date": "2024-02-09",
+    "last_episode_to_air": {
+        "id": 5132091,
+        "name": "Episode 5",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-02-09",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 53,
+        "season_number": 3,
+        "show_id": 128676,
+        "still_path": "/2qoMxTpwWKPqJohadXFKQJGkjGt.jpg"
+    },
+    "name": "Silent Cargo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 554,
+            "logo_path": "/iJBaPuHCVjROCUXZzGuon3oDqMC.png",
+            "name": "RTP1",
+            "origin_country": "PT"
+        },
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        },
+        {
+            "id": 5975,
+            "logo_path": null,
+            "name": "Ficción Producciones",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "ES",
+        "PT"
+    ],
+    "original_language": "es",
+    "original_name": "Operación Marea Negra",
+    "overview": "November 2019. A semi-submersible loaded with three tons of cocaine is seized off the Galician coast after having crossed the Atlantic. The captain, Nando, a promising young amateur boxer, travels accompanied by a Brazilian mechanic and a Colombian hitman. Three strangers locked up for almost a month in a claustrophobic handmade boat.",
+    "popularity": 25.871,
+    "poster_path": "/euP8KQvgfWtpMdsjV2ixdod1pIA.jpg",
+    "production_companies": [
+        {
+            "id": 28802,
+            "logo_path": null,
+            "name": "Ficción Producciones",
+            "origin_country": ""
+        },
+        {
+            "id": 10050,
+            "logo_path": "/SowPJ8W5Gy6OgyAFyWnv4KjcPo.png",
+            "name": "TVG",
+            "origin_country": "ES"
+        },
+        {
+            "id": 8492,
+            "logo_path": "/wYhNCpXIThYDXevad6n90vsMXZ2.png",
+            "name": "RTP",
+            "origin_country": "PT"
+        },
+        {
+            "id": 8680,
+            "logo_path": "/lTvO3MFX5eogjWEpWmLUipxeKVi.png",
+            "name": "Ukbar Filmes",
+            "origin_country": "PT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-02-25",
+            "episode_count": 4,
+            "id": 201331,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7pPoTKD42pwBcqQYIBSR1HWadvx.jpg",
+            "season_number": 1,
+            "vote_average": 4.9
+        },
+        {
+            "air_date": "2023-02-10",
+            "episode_count": 5,
+            "id": 296134,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/xbBe9DMEjSSN8pXAtzcpdyqIUQN.jpg",
+            "season_number": 2,
+            "vote_average": 6.5
+        },
+        {
+            "air_date": "2024-02-09",
+            "episode_count": 5,
+            "id": 364348,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/9ElfVoAsUMdp3fHHTbsEb9psIP1.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.813,
+    "vote_count": 16,
+    "season_data": {
+        "1": {
+            "_id": "60e4242427ff990074de0923",
+            "air_date": "2022-02-25",
+            "episodes": [
+                {
+                    "air_date": "2022-02-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3480488,
+                    "name": "Episode 1",
+                    "overview": "Nando is a young Galician with a simple life. His perseverance leads him to win the amateur boxing contest but his ambition does not stop there, the reunion with his childhood friends leads him to make a series of bad decisions that will change his future forever.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 128676,
+                    "still_path": "/tgo5EblIZWSbm4ZgJbM1YcNKAxd.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64468638a06efe4038a4fa2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 212687,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Calparsoro",
+                            "original_name": "Daniel Calparsoro",
+                            "popularity": 7.4,
+                            "profile_path": "/m0mDreWr2QmrOCBI4JhSNh82gUO.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64468646c8f3c402fb451be2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1946650,
+                            "known_for_department": "Writing",
+                            "name": "Natxo López",
+                            "original_name": "Natxo López",
+                            "popularity": 0.855,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65a3a97a7d5f4b00c5b7e3ea",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939474,
+                            "known_for_department": "Editing",
+                            "name": "Antonio Frutos",
+                            "original_name": "Antonio Frutos",
+                            "popularity": 4.117,
+                            "profile_path": "/dP1T9YSSVVJhYM9tPUjX3aA65EA.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3480781,
+                    "name": "Episode 2",
+                    "overview": "Nando and Sergio arrive in Brazil, look at the boat in which they will do their new job and realize that luck is not on their side. The pursuit of Carmo and Ortiz continues.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 128676,
+                    "still_path": "/jRDP3E2ZGmmTDpfmT8WSf0VaYYA.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6446865605822458693279e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 148763,
+                            "known_for_department": "Directing",
+                            "name": "Oskar Santos",
+                            "original_name": "Oskar Santos",
+                            "popularity": 3.03,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446865e7648410840bfe1e4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 138699,
+                            "known_for_department": "Writing",
+                            "name": "Patxi Amezcua",
+                            "original_name": "Patxi Amezcua",
+                            "popularity": 5.641,
+                            "profile_path": "/ee60Ficc82GTFTeBn0BRqbleuET.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3480782,
+                    "name": "Episode 3",
+                    "overview": "The adventures begin inside the semi-submersible. The crew members of the artifact encounter breakdowns, hunger, storms, etc. A news from Colombia will make everything more difficult for the protagonists. Carmo and Ortiz are getting closer to capturing them.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 128676,
+                    "still_path": "/2saNdxKBwUZfDYfLFotK3ZuckrT.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64468638a06efe4038a4fa2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 212687,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Calparsoro",
+                            "original_name": "Daniel Calparsoro",
+                            "popularity": 7.4,
+                            "profile_path": "/m0mDreWr2QmrOCBI4JhSNh82gUO.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446865e7648410840bfe1e4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 138699,
+                            "known_for_department": "Writing",
+                            "name": "Patxi Amezcua",
+                            "original_name": "Patxi Amezcua",
+                            "popularity": 5.641,
+                            "profile_path": "/ee60Ficc82GTFTeBn0BRqbleuET.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65a3a97a7d5f4b00c5b7e3ea",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939474,
+                            "known_for_department": "Editing",
+                            "name": "Antonio Frutos",
+                            "original_name": "Antonio Frutos",
+                            "popularity": 4.117,
+                            "profile_path": "/dP1T9YSSVVJhYM9tPUjX3aA65EA.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-25",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3480783,
+                    "name": "Episode 4",
+                    "overview": "The protagonists arrive in Galicia, the tension increases while the protagonists try to sink the semi-submersible to flee from the police.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 128676,
+                    "still_path": "/A67HlTGWBTPkj8AgCnrkL79NmSL.jpg",
+                    "vote_average": 3.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64468646c8f3c402fb451be2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1946650,
+                            "known_for_department": "Writing",
+                            "name": "Natxo López",
+                            "original_name": "Natxo López",
+                            "popularity": 0.855,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6446865605822458693279e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 148763,
+                            "known_for_department": "Directing",
+                            "name": "Oskar Santos",
+                            "original_name": "Oskar Santos",
+                            "popularity": 3.03,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 201331,
+            "poster_path": "/7pPoTKD42pwBcqQYIBSR1HWadvx.jpg",
+            "season_number": 1,
+            "vote_average": 4.9
+        },
+        "2": {
+            "_id": "629a2b5f3faba0006641b57c",
+            "air_date": "2023-02-10",
+            "episodes": [
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3760649,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 128676,
+                    "still_path": "/90KuUkL7BxlwGMQ3SbFy2T99aGm.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64468638a06efe4038a4fa2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 212687,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Calparsoro",
+                            "original_name": "Daniel Calparsoro",
+                            "popularity": 7.4,
+                            "profile_path": "/m0mDreWr2QmrOCBI4JhSNh82gUO.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446869ab3f6f515559fbf0a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2374749,
+                            "known_for_department": "Writing",
+                            "name": "José Rodríguez",
+                            "original_name": "José Rodríguez",
+                            "popularity": 0.266,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3760650,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 128676,
+                    "still_path": "/gg95zwOC0zCdsPc7J2dfMNPElK4.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64468646c8f3c402fb451be2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1946650,
+                            "known_for_department": "Writing",
+                            "name": "Natxo López",
+                            "original_name": "Natxo López",
+                            "popularity": 0.855,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3760651,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 2,
+                    "show_id": 128676,
+                    "still_path": "/hy7kbXqPPxwS7EHltxNYn3MJYhp.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446865e7648410840bfe1e4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 138699,
+                            "known_for_department": "Writing",
+                            "name": "Patxi Amezcua",
+                            "original_name": "Patxi Amezcua",
+                            "popularity": 5.641,
+                            "profile_path": "/ee60Ficc82GTFTeBn0BRqbleuET.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3760652,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 128676,
+                    "still_path": "/hYOY6QriGXqPopeydkzNbU7pf8C.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446869ab3f6f515559fbf0a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2374749,
+                            "known_for_department": "Writing",
+                            "name": "José Rodríguez",
+                            "original_name": "José Rodríguez",
+                            "popularity": 0.266,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3760653,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 128676,
+                    "still_path": "/bnji0n8eUNhfMaf5E06cxsAeZJO.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6446869ab3f6f515559fbf0a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2374749,
+                            "known_for_department": "Writing",
+                            "name": "José Rodríguez",
+                            "original_name": "José Rodríguez",
+                            "popularity": 0.266,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 296134,
+            "poster_path": "/xbBe9DMEjSSN8pXAtzcpdyqIUQN.jpg",
+            "season_number": 2,
+            "vote_average": 6.5
+        },
+        "3": {
+            "_id": "654666021ac2927b33870590",
+            "air_date": "2024-02-09",
+            "episodes": [
+                {
+                    "air_date": "2024-02-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5096622,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 128676,
+                    "still_path": "/jIAuVJwwoOfbenqgUktlIOJYazn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c60054a098016301c6cf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1417584,
+                            "known_for_department": "Writing",
+                            "name": "Asier Guerricaechevarría",
+                            "original_name": "Asier Guerricaechevarría",
+                            "popularity": 1.645,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c606680be80162a432ab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 572453,
+                            "known_for_department": "Writing",
+                            "name": "Javier Echániz",
+                            "original_name": "Javier Echániz",
+                            "popularity": 2.027,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5132087,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 128676,
+                    "still_path": "/cj9ofEGnxLCP87570HuuNOyfFGP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6446865605822458693279e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 148763,
+                            "known_for_department": "Directing",
+                            "name": "Oskar Santos",
+                            "original_name": "Oskar Santos",
+                            "popularity": 3.03,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c60054a098016301c6cf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1417584,
+                            "known_for_department": "Writing",
+                            "name": "Asier Guerricaechevarría",
+                            "original_name": "Asier Guerricaechevarría",
+                            "popularity": 1.645,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c606680be80162a432ab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 572453,
+                            "known_for_department": "Writing",
+                            "name": "Javier Echániz",
+                            "original_name": "Javier Echániz",
+                            "popularity": 2.027,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5132089,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 128676,
+                    "still_path": "/zlsyONjAuPBEgO0BCkGgESSck3p.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6446865605822458693279e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 148763,
+                            "known_for_department": "Directing",
+                            "name": "Oskar Santos",
+                            "original_name": "Oskar Santos",
+                            "popularity": 3.03,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c60054a098016301c6cf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1417584,
+                            "known_for_department": "Writing",
+                            "name": "Asier Guerricaechevarría",
+                            "original_name": "Asier Guerricaechevarría",
+                            "popularity": 1.645,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c606680be80162a432ab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 572453,
+                            "known_for_department": "Writing",
+                            "name": "Javier Echániz",
+                            "original_name": "Javier Echániz",
+                            "popularity": 2.027,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5132090,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 3,
+                    "show_id": 128676,
+                    "still_path": "/xg0l6UHWsPzklptlYlrPDb5V2Vq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c60054a098016301c6cf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1417584,
+                            "known_for_department": "Writing",
+                            "name": "Asier Guerricaechevarría",
+                            "original_name": "Asier Guerricaechevarría",
+                            "popularity": 1.645,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c606680be80162a432ab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 572453,
+                            "known_for_department": "Writing",
+                            "name": "Javier Echániz",
+                            "original_name": "Javier Echániz",
+                            "popularity": 2.027,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5132091,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 3,
+                    "show_id": 128676,
+                    "still_path": "/2qoMxTpwWKPqJohadXFKQJGkjGt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "644686a80582245923327c4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1355193,
+                            "known_for_department": "Writing",
+                            "name": "Igor Legarreta",
+                            "original_name": "Igor Legarreta",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c60054a098016301c6cf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1417584,
+                            "known_for_department": "Writing",
+                            "name": "Asier Guerricaechevarría",
+                            "original_name": "Asier Guerricaechevarría",
+                            "popularity": 1.645,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c8c606680be80162a432ab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 572453,
+                            "known_for_department": "Writing",
+                            "name": "Javier Echániz",
+                            "original_name": "Javier Echániz",
+                            "popularity": 2.027,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 364348,
+            "poster_path": "/9ElfVoAsUMdp3fHHTbsEb9psIP1.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

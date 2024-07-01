@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2003-07-16",
+    "genres": [],
+    "homepage": "",
+    "id": 204704,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2003-07-23",
+    "last_episode_to_air": {
+        "id": 4391478,
+        "name": "Augustus - The First Emperor Part 2",
+        "overview": "Augustus Caesar tells his daughter Julia how he became emperor of the Roman Empire.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2003-07-23",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 91,
+        "season_number": 1,
+        "show_id": 204704,
+        "still_path": null
+    },
+    "name": "Augustus: The First Emperor",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Augustus: The First Emperor",
+    "overview": "Caesar Augustus tells of how he became the emperor to his reluctant daughter, Julia following the death of her husband Agrippa.",
+    "popularity": 0.014,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-07-16",
+            "episode_count": 2,
+            "id": 298470,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62b51548383df200517638b2",
+            "air_date": "2003-07-16",
+            "episodes": [
+                {
+                    "air_date": "2003-07-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3801175,
+                    "name": "Augustus - The First Emperor Part 1",
+                    "overview": "Caesar Augustus tells of how he became the emperor to his reluctant daughter, Julia following the death of her husband Agrippa.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2003-07-23",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 4391478,
+                    "name": "Augustus - The First Emperor Part 2",
+                    "overview": "Augustus Caesar tells his daughter Julia how he became emperor of the Roman Empire.",
+                    "production_code": "",
+                    "runtime": 91,
+                    "season_number": 1,
+                    "show_id": 204704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 298470,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}
