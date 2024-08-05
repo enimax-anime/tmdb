@@ -1,0 +1,241 @@
+{
+    "adult": false,
+    "backdrop_path": "/miqJXBf8WUv9S9klUanjkO6BtsU.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-28",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81168725",
+    "id": 244616,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-02-28",
+    "last_episode_to_air": {
+        "id": 5104204,
+        "overview": "In his final days, Danny inches closer to answers — but his death raises more questions. Years later, Christian makes discoveries of his own.",
+        "name": "The Monster",
+        "vote_average": 6,
+        "vote_count": 1,
+        "air_date": "2024-02-28",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 67,
+        "season_number": 1,
+        "show_id": 244616,
+        "still_path": "/3AxYNojApibcmE0NF11XKjqA3oB.jpg"
+    },
+    "name": "American Conspiracy: The Octopus Murders",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Conspiracy: The Octopus Murders",
+    "overview": "An investigative journalist pursuing a political conspiracy known as the Octopus is found dead in his hotel room. Decades later, new details emerge.",
+    "popularity": 10.096,
+    "poster_path": "/lrcJuD9HPu5ZVcZaLk9cB0xufi5.jpg",
+    "production_companies": [
+        {
+            "id": 1974,
+            "logo_path": "/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png",
+            "name": "Duplass Brothers Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 159529,
+            "logo_path": null,
+            "name": "Stardust Frames",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-28",
+            "episode_count": 4,
+            "id": 375991,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 6.8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.938,
+    "vote_count": 16,
+    "season_data": {
+        "1": {
+            "_id": "65b3c8419ba86a01622ffcf3",
+            "air_date": "2024-02-28",
+            "episodes": [
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5101667,
+                    "name": "The End",
+                    "overview": "Photojournalist Christian Hansen continues the work of Danny Casolaro, a reporter who mysteriously died while investigating a major political conspiracy.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 244616,
+                    "still_path": "/7b56mOkHrbyGRgAsLctzEJvge22.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65b587c2afe22400e6388b2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 993748,
+                            "known_for_department": "Directing",
+                            "name": "Zachary Treitz",
+                            "original_name": "Zachary Treitz",
+                            "popularity": 2.116,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5104201,
+                    "name": "The Trap Door",
+                    "overview": "Through Danny's research, details surface of an alleged global government surveillance network. In 1981, a triple murder fuels suspicions.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 244616,
+                    "still_path": "/d5Pl46bInDjDyNK4uBuBRQNWy2A.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65b587c2afe22400e6388b2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 993748,
+                            "known_for_department": "Directing",
+                            "name": "Zachary Treitz",
+                            "original_name": "Zachary Treitz",
+                            "popularity": 2.116,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5104202,
+                    "name": "The Game",
+                    "overview": "Danny's investigation takes a turn when he uncovers a twisted web of organized crime that implicates the US intelligence community.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 244616,
+                    "still_path": "/sCditvVi1uZFsPTOFAmGFEizKIX.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65b587c2afe22400e6388b2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 993748,
+                            "known_for_department": "Directing",
+                            "name": "Zachary Treitz",
+                            "original_name": "Zachary Treitz",
+                            "popularity": 2.116,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 5104204,
+                    "name": "The Monster",
+                    "overview": "In his final days, Danny inches closer to answers — but his death raises more questions. Years later, Christian makes discoveries of his own.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 244616,
+                    "still_path": "/3AxYNojApibcmE0NF11XKjqA3oB.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65b587c2afe22400e6388b2e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 993748,
+                            "known_for_department": "Directing",
+                            "name": "Zachary Treitz",
+                            "original_name": "Zachary Treitz",
+                            "popularity": 2.116,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 375991,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 6.8
+        }
+    }
+}

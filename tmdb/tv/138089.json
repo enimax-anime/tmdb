@@ -1,0 +1,960 @@
+{
+    "adult": false,
+    "backdrop_path": "/olMqKtUQp4Hv4H2MErI2mrBzXZr.jpg",
+    "created_by": [
+        {
+            "id": 1371247,
+            "credit_id": "61aa4df7e267de00277e4478",
+            "name": "Tracy Oliver",
+            "original_name": "Tracy Oliver",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        34
+    ],
+    "first_air_date": "2021-12-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B09KTNJCPN",
+    "id": 138089,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-02-23",
+    "last_episode_to_air": {
+        "id": 4141121,
+        "name": "Joy, Joy, Joy, Joy",
+        "overview": "Camille brings her vision to life, Tye finds love in an unexpected place, Quinn and Angie make amends, and the ladies get a surprise.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2023-02-23",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 39,
+        "season_number": 2,
+        "show_id": 138089,
+        "still_path": "/92woSDYH0oy8zM5qP7ScVOvkfU.jpg"
+    },
+    "name": "Harlem",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Harlem",
+    "overview": "Four stylish and ambitious best girlfriends in Harlem, New York City: a rising star professor struggling to make space for her love life; a savvy tech entrepreneur always dating someone new; a no-filter singer; and a hopeless romantic fashion designer. Together, they level up into the next phase of their careers, relationships, and big city dreams.",
+    "popularity": 90.395,
+    "poster_path": "/qDK5ZUl2ad2IxoRABbuvVt2NW9v.jpg",
+    "production_companies": [
+        {
+            "id": 787,
+            "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+            "name": "3 Arts Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 24022,
+            "logo_path": "/aIjT1pYb83Hluuq39idD41r71ze.png",
+            "name": "Paper Kite Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 26727,
+            "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+            "name": "Universal Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 123495,
+            "logo_path": "/dR7yKIL5pijeOA5doGRyTFRbij1.png",
+            "name": "i am OTHER",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-02",
+            "episode_count": 10,
+            "id": 218628,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qyEtuIIEpUHNMhmdvcvID7oQGYu.jpg",
+            "season_number": 1,
+            "vote_average": 7.1
+        },
+        {
+            "air_date": "2023-02-02",
+            "episode_count": 8,
+            "id": 322985,
+            "name": "Season 2",
+            "overview": "In season two, after blowing up her career and disrupting her love life, Camille has to figure out how to put the pieces back together; Tye considers her future; Quinn goes on a journey of self-discovery; and Angie’s career takes a promising turn.",
+            "poster_path": "/qDK5ZUl2ad2IxoRABbuvVt2NW9v.jpg",
+            "season_number": 2,
+            "vote_average": 7.4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 55,
+    "season_data": {
+        "1": {
+            "_id": "6187e42ce93e9500626541ae",
+            "air_date": "2021-12-02",
+            "episodes": [
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3325897,
+                    "name": "Pilot",
+                    "overview": "Just as Camille thinks she's in total control of her life, her ex shows up on her block making her question her choices. Tye receives an acquisition offer on her app. Angie questions what her next career step will be. Quinn has a rough night on Long Island.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/O1RcTvakJTeAcGVGcB3MLUTSQQ.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61a589fb869e750068d15aca",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 72024,
+                            "known_for_department": "Directing",
+                            "name": "Malcolm D. Lee",
+                            "original_name": "Malcolm D. Lee",
+                            "popularity": 6.03,
+                            "profile_path": "/aae8K7qO5XYployiStHbAMMbahM.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6451092b43501100e4807707",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1371247,
+                            "known_for_department": "Writing",
+                            "name": "Tracy Oliver",
+                            "original_name": "Tracy Oliver",
+                            "popularity": 4.655,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3359726,
+                    "name": "Saturn Returns",
+                    "overview": "Tye is invited to do a Forbes interview, and decides to end things with Shayla. Angie is offered a role in a musical. Quinn struggles to make ends meet as the rent increases for her store. Camille’s boss tells her some bad news and she crosses paths with Ian at a friend’s engagement party.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/hdMvuVgmZPlSdXOx7OyjVRLR0kO.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61a589fb869e750068d15aca",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 72024,
+                            "known_for_department": "Directing",
+                            "name": "Malcolm D. Lee",
+                            "original_name": "Malcolm D. Lee",
+                            "popularity": 6.03,
+                            "profile_path": "/aae8K7qO5XYployiStHbAMMbahM.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6451092b43501100e4807707",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1371247,
+                            "known_for_department": "Writing",
+                            "name": "Tracy Oliver",
+                            "original_name": "Tracy Oliver",
+                            "popularity": 4.655,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3359727,
+                    "name": "Rainbow Sprinkles",
+                    "overview": "The girls try to cheer up Camille after the news of Ian's engagement. Tye has an awkward connection to her Forbes interviewer. Angie hits it off with her Uber driver. Quinn meets a new prospect on a dating app.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/l6xfps47p0TFWgm6AJxGWUn9EpE.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6451095343501101079890fa",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1458554,
+                            "known_for_department": "Writing",
+                            "name": "Azie Dungey",
+                            "original_name": "Azie Dungey",
+                            "popularity": 2.433,
+                            "profile_path": "/9GM67p59akoL8gjfOlLnjnoCYYt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3359728,
+                    "name": "Winter Solstice",
+                    "overview": "Dr. Pruitt invites Camille to speak on a panel. A male stripper catches Quinn's eye. Tye struggles with a hair crisis. And Angie tells a lie to get a nanny job.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/50Scb8sKRgin8I5bv579yGiftQ0.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64510973d7107e014c701c9d",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1612092,
+                            "known_for_department": "Writing",
+                            "name": "Njeri Brown",
+                            "original_name": "Njeri Brown",
+                            "popularity": 3.908,
+                            "profile_path": "/r1YH3vSFkVIapWmtdA4CxueZLsG.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Pilates Instructor",
+                            "credit_id": "61d84573f6787a0042347e78",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2524755,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Hewitt",
+                            "original_name": "Caroline Hewitt",
+                            "popularity": 1.872,
+                            "profile_path": "/rmLtSc10OSjcgkniXge7vR1Ot7e.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3359729,
+                    "name": "Boundaries",
+                    "overview": "Camille goes to Ian’s parents' going away party. Tye and Anna give things a try. Quinn attempts to keep things casual with Sean.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/lQd260Ji0B4niwbVH5mDxkngh5X.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "645109ad93bd6900f01aeb78",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1230202,
+                            "known_for_department": "Directing",
+                            "name": "Travon Free",
+                            "original_name": "Travon Free",
+                            "popularity": 2.968,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3374829,
+                    "name": "Cuffing Season",
+                    "overview": "Angie tries to track down a man to keep her warm for the winter. Jameson and Camille talk about what's next for them before a text sends her spiraling. Quinn takes Sean as her date to an event for Isabelle. Tye faces a health scare.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/hZuYqyi6vpx3yh0Een4NU4fXkD4.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "645109d8af85de015be6ad3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4040669,
+                            "known_for_department": "Writing",
+                            "name": "Jess Watson",
+                            "original_name": "Jess Watson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3374831,
+                    "name": "The Strong Black Woman",
+                    "overview": "Tye tries to get her health in order before an important conference. Camille questions how to respond to a strange text from Ian. Angie struggles with an ignorant cast member. Quinn navigates her mother's expectations.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/8RxBr5VJyATnZCDX2MGIFC3m2qm.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "645109ebe942ee0e37e6f702",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2991803,
+                            "known_for_department": "Writing",
+                            "name": "Britt Matt",
+                            "original_name": "Britt Matt",
+                            "popularity": 0.643,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3374832,
+                    "name": "Five Years Ago",
+                    "overview": "In this flashback episode, we see where our band of women were five years ago, when Ian left New York without Camille.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/r6OYtPh5hovhDn7FWNU7b3VQlI7.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3374834,
+                    "name": "Secrets",
+                    "overview": "Camille secretly helps Ian out with a project. The women go to see Angie in the dress rehearsal of Get Out: The Musical. Quinn tries to win over Sean’s son.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/cjI3zbY2LITE2yJ8RdTNAtcNJC1.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e82be16e5a00e9f075bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 105882,
+                            "known_for_department": "Directing",
+                            "name": "Neema Barnette",
+                            "original_name": "Neema Barnette",
+                            "popularity": 11.103,
+                            "profile_path": "/nlcq3K3l9acs9TwN0wiuvNHLdJy.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64510a12e16e5a0123a4a542",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2763291,
+                            "known_for_department": "Writing",
+                            "name": "Aeryn Michelle Williams",
+                            "original_name": "Aeryn Michelle Williams",
+                            "popularity": 1.88,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 3374836,
+                    "name": "Once Upon a Time in Harlem",
+                    "overview": "Dr. Pruitt's choice for Camille's dream job causes Camille to question her life choices. Tye fights to finalize her divorce. Angie gets offered a bigger role in the musical. Quinn confronts her feelings for Isabella.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 138089,
+                    "still_path": "/zHd1Ufa7YXCMEopSKPbjrpnNDzi.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e82be16e5a00e9f075bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 105882,
+                            "known_for_department": "Directing",
+                            "name": "Neema Barnette",
+                            "original_name": "Neema Barnette",
+                            "popularity": 11.103,
+                            "profile_path": "/nlcq3K3l9acs9TwN0wiuvNHLdJy.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 218628,
+            "poster_path": "/qyEtuIIEpUHNMhmdvcvID7oQGYu.jpg",
+            "season_number": 1,
+            "vote_average": 7.1
+        },
+        "2": {
+            "_id": "63b7025cf04d010094216b96",
+            "air_date": "2023-02-02",
+            "episodes": [
+                {
+                    "air_date": "2023-02-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4141105,
+                    "name": "Takesie Backsies",
+                    "overview": "Picking up where season one left off, Camille and Ian find themselves at a Crossroads, Quinn prepares for her first same-sex date, Angie tries to end her bad luck streak, and Tye tries to make a real connection.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/x5lQaVbR9p1fMpSYY0jzUuIOGsC.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4141108,
+                    "name": "If You Can't Say Anything Nice...",
+                    "overview": "Camille faces Jameson, Tye finds out she’s on a cautionary dating website, Angie finds luck in real estate, and Quinn explores her relationship with Isabela.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/spZI1s0DjZzTTGXnsuo2gjF34Wp.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4f893bd6901746aa9ce",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 22122,
+                            "known_for_department": "Acting",
+                            "name": "Meagan Good",
+                            "original_name": "Meagan Good",
+                            "popularity": 47.079,
+                            "profile_path": "/2ARb40kppmUDfsXn9i2FsjfziKv.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "645109ebe942ee0e37e6f702",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2991803,
+                            "known_for_department": "Writing",
+                            "name": "Britt Matt",
+                            "original_name": "Britt Matt",
+                            "popularity": 0.643,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Karla",
+                            "credit_id": "64510cf4435011014135ee66",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1249001,
+                            "known_for_department": "Acting",
+                            "name": "Wanita \"D. Woods\" Woodgette",
+                            "original_name": "Wanita \"D. Woods\" Woodgette",
+                            "popularity": 2.063,
+                            "profile_path": "/hUCIfmZGViHQd6aDT4rIIpDQrle.jpg"
+                        },
+                        {
+                            "character": "Marcus",
+                            "credit_id": "6643eae5aeba065c74694abc",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1400980,
+                            "known_for_department": "Acting",
+                            "name": "Sawandi Wilson",
+                            "original_name": "Sawandi Wilson",
+                            "popularity": 7.407,
+                            "profile_path": "/bliprljFCeA2MmrAJb81H5PwidR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-02-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4141110,
+                    "name": "As Assist from the Sidelines",
+                    "overview": "Camille and Ian spend the day getting out of their heads with the help of too many edibles, Angie finds comfort with her extended family at home, Quinn drops big news at the golf course with her parents, and Tye studies the ideal relationship.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/wpLWCIgm2UGnGMF4g2Zl452sRuB.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Phil Joseph",
+                            "credit_id": "64510aff435011014135ed72",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 119870,
+                            "known_for_department": "Acting",
+                            "name": "Rick Fox",
+                            "original_name": "Rick Fox",
+                            "popularity": 16.811,
+                            "profile_path": "/dQFVNXprDTpX2VRWiVVuJFJTXne.jpg"
+                        },
+                        {
+                            "character": "Sonya Wilson",
+                            "credit_id": "64510b88af85de015be6ae19",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 109561,
+                            "known_for_department": "Acting",
+                            "name": "Sherri Shepherd",
+                            "original_name": "Sherri Shepherd",
+                            "popularity": 14.049,
+                            "profile_path": "/65YoJG1wCvumUfi38pRlMBx4Zhe.jpg"
+                        },
+                        {
+                            "character": "Freddie Wilson",
+                            "credit_id": "64510bd2d7107e012d0107da",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1488961,
+                            "known_for_department": "Acting",
+                            "name": "Lil Rel Howery",
+                            "original_name": "Lil Rel Howery",
+                            "popularity": 18.522,
+                            "profile_path": "/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-02-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4141113,
+                    "name": "Baby and the Bath Water",
+                    "overview": "Camille and Ian have a scare, Tye is forced to start making decisions regarding her health, Quinn prepares for the biggest interview of her career, and Angie meets a new guy.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/dJZKJSXN5tCC4gCFsfVUtHjBzp0.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4141114,
+                    "name": "Pride",
+                    "overview": "Camille is summoned by Dr. Pruitt, Tye is Quinn’s reluctant tour guide for her first PRIDE as a member of the community, and Angie waits for an important call.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/iYRwHtOyA5RScuyqDn2aRunhJxY.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e4194350110124246c6c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214860,
+                            "known_for_department": "Directing",
+                            "name": "Linda Mendoza",
+                            "original_name": "Linda Mendoza",
+                            "popularity": 11.631,
+                            "profile_path": "/flXrb4QC4ft0ufHZIw2QXNQLZ7x.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4141117,
+                    "name": "Out of the Deadpan and into the Fire",
+                    "overview": "Camille finds herself caught between Ian and Jameson yet again, Tye faces the reality of a big life decision, Quinn struggles with her recent losses, and Angie gets another big break.",
+                    "production_code": "",
+                    "runtime": 36,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/bZtaf166fNqVPgcte9tzkj9TOyR.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e7dd435011015e924d04",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4040534,
+                            "known_for_department": "Directing",
+                            "name": "Shea William Vanderpoort",
+                            "original_name": "Shea William Vanderpoort",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Comtesse Vaughn",
+                            "credit_id": "64510c16af85de00e235d23b",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 166559,
+                            "known_for_department": "Acting",
+                            "name": "Countess Vaughn",
+                            "original_name": "Countess Vaughn",
+                            "popularity": 15.137,
+                            "profile_path": "/gkZLmWtgPLyxijXH31w03gb35iO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-02-23",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4141119,
+                    "name": "Fall Back to Rumspringa Forward",
+                    "overview": "Camille, Quinn, Tye and Angie embark on a much-needed Girls Trip.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/9QGieLgD396XGXxqcXo6BcMoHL3.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6450e7dd435011015e924d04",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4040534,
+                            "known_for_department": "Directing",
+                            "name": "Shea William Vanderpoort",
+                            "original_name": "Shea William Vanderpoort",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-23",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4141121,
+                    "name": "Joy, Joy, Joy, Joy",
+                    "overview": "Camille brings her vision to life, Tye finds love in an unexpected place, Quinn and Angie make amends, and the ladies get a surprise.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 2,
+                    "show_id": 138089,
+                    "still_path": "/92woSDYH0oy8zM5qP7ScVOvkfU.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643713be945d3601021bdbc6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2545239,
+                            "known_for_department": "Directing",
+                            "name": "Stacey Muhammad",
+                            "original_name": "Stacey Muhammad",
+                            "popularity": 2.872,
+                            "profile_path": "/5LZFtsbGPRy4ep8YzcjJgOYKKVk.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "In season two, after blowing up her career and disrupting her love life, Camille has to figure out how to put the pieces back together; Tye considers her future; Quinn goes on a journey of self-discovery; and Angie’s career takes a promising turn.",
+            "id": 322985,
+            "poster_path": "/qDK5ZUl2ad2IxoRABbuvVt2NW9v.jpg",
+            "season_number": 2,
+            "vote_average": 7.4
+        }
+    }
+}

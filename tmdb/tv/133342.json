@@ -1,0 +1,698 @@
+{
+    "adult": false,
+    "backdrop_path": "/qv4Klq4BRctpH2sWZ9WsGl7xRBQ.jpg",
+    "created_by": [
+        {
+            "id": 75946,
+            "credit_id": "613c9f1dd4cc8e0043f56ad4",
+            "name": "Fab Filippo",
+            "gender": 2,
+            "profile_path": "/y6UOeOCQwsz6Z5QNqWmqtR4w7lU.jpg"
+        },
+        {
+            "id": 3229035,
+            "credit_id": "613c9f17d7107e0044c32986",
+            "name": "Bilal Baig",
+            "gender": 3,
+            "profile_path": "/4XVqopmqPwduS4nSAjWHdTJEE7l.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2021-11-09",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://gem.cbc.ca/media/sort-of/",
+    "id": 133342,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-12-08",
+    "last_episode_to_air": {
+        "id": 4954382,
+        "name": "Sort Of Gone Again",
+        "overview": "A coin is flipped. A decision is made. An adventure begins.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-12-08",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 133342,
+        "still_path": "/uAd1SD1Zczrndb8JGAYLXqIsNGN.jpg"
+    },
+    "name": "Sort Of",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 23,
+            "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+            "name": "CBC Television",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 24,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Sort Of",
+    "overview": "Fluid millennial Sabi Mehboob straddles various identities from bartender at an LGBTQ bookstore/bar, to the youngest child in a Pakistani family, to the de facto parent of a downtown hipster family. Sabi feels like they’re in transition in every aspect of their life, from gender to love to sexuality to family to career.",
+    "popularity": 12.568,
+    "poster_path": "/vph2C5UhE2OdDlg1OrGnu21wnnI.jpg",
+    "production_companies": [
+        {
+            "id": 23486,
+            "logo_path": "/eHAfNL2kzq0SDkQXNt2WpK4wR2z.png",
+            "name": "Sienna Films",
+            "origin_country": "CA"
+        },
+        {
+            "id": 169682,
+            "logo_path": "/dSajIaySHCYM1jsxFVg7lypSATH.png",
+            "name": "Sphère Média",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-09",
+            "episode_count": 8,
+            "id": 210522,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vph2C5UhE2OdDlg1OrGnu21wnnI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-11-15",
+            "episode_count": 8,
+            "id": 302542,
+            "name": "Season 2",
+            "overview": "In season two, Sabi decides not only are they ready for some uncomplicated romance but they also want everyone to love each other. Unfortunately, with their dad's unexpected return from Dubai, the Kaneko-Bauers' struggles as Bessy is released from rehab, and issues at Bar Bük, Sabi is faced with situations and relationships that are anything but simple.",
+            "poster_path": "/lNF7nBknmxTge5NItOGp7in6bEd.jpg",
+            "season_number": 2,
+            "vote_average": 7.5
+        },
+        {
+            "air_date": "2023-11-17",
+            "episode_count": 8,
+            "id": 362862,
+            "name": "Season 3",
+            "overview": "The third and final season shows Sabi Mehboob coming to terms with feelings of grief and an unexpected sense of freedom following the death of their father. Without the constraints of living up to their father’s expectations Sabi confronts big questions about their identity, prompting some massive life choices. In a season that has the entire ensemble grappling with aftermaths, a rebirth comes in a sort of messy, sort of hopeful, sort of ‘Sort Of’ way.",
+            "poster_path": "/wL432kJjGLFFFCbfe9w5wB4uLx5.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Let love in.",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 12,
+    "season_data": {
+        "1": {
+            "_id": "613c9ed36af9dd006685bf49",
+            "air_date": "2021-11-09",
+            "episodes": [
+                {
+                    "air_date": "2021-11-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3208244,
+                    "name": "Sort Of Gone",
+                    "overview": "After a horrible date and being fired on the same day, Sabi contemplates an opportunity that would change their life, until an unexpected accident puts their new plans in jeopardy.e",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/8vZDn9D1T5rS6LM433TbvdTnFi0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3208246,
+                    "name": "Sort Of Back",
+                    "overview": "Bessy is in a coma and Paul is not handling the stress very well. Sabi’s dreams of Berlin with 7ven have now disappeared from the dropdown menu.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/zxdR8OVk1a0mknX1UJFiNRLsqWF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3274363,
+                    "name": "Sort Of Mary Poppins",
+                    "overview": "After a run-in with a choking hazard, Raffo ends up admitted to the same hospital as Bessy. Worlds collide and Raffo finds out Sabi has been hiding the nanny part of their life for the past 3 years.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/1AWSZJ7e0j4SbHNU9YybYSAoLqn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3274364,
+                    "name": "Sort Of Stable",
+                    "overview": "Sabi and the family try their best to fall into the new rhythm. Paul pretends to be Bessy, texting with a mysterious person named Penny. Lewis’s grand gestures fail to win Sabi back.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/sYWuq7c9Ql9ySbDsBaqNyFhS9bx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Mackenzie",
+                            "credit_id": "64dab3eb001bbd011d91fb40",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1689143,
+                            "known_for_department": "Acting",
+                            "name": "Alanna Bale",
+                            "original_name": "Alanna Bale",
+                            "popularity": 9.205,
+                            "profile_path": "/8cqcxZU3NZvd2pDfFE1TaivzDDu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3274365,
+                    "name": "Sort Of A Party",
+                    "overview": "Sabi encourages Violet to work through her complex emotions as the family tries to find the best way to celebrate Violet’s birthday.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/aX7W0gA10yBYqYMIzEDzLzxGiLf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-23",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3274366,
+                    "name": "Sort Of Ellen",
+                    "overview": "Tensions between Sabi and Paul rise when Paul disappears and Sabi has to bail on a fun night to look after the kids.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/hAR7EARsaqR4DgwGh4DqJYtVEMK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Juan",
+                            "credit_id": "650f77ec3a4a1200c5a9bb07",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1587774,
+                            "known_for_department": "Acting",
+                            "name": "Xavier Lopez",
+                            "original_name": "Xavier Lopez",
+                            "popularity": 0.972,
+                            "profile_path": "/rDzLnImMXgoo2YqWIW9UbaiPdP2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-30",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3274367,
+                    "name": "Sort Of Miracle",
+                    "overview": "Worried for Raffo, Sabi and Aqsa head to their childhood home. An unexpected drop-in outs Sabi to their extended family and alliances are questioned.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/ong0ZfopazsFpLx39nEjuxpoHxl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Juan",
+                            "credit_id": "650f77ec3a4a1200c5a9bb07",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1587774,
+                            "known_for_department": "Acting",
+                            "name": "Xavier Lopez",
+                            "original_name": "Xavier Lopez",
+                            "popularity": 0.972,
+                            "profile_path": "/rDzLnImMXgoo2YqWIW9UbaiPdP2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-30",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3274368,
+                    "name": "Sort Of Back Again",
+                    "overview": "Sabi struggles to tell Bessy how much she means to them.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 133342,
+                    "still_path": "/l3otwqspG8fB6onnIYpaKHTuOxq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Mackenzie",
+                            "credit_id": "64dab3eb001bbd011d91fb40",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1689143,
+                            "known_for_department": "Acting",
+                            "name": "Alanna Bale",
+                            "original_name": "Alanna Bale",
+                            "popularity": 9.205,
+                            "profile_path": "/8cqcxZU3NZvd2pDfFE1TaivzDDu.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 210522,
+            "poster_path": "/vph2C5UhE2OdDlg1OrGnu21wnnI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "62e20360ca8354005510e90f",
+            "air_date": "2022-11-15",
+            "episodes": [
+                {
+                    "air_date": "2022-11-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3855444,
+                    "name": "Sort of Future",
+                    "overview": "As Sabi braces for their fathers return, Deenzie drops world-shaking news.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/lAqiCMOm9uOUdPSYRLwn0io5EcK.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3914499,
+                    "name": "Sort of 2gethr",
+                    "overview": "Bessy struggles to make sense of her life. Sabi has an awkward first day on the job with Imran, before going to a club with 7ven and Arrow, and wonders if Olympia will stand them up.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/lY4G5ga9jkqC7MtrBK9ANztBcXa.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Macauley",
+                            "credit_id": "65117c67e1faed011d5f34df",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 179274,
+                            "known_for_department": "Acting",
+                            "name": "Gianpaolo Venuta",
+                            "original_name": "Gianpaolo Venuta",
+                            "popularity": 6.636,
+                            "profile_path": "/w3d0kUb69R8kJ4QKEjl13bJ0uRX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3914500,
+                    "name": "Sort of Broke",
+                    "overview": "Sabi needs to get paid. Paul is blindsided when Bessy makes a big decision without telling anyone.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/31wbNrYPZkvlwD1ZJmX1cERG6gb.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3914501,
+                    "name": "Sort of Who She Is",
+                    "overview": "Imran finds it hard to deal with Raffo’s independence when she joins a weekly dance class.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/i3GcY9j50mXgiQX37ZiUM9Tqqu3.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3914502,
+                    "name": "Sort of Amsterdam",
+                    "overview": "7ven hosts a cottage weekend for Sabi, Wolf, and Arrow, which is gate-crashed by her mum.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/du0ROFmz8rmE2HnJqDCqxK55Z4G.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Gaia",
+                            "credit_id": "64f5e61f77d23b012e8bf2b9",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1232769,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Brugel",
+                            "original_name": "Amanda Brugel",
+                            "popularity": 9.358,
+                            "profile_path": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3914503,
+                    "name": "Sort of I Love You",
+                    "overview": "Imran makes a surprise drop-in on Sabi; Bessy and Paul discover Henry is skipping school; 7ven and Wolf try to make a deal with Gaia to invest in the new club-gallery.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/hlIEmqGhmwIvugAML0zpSnab0MQ.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Gaia",
+                            "credit_id": "64f5e61f77d23b012e8bf2b9",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1232769,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Brugel",
+                            "original_name": "Amanda Brugel",
+                            "popularity": 9.358,
+                            "profile_path": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-06",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3914504,
+                    "name": "Sort of Opening",
+                    "overview": "On the eve of the opening of the new club-gallery, a moment between Bessy and Sabi creates tension in their relationship.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/4sLfs3bovpyWWNTpwsrAjUlxvIy.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Gaia",
+                            "credit_id": "64f5e61f77d23b012e8bf2b9",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1232769,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Brugel",
+                            "original_name": "Amanda Brugel",
+                            "popularity": 9.358,
+                            "profile_path": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-06",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3914505,
+                    "name": "Sort of Janazah",
+                    "overview": "A family crisis causes Sabi to confront unresolved feelings towards their father.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 133342,
+                    "still_path": "/i2oAgKDcZKWlQI1k4NtBvs5PNgt.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "In season two, Sabi decides not only are they ready for some uncomplicated romance but they also want everyone to love each other. Unfortunately, with their dad's unexpected return from Dubai, the Kaneko-Bauers' struggles as Bessy is released from rehab, and issues at Bar Bük, Sabi is faced with situations and relationships that are anything but simple.",
+            "id": 302542,
+            "poster_path": "/lNF7nBknmxTge5NItOGp7in6bEd.jpg",
+            "season_number": 2,
+            "vote_average": 7.5
+        },
+        "3": {
+            "_id": "653ae1a95907de00ac00160e",
+            "air_date": "2023-11-17",
+            "episodes": [
+                {
+                    "air_date": "2023-11-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4859116,
+                    "name": "Sort Of Aftermath",
+                    "overview": "It’s 4 weeks after Imran’s death and Sabi is still coming to terms with the loss of their father and their kiss with Bessy.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/jtikzjWiIaCadUufF9jAgpAqqwt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4859127,
+                    "name": "Sort Of Chaaliswan",
+                    "overview": "It’s the day of Imran’s Chaaliswan. Raffo struggles to find the right emotions and Bessy chooses the wrong time to kinda/sorta apologize. Sabi pulls the trigger on a big decision.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/8HXrOrIXdsP79QQEsUvCwROwUJw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4859132,
+                    "name": "The Sort of Truth",
+                    "overview": "The tension between Aqsa and Sabi comes to a head. Paul confesses some truths to Sabi and Aqsa drops a huge bomb on Sabi and Raffo.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/p6sfdDJBmWjKkavGTZyXqoolK7Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4945789,
+                    "name": "Sort of Married",
+                    "overview": "With the help of Sabi and friends, Aqsa and Izzy sort of take the next step. Paul and Bessy reconnect over a shared experience.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/dHpF69O8oWQB3SDuCEoKnR1f6tU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4954376,
+                    "name": "Sort of the Worst Yoda",
+                    "overview": "BRLiN prepares for an important installation. Deenzie takes Sabi on a field trip. Paul joins a support group and finds comfort in a friend.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/db6CxiacO7lGLyMpXvuK7ODn8V1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4954378,
+                    "name": "Sort of Hospital Again",
+                    "overview": "A medical emergency forces Sabi to go to the ER. Wolf cracks when pressured to reveal secrets to Raffo. Aqsa has an emergency of her own.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/tpKKgumPVLYDU9C2YQkoCZ9dYLE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4954380,
+                    "name": "Sort Of Anything You Want",
+                    "overview": "Raffo finds herself at an emotional edge. Again. Wolf surprises Sabi with a gift. 7ven and Mackenzie organize a party. Sabi makes a huge decision. Again.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/j6g33msDxwPsg8Zp8sWxYoFaciu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-08",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4954382,
+                    "name": "Sort Of Gone Again",
+                    "overview": "A coin is flipped. A decision is made. An adventure begins.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 133342,
+                    "still_path": "/uAd1SD1Zczrndb8JGAYLXqIsNGN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "The third and final season shows Sabi Mehboob coming to terms with feelings of grief and an unexpected sense of freedom following the death of their father. Without the constraints of living up to their father’s expectations Sabi confronts big questions about their identity, prompting some massive life choices. In a season that has the entire ensemble grappling with aftermaths, a rebirth comes in a sort of messy, sort of hopeful, sort of ‘Sort Of’ way.",
+            "id": 362862,
+            "poster_path": "/wL432kJjGLFFFCbfe9w5wB4uLx5.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

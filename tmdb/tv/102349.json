@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/cWh1j8WZ7bdWDEFbxN3SX3twUDN.jpg",
+    "created_by": [
+        {
+            "id": 111678,
+            "credit_id": "5ea047e801757f001cd1636f",
+            "name": "Thomas Middleditch",
+            "gender": 2,
+            "profile_path": "/2c15BQ6DWSiDSBTRjvdsp8X4AAe.jpg"
+        },
+        {
+            "id": 222121,
+            "credit_id": "5ea047f001757f001cd163ac",
+            "name": "Ben Schwartz",
+            "gender": 2,
+            "profile_path": "/5vV52TSEIhe4ZZLWwv3i7nfv8we.jpg"
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2020-04-21",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81122572",
+    "id": 102349,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-04-21",
+    "last_episode_to_air": {
+        "id": 2236723,
+        "name": "Dream Job",
+        "overview": "An audience member recounts his unusual internship interview, leading Thomas and Ben to invent a hilariously weird job-seeking scenario.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-04-21",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 102349,
+        "still_path": "/yuisVlIMASEiiGO1M5FGq6b8eKp.jpg"
+    },
+    "name": "Middleditch & Schwartz",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Middleditch & Schwartz",
+    "overview": "Comedy duo Thomas Middleditch and Ben Schwartz turn small ideas into epically funny stories in this series of completely improvised comedy specials.",
+    "popularity": 7.759,
+    "poster_path": "/66peZcEggw4xJHLQeBqvIsKG87s.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-21",
+            "episode_count": 3,
+            "id": 148723,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/o5zNrdfJ19Q2FqHCuu89V70K7KR.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.7,
+    "vote_count": 45,
+    "season_data": {
+        "1": {
+            "_id": "5ea045fbf1b57100218f2cb5",
+            "air_date": "2020-04-21",
+            "episodes": [
+                {
+                    "air_date": "2020-04-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2236720,
+                    "name": "Parking Lot Wedding",
+                    "overview": "An audience tale of love, music festivals and parking lots sets the stage for Thomas and Ben to act out a wild wedding.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 102349,
+                    "still_path": "/oJvQuBZ7rJ1dsqd7dsgz9uXJe07.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2236721,
+                    "name": "Law School Magic",
+                    "overview": "Law students, aliens and the state of Maryland all play a major role as Thomas and Ben create a classroom full of bizarre characters.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 102349,
+                    "still_path": "/wjP4u3m8vxikx1xoNYgwKNDv69K.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-21",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2236723,
+                    "name": "Dream Job",
+                    "overview": "An audience member recounts his unusual internship interview, leading Thomas and Ben to invent a hilariously weird job-seeking scenario.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 102349,
+                    "still_path": "/yuisVlIMASEiiGO1M5FGq6b8eKp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 148723,
+            "poster_path": "/o5zNrdfJ19Q2FqHCuu89V70K7KR.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

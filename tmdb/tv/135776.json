@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/2JO5fSVsaIOXue1O2KBl5wHDQ9r.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2021-11-04",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 135776,
+    "in_production": true,
+    "languages": [
+        "nl"
+    ],
+    "last_air_date": "2021-11-04",
+    "last_episode_to_air": {
+        "id": 3267753,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-11-04",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 135776,
+        "still_path": "/tfnjcaFdOrqKIdXKmz6KejUFbit.jpg"
+    },
+    "name": "Bonnie & Clyde",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1334,
+            "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+            "name": "Videoland",
+            "origin_country": "NL"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "Bonnie & Clyde",
+    "overview": "",
+    "popularity": 20.32,
+    "poster_path": "/im6kJT29S8XvxEf9dSvWzWos4d.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-04",
+            "episode_count": 4,
+            "id": 214570,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zYFbG5eFrY42nO01h7wuzPVRDva.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "615dbd0033ec26009196546c",
+            "air_date": "2021-11-04",
+            "episodes": [
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3267750,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 135776,
+                    "still_path": "/1c6F2pF8VESvgX9YMIXbzfssXPf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3267751,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 135776,
+                    "still_path": "/pUvopXwdSQlE7TUlGa4bu9ctbs6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3267752,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 135776,
+                    "still_path": "/cU7qr4Pj2hXvnOXLaHgpgTdbp0F.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3267753,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 135776,
+                    "still_path": "/tfnjcaFdOrqKIdXKmz6KejUFbit.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 214570,
+            "poster_path": "/zYFbG5eFrY42nO01h7wuzPVRDva.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

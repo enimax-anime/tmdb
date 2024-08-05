@@ -1,0 +1,320 @@
+{
+    "adult": false,
+    "backdrop_path": "/AjZM9RfhYIlMMeT4Kurt6CALoxC.jpg",
+    "created_by": [
+        {
+            "id": 1302585,
+            "credit_id": "642e9a81c9dbf90113de829b",
+            "name": "Nina Maria Pashalidou",
+            "original_name": "Nina Maria Pashalidou",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1903904,
+            "credit_id": "642e9a67c9dbf900b60a6ec7",
+            "name": "Joakim Demmer",
+            "original_name": "Joakim Demmer",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-05-31",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.arte.tv/de/videos/098069-001-A/europa-kontinent-im-umbruch/",
+    "id": 203649,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "de"
+    ],
+    "last_air_date": "2022-05-31",
+    "last_episode_to_air": {
+        "id": 3770103,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-05-31",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 203649,
+        "still_path": null
+    },
+    "name": "Europe, un continent bouleversé",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1628,
+            "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+            "name": "ARTE",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "BE",
+        "FR",
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Europe, un continent bouleversé",
+    "overview": "",
+    "popularity": 16.906,
+    "poster_path": "/8o4YW1a81acUEydnvROMlracJFR.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-05-31",
+            "episode_count": 6,
+            "id": 296691,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wbrge9hboJpi8wB3F0MQt8FIiGZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "62a049337b7b4d0053474f96",
+            "air_date": "2022-05-31",
+            "episodes": [
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3770085,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a049f012197e565f99d817",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1903904,
+                            "known_for_department": "Writing",
+                            "name": "Joakim Demmer",
+                            "original_name": "Joakim Demmer",
+                            "popularity": 2.327,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3770089,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a04c3f7b7b4d00693a5721",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2248191,
+                            "known_for_department": "Directing",
+                            "name": "Pierre-Olivier François",
+                            "original_name": "Pierre-Olivier François",
+                            "popularity": 2.937,
+                            "profile_path": "/4pFd0GmmZoFqcSeBlMpDLdNZViw.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3770095,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a04c2a85005d00675d961c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1289653,
+                            "known_for_department": "Directing",
+                            "name": "Tonislav Hristov",
+                            "original_name": "Tonislav Hristov",
+                            "popularity": 3.507,
+                            "profile_path": "/o3ixE85DWd1XFHtg1dxWMiMInjQ.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3770096,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a04c1e7d5db5086bf18b7e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1302585,
+                            "known_for_department": "Directing",
+                            "name": "Nina Maria Pashalidou",
+                            "original_name": "Nina Maria Pashalidou",
+                            "popularity": 0.94,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3770100,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a04bc912197e56603f85de",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1127771,
+                            "known_for_department": "Directing",
+                            "name": "Andreas Pichler",
+                            "original_name": "Andreas Pichler",
+                            "popularity": 4.807,
+                            "profile_path": "/e3U9xKKfYxRMo1Iue7VGlXCDmiY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "6457ef51a0b6b50119d0398f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2947237,
+                            "known_for_department": "Acting",
+                            "name": "Margrethe Vestager",
+                            "original_name": "Margrethe Vestager",
+                            "popularity": 0.001,
+                            "profile_path": "/k0brotUE3h1YexZ5bi54Zot9Bqm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3770103,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 203649,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a049f012197e565f99d817",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1903904,
+                            "known_for_department": "Writing",
+                            "name": "Joakim Demmer",
+                            "original_name": "Joakim Demmer",
+                            "popularity": 2.327,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 296691,
+            "poster_path": "/wbrge9hboJpi8wB3F0MQt8FIiGZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

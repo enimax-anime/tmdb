@@ -1,0 +1,625 @@
+{
+    "adult": false,
+    "backdrop_path": "/bKKtaMtv9FCrXXB9rlx2y7OGZds.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-15",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/the-dynasty-new-england-patriots/umc.cmc.e399kebej378s053scn8nghf",
+    "id": 239748,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-03-14",
+    "last_episode_to_air": {
+        "id": 4929907,
+        "overview": "After a decades-long run, the dynasty crumbles.",
+        "name": "End Game",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-03-14",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 39,
+        "season_number": 1,
+        "show_id": 239748,
+        "still_path": "/86bAT1k4BIIq6h5tjjozCasNLRQ.jpg"
+    },
+    "name": "The Dynasty: New England Patriots",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Dynasty: New England Patriots",
+    "overview": "Go inside the franchise's 20-year journey, from the unique chemistry that fueled six Super Bowl wins to the internal strife that sparked a turf war. Tom Brady, Bill Belichick, Robert Kraft, and key players reveal the road to—and cost of—greatness.",
+    "popularity": 29.991,
+    "poster_path": "/68d28XHYGsU5m9pRkRUUdDKXfbP.jpg",
+    "production_companies": [
+        {
+            "id": 121427,
+            "logo_path": "/rOvuUb2UaKDahx7OqQ1hD4B8Ljk.png",
+            "name": "Imagine Documentaries",
+            "origin_country": "US"
+        },
+        {
+            "id": 3232,
+            "logo_path": "/8KtxMsWLOK6zDTNAfi75yg2QvSt.png",
+            "name": "NFL Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-15",
+            "episode_count": 10,
+            "id": 366151,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/68d28XHYGsU5m9pRkRUUdDKXfbP.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The true story can finally be told.",
+    "type": "Miniseries",
+    "vote_average": 9.2,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "6557b442d051d900e32a4db0",
+            "air_date": "2024-02-15",
+            "episodes": [
+                {
+                    "air_date": "2024-02-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4929898,
+                    "name": "Backup Plan",
+                    "overview": "After Drew Bledsoe suffers a devastating injury, Robert Kraft and Bill Belichick put the hopes of the franchise in sixth-round draft pick Tom Brady.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/2zESLrlcKFG5QYmh1Zb5hYAZ7JY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd506213a388014a9e141c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1242388,
+                            "known_for_department": "Acting",
+                            "name": "Drew Bledsoe",
+                            "original_name": "Drew Bledsoe",
+                            "popularity": 2.075,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd506699259c016324f248",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1034556,
+                            "known_for_department": "Acting",
+                            "name": "Tedy Bruschi",
+                            "original_name": "Tedy Bruschi",
+                            "popularity": 4.281,
+                            "profile_path": "/4ywf4uWR1uoRNCui5lk8ECJtecu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4929899,
+                    "name": "The Snow Bowl",
+                    "overview": "Belichick shocks the world by doubling down on Brady. An icy showdown with the Oakland Raiders redefines what's possible for the Patriots.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/ncl8TuRfsuSf0QIUOEk5uzYpTxn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50793123450162b9e833",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4536780,
+                            "known_for_department": "Acting",
+                            "name": "Ernie Adams",
+                            "original_name": "Ernie Adams",
+                            "popularity": 0.448,
+                            "profile_path": "/rsRT4J4E39whxYU2mZ64p4u7O8P.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd51d1d8af6701878f21c6",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4536788,
+                            "known_for_department": "Acting",
+                            "name": "Tom Brady Sr.",
+                            "original_name": "Tom Brady Sr.",
+                            "popularity": 0.016,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4929900,
+                    "name": "Borrowed Time",
+                    "overview": "In the wake of 9/11, the Patriots emerge on football's biggest stage and face pressure that could unite them—or tear them apart.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/k4sx3ItDtCKjHs9RwI2a9pqk1FM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50c1312345017bb9f2a1",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 32362,
+                            "known_for_department": "Acting",
+                            "name": "Jon Bon Jovi",
+                            "original_name": "Jon Bon Jovi",
+                            "popularity": 18.554,
+                            "profile_path": "/bqZdwRljds92cSvqQcoueBzLyat.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50cbefcea90163a96bb7",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4536782,
+                            "known_for_department": "Acting",
+                            "name": "Jonathan Kraft",
+                            "original_name": "Jonathan Kraft",
+                            "popularity": 0.525,
+                            "profile_path": "/qho0dujUQOCksU0sA0os2LfS4rf.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50f3b046050160d98da2",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1951762,
+                            "known_for_department": "Acting",
+                            "name": "Bill Parcells",
+                            "original_name": "Bill Parcells",
+                            "popularity": 3.041,
+                            "profile_path": "/7YZhtNVwNpLXBd29H0z4P1eJSmt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4929901,
+                    "name": "Spygate",
+                    "overview": "After three Super Bowl wins, the Patriots are accused of videotaping an opponent's sideline signals and things start to spiral.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/xOIohSBpvPOLFCPTgDKUWTuZQai.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50fa6c0b36017b8d5159",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1384983,
+                            "known_for_department": "Acting",
+                            "name": "Randy Moss",
+                            "original_name": "Randy Moss",
+                            "popularity": 1.158,
+                            "profile_path": "/xmrbGLGhyD8R3B5HWVq7pgRBc7m.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd50fe99259c018624fa3d",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2865326,
+                            "known_for_department": "Acting",
+                            "name": "Roger Goodell",
+                            "original_name": "Roger Goodell",
+                            "popularity": 0.247,
+                            "profile_path": "/io99PmThcqZDI1wt9uJROds283x.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4929902,
+                    "name": "Torn",
+                    "overview": "Brady struggles with his impermanence after a catastrophic injury. Belichick faces a test of his leadership and loyalty.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/e2baPGXwl4KNcjXAvWglZZB4Hfr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4929903,
+                    "name": "At All Costs",
+                    "overview": "Facing a crossroads, the Patriots draft Rob Gronkowski and Aaron Hernandez. But tragedy strikes and a murder investigation unfolds.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/7FlYWFCzwSfWqcjqK0FUY28PodL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd5109d7dcd2017c1ddf5f",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1420673,
+                            "known_for_department": "Acting",
+                            "name": "Rob Gronkowski",
+                            "original_name": "Rob Gronkowski",
+                            "popularity": 7.783,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4929904,
+                    "name": "Under Pressure",
+                    "overview": "Envy and jealousy take root, putting Brady and the Patriots at the center of a two-year media spectacle known as Deflategate.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/kDazhQEDaWIy7WG6SD587uHKrrm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd511199259c016324f28a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 109708,
+                            "known_for_department": "Acting",
+                            "name": "Bill Burr",
+                            "original_name": "Bill Burr",
+                            "popularity": 12.414,
+                            "profile_path": "/tlRJmiJ62Sj9RGp0NVCH9FgUr8T.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd5119d8af6701878f2144",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3071200,
+                            "known_for_department": "Acting",
+                            "name": "Danny Amendola",
+                            "original_name": "Danny Amendola",
+                            "popularity": 3.353,
+                            "profile_path": "/aKTOItobhBSQKuOvTiPXiJz3fFz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-07",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4929905,
+                    "name": "Score to Settle",
+                    "overview": "With Jimmy Garoppolo nipping at his heels—and a coach that may not have his back—Brady stages one of the greatest comebacks in sports history.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/51ZREVALhQArSjJsBt3amFf7C80.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd5132312345017bb9f2f4",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4536785,
+                            "known_for_department": "Acting",
+                            "name": "Matthew Slater",
+                            "original_name": "Matthew Slater",
+                            "popularity": 0.143,
+                            "profile_path": "/smuZv3UFBrzXWvuxOvDkarKjf4.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd515c6c0b3601628d4548",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4536787,
+                            "known_for_department": "Acting",
+                            "name": "Nora Princiotti",
+                            "original_name": "Nora Princiotti",
+                            "popularity": 0.322,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65cd517887f3f2017bf429e3",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2337947,
+                            "known_for_department": "Acting",
+                            "name": "Julian Edelman",
+                            "original_name": "Julian Edelman",
+                            "popularity": 6.017,
+                            "profile_path": "/j1XQHGC2SqM8ZHDgKgIfeQJx8nz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-14",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4929906,
+                    "name": "Breaking Point",
+                    "overview": "Tensions boil over when Belichick makes a questionable decision on the biggest stage.",
+                    "production_code": "",
+                    "runtime": 36,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/ljOEWbsZF7OTzt5D9z6f0alf1p0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-14",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4929907,
+                    "name": "End Game",
+                    "overview": "After a decades-long run, the dynasty crumbles.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 239748,
+                    "still_path": "/86bAT1k4BIIq6h5tjjozCasNLRQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557b4da53866e011c088ee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 591401,
+                            "known_for_department": "Editing",
+                            "name": "Matthew Hamachek",
+                            "original_name": "Matthew Hamachek",
+                            "popularity": 5.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 366151,
+            "poster_path": "/68d28XHYGsU5m9pRkRUUdDKXfbP.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

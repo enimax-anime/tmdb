@@ -1,0 +1,215 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2016-06-06",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.investigationdiscovery.com/tv-shows/the-vanishing-women/",
+    "id": 66704,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-08-29",
+    "last_episode_to_air": {
+        "id": 1218609,
+        "name": "What Happened That Night",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-08-29",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 66704,
+        "still_path": null
+    },
+    "name": "The Vanishing Women",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 244,
+            "logo_path": "/3s6YJSYXW9mtJwoszTVI1BHDNc6.png",
+            "name": "Investigation Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Vanishing Women",
+    "overview": "On the surface, Chillicothe, Ohio is the epitome of quintessential Middle America. But this home in the heartland was catapulted into the national spotlight recently for a much darker claim to fame: a string of six young women have gone missing or been found dead in the past year and a half. The women, all in their 20s and 30s, are believed to have known each other and all have ties to the dark underbelly of this small town, leading the local community to fear a serial killer on the loose. With unprecedented access, Investigation Discovery (ID) has teamed with law enforcement, loved ones of the victims, and the community to document the investigation as it unfolds in an effort to bring further attention and help in solving these open cases.",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 58004,
+            "logo_path": "/7MLVM8Q91eTyHDw1jVVUeLIhanz.png",
+            "name": "Sirens Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-06",
+            "episode_count": 6,
+            "id": 77620,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5756a1e6c3a3680cc70027ef",
+            "air_date": "2016-06-06",
+            "episodes": [
+                {
+                    "air_date": "2016-06-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1198232,
+                    "name": "Find Our Daughters",
+                    "overview": "In 2014, four women vanish from Chillicothe, Ohio. When two are later found dead, fears of a serial killer mount when a fifth woman goes missing in 2015. Before police can fully investigate the fifth missing woman, another body is found.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1198234,
+                    "name": "Evil Among Us",
+                    "overview": "Another body is found during the search for the fifth missing woman; and an anonymous tip points the police to a possible suspect within hours.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1198235,
+                    "name": "Dumping Ground",
+                    "overview": "The serial killer's possible dumping ground is discovered when a body is found in the same area as another found a year earlier; and a possible link between the victims is uncovered.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1198236,
+                    "name": "The Sound of Silence",
+                    "overview": "The police discover that one of the missing women knew one of the women found dead; and news of another missing girl sends Chillicothe into a panic.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-07-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1218608,
+                    "name": "In the Shadows",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-08-29",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1218609,
+                    "name": "What Happened That Night",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66704,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 77620,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": "/coRaDRS7e3Jgy4IFqfg3kavOYbq.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-03-05",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.sky.com/watch/title/series/1eb45ea1-e8bf-4567-ba27-fe021b06333a/dublin-narcos-1eb45ea1-e8bf-4567-ba27-fe021b06333a",
+    "id": 220811,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2023-03-19",
+    "last_episode_to_air": {
+        "id": 4246699,
+        "overview": "Crime reporter Veronica Guerin is shot in broad daylight by drug lords, sending shockwaves across the country. Strong language.",
+        "name": "The Untouchables",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-19",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 220811,
+        "still_path": "/gs36J5MJiGOvUt3hztGfE0W8ILL.jpg"
+    },
+    "name": "Dublin Narcos",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3653,
+            "logo_path": "/j1DtfhlOytvbV6QVnrZHT3xBkAP.png",
+            "name": "Sky Crime",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Dublin Narcos",
+    "overview": "Over the 1980s and 1990s Dublin transformed from a recession-blighted backwater to one of the wealthiest cities in Europe. As its fortunes changed so did those of its criminals, who began selling heroin, ecstasy and cocaine. Dublin Narcos tells the story of the rise in addiction, violence and organised crime which persists to this day, with first hand testimony from the kingpins and cops to the ravers and users. We also hear from the fearless journalists whose attempts at exposing the drugs barons led to the death of one of their bravest, Veronica Guerin.",
+    "popularity": 2.987,
+    "poster_path": "/rkvmV3BK5zOAT8Rlfv6E91NqYJv.jpg",
+    "production_companies": [
+        {
+            "id": 79540,
+            "logo_path": null,
+            "name": "Blast!",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-05",
+            "episode_count": 3,
+            "id": 329626,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "63f3bc454a4bfc0079c621b4",
+            "air_date": "2023-03-05",
+            "episodes": [
+                {
+                    "air_date": "2023-03-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4246692,
+                    "name": "Ordinary Decent Criminals",
+                    "overview": "Heroin arrives in 1980s Ireland and sweeps across Dublin. Larry Dunne senses an opportunity and rises to the fore. Strong language.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 220811,
+                    "still_path": "/bBvAUpSXlnaJkerXLXpXpgXjE8W.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4246693,
+                    "name": "The E-Ntrepreneurs",
+                    "overview": "Ecstasy appears on Dublin's streets. As the rave scene grows, so does the demand for E and a new breed of dealer is born. Strong language.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 220811,
+                    "still_path": "/AiKRmYbbqSalUNxJfH80sZcnRHi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4246699,
+                    "name": "The Untouchables",
+                    "overview": "Crime reporter Veronica Guerin is shot in broad daylight by drug lords, sending shockwaves across the country. Strong language.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 220811,
+                    "still_path": "/gs36J5MJiGOvUt3hztGfE0W8ILL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 329626,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

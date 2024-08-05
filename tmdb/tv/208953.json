@@ -1,0 +1,852 @@
+{
+    "adult": false,
+    "backdrop_path": "/5vONUWd7Ii1j5Lc7P4ZmtY6vdN1.jpg",
+    "created_by": [
+        {
+            "id": 1224471,
+            "credit_id": "63081f1d15794a00781617a4",
+            "name": "Judah Miller",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1427948,
+            "credit_id": "64741c93a199a600bf2a5472",
+            "name": "Pete Davidson",
+            "gender": 2,
+            "profile_path": "/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-05-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.peacocktv.com/stream-tv/bupkis",
+    "id": 208953,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-05-04",
+    "last_episode_to_air": {
+        "id": 4340266,
+        "name": "Show Me the Way",
+        "overview": "Pete goes to rehab and finds himself unable to avoid misadventures as his old friend Machine Gun Kelly shows up intent on getting him high. Meanwhile, Pete’s sister Casey is set to graduate without him there.",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2023-05-04",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 208953,
+        "still_path": "/yuELU7D3e6weBmBATt4UASl2ioL.jpg"
+    },
+    "name": "Bupkis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bupkis",
+    "overview": "Pete Davidson attempts to work through unique family dynamics and the complexities of fame to form meaningful relationships.",
+    "popularity": 14.997,
+    "poster_path": "/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg",
+    "production_companies": [
+        {
+            "id": 26727,
+            "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+            "name": "Universal Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 1756,
+            "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+            "name": "Broadway Video",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-05-04",
+            "episode_count": 8,
+            "id": 306081,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 22,
+    "season_data": {
+        "1": {
+            "_id": "63081cef6e938a009237a159",
+            "air_date": "2023-05-04",
+            "episodes": [
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3913169,
+                    "name": "Magic Moment",
+                    "overview": "Pete moves back in with his mom on Staten Island but is sent spiraling when he learns that the family has been dealing with tragic news without him. Pete uses his friends, connections and creativity to make the best of a sad situation.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/259GnlpXPvWJoDVcyOLB578R9ex.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64540e8b091e620144d78ec3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1224471,
+                            "known_for_department": "Writing",
+                            "name": "Judah Miller",
+                            "original_name": "Judah Miller",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64540e9f33ad8f00fef3c4c9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1427948,
+                            "known_for_department": "Acting",
+                            "name": "Pete Davidson",
+                            "original_name": "Pete Davidson",
+                            "popularity": 1.4,
+                            "profile_path": "/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64540eab33ad8f01380da6e5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1906744,
+                            "known_for_department": "Acting",
+                            "name": "Dave Sirus",
+                            "original_name": "Dave Sirus",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Roy",
+                            "credit_id": "6455176133ad8f015547e93f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18,
+                            "known_for_department": "Acting",
+                            "name": "Brad Garrett",
+                            "original_name": "Brad Garrett",
+                            "popularity": 1.4,
+                            "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4006299,
+                    "name": "Do as I Say, Not as I Do",
+                    "overview": "Seven-year-old Pete, his mom and his sister attend his aunt’s wedding just weeks after the death of his father. His uncle Tommy steps in to be there for Pete when he needs him most. In present day, Pete makes sure to be there for Uncle Tommy.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/tTr7KwwuKIhWPayoNhrLsCZsIAE.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Uncle Tommy",
+                            "credit_id": "64551667d48cee00e1344c61",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21127,
+                            "known_for_department": "Acting",
+                            "name": "Bobby Cannavale",
+                            "original_name": "Bobby Cannavale",
+                            "popularity": 1.4,
+                            "profile_path": "/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg"
+                        },
+                        {
+                            "character": "Father Mac",
+                            "credit_id": "64551697091e62016531d2d6",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 884,
+                            "known_for_department": "Acting",
+                            "name": "Steve Buscemi",
+                            "original_name": "Steve Buscemi",
+                            "popularity": 1.4,
+                            "profile_path": "/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4340261,
+                    "name": "Picture",
+                    "overview": "Pete obsesses over an online photograph of himself that an internet troll has been posting, ending up on a dark path as he tries to hunt down the anonymous troll. Pete’s mother, Amy, tries to protect Pete from himself.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/7L5QdQ70vCjWKuWahadrXYULGXI.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Jon Stewart",
+                            "credit_id": "64572279fe077a01733590f2",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 12219,
+                            "known_for_department": "Acting",
+                            "name": "Jon Stewart",
+                            "original_name": "Jon Stewart",
+                            "popularity": 1.4,
+                            "profile_path": "/jmnRMhkms5YAHNb5ZK5ro750vKk.jpg"
+                        },
+                        {
+                            "character": "Glen Rossi",
+                            "credit_id": "645722b81b70ae0145ec71e7",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 95101,
+                            "known_for_department": "Acting",
+                            "name": "Charlie Day",
+                            "original_name": "Charlie Day",
+                            "popularity": 1.4,
+                            "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+                        },
+                        {
+                            "character": "Al Gore",
+                            "credit_id": "6457230e156cc700ffa633b5",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 19013,
+                            "known_for_department": "Acting",
+                            "name": "Al Gore",
+                            "original_name": "Al Gore",
+                            "popularity": 1.4,
+                            "profile_path": "/d94rd5msc0XppeMvhwtONIadYc1.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4340262,
+                    "name": "Crispytown",
+                    "overview": "Pete introduces his crew as they drive to Florida to hopefully perform a gig without any mishaps. The sudden appearance of an eccentric jeweler named “Crispy” kicks off a surreal and possibly hallucinated series of events.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/91UVtTeePYAlJgcCzGIwpqZP3A6.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Roy",
+                            "credit_id": "6455176133ad8f015547e93f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18,
+                            "known_for_department": "Acting",
+                            "name": "Brad Garrett",
+                            "original_name": "Brad Garrett",
+                            "popularity": 1.4,
+                            "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        },
+                        {
+                            "character": "Crispy",
+                            "credit_id": "6459c60a77d23b017037c248",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35548,
+                            "known_for_department": "Acting",
+                            "name": "Simon Rex",
+                            "original_name": "Simon Rex",
+                            "popularity": 1.4,
+                            "profile_path": "/dMji1WByMI5CCw4qVcdGlYYbduE.jpg"
+                        },
+                        {
+                            "character": "Casey",
+                            "credit_id": "6465144c44a42400e4b85277",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2326723,
+                            "known_for_department": "Acting",
+                            "name": "Oona Roche",
+                            "original_name": "Oona Roche",
+                            "popularity": 1.4,
+                            "profile_path": "/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4340263,
+                    "name": "For Your Amusement",
+                    "overview": "Pete wants to be a father, but only his mother supports the idea. Pete spends the day with a child at an amusement park to see what being a dad is like, while Amy pursues multiple angles to help make Pete a dad as soon as possible.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/jXhZWPWhc94OjQ4298m6m6G00aD.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Uncle Tommy",
+                            "credit_id": "64551667d48cee00e1344c61",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21127,
+                            "known_for_department": "Acting",
+                            "name": "Bobby Cannavale",
+                            "original_name": "Bobby Cannavale",
+                            "popularity": 1.4,
+                            "profile_path": "/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg"
+                        },
+                        {
+                            "character": "Roy",
+                            "credit_id": "6455176133ad8f015547e93f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18,
+                            "known_for_department": "Acting",
+                            "name": "Brad Garrett",
+                            "original_name": "Brad Garrett",
+                            "popularity": 1.4,
+                            "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        },
+                        {
+                            "character": "Nikki",
+                            "credit_id": "6457a03c156cc7015e763386",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420169,
+                            "known_for_department": "Acting",
+                            "name": "Chase Sui Wonders",
+                            "original_name": "Chase Sui Wonders",
+                            "popularity": 1.4,
+                            "profile_path": "/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
+                        },
+                        {
+                            "character": "Casey",
+                            "credit_id": "6465144c44a42400e4b85277",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2326723,
+                            "known_for_department": "Acting",
+                            "name": "Oona Roche",
+                            "original_name": "Oona Roche",
+                            "popularity": 1.4,
+                            "profile_path": "/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4340264,
+                    "name": "ISO",
+                    "overview": "Pete is miserable after getting stuck in Canada on Christmas to film a war movie. He wanders the strange, small town searching for a way to improve his mood until receiving a bizarre and probably hallucinated visit from a beloved celebrity.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/dPzjsUs4xbdCaVEwiV545mMUuPl.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Roy",
+                            "credit_id": "6455176133ad8f015547e93f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18,
+                            "known_for_department": "Acting",
+                            "name": "Brad Garrett",
+                            "original_name": "Brad Garrett",
+                            "popularity": 1.4,
+                            "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        },
+                        {
+                            "character": "Ray Romano",
+                            "credit_id": "6457a057156cc700e39d19fd",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 15757,
+                            "known_for_department": "Acting",
+                            "name": "Ray Romano",
+                            "original_name": "Ray Romano",
+                            "popularity": 1.4,
+                            "profile_path": "/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+                        },
+                        {
+                            "character": "Referee",
+                            "credit_id": "6460f599e3fa2f0103a13a1f",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 77330,
+                            "known_for_department": "Acting",
+                            "name": "Kenan Thompson",
+                            "original_name": "Kenan Thompson",
+                            "popularity": 1.4,
+                            "profile_path": "/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+                        },
+                        {
+                            "character": "Monica",
+                            "credit_id": "6460f611a672540164de2328",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1375002,
+                            "known_for_department": "Acting",
+                            "name": "Sunita Mani",
+                            "original_name": "Sunita Mani",
+                            "popularity": 1.4,
+                            "profile_path": "/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+                        },
+                        {
+                            "character": "Casey",
+                            "credit_id": "6465144c44a42400e4b85277",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2326723,
+                            "known_for_department": "Acting",
+                            "name": "Oona Roche",
+                            "original_name": "Oona Roche",
+                            "popularity": 1.4,
+                            "profile_path": "/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
+                        },
+                        {
+                            "character": "Sebastian Stan",
+                            "credit_id": "64fb44b1dc1cb401028cf517",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 60898,
+                            "known_for_department": "Acting",
+                            "name": "Sebastian Stan",
+                            "original_name": "Sebastian Stan",
+                            "popularity": 1.4,
+                            "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4340265,
+                    "name": "Borgnine",
+                    "overview": "The Canadian drugs take their toll on Pete, who manages to offend his entire family on a solemn occasion. His only choice is to go to rehab, but first he must meet with several people in his life to tell them that he’s going away.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/iEc2C8EQJiUqAtPOU7m8mOpWZTQ.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Roy",
+                            "credit_id": "6455176133ad8f015547e93f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18,
+                            "known_for_department": "Acting",
+                            "name": "Brad Garrett",
+                            "original_name": "Brad Garrett",
+                            "popularity": 1.4,
+                            "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        },
+                        {
+                            "character": "Ray Romano",
+                            "credit_id": "6457a057156cc700e39d19fd",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 15757,
+                            "known_for_department": "Acting",
+                            "name": "Ray Romano",
+                            "original_name": "Ray Romano",
+                            "popularity": 1.4,
+                            "profile_path": "/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+                        },
+                        {
+                            "character": "John Mulaney",
+                            "credit_id": "6457a08c6c84920181871cef",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 933558,
+                            "known_for_department": "Acting",
+                            "name": "John Mulaney",
+                            "original_name": "John Mulaney",
+                            "popularity": 1.4,
+                            "profile_path": "/fag9JGgIVSeraG4FQ4WSmq4qCIA.jpg"
+                        },
+                        {
+                            "character": "Casey",
+                            "credit_id": "6465144c44a42400e4b85277",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2326723,
+                            "known_for_department": "Acting",
+                            "name": "Oona Roche",
+                            "original_name": "Oona Roche",
+                            "popularity": 1.4,
+                            "profile_path": "/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4340266,
+                    "name": "Show Me the Way",
+                    "overview": "Pete goes to rehab and finds himself unable to avoid misadventures as his old friend Machine Gun Kelly shows up intent on getting him high. Meanwhile, Pete’s sister Casey is set to graduate without him there.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 208953,
+                    "still_path": "/yuELU7D3e6weBmBATt4UASl2ioL.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64540e7c091e620144d78eba",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561688,
+                            "known_for_department": "Directing",
+                            "name": "Jason Orley",
+                            "original_name": "Jason Orley",
+                            "popularity": 1.4,
+                            "profile_path": "/w3p2aqRuDJMrN5riSKwK3roXyF1.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Evan",
+                            "credit_id": "64579f821b70ae00e2ab2e18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 211991,
+                            "known_for_department": "Acting",
+                            "name": "Philip Ettinger",
+                            "original_name": "Philip Ettinger",
+                            "popularity": 1.4,
+                            "profile_path": "/bkAEduLHkQg1AZmempKPLpoqibA.jpg"
+                        },
+                        {
+                            "character": "Ray Romano",
+                            "credit_id": "6457a057156cc700e39d19fd",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 15757,
+                            "known_for_department": "Acting",
+                            "name": "Ray Romano",
+                            "original_name": "Ray Romano",
+                            "popularity": 1.4,
+                            "profile_path": "/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+                        },
+                        {
+                            "character": "Casey",
+                            "credit_id": "6465144c44a42400e4b85277",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2326723,
+                            "known_for_department": "Acting",
+                            "name": "Oona Roche",
+                            "original_name": "Oona Roche",
+                            "popularity": 1.4,
+                            "profile_path": "/qxYwNTSfyz6ZJHw4t7dmyfAcQoT.jpg"
+                        },
+                        {
+                            "character": "Priest",
+                            "credit_id": "6465145f44a42401452e0232",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1706314,
+                            "known_for_department": "Acting",
+                            "name": "Charlamagne Tha God",
+                            "original_name": "Charlamagne Tha God",
+                            "popularity": 1.4,
+                            "profile_path": "/qiX7nuYVffR1IXKt4v2RS2KXDsn.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 306081,
+            "poster_path": "/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        }
+    }
+}

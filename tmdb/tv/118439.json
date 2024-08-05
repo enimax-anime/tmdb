@@ -1,0 +1,360 @@
+{
+    "adult": false,
+    "backdrop_path": "/6YiBTAPjp9ia7tsxDbcc4xQ2SgB.jpg",
+    "created_by": [
+        {
+            "id": 1131475,
+            "credit_id": "60256a0eaf58cb003da4c543",
+            "name": "Jeremy Konner",
+            "gender": 2,
+            "profile_path": "/n41l9HW85QveI29tje7w34ltKp.jpg"
+        },
+        {
+            "id": 1226571,
+            "credit_id": "60256a06ef9d7200405925dc",
+            "name": "Erika Thormahlen",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2021-03-16",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81035680",
+    "id": 118439,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-16",
+    "last_episode_to_air": {
+        "id": 2799364,
+        "name": "Water",
+        "overview": "A special dinner to say thank you to all the friends they've made sends Waffles and Mochi in search of water — the world's most important ingredient.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-03-16",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 29,
+        "season_number": 1,
+        "show_id": 118439,
+        "still_path": "/7HVejEww3cziZ6ClZPzu1lfjy05.jpg"
+    },
+    "name": "Waffles + Mochi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Waffles + Mochi",
+    "overview": "Curious puppet pals Waffles and Mochi travel the world exploring the wonders of food and culture while learning how to cook with fresh ingredients.",
+    "popularity": 5.976,
+    "poster_path": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+    "production_companies": [
+        {
+            "id": 122147,
+            "logo_path": "/eotra9uY7zyivEzDL4bFdn7Elm4.png",
+            "name": "Higher Ground",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-23",
+            "episode_count": 1,
+            "id": 217968,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-03-16",
+            "episode_count": 10,
+            "id": 180656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Hungry for adventure.",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 33,
+    "season_data": {
+        "1": {
+            "_id": "60229ddedd2589003db8873a",
+            "air_date": "2021-03-16",
+            "episodes": [
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2719122,
+                    "name": "Tomato",
+                    "overview": "Is a tomato a fruit or a vegetable? To find out, Waffles and Mochi try pasta with tomato \"candy,\" yummy pizza and a cold soup called gazpacho.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/ng8Y4ThDeopn79WhVP0QlxZntBa.jpg",
+                    "vote_average": 9,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2799356,
+                    "name": "Salt",
+                    "overview": "Salt can make our taste buds sing — but too much of it on top of Mrs. O's favorite cookies is a terrible thing! Turns out a little bit goes a long way.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/p5KvVMv0wKF6YxNw33MCSAClLvs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2799357,
+                    "name": "Potato",
+                    "overview": "With potato sales plummeting at the market, Waffles and Mochi take to the skies to learn about spuds and the delicious things you can do with them.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/fyyO4AHDPWaRy2wg7nIgoPM9az0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Boy (voice)",
+                            "credit_id": "63d4a6d920e6a5007b00587b",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3203826,
+                            "known_for_department": "Acting",
+                            "name": "Ian Sharkey",
+                            "original_name": "Ian Sharkey",
+                            "popularity": 5.837,
+                            "profile_path": "/qK01I306dlZuH0ZuJ0qj8i990vT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2799358,
+                    "name": "Pickles",
+                    "overview": "Waffles dropped the store's last jar of pickles and needs to replace them... fast! But pickling is a process that, like all good things, takes time.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/2tW3EFNGLTVQCzj0bEQaswN2ZNu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2799359,
+                    "name": "Rice",
+                    "overview": "Waffles helps Mochi trace his family tree to find out where he came from, only to discover a surprising ancestor — rice — with a fascinating history.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/dOOj9nnseIWjm5MCRMhhficXE2u.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2799360,
+                    "name": "Egg",
+                    "overview": "Mrs. O sends Waffles and Mochi on an epic hunt around the world to find four different kinds of eggs for her friend, a famous chef. Time to get cracking!",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/sKG4FVWVSbCcvOphlpJ35RmWd87.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6181d255af6e9400433bff3a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1937769,
+                            "known_for_department": "Acting",
+                            "name": "Lincoln Bonilla",
+                            "original_name": "Lincoln Bonilla",
+                            "popularity": 9.173,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2799361,
+                    "name": "Herbs & Spices",
+                    "overview": "Herbs and spices are flying off the shelves at the supermarket — but so is all the color! Can Waffles and Mochi fix it before Mrs. O finds out?",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/4jYGl8eVRgNfWFouUnKq2HNavpq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2799362,
+                    "name": "Corn",
+                    "overview": "A cooking contest challenges Waffles and Mochi to make the tastiest corn dish they can. But to win, they'll need to do some serious research.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/dWk3SKiSBgcr0Z0x4qoX97lVjrn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Boy (voice)",
+                            "credit_id": "63d4a6d920e6a5007b00587b",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3203826,
+                            "known_for_department": "Acting",
+                            "name": "Ian Sharkey",
+                            "original_name": "Ian Sharkey",
+                            "popularity": 5.837,
+                            "profile_path": "/qK01I306dlZuH0ZuJ0qj8i990vT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2799363,
+                    "name": "Mushroom",
+                    "overview": "Waffles and Mochi face their fears on a mission to find more mushrooms for the store by talking to experts who are putting the \"fun\" in fungi.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/odkPfmJTtFOwJYa8mNFGvWdRKB6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-16",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2799364,
+                    "name": "Water",
+                    "overview": "A special dinner to say thank you to all the friends they've made sends Waffles and Mochi in search of water — the world's most important ingredient.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 118439,
+                    "still_path": "/7HVejEww3cziZ6ClZPzu1lfjy05.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Boy (voice)",
+                            "credit_id": "63d4a6d920e6a5007b00587b",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3203826,
+                            "known_for_department": "Acting",
+                            "name": "Ian Sharkey",
+                            "original_name": "Ian Sharkey",
+                            "popularity": 5.837,
+                            "profile_path": "/qK01I306dlZuH0ZuJ0qj8i990vT.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 180656,
+            "poster_path": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    }
+}

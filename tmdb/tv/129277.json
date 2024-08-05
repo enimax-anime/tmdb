@@ -1,0 +1,1846 @@
+{
+    "adult": false,
+    "backdrop_path": "/xghxPaVXwSRLTRLkTXRQVx9NSAe.jpg",
+    "created_by": [
+        {
+            "id": 25147,
+            "credit_id": "62533c68b6c264250c89e108",
+            "name": "Tony Hale",
+            "original_name": "Tony Hale",
+            "gender": 2,
+            "profile_path": "/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+        },
+        {
+            "id": 1708842,
+            "credit_id": "62611098dfaae932d329e92c",
+            "name": "Drew Champion",
+            "original_name": "Drew Champion",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3516534,
+            "credit_id": "6261109e168ea31557cec606",
+            "name": "Jacob Moffat",
+            "original_name": "Jacob Moffat",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-02-18",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 129277,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-10-14",
+    "last_episode_to_air": {
+        "id": 3360085,
+        "overview": "",
+        "name": "The Time Disrupter (2)",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-10-14",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 129277,
+        "still_path": null
+    },
+    "name": "Archibald's Next Big Thing Is Here",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 48,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Archibald's Next Big Thing Is Here",
+    "overview": "A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.",
+    "popularity": 104.195,
+    "poster_path": "/iC5Fv1960uNPD41D7GX6JnhzA7D.jpg",
+    "production_companies": [
+        {
+            "id": 42141,
+            "logo_path": "/3DWUezrpxTqVMW4oKRhzfqJbULK.png",
+            "name": "DreamWorks Animation Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-18",
+            "episode_count": 12,
+            "id": 202569,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-04-22",
+            "episode_count": 12,
+            "id": 202570,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-07-15",
+            "episode_count": 12,
+            "id": 202571,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-10-14",
+            "episode_count": 12,
+            "id": 221473,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "60f21edfe8a3e100296ede85",
+            "air_date": "2021-02-18",
+            "episodes": [
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3078278,
+                    "name": "A Tiny Problem",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3078279,
+                    "name": "Changing Lanes",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3078280,
+                    "name": "Switched!",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3078281,
+                    "name": "Free-Range Chickens",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261138ce61e6d0066237325",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3386325,
+                            "known_for_department": "Writing",
+                            "name": "Kevin Kramer",
+                            "original_name": "Kevin Kramer",
+                            "popularity": 2.182,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3078282,
+                    "name": "The Fluffberg Method",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3078283,
+                    "name": "Singing Tele-Grammers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3360039,
+                    "name": "Farewell, General Sherwood",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3360041,
+                    "name": "Zoom Boomer",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3360042,
+                    "name": "Egg's Day Out",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3360045,
+                    "name": "The Way of the Snake",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3360046,
+                    "name": "Castles and Caves (1)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3360048,
+                    "name": "Castles and Caves (2)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 202569,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "60f21f751d78f2002f704c5c",
+            "air_date": "2021-04-22",
+            "episodes": [
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3078284,
+                    "name": "Unpoppable",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62611653dfaae932d59a614e",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1875294,
+                            "known_for_department": "Acting",
+                            "name": "Haley Mancini",
+                            "original_name": "Haley Mancini",
+                            "popularity": 5.077,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3078285,
+                    "name": "Slumber Party Hard",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3078286,
+                    "name": "Maximum Overdue",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3078287,
+                    "name": "Gator's Giving",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3078288,
+                    "name": "Crazy Maze",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3078289,
+                    "name": "Super Sneaks",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3360059,
+                    "name": "Robo Family",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3360060,
+                    "name": "The Phantom of Pointy Peak!",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62611020168ea31557cec4f6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1113274,
+                            "known_for_department": "Writing",
+                            "name": "Benjamin Siemon",
+                            "original_name": "Benjamin Siemon",
+                            "popularity": 4.176,
+                            "profile_path": "/gJT0QRFt4FLQ9cCVvMytb7rgsCP.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3360061,
+                    "name": "The Tooth Pirate",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3360062,
+                    "name": "Zups",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3360063,
+                    "name": "A Star Is Hatched",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-22",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3360064,
+                    "name": "Say Cheese",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 202570,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "60f21f7d7b7b4d00455463fe",
+            "air_date": "2021-07-15",
+            "episodes": [
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3078290,
+                    "name": "Win a Day with Nitro Ned",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3078291,
+                    "name": "Lil' Chickies",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3078292,
+                    "name": "Something Old, Something New",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3078293,
+                    "name": "The Ghoster",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3078294,
+                    "name": "The Saddle-Ridge Cup",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3078295,
+                    "name": "Mayor Brock",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610f6e7caa4714b341b001",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516617,
+                            "known_for_department": "Writing",
+                            "name": "Ellie Guzman",
+                            "original_name": "Ellie Guzman",
+                            "popularity": 1.766,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3360065,
+                    "name": "Skunked!",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62611020168ea31557cec4f6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1113274,
+                            "known_for_department": "Writing",
+                            "name": "Benjamin Siemon",
+                            "original_name": "Benjamin Siemon",
+                            "popularity": 4.176,
+                            "profile_path": "/gJT0QRFt4FLQ9cCVvMytb7rgsCP.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3360066,
+                    "name": "Neighborhood Bird Watch",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261104daf432400963d49d5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2215584,
+                            "known_for_department": "Writing",
+                            "name": "Nicole Belisle",
+                            "original_name": "Nicole Belisle",
+                            "popularity": 2.783,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3360068,
+                    "name": "Tumbleweed Wrangler",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3360069,
+                    "name": "The Extreme Bean Machine",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3360070,
+                    "name": "The Undeliverables",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-15",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3360071,
+                    "name": "Johnny Hawkstorm: Two Birds, One Stone",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 202571,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        "4": {
+            "_id": "61a5ad3815c63600437e395d",
+            "air_date": "2021-10-14",
+            "episodes": [
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3360072,
+                    "name": "See You Next Pluesday",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3360073,
+                    "name": "The Doppelganger",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3360075,
+                    "name": "8-Bit of Trouble",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3360077,
+                    "name": "Founding Feathers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3360078,
+                    "name": "Primetime Wendi Powers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3360079,
+                    "name": "A Giant Problem",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610f6e7caa4714b341b001",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516617,
+                            "known_for_department": "Writing",
+                            "name": "Ellie Guzman",
+                            "original_name": "Ellie Guzman",
+                            "popularity": 1.766,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3360080,
+                    "name": "Earl Trappercorn",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3360081,
+                    "name": "Queen Bea",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3360082,
+                    "name": "King of Camp",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e82168ea3155673c3d7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2148368,
+                            "known_for_department": "Production",
+                            "name": "Noëlle Lara",
+                            "original_name": "Noëlle Lara",
+                            "popularity": 3.255,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3360083,
+                    "name": "Dancing Disco Zombies",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610e3f6eecee13a6ce92c2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516577,
+                            "known_for_department": "Writing",
+                            "name": "Charlie Shoup",
+                            "original_name": "Charlie Shoup",
+                            "popularity": 0.835,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3360084,
+                    "name": "The Time Disrupter (1)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6261119b322b2b00a106f125",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229448,
+                            "known_for_department": "Directing",
+                            "name": "Eric Fogel",
+                            "original_name": "Eric Fogel",
+                            "popularity": 4.424,
+                            "profile_path": "/bLMOM2SekH76QUJWDkF4OP6tXq2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-14",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3360085,
+                    "name": "The Time Disrupter (2)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 129277,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ecc57530e087a387264",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1708842,
+                            "known_for_department": "Acting",
+                            "name": "Drew Champion",
+                            "original_name": "Drew Champion",
+                            "popularity": 1.486,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62610ed8af43240050d66b65",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3516534,
+                            "known_for_department": "Writing",
+                            "name": "Jacob Moffat",
+                            "original_name": "Jacob Moffat",
+                            "popularity": 2.52,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 4",
+            "overview": "",
+            "id": 221473,
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 0
+        }
+    }
+}

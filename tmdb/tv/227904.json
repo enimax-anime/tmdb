@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": "/mxTdn7W4fAgr69L7gLTIouFfmiQ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-06-04",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 227904,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-04",
+    "last_episode_to_air": {
+        "id": 4494982,
+        "name": "Episode 2",
+        "overview": "Haiyaa Episode 2.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-04",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 227904,
+        "still_path": null
+    },
+    "name": "Nigel Ng's East Mode",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Nigel Ng: The HAIYAA Special",
+    "overview": "Uncle Roger and his nephew Nigel Ng present The HAIYAA Special, filmed on their sold out world tour. In this two-part special, Uncle Roger roasts the crowd, while Nigel delivers side-splitting commentary on life and culture. Allergic to MSG and inappropriate jokes? You've been warned.",
+    "popularity": 7.104,
+    "poster_path": "/mrCWCqLWEHnGu99dAZbDCGBIekZ.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-04",
+            "episode_count": 2,
+            "id": 343774,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "647ccea9cf4b8b00c3d2ca91",
+            "air_date": "2023-06-04",
+            "episodes": [
+                {
+                    "air_date": "2023-06-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4494978,
+                    "name": "Episode 1",
+                    "overview": "Haiyaa Episode 1.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227904,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4494982,
+                    "name": "Episode 2",
+                    "overview": "Haiyaa Episode 2.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227904,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 343774,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

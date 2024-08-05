@@ -1,0 +1,98 @@
+{
+    "adult": false,
+    "backdrop_path": "/cbDbMfRr1bAsHhjMcXi02Ryi0oC.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2014-01-15",
+    "genres": [],
+    "homepage": "",
+    "id": 64925,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2014-01-15",
+    "last_episode_to_air": {
+        "id": 1151870,
+        "name": "Strangers in a Strange Land",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2014-01-15",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 64925,
+        "still_path": null
+    },
+    "name": "The Ultimate Fighter: Nations",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Ultimate Fighter: Nations",
+    "overview": "",
+    "popularity": 0.417,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-01-15",
+            "episode_count": 1,
+            "id": 73220,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "568685dec3a3683628007184",
+            "air_date": "2014-01-15",
+            "episodes": [
+                {
+                    "air_date": "2014-01-15",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1151870,
+                    "name": "Strangers in a Strange Land",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 64925,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 73220,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}
