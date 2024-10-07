@@ -1,0 +1,356 @@
+{
+    "adult": false,
+    "backdrop_path": "/tiBJEHOQSvkBPoqrX6JWcVHAwOH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2019-10-27",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.itv.com/hub/killer-camp/2a7535",
+    "id": 105618,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-12-08",
+    "last_episode_to_air": {
+        "id": 3448817,
+        "name": "Episode 8",
+        "overview": "The campmates vote as to who they think the Killer is. Will the innocents win, or will the Killer fool everyone?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-12-08",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 2,
+        "show_id": 105618,
+        "still_path": null
+    },
+    "name": "Killer Camp",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 149,
+            "logo_path": "/wbGo5nGjF0nFxTajmY5WOZVAEQM.png",
+            "name": "ITV2",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Killer Camp",
+    "overview": "In this five-part reality event series, 11 British strangers are shocked to discover they are not going on a fun new reality show called “Summer Camp’” but actually participating in a horror whodunnit. Each night someone will be ‘murdered’ – and they must determine who the secret murderer is amongst them.",
+    "popularity": 17.294,
+    "poster_path": "/4g2cWtc5UNF7g7fHzLb7Qw2QbW5.jpg",
+    "production_companies": [
+        {
+            "id": 141368,
+            "logo_path": null,
+            "name": "Tuesday's Child",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-27",
+            "episode_count": 5,
+            "id": 155390,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4g2cWtc5UNF7g7fHzLb7Qw2QbW5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-29",
+            "episode_count": 8,
+            "id": 215465,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Don't lose your head.",
+    "type": "Reality",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5f00129151c01f003537893a",
+            "air_date": "2019-10-27",
+            "episodes": [
+                {
+                    "air_date": "2019-10-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2336846,
+                    "name": "Episode 1",
+                    "overview": "The crew settles into life at Camp Pleasant, tackling slippery slopes, facing electrocution, and battling for immunity, all the while wondering who will become the killer's first victim.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4603270,
+                    "name": "Episode 2",
+                    "overview": "The campmates try to recover from the previous night's shocking killing as their suspicions see bromances broken and alliances fudged - before someone is murdered.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4603272,
+                    "name": "Episode 3",
+                    "overview": "The campfire brings another shocking twist as the camp votes for who they think the killer is for the first time, before another victim is brutally claimed.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4603274,
+                    "name": "Episode 4",
+                    "overview": "The campers blindly put their hands inside terrifying boxes for cash, smack each other with soaking dodgeballs and target those they don't trust with buckets of blood.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-11-24",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 4603294,
+                    "name": "Episode 5",
+                    "overview": "Season Finale: The campmates view one last time for who they think the killer amongst them is. Will they expose the murderous snake in their midst of will the killer be victorious and walk away with the cash prize?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 155390,
+            "poster_path": "/4g2cWtc5UNF7g7fHzLb7Qw2QbW5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "61666e6153866e006803ee4b",
+            "air_date": "2021-11-29",
+            "episodes": [
+                {
+                    "air_date": "2021-11-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3279853,
+                    "name": "Episode 1",
+                    "overview": "The 13 new campmates arrive at Camp Pleasant for a reality show with a brutal horror twist. Bromances blossom, a risky love triangle forms and one Camper finds their time is up.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3279854,
+                    "name": "Episode 2",
+                    "overview": "The campmates are still reeling from the previous night's shocking 'murder'. The survivors sink to new depths to win cash before battling for immunity from being killed.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3279855,
+                    "name": "Episode 3",
+                    "overview": "It's vote-off day in Camp Pleasant and the innocent campmates have their first opportunity to expose the killer in their ranks.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3448813,
+                    "name": "Episode 4",
+                    "overview": "The previous episode's dramatic vote-off sends shockwaves through the camp while a surprising new romance blossoms.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3448814,
+                    "name": "Episode 5",
+                    "overview": "Only nine campers remain as a shocking twist leads to accusations getting personal. A demented see-saw game sees the campers become increasingly unbalanced.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-06",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3448815,
+                    "name": "Episode 6",
+                    "overview": "The campers are forced to eat their words in a disgusting food challenge for cash before entering Bruce's House of Horrors to find more clues to the Killer's identity.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3448816,
+                    "name": "Episode 7",
+                    "overview": "The survivors become a crazed yearbook committee in a challenge with 10,000 dollars at stake, before the Killer claims their final victim.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-08",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3448817,
+                    "name": "Episode 8",
+                    "overview": "The campmates vote as to who they think the Killer is. Will the innocents win, or will the Killer fool everyone?",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 105618,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 215465,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

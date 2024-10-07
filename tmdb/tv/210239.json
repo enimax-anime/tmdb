@@ -1,0 +1,635 @@
+{
+    "adult": false,
+    "backdrop_path": "/7PRW7HFrD6hpD8nL7YEgWKG8i1F.jpg",
+    "created_by": [
+        {
+            "id": 1181304,
+            "credit_id": "632218d5db154f00985fd8a8",
+            "name": "Aaron Zelman",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1213125,
+            "credit_id": "632218e7297338007bb8218e",
+            "name": "Paul Lieberstein",
+            "gender": 2,
+            "profile_path": "/oLCaNVAw5cfE5q4e0PRsmHTuHfd.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-03-19",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.amc.com/shows/lucky-hank--1061358",
+    "id": 210239,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-05-07",
+    "last_episode_to_air": {
+        "id": 4227541,
+        "name": "The Chopping Block",
+        "overview": "Hank is faced with an impossible decision at work, as his department’s jobs are on the line. Lily settles into a new normal in New York.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2023-05-07",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 210239,
+        "still_path": "/vZw1iYE6zBTTvWhJ07X0UoTqYLP.jpg"
+    },
+    "name": "Lucky Hank",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 174,
+            "logo_path": "/alqLicR1ZMHMaZGP3xRQxn9sq7p.png",
+            "name": "AMC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lucky Hank",
+    "overview": "A mid-life crisis tale about the unlikely chairman of the English department in a badly underfunded college in the Pennsylvania rust belt.",
+    "popularity": 22.122,
+    "poster_path": "/eKYPaXerPYUhmCsGlk8KlGkrIc9.jpg",
+    "production_companies": [
+        {
+            "id": 8609,
+            "logo_path": "/aX7HQqzdIV7ttd90u4L1H643ZNa.png",
+            "name": "TriStar Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 2605,
+            "logo_path": null,
+            "name": "Gran Via Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 11073,
+            "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+            "name": "Sony Pictures Television Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-19",
+            "episode_count": 8,
+            "id": 308645,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eKYPaXerPYUhmCsGlk8KlGkrIc9.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.8,
+    "vote_count": 30,
+    "season_data": {
+        "1": {
+            "_id": "632215a03d3557008e921bbd",
+            "air_date": "2023-03-19",
+            "episodes": [
+                {
+                    "air_date": "2023-03-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3955147,
+                    "name": "Pilot",
+                    "overview": "Hank rants against Railton College, calling it \"Mediocrity’s Capitol,\" and the administration is pressured to fire him. Hank and Lily contemplate a future outside of Railton.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/6BuGcpN7JKvrtOfb3O2x0SZSvXA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643060b31f98d101cba5d9f1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 7396,
+                            "known_for_department": "Directing",
+                            "name": "Peter Farrelly",
+                            "original_name": "Peter Farrelly",
+                            "popularity": 8.908,
+                            "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f295c0af00b621bee1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1213125,
+                            "known_for_department": "Writing",
+                            "name": "Paul Lieberstein",
+                            "original_name": "Paul Lieberstein",
+                            "popularity": 8.738,
+                            "profile_path": "/oLCaNVAw5cfE5q4e0PRsmHTuHfd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f89a643506f1afdf5d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1181304,
+                            "known_for_department": "Writing",
+                            "name": "Aaron Zelman",
+                            "original_name": "Aaron Zelman",
+                            "popularity": 1.14,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Original Music Composer",
+                            "department": "Sound",
+                            "credit_id": "64458917c8f3c404c9447cd7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1280070,
+                            "known_for_department": "Sound",
+                            "name": "Dave Porter",
+                            "original_name": "Dave Porter",
+                            "popularity": 1.248,
+                            "profile_path": "/flRW9QknVtU8HG7lLjMvflbhl2a.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bartow",
+                            "credit_id": "654c324b5a5ed000c6acbddb",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3489398,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Kelly",
+                            "original_name": "Jackson Kelly",
+                            "popularity": 2.002,
+                            "profile_path": "/dYZGRFn2wenyzYEERzDqInfb1zM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4197007,
+                    "name": "George Saunders",
+                    "overview": "When George Saunders visits Railton College, the professors scramble to impress the celebrated writer, while Hank is reminded of his own failed writing career. Hank and Lily anticipate an announcement from their daughter Julie.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/rZaSDY5JtWoeCPfu9ZT0K1Cj2X3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643060b31f98d101cba5d9f1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 7396,
+                            "known_for_department": "Directing",
+                            "name": "Peter Farrelly",
+                            "original_name": "Peter Farrelly",
+                            "popularity": 8.908,
+                            "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f295c0af00b621bee1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1213125,
+                            "known_for_department": "Writing",
+                            "name": "Paul Lieberstein",
+                            "original_name": "Paul Lieberstein",
+                            "popularity": 8.738,
+                            "profile_path": "/oLCaNVAw5cfE5q4e0PRsmHTuHfd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f89a643506f1afdf5d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1181304,
+                            "known_for_department": "Writing",
+                            "name": "Aaron Zelman",
+                            "original_name": "Aaron Zelman",
+                            "popularity": 1.14,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Student",
+                            "credit_id": "645e84319590e301016c360f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4058643,
+                            "known_for_department": "Acting",
+                            "name": "Shorya Lamba",
+                            "original_name": "Shorya Lamba",
+                            "popularity": 1.026,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "YMCA moderator",
+                            "credit_id": "654126d54557a000c6b4af59",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1154275,
+                            "known_for_department": "Acting",
+                            "name": "Bradley Duffy",
+                            "original_name": "Bradley Duffy",
+                            "popularity": 0.792,
+                            "profile_path": "/tBLY7lluvQEhXWEjUphNBZ6oEfF.jpg"
+                        },
+                        {
+                            "character": "Bartow",
+                            "credit_id": "654c324b5a5ed000c6acbddb",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3489398,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Kelly",
+                            "original_name": "Jackson Kelly",
+                            "popularity": 2.002,
+                            "profile_path": "/dYZGRFn2wenyzYEERzDqInfb1zM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4227536,
+                    "name": "Escape",
+                    "overview": "Hank spirals when a storage pod full of his father’s belongings is dropped in his front yard. The professors spiral when rumors of budget cuts threaten their tenured jobs.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/h9L3SkjCeGNJECP06L9Kh48Y2dG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64306131e92d8300b6e4465f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1219575,
+                            "known_for_department": "Writing",
+                            "name": "Adam Barr",
+                            "original_name": "Adam Barr",
+                            "popularity": 1.199,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6430619fb076e50097f61602",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223735,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Attias",
+                            "original_name": "Daniel Attias",
+                            "popularity": 2.29,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bartow",
+                            "credit_id": "654c324b5a5ed000c6acbddb",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3489398,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Kelly",
+                            "original_name": "Jackson Kelly",
+                            "popularity": 2.002,
+                            "profile_path": "/dYZGRFn2wenyzYEERzDqInfb1zM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4227537,
+                    "name": "The Goose Boxer",
+                    "overview": "Amid firing rumors, the professors look to the union to protect their jobs, while Hank tries a different approach. Lily interviews for a job at a prestigious New York prep school.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/oiR5ZFig6l9hXYANmcq6T72uXN4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6430619fb076e50097f61602",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223735,
+                            "known_for_department": "Directing",
+                            "name": "Daniel Attias",
+                            "original_name": "Daniel Attias",
+                            "popularity": 2.29,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643061c331032501036e7eaa",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2116105,
+                            "known_for_department": "Writing",
+                            "name": "Emma Barrie",
+                            "original_name": "Emma Barrie",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4227538,
+                    "name": "The Clock",
+                    "overview": "Hank and Lily host the annual English department dinner. Lily has a decision to make. Hank’s past involving his troubled relationship with his father catches up to him.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/j0ga2Dzzhp3j78l3BBqqnwX6FAH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643062441b72940110bd3d60",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1711826,
+                            "known_for_department": "Directing",
+                            "name": "Jude Weng",
+                            "original_name": "Jude Weng",
+                            "popularity": 1.37,
+                            "profile_path": "/5z3euqstdxG10KzbrUNMCqKeUoS.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6430624d1b729400b32584c9",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3109789,
+                            "known_for_department": "Writing",
+                            "name": "Jean Kyoung Frazier",
+                            "original_name": "Jean Kyoung Frazier",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-23",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4227539,
+                    "name": "The Arrival",
+                    "overview": "Hank and Tony travel to an academic conference, where their differing philosophies on work and life cause friction. Lily mediates trouble in Julie and Russell’s marriage.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/3VlxqezwoLRVLpRSCVkC4R9MgMk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643062441b72940110bd3d60",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1711826,
+                            "known_for_department": "Directing",
+                            "name": "Jude Weng",
+                            "original_name": "Jude Weng",
+                            "popularity": 1.37,
+                            "profile_path": "/5z3euqstdxG10KzbrUNMCqKeUoS.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6430625431032501036e7ed2",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1493343,
+                            "known_for_department": "Writing",
+                            "name": "Jasmine Pierce",
+                            "original_name": "Jasmine Pierce",
+                            "popularity": 0.6,
+                            "profile_path": "/vN1slkyQhDkvva5elerMcIYgyDs.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Rachel",
+                            "credit_id": "651e7d450721660139c7d1d6",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1485321,
+                            "known_for_department": "Acting",
+                            "name": "Ellen MacNevin",
+                            "original_name": "Ellen MacNevin",
+                            "popularity": 1.62,
+                            "profile_path": "/71Hr8OY5ixf7kKdhnL4VNTwe7PA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-30",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4227540,
+                    "name": "The Count of Monte Cristo",
+                    "overview": "Hank contends with the return of his father to Railton. Lily hunts for apartments in New York. Julie looks to Hank for help in Lily’s absence.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/p5sQS8H9uld0bKXpE0Gtf57PzvG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6430625bb076e5010a75254a",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1529396,
+                            "known_for_department": "Writing",
+                            "name": "Taylor Brogan",
+                            "original_name": "Taylor Brogan",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643062c91b729400f1e1eee4",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 56539,
+                            "known_for_department": "Directing",
+                            "name": "Nicole Holofcener",
+                            "original_name": "Nicole Holofcener",
+                            "popularity": 4.949,
+                            "profile_path": "/3RYCd2oskQEhGnIANjJXqPCsGXP.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bartow",
+                            "credit_id": "654c324b5a5ed000c6acbddb",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3489398,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Kelly",
+                            "original_name": "Jackson Kelly",
+                            "popularity": 2.002,
+                            "profile_path": "/dYZGRFn2wenyzYEERzDqInfb1zM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-07",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4227541,
+                    "name": "The Chopping Block",
+                    "overview": "Hank is faced with an impossible decision at work, as his department’s jobs are on the line. Lily settles into a new normal in New York.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 210239,
+                    "still_path": "/vZw1iYE6zBTTvWhJ07X0UoTqYLP.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f295c0af00b621bee1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1213125,
+                            "known_for_department": "Writing",
+                            "name": "Paul Lieberstein",
+                            "original_name": "Paul Lieberstein",
+                            "popularity": 8.738,
+                            "profile_path": "/oLCaNVAw5cfE5q4e0PRsmHTuHfd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "643060f89a643506f1afdf5d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1181304,
+                            "known_for_department": "Writing",
+                            "name": "Aaron Zelman",
+                            "original_name": "Aaron Zelman",
+                            "popularity": 1.14,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bartow",
+                            "credit_id": "654c324b5a5ed000c6acbddb",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3489398,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Kelly",
+                            "original_name": "Jackson Kelly",
+                            "popularity": 2.002,
+                            "profile_path": "/dYZGRFn2wenyzYEERzDqInfb1zM.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 308645,
+            "poster_path": "/eKYPaXerPYUhmCsGlk8KlGkrIc9.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

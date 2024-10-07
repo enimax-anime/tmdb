@@ -1,0 +1,336 @@
+{
+    "adult": false,
+    "backdrop_path": "/yXIKd0gU95V9X6vOYDBasDt1M4g.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-05-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0017h5y",
+    "id": 201916,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-16",
+    "last_episode_to_air": {
+        "id": 4503871,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-16",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 201916,
+        "still_path": null
+    },
+    "name": "The Chris and Rosie Ramsey Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        },
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Chris and Rosie Ramsey Show",
+    "overview": "What's your beef? Podcast superstars Chris and Rosie welcome celeb couples for candid, comic chat - probing pet peeves, parenting problems and everything in between.",
+    "popularity": 1.604,
+    "poster_path": "/2lRYk5V2RSCo6E8CwU54MPHgZDh.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-16",
+            "episode_count": 6,
+            "id": 293656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/m586FAbjz1DgEH1jFEKcZL8ecl7.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-05-12",
+            "episode_count": 6,
+            "id": 339739,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "627ec4786d1bb237da943a4d",
+            "air_date": "2022-05-16",
+            "episodes": [
+                {
+                    "air_date": "2022-05-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3720117,
+                    "name": "Episode 1",
+                    "overview": "The always up-for-a-laugh, always startlingly honest, real-life husband and wife Chris and Rosie Ramsey are joined by celebrity couple Sophie Habboo and Jamie Laing to poke fun at life, growing up, relationships, arguments, annoyances, parenting and everything in between.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3720122,
+                    "name": "Episode 2",
+                    "overview": "Husband and wife Chris and Rosie are joined by celebrity couple Martin and Shirlie Kemp and star guests. And they ask the question that kick-starts relationship re-evaluations: what's your beef?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3720123,
+                    "name": "Episode 3",
+                    "overview": "Chris and Rosie are joined by legendary Strictly Come Dancing judge Craig Revel Horwood and his fiance Jonathan Myring. And they ask the question: what's your beef?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3720124,
+                    "name": "Episode 4",
+                    "overview": "Chris and Rosie are joined by Martine McCutcheon and Jack McManus to poke fun at life. And they ask the question that kickstarts relationship re-evaluations: what's your beef?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-13",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3720125,
+                    "name": "Episode 5",
+                    "overview": "Husband and wife Chris and Rosie are joined by Giovanna and Tom Fletcher to poke fun at life. And they ask the question that kickstarts relationship re-evaluations: what's your beef?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-20",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3720126,
+                    "name": "Episode 6",
+                    "overview": "Chris and Rosie are joined by presenter and singer Fleur East and husband Marcel Badiane-Robin. While Lorraine Kelly braces herself for Please Keep Me Anonymous.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 293656,
+            "poster_path": "/m586FAbjz1DgEH1jFEKcZL8ecl7.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6455230987a27a01723d6379",
+            "air_date": "2023-05-12",
+            "episodes": [
+                {
+                    "air_date": "2023-05-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4416165,
+                    "name": "Episode 1",
+                    "overview": "The always up for a laugh, always startingly honest, real-life husband and wife Chris and Rosie Ramsey are joined by a celebrity couple to poke fun at life, growing up, relationships, arguments, annoyances, parenting and everything in between.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-05-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4447713,
+                    "name": "Episode 2",
+                    "overview": "Chris and Rosie are joined by father and son Jack and Michael Whitehall and other star guests",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-05-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4447718,
+                    "name": "Episode 3",
+                    "overview": "Husband-and-wife duo Chris and Rosie are joined by guests including multi-platinum singing legend and presenter Ronan Keating with his wife, producer-director, Storm. Features include Please Keep Me Anonymous, where a well-known face reads out some terrifying audience confessions and It Goes or I Go.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4467620,
+                    "name": "Episode 4",
+                    "overview": "Husband-and-wife duo Chris and Rosie are joined by star guests including First Dates' real-life Cupid Fred Sirieix and fiancée Fruitcake to poke fun at life. Features include Please Keep Me Anonymous, where a well-known face reads out some terrifying audience confessions and It Goes or I Go.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4503870,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4503871,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201916,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 339739,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-09-26",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 272962,
+    "in_production": true,
+    "languages": [
+        "id"
+    ],
+    "last_air_date": "2024-09-26",
+    "last_episode_to_air": {
+        "id": 5636067,
+        "name": "Kerumitan Cinta Dokter Ezra",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-09-26",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 272962,
+        "still_path": null
+    },
+    "name": "Sekotengs",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ID"
+    ],
+    "original_language": "id",
+    "original_name": "Sekotengs",
+    "overview": "Four boarders who are interning at a hospital and pursuing their dream of becoming doctors. However, many absurd things happen in the hospital which makes it even more difficult for them to pursue their dreams.",
+    "popularity": 5.978,
+    "poster_path": "/9ztAi8nzh8bKjKDKGy0P34b11Gs.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "ID",
+            "name": "Indonesia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-26",
+            "episode_count": 2,
+            "id": 420985,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Indonesian",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "66f8546c140fbf6a1a5f49e8",
+            "air_date": "2024-09-26",
+            "episodes": [
+                {
+                    "air_date": "2024-09-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5636011,
+                    "name": "Tak Ada di Buku Panduan",
+                    "overview": "Hari-hari pertama SEKOTENGS sebagai KOAS menyadarkan mereka kalau ternyata, kehidupan di rumah sakit jauh lebih rumit dari buku kedokteran manapun yang pernah mereka baca.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 272962,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5636067,
+                    "name": "Kerumitan Cinta Dokter Ezra",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 272962,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 420985,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

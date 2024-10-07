@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-10-25",
+    "genres": [],
+    "homepage": "",
+    "id": 204600,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-10-25",
+    "last_episode_to_air": {
+        "id": 3798238,
+        "name": "How the climate crisis affects us all",
+        "overview": "Know what this is about?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-10-25",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204600,
+        "still_path": null
+    },
+    "name": "Seat at the Table",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Seat at the Table",
+    "overview": "Jack Harries highlights the devastating impacts and innovative solutions to climate change. He will confront some of the most powerful people on the planet and demand action from those on the frontline of the climate emergency.",
+    "popularity": 0.02,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-10-25",
+            "episode_count": 1,
+            "id": 298276,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62b2e677245dbe06b45b0e9b",
+            "air_date": "2021-10-25",
+            "episodes": [
+                {
+                    "air_date": "2021-10-25",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3798238,
+                    "name": "How the climate crisis affects us all",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204600,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 298276,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

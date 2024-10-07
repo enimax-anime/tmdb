@@ -1,0 +1,467 @@
+{
+    "adult": false,
+    "backdrop_path": "/sjwF7hWN2FauC4ZyL2cfVM8DD35.jpg",
+    "created_by": [
+        {
+            "id": 3066811,
+            "credit_id": "659ed02291b53001a326d205",
+            "name": "Mark Brotherhood",
+            "original_name": "Mark Brotherhood",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        57
+    ],
+    "first_air_date": "2024-09-25",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0022wvz",
+    "id": 243360,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-10-02",
+    "last_episode_to_air": {
+        "id": 5066287,
+        "name": "Episode 2",
+        "overview": "On a mission to crack the code in his twin’s notebook, John returns to the police station. A frustrated Lucy takes matters into her own hands and plays detective herself.",
+        "vote_average": 6,
+        "vote_count": 1,
+        "air_date": "2024-10-02",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 243360,
+        "still_path": "/ydLP8Nisju3Im2gPuxq81DPEtEY.jpg"
+    },
+    "name": "Ludwig",
+    "next_episode_to_air": {
+        "id": 5066288,
+        "name": "Episode 3",
+        "overview": "A new case takes Ludwig on a walking tour of Cambridge, where he’s faced with an impossible question. Meanwhile, Lucy goes undercover and makes a grim discovery of her own.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-09",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 1,
+        "show_id": 243360,
+        "still_path": "/rJHurIQstoSDrDzl168B56gTsf6.jpg"
+    },
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Ludwig",
+    "overview": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
+    "popularity": 45.813,
+    "poster_path": "/okPERzZxAiVWbd3B9qFepxa2Vfq.jpg",
+    "production_companies": [
+        {
+            "id": 58465,
+            "logo_path": null,
+            "name": "That Mitchell & Webb Company",
+            "origin_country": "GB"
+        },
+        {
+            "id": 443,
+            "logo_path": "/wibNj4tELmsnCFlf5ldLik37Urr.png",
+            "name": "Big Talk Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-25",
+            "episode_count": 6,
+            "id": 373763,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/15TFwHzlFSROCzXiAoCtWnakawa.jpg",
+            "season_number": 1,
+            "vote_average": 4.8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "659ed000713ed40201a5c443",
+            "air_date": "2024-09-25",
+            "episodes": [
+                {
+                    "air_date": "2024-09-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5066284,
+                    "name": "Episode 1",
+                    "overview": "Puzzle setter John ‘Ludwig’ Taylor’s life is upended when his identical twin, DCI James Taylor, disappears. John reluctantly assumes his identity in order to track him down.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/perMuyDoEMDpwFNC1ilctJoypHJ.jpg",
+                    "vote_average": 3.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66f7b7347f13b7b12aa1fa09",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1474688,
+                            "known_for_department": "Directing",
+                            "name": "Robert McKillop",
+                            "original_name": "Robert McKillop",
+                            "popularity": 0.843,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66f7b7462c4bdc9db05f196b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3066811,
+                            "known_for_department": "Writing",
+                            "name": "Mark Brotherhood",
+                            "original_name": "Mark Brotherhood",
+                            "popularity": 26.373,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "66f7b785a6293e3d76a1f222",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1568881,
+                            "known_for_department": "Camera",
+                            "name": "Annika Summerson",
+                            "original_name": "Annika Summerson",
+                            "popularity": 0.197,
+                            "profile_path": "/4XIRBlBiC6eQddqVtzvG1IxEREw.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "66f7b7922c4bdc9db05f198a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3127269,
+                            "known_for_department": "Editing",
+                            "name": "Nikki McChristie",
+                            "original_name": "Nikki McChristie",
+                            "popularity": 0.055,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Chief Constable Ziegler",
+                            "credit_id": "66f641b87b3072688d965b1f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 202032,
+                            "known_for_department": "Acting",
+                            "name": "Ralph Ineson",
+                            "original_name": "Ralph Ineson",
+                            "popularity": 31.667,
+                            "profile_path": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+                        },
+                        {
+                            "character": "Jane",
+                            "credit_id": "66f641ba7b3072688d965b25",
+                            "order": 501,
+                            "adult": true,
+                            "gender": 1,
+                            "id": 1262971,
+                            "known_for_department": "Acting",
+                            "name": "Mia Austen",
+                            "original_name": "Mia Austen",
+                            "popularity": 1.544,
+                            "profile_path": "/z3dC7sFPw4tBAFCx3VjC3G5v7oD.jpg"
+                        },
+                        {
+                            "character": "Young John",
+                            "credit_id": "66f641bb6cedbed01570a626",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4184501,
+                            "known_for_department": "Acting",
+                            "name": "Jakub Bednarczyk",
+                            "original_name": "Jakub Bednarczyk",
+                            "popularity": 2.576,
+                            "profile_path": "/aqcVJLq0W8AFp7jFgt2dKbI7MPL.jpg"
+                        },
+                        {
+                            "character": "Carla",
+                            "credit_id": "66f641bc6cedbed01570a62a",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4103339,
+                            "known_for_department": "Acting",
+                            "name": "Stevie Binns",
+                            "original_name": "Stevie Binns",
+                            "popularity": 0.001,
+                            "profile_path": "/8z91lF6y3CFTT55YVC3qcBHLO1L.jpg"
+                        },
+                        {
+                            "character": "Sarah Gilmarsh",
+                            "credit_id": "66f641bd6cedbed01570a62e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1430414,
+                            "known_for_department": "Acting",
+                            "name": "Scarlett Brookes",
+                            "original_name": "Scarlett Brookes",
+                            "popularity": 0.642,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Esther Taylor",
+                            "credit_id": "66f641be86862fa4b4509a13",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1476726,
+                            "known_for_department": "Acting",
+                            "name": "Annabelle Dowler",
+                            "original_name": "Annabelle Dowler",
+                            "popularity": 2.184,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Brian",
+                            "credit_id": "66f641bf86862fa4b4509a17",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4965825,
+                            "known_for_department": "Acting",
+                            "name": "Ikky Kabir",
+                            "original_name": "Ikky Kabir",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jamie",
+                            "credit_id": "66f641c06cedbed01570a632",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1052258,
+                            "known_for_department": "Acting",
+                            "name": "Christos Lawton",
+                            "original_name": "Christos Lawton",
+                            "popularity": 3.391,
+                            "profile_path": "/6fnV9KGlW5gtI2VVJUpPcjFf6Ys.jpg"
+                        },
+                        {
+                            "character": "Chris the Taxi Driver",
+                            "credit_id": "66f641c16cedbed01570a636",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3827002,
+                            "known_for_department": "Acting",
+                            "name": "Tom McCall",
+                            "original_name": "Tom McCall",
+                            "popularity": 0.69,
+                            "profile_path": "/vGJtpTTepzZoc2aO8XJuUzZH49r.jpg"
+                        },
+                        {
+                            "character": "Becka",
+                            "credit_id": "66f641c26cedbed01570a63a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3402928,
+                            "known_for_department": "Acting",
+                            "name": "Bridgitta Roy",
+                            "original_name": "Bridgitta Roy",
+                            "popularity": 2.209,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Claire",
+                            "credit_id": "66f641c3de21a6b78250996a",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3093330,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Skinner",
+                            "original_name": "Catherine Skinner",
+                            "popularity": 0.539,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Detective",
+                            "credit_id": "66f641c56c9a68155070acc7",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2219124,
+                            "known_for_department": "Acting",
+                            "name": "Ruth Clarson",
+                            "original_name": "Ruth Clarson",
+                            "popularity": 3.545,
+                            "profile_path": "/7N859OuilHpKYjb96GS97GNsy98.jpg"
+                        },
+                        {
+                            "character": "Alan Howells",
+                            "credit_id": "66f641d66cedbed01570a65c",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4965830,
+                            "known_for_department": "Acting",
+                            "name": "Kewell Ganas",
+                            "original_name": "Kewell Ganas",
+                            "popularity": 0.052,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-10-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5066287,
+                    "name": "Episode 2",
+                    "overview": "On a mission to crack the code in his twin’s notebook, John returns to the police station. A frustrated Lucy takes matters into her own hands and plays detective herself.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/ydLP8Nisju3Im2gPuxq81DPEtEY.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5066288,
+                    "name": "Episode 3",
+                    "overview": "A new case takes Ludwig on a walking tour of Cambridge, where he’s faced with an impossible question. Meanwhile, Lucy goes undercover and makes a grim discovery of her own.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/rJHurIQstoSDrDzl168B56gTsf6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5066289,
+                    "name": "Episode 4",
+                    "overview": "A body falls from the fourth storey of a construction site. Was it just a terrible accident, or a perfectly executed murder? When things don’t add up, John questions his abilities.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/fD2mOgKjFkZ1NqWSwDZePiEpnOQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5066290,
+                    "name": "Episode 5",
+                    "overview": "John and the gang go back to school to investigate the suspicious death of a headmaster. Lucy sneaks off on a covert mission, and a shocking revelation leaves John reeling.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/35eI1ucIKQs1obUCnlPo3mSHngw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-30",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5066292,
+                    "name": "Episode 6",
+                    "overview": "A cryptic late night call from Holly sees Lucy lured into danger. Back at the station, all eyes are on John as the pressure ramps up. Will his cover finally be blown?",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 243360,
+                    "still_path": "/gXcX11AznO9E9GzIJdrwzbZm0JR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 373763,
+            "poster_path": "/15TFwHzlFSROCzXiAoCtWnakawa.jpg",
+            "season_number": 1,
+            "vote_average": 4.8
+        }
+    }
+}

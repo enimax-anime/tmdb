@@ -1,0 +1,420 @@
+{
+    "adult": false,
+    "backdrop_path": "/1IUJCLHMhrTixxnI4L4QTrP6Abz.jpg",
+    "created_by": [
+        {
+            "id": 1085513,
+            "credit_id": "608014748b959e0029367a08",
+            "name": "Andrew Disney",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1205951,
+            "credit_id": "6080148e726fb1007a8cc0c9",
+            "name": "Bradley Jackson",
+            "gender": 2,
+            "profile_path": "/9CHhZ88phJBdk83ajEsbxe7jA7A.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2016-09-11",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://roosterteeth.com/show/crunch-time",
+    "id": 67719,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-10-16",
+    "last_episode_to_air": {
+        "id": 1233054,
+        "name": "The Moruga",
+        "overview": "Time’s up. Party’s over. Truth finally comes to light.",
+        "vote_average": 1,
+        "vote_count": 1,
+        "air_date": "2016-10-16",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 67719,
+        "still_path": null
+    },
+    "name": "Crunch Time",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1356,
+            "logo_path": "/dMmhDfPq3Ulz6AIJ9G2ymeTKwUh.png",
+            "name": "Rooster Teeth",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Crunch Time",
+    "overview": "Crunch Time begins when four grad students accidentally open up a black hole that could be the end of the world. After recklessly handling cutting-edge tech in their school lab, this brilliant team of jackasses creates a small, but potentially earth shattering, black hole that grabs the attention of government operatives. Since the “wanna-be” scientists can’t pinpoint exactly where their experiment went wrong, they must work with the secret government agency sent in to save the day by detailing EVERY illegal thing they’ve done in the lab thus far.",
+    "popularity": 12.503,
+    "poster_path": "/iARpk0eDxnQUIUK4mj45c038Buf.jpg",
+    "production_companies": [
+        {
+            "id": 17412,
+            "logo_path": "/mWttB7AboQmh1ij0e9yo0dFdz3c.png",
+            "name": "Rooster Teeth Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 52393,
+            "logo_path": null,
+            "name": "Ralph Smyth Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-11",
+            "episode_count": 12,
+            "id": 355820,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2016-09-11",
+            "episode_count": 6,
+            "id": 79927,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.333,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "57cef9bfc3a3684f2600146f",
+            "air_date": "2016-09-11",
+            "episodes": [
+                {
+                    "air_date": "2016-09-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1220807,
+                    "name": "The Beginning",
+                    "overview": "In a highly classified location, a gang of brilliant, misfit grad students are interrogated by government operatives. The question: How did it all begin? The answer: With a last ditch effort to win back love… by way of an extremely dangerous, untested, lucid dreaming machine.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": "/syWhkzrF6SRbLdPSh4BhQBbjZy5.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-09-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1225891,
+                    "name": "The Brain Frame",
+                    "overview": "Welcome to the Brain Frame - A home-brewed lucid dreaming machine, housed in a university basement lab. Dreams lead to nightmares. Nightmares lead to danger. Danger leads to a puzzling mystery that the government struggles to comprehend.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Blond Bartender",
+                            "credit_id": "5fbae6a50792e1003e3ac02f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1293391,
+                            "known_for_department": "Acting",
+                            "name": "Barbara Dunkelman",
+                            "original_name": "Barbara Dunkelman",
+                            "popularity": 4.143,
+                            "profile_path": "/zTh9JZXqZ9W7UoWoCUmGfaFbVT3.jpg"
+                        },
+                        {
+                            "character": "Bartender",
+                            "credit_id": "5fbae6bba097dc003ef6800c",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 938435,
+                            "known_for_department": "Acting",
+                            "name": "Gus Sorola",
+                            "original_name": "Gus Sorola",
+                            "popularity": 4.174,
+                            "profile_path": "/wpwzIzNRemTiRDl4sR0UPkoLaCY.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-09-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1225892,
+                    "name": "The Business",
+                    "overview": "As government agents learn more about the heightened danger coming from the lab, the gang reveals how the Brain Frame business began. And Hannah’s idea to charge money for lucid dreaming goes awry with their first paying customer.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dean Samuelson",
+                            "credit_id": "5fbae843c26796003da55f1e",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71658,
+                            "known_for_department": "Acting",
+                            "name": "Bill Wise",
+                            "original_name": "Bill Wise",
+                            "popularity": 2.32,
+                            "profile_path": "/sdeGOna3mzONdsMdLY0HpaQegMd.jpg"
+                        },
+                        {
+                            "character": "Gorgeous Woman (as Natalie Wilemon)",
+                            "credit_id": "5fbae8e8c26796003fa55d76",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1106543,
+                            "known_for_department": "Acting",
+                            "name": "Natalie Makenna",
+                            "original_name": "Natalie Makenna",
+                            "popularity": 3.905,
+                            "profile_path": "/7CMrrUilRWahAjEveFIQmxwwvLJ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-09-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1225893,
+                    "name": "The Big Sleep",
+                    "overview": "The agents develop a new lead with a missing persons case that ties directly into the Brain Frame. Meanwhile, with the pressure mounting and Larry still missing, Sam begins to crack.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Victoria Wain",
+                            "credit_id": "5fbae7178d22fc003f7c4da2",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1376424,
+                            "known_for_department": "Acting",
+                            "name": "Jade Catta-Preta",
+                            "original_name": "Jade Catta-Preta",
+                            "popularity": 4.203,
+                            "profile_path": "/xc8dtOHMegg68XJ19xK3NVC3TMa.jpg"
+                        },
+                        {
+                            "character": "Dean Samuelson",
+                            "credit_id": "5fbae843c26796003da55f1e",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71658,
+                            "known_for_department": "Acting",
+                            "name": "Bill Wise",
+                            "original_name": "Bill Wise",
+                            "popularity": 2.32,
+                            "profile_path": "/sdeGOna3mzONdsMdLY0HpaQegMd.jpg"
+                        },
+                        {
+                            "character": "Gorgeous Woman (as Natalie Wilemon)",
+                            "credit_id": "5fbae8e8c26796003fa55d76",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1106543,
+                            "known_for_department": "Acting",
+                            "name": "Natalie Makenna",
+                            "original_name": "Natalie Makenna",
+                            "popularity": 3.905,
+                            "profile_path": "/7CMrrUilRWahAjEveFIQmxwwvLJ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-10-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1225894,
+                    "name": "The Party of the Century",
+                    "overview": "New revelations of Larry’s location point to signs of a larger conspiracy. With time running out, the government agents threaten enhanced interrogation. Will Sam, Connor, Berkman and Hannah tell the truth about the Party of the Century and how it connects to “the rift?” Mark Moses guest stars as Sam's father, the great Montgomery Wittington.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Enhanced Interrogator",
+                            "credit_id": "5fbae62b04b59662bef543d9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 133359,
+                            "known_for_department": "Acting",
+                            "name": "Burnie Burns",
+                            "original_name": "Burnie Burns",
+                            "popularity": 3.991,
+                            "profile_path": "/wTmq1NuyxQpg61rzvwxpvESyGlF.jpg"
+                        },
+                        {
+                            "character": "Beatrice",
+                            "credit_id": "5fbae68ec26796003da55c2d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1293391,
+                            "known_for_department": "Acting",
+                            "name": "Barbara Dunkelman",
+                            "original_name": "Barbara Dunkelman",
+                            "popularity": 4.143,
+                            "profile_path": "/zTh9JZXqZ9W7UoWoCUmGfaFbVT3.jpg"
+                        },
+                        {
+                            "character": "Victoria Wain",
+                            "credit_id": "5fbae7178d22fc003f7c4da2",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1376424,
+                            "known_for_department": "Acting",
+                            "name": "Jade Catta-Preta",
+                            "original_name": "Jade Catta-Preta",
+                            "popularity": 4.203,
+                            "profile_path": "/xc8dtOHMegg68XJ19xK3NVC3TMa.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-10-16",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1233054,
+                    "name": "The Moruga",
+                    "overview": "Time’s up. Party’s over. Truth finally comes to light.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67719,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Enhanced Interrogator",
+                            "credit_id": "5fbae62b04b59662bef543d9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 133359,
+                            "known_for_department": "Acting",
+                            "name": "Burnie Burns",
+                            "original_name": "Burnie Burns",
+                            "popularity": 3.991,
+                            "profile_path": "/wTmq1NuyxQpg61rzvwxpvESyGlF.jpg"
+                        },
+                        {
+                            "character": "Victoria Wain",
+                            "credit_id": "5fbae7178d22fc003f7c4da2",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1376424,
+                            "known_for_department": "Acting",
+                            "name": "Jade Catta-Preta",
+                            "original_name": "Jade Catta-Preta",
+                            "popularity": 4.203,
+                            "profile_path": "/xc8dtOHMegg68XJ19xK3NVC3TMa.jpg"
+                        },
+                        {
+                            "character": "Dean Samuelson",
+                            "credit_id": "5fbae843c26796003da55f1e",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71658,
+                            "known_for_department": "Acting",
+                            "name": "Bill Wise",
+                            "original_name": "Bill Wise",
+                            "popularity": 2.32,
+                            "profile_path": "/sdeGOna3mzONdsMdLY0HpaQegMd.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 79927,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1
+        }
+    }
+}

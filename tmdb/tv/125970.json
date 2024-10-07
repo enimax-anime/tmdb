@@ -1,0 +1,238 @@
+{
+    "adult": false,
+    "backdrop_path": "/36C5wgMbDJcGhVfRuzNxqbyFxHG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2021-06-16",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81214135",
+    "id": 125970,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-06-16",
+    "last_episode_to_air": {
+        "id": 3028436,
+        "name": "Learning to Fly",
+        "overview": "Nature reclaims the streets of Penguin Town, Mr. Bougainvillea faces off with a fierce predator, and the blues may finally get to fly.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-06-16",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 31,
+        "season_number": 1,
+        "show_id": 125970,
+        "still_path": "/orrNAbR6QadXAsuoSR3CcXA2WBI.jpg"
+    },
+    "name": "Penguin Town",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ZA"
+    ],
+    "original_language": "en",
+    "original_name": "Penguin Town",
+    "overview": "In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals.",
+    "popularity": 2.44,
+    "poster_path": "/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-06-16",
+            "episode_count": 8,
+            "id": 196047,
+            "name": "Season 1",
+            "overview": "In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals.",
+            "poster_path": "/x6VN013MBLc9GVJUgUf30xXwkju.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.3,
+    "vote_count": 12,
+    "season_data": {
+        "1": {
+            "_id": "60a65d1821621d0079e48d1f",
+            "air_date": "2021-06-16",
+            "episodes": [
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2964404,
+                    "name": "Homecoming",
+                    "overview": "The penguins wash ashore for an annual takeover. Among them are longtime soul mates, a pair of newlyweds — and a misfit who needs professional help.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/brz251aQLoyBvPB8rkiX6cOdnD1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3028430,
+                    "name": "The Nest Generation",
+                    "overview": "Junior settles in at the conservation center, the Bougainvilleas run into trouble with the locals, and the Culverts prepare to lay their first eggs.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/swSAfLcm3z5NgIlRpTH3znPx5u4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3028431,
+                    "name": "Hot and Bothered",
+                    "overview": "While Mrs. Culvert braves the heat to protect her nest, Junior builds his strength in rehab. Mr. Bougainvillea faces danger to feed his family.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/rApOouqmyYebtxYwfdkuLjOK3WH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3028432,
+                    "name": "Lost and Found",
+                    "overview": "The Culverts split up in the wake of a heartbreaking loss, and a fishing trip takes Mrs. Bougainvillea away from home. Junior hits a major milestone.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/c2T3myKQDDbw659uesGfJC87AOC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3028433,
+                    "name": "Close Encounters",
+                    "overview": "The Bougainvilleas' chicks start exploring on their own. The Courtyards discover that they’ve built their nest behind a home inhabited by humans.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/vnGKFDayYMYR5g380fUJcjP47xG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3028434,
+                    "name": "Weekend Warriors",
+                    "overview": "Lady Courtyard’s commute takes a sharp turn, unlikely saviors scare off the Bougainvilleas’ bullies, and the Wheelbarrows’ teens get some tough love.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/54Jk9YGikqpJzUiC4Y3d1OsvinH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3028435,
+                    "name": "Beyond the Nest",
+                    "overview": "A female admirer follows Lord Courtyard home — but his lady isn't amused. The Wheelbarrows want to lay more eggs. Twig's ready to set out on his own.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/ab0C5i4eDS3CN8bVB5tWiVuSRO8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3028436,
+                    "name": "Learning to Fly",
+                    "overview": "Nature reclaims the streets of Penguin Town, Mr. Bougainvillea faces off with a fierce predator, and the blues may finally get to fly.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 125970,
+                    "still_path": "/orrNAbR6QadXAsuoSR3CcXA2WBI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals.",
+            "id": 196047,
+            "poster_path": "/x6VN013MBLc9GVJUgUf30xXwkju.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

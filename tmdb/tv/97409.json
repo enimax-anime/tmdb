@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2502375,
+            "credit_id": "5e13ad938741c400173f3b8c",
+            "name": "Dmitry Cherkasov",
+            "original_name": "Dmitry Cherkasov",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-02-19",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "https://kino.1tv.ru/serials/volnaya-gramota",
+    "id": 97409,
+    "in_production": false,
+    "languages": [
+        "ru"
+    ],
+    "last_air_date": "2019-02-19",
+    "last_episode_to_air": {
+        "id": 2040899,
+        "overview": "Polina, the main character of the series, was born a serf woman, but long ago she was taken up by Prince Golovin. One fine day, the prince dies of a heart attack, never having time to free Polina from serfdom. Dark times come for the girl, who has always been considered a noblewoman, because now all of Golovin’s property, including herself, has been transferred to his nephew, who is quickly selling his inheritance to the relative’s main enemy, Count Krechetsky. Now Polina will have to get used to her new life as a maidservant ...",
+        "name": "Episode 1",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-02-19",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 97409,
+        "still_path": null
+    },
+    "name": "Life of a Mistress",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 558,
+            "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+            "name": "Channel One",
+            "origin_country": "RU"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "RU"
+    ],
+    "original_language": "ru",
+    "original_name": "Вольная грамота",
+    "overview": "Polina Lebedeva, daughter of the childless prince Alexei Petrovich Golovin, is the most enviable bride of the Yamburg district. During the ball in honor of her birthday, Alexei Petrovich dies of a heart attack. This grief is only the beginning of hard trials, destined for the girl ..",
+    "popularity": 6.52,
+    "poster_path": "/dqFTDeMq4AQpcFGZ94D8VxqNXP3.jpg",
+    "production_companies": [
+        {
+            "id": 127418,
+            "logo_path": null,
+            "name": "Kinokompaniya Shchuka",
+            "origin_country": "RU"
+        },
+        {
+            "id": 318,
+            "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
+            "name": "CTB Film Company",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-19",
+            "episode_count": 0,
+            "id": 140143,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5e13acb95907de0012e07254",
+            "air_date": "2019-02-19",
+            "episodes": [
+                {
+                    "air_date": "2019-02-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2040899,
+                    "name": "Episode 1",
+                    "overview": "Polina, the main character of the series, was born a serf woman, but long ago she was taken up by Prince Golovin. One fine day, the prince dies of a heart attack, never having time to free Polina from serfdom. Dark times come for the girl, who has always been considered a noblewoman, because now all of Golovin’s property, including herself, has been transferred to his nephew, who is quickly selling his inheritance to the relative’s main enemy, Count Krechetsky. Now Polina will have to get used to her new life as a maidservant ...",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 97409,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 140143,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}
