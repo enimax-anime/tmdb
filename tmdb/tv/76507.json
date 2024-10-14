@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2018-01-19",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b09nxs1k",
+    "id": 76507,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-02-02",
+    "last_episode_to_air": {
+        "id": 1433300,
+        "name": "Revivals And Reunions",
+        "overview": "Part three of this entertaining, behind-the-scenes series about how the music business works, explores the phenomenon of band reunions.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-02-02",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 76507,
+        "still_path": null
+    },
+    "name": "Hits, Hype & Hustle: An Insider's Guide to the Music Business",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 100,
+            "logo_path": "/AgsOSxGvfxIonhPgrfkWCmsOKfA.png",
+            "name": "BBC Four",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Hits, Hype & Hustle: An Insider's Guide to the Music Business",
+    "overview": "What does it take to spot a pop genius? To break a global act, to book a million-selling tour or reunite music legends to great acclaim - and huge profits? In this series, three music industry insiders reveal how the business really works.",
+    "popularity": 0.008,
+    "poster_path": "/u8EJUe4JZemcJUV5Jlb5VMTkgNn.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-01-19",
+            "episode_count": 3,
+            "id": 98144,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a624c28c3a36836be003dd3",
+            "air_date": "2018-01-19",
+            "episodes": [
+                {
+                    "air_date": "2018-01-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1421133,
+                    "name": "Making a Star",
+                    "overview": "Music agent Emma Banks looks at how the music business finds talent and creates superstars",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 76507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-01-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1433299,
+                    "name": "On The Road",
+                    "overview": "Music promoter John Giddings takes us on an entertaining ride behind the stage lights to tell the story of how live performance has become a billion-pound industry.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 76507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-02-02",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1433300,
+                    "name": "Revivals And Reunions",
+                    "overview": "Part three of this entertaining, behind-the-scenes series about how the music business works, explores the phenomenon of band reunions.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 76507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 98144,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

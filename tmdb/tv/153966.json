@@ -1,0 +1,335 @@
+{
+    "adult": false,
+    "backdrop_path": "/anYzA7qDyx3yXEK4mEIbSVAL4Vp.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2021-12-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81488464",
+    "id": 153966,
+    "in_production": false,
+    "languages": [
+        "fr",
+        "en",
+        "it"
+    ],
+    "last_air_date": "2021-12-22",
+    "last_episode_to_air": {
+        "id": 3404144,
+        "name": "Okinawa",
+        "overview": "US forces invade Okinawa in April 1945, and months of fighting and dreadful casualties persuade Truman to drop the bomb on Hiroshima and Nagasaki.",
+        "vote_average": 7.7,
+        "vote_count": 3,
+        "air_date": "2021-12-22",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 51,
+        "season_number": 1,
+        "show_id": 153966,
+        "still_path": "/9WIYzX8ewmQIq6mDdRDTbzTYxWx.jpg"
+    },
+    "name": "WWII in Color: Road to Victory",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "WWII in Color: Road to Victory",
+    "overview": "Gripping historical footage and expert commentary give detailed insights into the leading figures and decisive turning points of World War II.",
+    "popularity": 2.821,
+    "poster_path": "/cmj2nCslE1UJded94jgjYocL2k5.jpg",
+    "production_companies": [
+        {
+            "id": 34957,
+            "logo_path": "/bZSledb26dnyg81jTAdeBkFPN5c.png",
+            "name": "World Media Rights",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-22",
+            "episode_count": 10,
+            "id": 236889,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gmsjMpOuiTgXyhqFSP6k9MmiOnY.jpg",
+            "season_number": 1,
+            "vote_average": 7.9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.9,
+    "vote_count": 29,
+    "season_data": {
+        "1": {
+            "_id": "61c302c32ac4990093d5510f",
+            "air_date": "2021-12-22",
+            "episodes": [
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3404090,
+                    "name": "Dunkirk",
+                    "overview": "In May 1940, a German offensive traps the British on the French coast, but a heroic civilian effort evacuates the troops and inspires an entire nation.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/4N5YuQWfbceGY5FsvA6BucgJ7G9.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Art Direction",
+                            "department": "Art",
+                            "credit_id": "63e0af1c9974ee0b7370efde",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2723126,
+                            "known_for_department": "Production",
+                            "name": "Samuel François-Steininger",
+                            "original_name": "Samuel François-Steininger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "63e0af789974ee0bab674937",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1752570,
+                            "known_for_department": "Camera",
+                            "name": "Paul Kirsop",
+                            "original_name": "Paul Kirsop",
+                            "popularity": 0.01,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "63e0af908741c4007db131f1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1841701,
+                            "known_for_department": "Camera",
+                            "name": "Peter Fackler",
+                            "original_name": "Peter Fackler",
+                            "popularity": 0.039,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3404135,
+                    "name": "The Battle of the Atlantic",
+                    "overview": "U-boat \"wolf packs\" ravage Allied convoys early in the war, but ingenuity, new technology and a bit of luck help the Allies turn the tide by 1943.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/eibyETc4ttkIcamyv4OLrtQpG3Q.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3404136,
+                    "name": "The Invasion of North Africa",
+                    "overview": "In late 1942, America enters the war in North Africa, where the British have been battling the Germans and Italians for control of the Suez Canal.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/iN63GOjbf8kjXLf2pE0nNSfDftb.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3404137,
+                    "name": "The Battle of Kursk",
+                    "overview": "Desperate for a victory in the East, Germany attacks toward Kursk in the summer of 1943 and triggers a monumental tank battle with the Soviet Union.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/rYEuHxdNP61zJZd0ML1uVJEQntW.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3404138,
+                    "name": "The Invasion of Italy",
+                    "overview": "Hoping for a swift victory, Allied armies invade Italy in September 1943, but the fighting quickly grinds down to a bloody, months long campaign.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/onSdE66bx4G3b3GrsxFs1Cv99Eq.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3404139,
+                    "name": "The Liberation of Paris",
+                    "overview": "Paris suffers under German occupation throughout the war, until Resistance fighters within the city rise up to drive them out in August 1944.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/wWVlhdAzs5C5YAw9vuig5YvtbaA.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3404140,
+                    "name": "The Battle of the Philippine Sea",
+                    "overview": "In June 1944, a monumental battle between American and Japanese aircraft carriers in the Philippine Sea turns the tide in the Pacific.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/fTn3HuOGDHYamFciTm14lq0Xezb.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3404141,
+                    "name": "Iwo Jima",
+                    "overview": "In early 1945, US Marines invade Iwo Jima and face an appallingly bloody battle for control of the island, to the dismay of the public back home.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/sPJT2Hm2lKBGiL25aPlatNIux8p.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3404143,
+                    "name": "The Race for Berlin",
+                    "overview": "Angling for power in the postwar world, Stalin tricks the Allies — and his own generals — to ensure the Red Army wins the race to Berlin in April 1945.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/mx1MFlFYty49YpU0Pp5Nm7dIGFu.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 3404144,
+                    "name": "Okinawa",
+                    "overview": "US forces invade Okinawa in April 1945, and months of fighting and dreadful casualties persuade Truman to drop the bomb on Hiroshima and Nagasaki.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 153966,
+                    "still_path": "/9WIYzX8ewmQIq6mDdRDTbzTYxWx.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 236889,
+            "poster_path": "/gmsjMpOuiTgXyhqFSP6k9MmiOnY.jpg",
+            "season_number": 1,
+            "vote_average": 7.9
+        }
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "adult": false,
+    "backdrop_path": "/eyF9cQRA5bkp4YHQznqAO2nggdW.jpg",
+    "created_by": [
+        {
+            "id": 2953531,
+            "credit_id": "660073c77f6c8d017c724b8b",
+            "name": "Irene Rodríguez",
+            "original_name": "Irene Rodríguez",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2024-03-24",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.antena3.com/series/pasion-turca/",
+    "id": 237013,
+    "in_production": false,
+    "languages": [
+        "es",
+        "it"
+    ],
+    "last_air_date": "2024-04-28",
+    "last_episode_to_air": {
+        "id": 4811321,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-04-28",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 237013,
+        "still_path": "/3MDXnp970kbc51727DjizHw4Yye.jpg"
+    },
+    "name": "La Pasión Turca",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3744,
+            "logo_path": "/tRcLVDie5E5dIIRvA8Ojjuvlp7k.png",
+            "name": "Atresplayer",
+            "origin_country": "ES"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "La Pasión Turca",
+    "overview": "Olivia, after having attempted suicide, is investigated for her collaboration in an art smuggling ring with Yaman, her Turkish lover with whom she is in love.",
+    "popularity": 51.317,
+    "poster_path": "/5PYnJtDj3D6KU2AtQr5OVuU8lBG.jpg",
+    "production_companies": [
+        {
+            "id": 29566,
+            "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+            "name": "Atresmedia",
+            "origin_country": "ES"
+        },
+        {
+            "id": 141786,
+            "logo_path": null,
+            "name": "Buendía Estudios",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-03-24",
+            "episode_count": 6,
+            "id": 360655,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5PYnJtDj3D6KU2AtQr5OVuU8lBG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5.3,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "6528745b37806200ac5a8ee7",
+            "air_date": "2024-03-24",
+            "episodes": [
+                {
+                    "air_date": "2024-03-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4811305,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/ibjIl9SBnJ0kGbG50oSQqtF4HnB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6600724604733f017dedec1f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2953531,
+                            "known_for_department": "Writing",
+                            "name": "Irene Rodríguez",
+                            "original_name": "Irene Rodríguez",
+                            "popularity": 3.118,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4811316,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/15zNYgiaJGtSrjnsqiCE0OBmP5S.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6600724604733f017dedec1f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2953531,
+                            "known_for_department": "Writing",
+                            "name": "Irene Rodríguez",
+                            "original_name": "Irene Rodríguez",
+                            "popularity": 3.118,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4811318,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/cJal4oFKRIFNMH9oNx0sVufXNMr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6612cd2a19690c0163a40f60",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1568240,
+                            "known_for_department": "Writing",
+                            "name": "Esther Morales",
+                            "original_name": "Esther Morales",
+                            "popularity": 1.847,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4811319,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/7dmcfhEY5ZA6l07RLwHH8LOPkXL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6600724604733f017dedec1f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2953531,
+                            "known_for_department": "Writing",
+                            "name": "Irene Rodríguez",
+                            "original_name": "Irene Rodríguez",
+                            "popularity": 3.118,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4811320,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/ya1TTHRC7j2zAoY47sx3mIMjGqJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6612cd2a19690c0163a40f60",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1568240,
+                            "known_for_department": "Writing",
+                            "name": "Esther Morales",
+                            "original_name": "Esther Morales",
+                            "popularity": 1.847,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-28",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4811321,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 237013,
+                    "still_path": "/3MDXnp970kbc51727DjizHw4Yye.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6600724604733f017dedec1f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2953531,
+                            "known_for_department": "Writing",
+                            "name": "Irene Rodríguez",
+                            "original_name": "Irene Rodríguez",
+                            "popularity": 3.118,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660072557f6c8d017c724ac9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1100318,
+                            "known_for_department": "Directing",
+                            "name": "Iñaki Peñafiel",
+                            "original_name": "Iñaki Peñafiel",
+                            "popularity": 1.983,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 360655,
+            "poster_path": "/5PYnJtDj3D6KU2AtQr5OVuU8lBG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

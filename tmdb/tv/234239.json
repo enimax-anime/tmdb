@@ -1,0 +1,405 @@
+{
+    "adult": false,
+    "backdrop_path": "/5WM2QqrU1EBTlkFoPTTABj8Samd.jpg",
+    "created_by": [
+        {
+            "id": 4256809,
+            "credit_id": "64f87036e0ca7f010de6f108",
+            "name": "Ripley Parker",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-10-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81437049",
+    "id": 234239,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-10-05",
+    "last_episode_to_air": {
+        "id": 4707998,
+        "name": "Episode 8",
+        "overview": "Viv makes a distressing discovery. Devastating news about an old friend reignites Mia's rush to finish the list. But when is it time to stop running?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-10-05",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 47,
+        "season_number": 1,
+        "show_id": 234239,
+        "still_path": "/vUaw2iGIpGz89hysB38oLlBOAvX.jpg"
+    },
+    "name": "Everything Now",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Everything Now",
+    "overview": "After months in recovery for an eating disorder, 16-year-old Mia devises a bucket list of quintessential teen experiences to make up for lost time.",
+    "popularity": 93.258,
+    "poster_path": "/mDKff19c5PVECPbIpcVxO3gwPnB.jpg",
+    "production_companies": [
+        {
+            "id": 5340,
+            "logo_path": "/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png",
+            "name": "Left Bank Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-10-05",
+            "episode_count": 8,
+            "id": 355763,
+            "name": "Season 1",
+            "overview": "After months in recovery for an eating disorder, 16-year-old Mia devises a bucket list of quintessential teen experiences to make up for lost time.",
+            "poster_path": "/e8OXxbSY9nLqhEZShoUPYZaq8W2.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Seize the days... maybe?",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 34,
+    "season_data": {
+        "1": {
+            "_id": "64f86abb8e20c50cd62a4a79",
+            "air_date": "2023-10-05",
+            "episodes": [
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4707973,
+                    "name": "Episode 1",
+                    "overview": "Fresh out of treatment, Mia's ready to get back to her life — only to discover her friends have been drinking, partying and hooking up without her.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/6KpxtrJW5oV4IQsnCf7m96neojL.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "651eb66274507d00c57a3a39",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1245743,
+                            "known_for_department": "Acting",
+                            "name": "Alyssa McClelland",
+                            "original_name": "Alyssa McClelland",
+                            "popularity": 4.709,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4707992,
+                    "name": "Episode 2",
+                    "overview": "Post-party gossip gives Mia flashbacks from the hospital. Between an invite from her crush and karaoke with the crew, it's time for a bigger bucket list.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/uOXkkzGfkeV2Uyc1UUPWiNLPZ34.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "651eb66274507d00c57a3a39",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1245743,
+                            "known_for_department": "Acting",
+                            "name": "Alyssa McClelland",
+                            "original_name": "Alyssa McClelland",
+                            "popularity": 4.709,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb7445b124000ad6849bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4256809,
+                            "known_for_department": "Production",
+                            "name": "Ripley Parker",
+                            "original_name": "Ripley Parker",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4707993,
+                    "name": "Episode 3",
+                    "overview": "Fueled by newfound love, Mia tries to reinvent herself through drama club. Cam and Becca struggle to communicate; things at work get weird for Will.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/2KFTOxfdmenS4EbrmC7dYalwnPU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "651eb696c50ad2014dd074dc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1379291,
+                            "known_for_department": "Directing",
+                            "name": "Charlie Manton",
+                            "original_name": "Charlie Manton",
+                            "popularity": 2.267,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb7445b124000ad6849bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4256809,
+                            "known_for_department": "Production",
+                            "name": "Ripley Parker",
+                            "original_name": "Ripley Parker",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4707994,
+                    "name": "Episode 4",
+                    "overview": "Daunted by crossing \"sex\" off her list, Mia opts for \"breaking the law\" instead. During a mansion rager, hard liquor and harder truths flow freely.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/5373YsJmzskwi5YpYPOtEkGeWon.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "651eb696c50ad2014dd074dc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1379291,
+                            "known_for_department": "Directing",
+                            "name": "Charlie Manton",
+                            "original_name": "Charlie Manton",
+                            "popularity": 2.267,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb7445b124000ad6849bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4256809,
+                            "known_for_department": "Production",
+                            "name": "Ripley Parker",
+                            "original_name": "Ripley Parker",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4707995,
+                    "name": "Episode 5",
+                    "overview": "A shared suspicion brings Mia and Alison closer together and finds them on a spa day with Viv. As Becca confides in her mother, Will speaks his truth.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/tMke3zCKDSxzqSYiMUQo8i2kYSd.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb6b274507d011c101ca2",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4306687,
+                            "known_for_department": "Writing",
+                            "name": "Roanne Bardsley",
+                            "original_name": "Roanne Bardsley",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4707996,
+                    "name": "Episode 6",
+                    "overview": "In Mia's shadow, a frustrated Alex feels mounting pressure to be perfect. The Polancos meet for a family therapy session after a harrowing school day.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/xwIGXzVe7QxblwKR54aze4DXKqn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb72374507d00e210be64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3141648,
+                            "known_for_department": "Acting",
+                            "name": "Dylan Brady",
+                            "original_name": "Dylan Brady",
+                            "popularity": 2.962,
+                            "profile_path": "/u1GwlWAbqP97JN8tV9Dhnj0QVwY.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4707997,
+                    "name": "Episode 7",
+                    "overview": "Mia's 17th birthday party ticks several boxes on the list, but there's no shortage of drama. Cam combats jealousy and indifference; Will runs his mouth.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/A73pOtG99pUUmUz0q9pQnmOuf6u.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb732f04d0100ffedce17",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3213335,
+                            "known_for_department": "Writing",
+                            "name": "Glenn Waldron",
+                            "original_name": "Glenn Waldron",
+                            "popularity": 0.98,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "651eb7445b124000ad6849bf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4256809,
+                            "known_for_department": "Production",
+                            "name": "Ripley Parker",
+                            "original_name": "Ripley Parker",
+                            "popularity": 0.734,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-05",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4707998,
+                    "name": "Episode 8",
+                    "overview": "Viv makes a distressing discovery. Devastating news about an old friend reignites Mia's rush to finish the list. But when is it time to stop running?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 234239,
+                    "still_path": "/vUaw2iGIpGz89hysB38oLlBOAvX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "After months in recovery for an eating disorder, 16-year-old Mia devises a bucket list of quintessential teen experiences to make up for lost time.",
+            "id": 355763,
+            "poster_path": "/e8OXxbSY9nLqhEZShoUPYZaq8W2.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    }
+}

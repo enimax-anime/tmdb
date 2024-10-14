@@ -1,0 +1,231 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2017-01-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.viceland.com/en_us/show/rise",
+    "id": 69139,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-03-10",
+    "last_episode_to_air": {
+        "id": 1267016,
+        "name": "Warriors Rising",
+        "overview": "Savage Family, a militant Native hip-hop crew, recruits disenfranchised Native youth using rap to reclaim cultural identity and incite resistance by any means.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-03-10",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 69139,
+        "still_path": "/4XJEjaI3sxQjdjVAK4UqHiHe2wm.jpg"
+    },
+    "name": "Rise",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Rise",
+    "overview": "We travel to Indigenous communities across the Americas to meet people protecting their homelands and rising up against colonization.",
+    "popularity": 2.744,
+    "poster_path": "/781Mwo3uXZa3zuU1OAfmWqP7Cyx.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-01-27",
+            "episode_count": 8,
+            "id": 82922,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wjRbFKbhXanD5iuW8KJiQbzDEMj.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5856bca3c3a36806a7041b57",
+            "air_date": "2017-01-27",
+            "episodes": [
+                {
+                    "air_date": "2017-01-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1248462,
+                    "name": "Sacred Water: Standing Rock Part I",
+                    "overview": "The people of the Standing Rock Indian Reservation of North and South Dakota fight to stop a pipeline from being built on their ancestral homeland.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/pkI9Stf78RCuKn6x2Tss8dUCqwW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-01-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1259800,
+                    "name": "Red Power: Standing Rock Part II",
+                    "overview": "Over 5,000 Red Power warriors have descended on Standing Rock camp to stand in solidarity and protect tribal burial sites from the construction of the Dakota Access Pipeline.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/f7cFYgXciHA3A2QFWAXlOkAlpHJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1259801,
+                    "name": "Apache Stronghold",
+                    "overview": "The Apache's most sacred land has been handed over to a multinational mining company by the US government, but the San Carlos Apache are fighting to stop the transfer.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/nDOxz5GSdg2VPAyFAeYt3L9Im0y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1261859,
+                    "name": "MMA Warriors",
+                    "overview": "Young Navajo fighters who engage in mixed-martial arts in order to combat alcoholism, racism and violence are spotlighted.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/cMy9EHFJdLk4ueLjVEN1JN9ajU4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1261860,
+                    "name": "The Urban Rez",
+                    "overview": "An urban reservation in Canada aims to fight poverty, crime and violence against girls and women.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/tvc5dNYuqTIDmjH9Hk1PZrp04y4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-24",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1261861,
+                    "name": "Hawaiian Sovereignty",
+                    "overview": "Young Indigenous Hawaiians fight to reclaim their Occupied Kingdom from US control, resisting the construction of a billion-dollar telescope at the summit of their sacred Mauna Kea.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/yAUtDnFVP4ZSK0W496A7qyrq72T.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-03",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1261862,
+                    "name": "Poisoned River",
+                    "overview": "The Krenak People fight to survive a toxic spill that has contaminated their river.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/yWmWxZX77FKAK4CiAjggEY6HtRr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-10",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1267016,
+                    "name": "Warriors Rising",
+                    "overview": "Savage Family, a militant Native hip-hop crew, recruits disenfranchised Native youth using rap to reclaim cultural identity and incite resistance by any means.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 69139,
+                    "still_path": "/4XJEjaI3sxQjdjVAK4UqHiHe2wm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 82922,
+            "poster_path": "/wjRbFKbhXanD5iuW8KJiQbzDEMj.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

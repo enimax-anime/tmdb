@@ -1,0 +1,229 @@
+{
+    "adult": false,
+    "backdrop_path": "/98lIzUgXQha9dTCOTsVaJ9lLMVY.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-11-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p0gjkv0t",
+    "id": 239133,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-11-22",
+    "last_episode_to_air": {
+        "id": 4906341,
+        "overview": "In the fallout of the Gunpowder Plot, a family scandal threatens Shakespeare’s reputation. Creating his most epic and tragic work yet, his legacy is at risk of being lost forever.",
+        "name": "Episode 3",
+        "vote_average": 5,
+        "vote_count": 1,
+        "air_date": "2023-11-22",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 59,
+        "season_number": 1,
+        "show_id": 239133,
+        "still_path": "/9nOzJH5mC6y2F6BrAYgV9p0R111.jpg"
+    },
+    "name": "Shakespeare: Rise of a Genius",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Shakespeare: Rise of a Genius",
+    "overview": "Love, conflict, family - nobody's done it better. Acting legends reflect on the greatest writer who ever lived – and the dangerous, exciting world that ignited his creativity.",
+    "popularity": 12.742,
+    "poster_path": "/tGH29Mk11YcpPG05B2tRYN3Mw6L.jpg",
+    "production_companies": [
+        {
+            "id": 129921,
+            "logo_path": "/22kUlxxXEKK7RNUD4O064yE8SIH.png",
+            "name": "72 Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-07",
+            "episode_count": 3,
+            "id": 364977,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 4.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "654c2ecd497560013b4f9d32",
+            "air_date": "2023-11-07",
+            "episodes": [
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4906334,
+                    "name": "Episode 1",
+                    "overview": "Shakespeare waves goodbye to his family to follow his dream of becoming a playwright. He enters a world of plague, rivalry and every possible kind of danger.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 239133,
+                    "still_path": "/8Lc8eYTHeYTKwY7UV2MyBOsXPG5.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4906340,
+                    "name": "Episode 2",
+                    "overview": "As Shakespeare achieves fame and fortune, a political scandal threatens his life and a family tragedy sees him question the cost of his success",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 239133,
+                    "still_path": "/6I7iFhC4DtZ7Uwi1uLtgyokv2tD.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Earl of Essex",
+                            "credit_id": "66170520f12cf4017c03bbbc",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2061533,
+                            "known_for_department": "Production",
+                            "name": "Tibor Gadácsi",
+                            "original_name": "Tibor Gadácsi",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Robert Greene",
+                            "credit_id": "661705341c635b0185c6653b",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4617313,
+                            "known_for_department": "Acting",
+                            "name": "Marcell Lengyel",
+                            "original_name": "Marcell Lengyel",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Julius Caesar",
+                            "credit_id": "66170579cc968301864c610d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4645970,
+                            "known_for_department": "Acting",
+                            "name": "István Baraksó",
+                            "original_name": "István Baraksó",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-11-22",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4906341,
+                    "name": "Episode 3",
+                    "overview": "In the fallout of the Gunpowder Plot, a family scandal threatens Shakespeare’s reputation. Creating his most epic and tragic work yet, his legacy is at risk of being lost forever.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 239133,
+                    "still_path": "/9nOzJH5mC6y2F6BrAYgV9p0R111.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "King James",
+                            "credit_id": "6617054bfdc14601858da3f7",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4645966,
+                            "known_for_department": "Acting",
+                            "name": "Máté Kovács",
+                            "original_name": "Máté Kovács",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Queen Anne",
+                            "credit_id": "6617055b1c635b0148c65d8d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4645968,
+                            "known_for_department": "Acting",
+                            "name": "Eszter Petrány",
+                            "original_name": "Eszter Petrány",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 364977,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 4.3
+        }
+    }
+}

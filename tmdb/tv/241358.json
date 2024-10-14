@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/msOxUF3xus7twtv00dj73oGsusv.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-12-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/shows/the-billion-dollar-goal/",
+    "id": 241358,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-12-10",
+    "last_episode_to_air": {
+        "id": 4991660,
+        "name": "The Shot Heard Round The World",
+        "overview": "The USA’s 1990 World Cup qualification journey reaches a do-or-die finale in Trinidad and Tobago.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-12-10",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 241358,
+        "still_path": "/32le8mdPsLFeSfvsSAimUHJrkqE.jpg"
+    },
+    "name": "The Billion Dollar Goal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4330,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Billion Dollar Goal",
+    "overview": "The emotional story of soccer in the USA: resilience, redemption and a bright future. Passion, success and the iconic billion-dollar goal.",
+    "popularity": 2.146,
+    "poster_path": "/llNSsriaFuyUqDk2NJOsDCtE3eR.jpg",
+    "production_companies": [
+        {
+            "id": 110640,
+            "logo_path": null,
+            "name": "CBS Sports",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-12-10",
+            "episode_count": 3,
+            "id": 369416,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The three-part docuseries covers the evolution of American soccer",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6577278ae93e95218dcbad71",
+            "air_date": "2023-12-10",
+            "episodes": [
+                {
+                    "air_date": "2023-12-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4991389,
+                    "name": "A Miracle on Grass",
+                    "overview": "After a miraculous win vs. England in the 1950 World Cup, soccer booms in the United States... right?",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 241358,
+                    "still_path": "/9BwyGbnRTNxGdYnLFEH6Al0Usn2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4991659,
+                    "name": "Rock Bottom",
+                    "overview": "Soccer in America meets a formidable foe: the ‘80s.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 241358,
+                    "still_path": "/dctup6gjgPv8sKS0Pr19a0KjrPa.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-10",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4991660,
+                    "name": "The Shot Heard Round The World",
+                    "overview": "The USA’s 1990 World Cup qualification journey reaches a do-or-die finale in Trinidad and Tobago.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 241358,
+                    "still_path": "/32le8mdPsLFeSfvsSAimUHJrkqE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 369416,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

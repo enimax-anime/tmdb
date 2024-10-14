@@ -1,0 +1,219 @@
+{
+    "adult": false,
+    "backdrop_path": "/CENYgScKnvFsj2qTjeuyH3PiAk.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-09-05",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://play.max.com/show/aed6dbc0-420e-471c-840c-149cecb5702c?utm_source=max&utm_medium=sharebutton&utm_id=24b18d10-b23a-4cc5-9448-1b536d4b5699",
+    "id": 262446,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-10-10",
+    "last_episode_to_air": {
+        "id": 5545910,
+        "name": "Feels Like Home",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-10",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 262446,
+        "still_path": "/nCNCb90GQ2i2AErawLVelleZS56.jpg"
+    },
+    "name": "Coming from America",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6783,
+            "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+            "name": "Max",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Coming from America",
+    "overview": "Four African American families pack up all their belongings, risking everything to move to the new land of opportunity: Africa. Enticed by cheap housing and picturesque landscapes, these families travel 5000 miles to find love, jobs and a better life.",
+    "popularity": 14.274,
+    "poster_path": "/2V6RY2iS7T6xSgC3nEI4x1kyHh1.jpg",
+    "production_companies": [
+        {
+            "id": 61560,
+            "logo_path": "/4QbIrXb4P6ZvMI8zICaeKbfVz2j.png",
+            "name": "Hot Snakes Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 6790,
+            "logo_path": "/A0TzRpnwLcUcNgrvDJ0BIajf56b.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-05",
+            "episode_count": 6,
+            "id": 407760,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "66c8d142825e4e3e6bead57b",
+            "air_date": "2024-09-05",
+            "episodes": [
+                {
+                    "air_date": "2024-09-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5545842,
+                    "name": "Africa Here We Come",
+                    "overview": "Three families uproot their lives in America and move to Africa.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/quShoFit584YJNjKp3pFYnCRtJ6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5545905,
+                    "name": "How Did We Get Here?",
+                    "overview": "Everyone's comfort level is tested as they try to adjust to African life.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/ptByqJA9Tl3Q4USFpTh81ZbYCKB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5545906,
+                    "name": "Do We Fit In?",
+                    "overview": "It's hot -- and Africa's climate isn't for the fainthearted. Who endures?",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/m6N2KObPYYKTxEX24MfeWeE3zTO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5545908,
+                    "name": "Survival of the Fittest",
+                    "overview": "Leaving the city provides the families with a much-needed breath of fresh air -- and unexpected spiritual awakenings.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/bFYCy40QH3B9F6iF5lcOmeFx7mq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5545909,
+                    "name": "What's In A Name?",
+                    "overview": "A colorful ceremony bestows new African names upon one family as they begin planning for a promising African future.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/yGQdaoPABxMdbbemlcfizP3Hl6D.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5545910,
+                    "name": "Feels Like Home",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 262446,
+                    "still_path": "/nCNCb90GQ2i2AErawLVelleZS56.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 407760,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

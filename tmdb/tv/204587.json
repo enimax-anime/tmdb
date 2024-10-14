@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "1991-02-07",
+    "genres": [],
+    "homepage": "",
+    "id": 204587,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "1991-02-07",
+    "last_episode_to_air": {
+        "id": 3798001,
+        "name": "False Arrest - Part 1",
+        "overview": "A gripping story of passion and betrayal as a woman fights to clear her name and avoid the death penalty for a crime she didn't commit.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1991-02-07",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204587,
+        "still_path": null
+    },
+    "name": "False Arrest",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "False Arrest",
+    "overview": "A luxury home, a handsome husband and terrific children. But it all comes crashing down when she is accused of being a mastermind behind a brutal triple-homicide and is arrested and handcuffed in front of her own children.",
+    "popularity": 0.001,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1991-02-07",
+            "episode_count": 1,
+            "id": 298258,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62b27dbdc2bcc60093b8df1b",
+            "air_date": "1991-02-07",
+            "episodes": [
+                {
+                    "air_date": "1991-02-07",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3798001,
+                    "name": "False Arrest - Part 1",
+                    "overview": "A gripping story of passion and betrayal as a woman fights to clear her name and avoid the death penalty for a crime she didn't commit.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204587,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 298258,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

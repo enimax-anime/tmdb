@@ -1,0 +1,474 @@
+{
+    "adult": false,
+    "backdrop_path": "/nvghj1ATa0CITFHOZvIPT7NtL4Z.jpg",
+    "created_by": [
+        {
+            "id": 84714,
+            "credit_id": "61b6a5691f331900611f65fe",
+            "name": "Juan José Campanella",
+            "original_name": "Juan José Campanella",
+            "gender": 2,
+            "profile_path": "/p4wpKzQn2ZSuxbiuv2whmLVha48.jpg"
+        }
+    ],
+    "episode_run_time": [
+        55
+    ],
+    "first_air_date": "2021-12-12",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/shows/los-enviados",
+    "id": 153411,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2023-12-07",
+    "last_episode_to_air": {
+        "id": 4980843,
+        "name": "The Light in the Darkness",
+        "overview": "All cards are on the table. The Envoys try to escape the Brotherhood alive. Pilar puts the town's future at stake. And Bernat is about the lose everything he always fought for.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-12-07",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 63,
+        "season_number": 2,
+        "show_id": 153411,
+        "still_path": "/ibgcbo2dqprXClosQJWLHtmcoFO.jpg"
+    },
+    "name": "The Envoys",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5567,
+            "logo_path": "/wFVDi1bYoyriigHFKIRSdJ9l8kD.png",
+            "name": "Paramount+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Los Enviados",
+    "overview": "Two Vatican officials with very different conceptions of what faith is are sent to different parts of the world to investigate and verify the veracity of alleged miracles and healings attributed to members of the church.",
+    "popularity": 43.621,
+    "poster_path": "/z8mY0ZmsaFMKk5YVfvMtGxAuT62.jpg",
+    "production_companies": [
+        {
+            "id": 125586,
+            "logo_path": "/6gOEKQP41YSSzdLgL67FHhuXGdG.png",
+            "name": "VIS",
+            "origin_country": ""
+        },
+        {
+            "id": 98971,
+            "logo_path": "/xdBaB8hzyBNcFw7W911bbY3WKB0.png",
+            "name": "Portocabo",
+            "origin_country": "ES"
+        },
+        {
+            "id": 205904,
+            "logo_path": null,
+            "name": "Paramount Television International Studios",
+            "origin_country": "AR"
+        },
+        {
+            "id": 5517,
+            "logo_path": "/XPKV5HO98Q5fzgRGWBj5GSRKig.png",
+            "name": "100 Bares",
+            "origin_country": "AR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AR",
+            "name": "Argentina"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-12",
+            "episode_count": 8,
+            "id": 235787,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3NJjBZYt9KATMPXPJSFzOJY0lfi.jpg",
+            "season_number": 1,
+            "vote_average": 7.8
+        },
+        {
+            "air_date": "2023-12-07",
+            "episode_count": 8,
+            "id": 311903,
+            "name": "Season 2",
+            "overview": "In season 2, priests Pedro Salinas and Simón Antequera travel to Porto da Lúa, a small fishing village located in Galicia, to determine the veracity of a new miracle.",
+            "poster_path": "/hdigEw8rvAkythMO7IWTA3XAVPR.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Miracle or lie?",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 275,
+    "season_data": {
+        "1": {
+            "_id": "61b6a4f8c616ac001e5fa8fe",
+            "air_date": "2021-12-12",
+            "episodes": [
+                {
+                    "air_date": "2021-12-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3391044,
+                    "name": "Walk With Your Eyes Wide Open",
+                    "overview": "Two Vatican officials investigate a miraculous healing attributed to a local priest. Upon their arrival, his mysterious disappearance puts a stop to the investigation",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/tm9OQjnOvkelMaxlvTZHuhHKHIa.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3391048,
+                    "name": "And the Devil Appeared",
+                    "overview": "A coincidence casts doubt on Quintana. A witness reveals new information about Valentina’s healing. The discovery of a body has similarities with of Salinas’ strange childhood.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/kQDCKG3JAUI4RrCakMwpuGb8BkO.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3391050,
+                    "name": "Christ's Youth",
+                    "overview": "Local authorities investigate the recent murders. The Vatican puts pressure on the Envoys when they broaden the scope of their investigation, putting their stay in Mexico at risk.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/eT3VATLdoOuhyRAclIAnTMEGKOI.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3391051,
+                    "name": "Don't Scream",
+                    "overview": "The Vatican tries to make The Envoys return while suffering the consequences of investigating Benavent, who reveals his true calling. Molina Reyes discovers a dark secret.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/5FCV8TnDRMThJglpGedx70EH1rA.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3391052,
+                    "name": "Descent Into Hell",
+                    "overview": "The Vatican forcers the Envoys to take different paths. Salinas witnesses a particular ritual. Antequera fights to remain in the investigation when he receives a surprising message.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/7K10eopsOvlsNxcgVLNmouuiJSw.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "episode_count": 4,
+                            "person_id": "5fe712a11d6c5f003fe171c4",
+                            "character": "Badi",
+                            "credit_id": "6626b630e54d5d017eee35cd",
+                            "order": 500
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3391054,
+                    "name": "Salina's Trip",
+                    "overview": "Antequera discovers Quintana’s painful past with Adriana and Esteban. Salinas puts Benavent to the test. Antequera and Emilia come up up with a risky plan and Salinas discovers a new talent.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/yQewP0NuTPW4yaeG5XF1lIHneEh.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "episode_count": 4,
+                            "person_id": "5fe712a11d6c5f003fe171c4",
+                            "character": "Badi",
+                            "credit_id": "6626b630e54d5d017eee35cd",
+                            "order": 500
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3391055,
+                    "name": "My Name Is Legion",
+                    "overview": "The Envoys help someone from becomening a new victim. Antequera and Salinas find answers inside the hospice while the main suspect of the murders runs away.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/2WZdfybH8BTZ0cjeHdxItVo9RhR.jpg",
+                    "vote_average": 9,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "episode_count": 4,
+                            "person_id": "5fe712a11d6c5f003fe171c4",
+                            "character": "Badi",
+                            "credit_id": "6626b630e54d5d017eee35cd",
+                            "order": 500
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3391056,
+                    "name": "Deliver Us From Evil",
+                    "overview": "The investigation comes to an unexpected conclusion. The Envoys link Quintana to some healings inside the hospice.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 153411,
+                    "still_path": "/g2cHjoZ255GEnjWzDMKnKbqRxQN.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "episode_count": 4,
+                            "person_id": "5fe712a11d6c5f003fe171c4",
+                            "character": "Badi",
+                            "credit_id": "6626b630e54d5d017eee35cd",
+                            "order": 500
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 235787,
+            "poster_path": "/3NJjBZYt9KATMPXPJSFzOJY0lfi.jpg",
+            "season_number": 1,
+            "vote_average": 7.8
+        },
+        "2": {
+            "_id": "6342c4f29c97bd007c21141d",
+            "air_date": "2023-12-07",
+            "episodes": [
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4929164,
+                    "name": "The Oracle of Porto da Lua",
+                    "overview": "Galicia. Land of Legends. The Envoys arrive at Porto da Lua to investigate an alleged miracle. But they find a divided town where nobody wants them to succeed in their mission.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/tlPA3eriNSA5CiiBxxlFrVLHfyI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4980837,
+                    "name": "The Keys of the Kingdom",
+                    "overview": "After finding Joaquin Bustamante's body, Salinas has a vision and understands that this town is hiding secrets to dangerous that they don't only endanger their mission: They endanger their lives.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/4b7nGnlLKlKrf6dTd7HkGsLJp1f.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4980838,
+                    "name": "The Lord's Lambs",
+                    "overview": "Nuno is now the main suspect in Bustamante's murder. His life is in danger. At night, during the town's festivities, the Envoys are the only ones who can save him. If they arrive in time.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/x7WTqjsICmkkvhxc1acIUwGQqBw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4980839,
+                    "name": "Requiescat in Pace",
+                    "overview": "With the mayor as the main suspect in Joaquin's murder, only the Envoys stand in the Brotherhood's path. But doubts and fears begin to affect them.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/kY6rkdA3QDQATqx7VJIXDm5pNeg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4980840,
+                    "name": "Free of Sin",
+                    "overview": "Pilar is cleared of suspicion, the Brotherhood believe Nuno to be the culprit. First, they must stop Pilar from taking over the fishing industry. Alba is honest with her daughter. A bad idea.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/xgyhelxysrerVMVkuJHbuiyRBCe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4980841,
+                    "name": "The Lake of Fire",
+                    "overview": "The public learns who Xiana's true father is. Bernat's rage threatens the town. Meanwhile, the Envoys understand that the cause of everything is in a past they ignore. Nuno is the key.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/pQbC4DhxKViRpRjFDFCrAFub9he.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4980842,
+                    "name": "Hestia",
+                    "overview": "The night that the three Nuns lost their sight is the key. To find out what happened, those who are silent must speak: the three Sisters, the girl who saw the attack against Nuno and Cañola.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/nlnELhrm6U2KOn9sUP25JsMVEhN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4980843,
+                    "name": "The Light in the Darkness",
+                    "overview": "All cards are on the table. The Envoys try to escape the Brotherhood alive. Pilar puts the town's future at stake. And Bernat is about the lose everything he always fought for.",
+                    "production_code": "",
+                    "runtime": 63,
+                    "season_number": 2,
+                    "show_id": 153411,
+                    "still_path": "/ibgcbo2dqprXClosQJWLHtmcoFO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "In season 2, priests Pedro Salinas and Simón Antequera travel to Porto da Lúa, a small fishing village located in Galicia, to determine the veracity of a new miracle.",
+            "id": 311903,
+            "poster_path": "/hdigEw8rvAkythMO7IWTA3XAVPR.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/wyn7KX9sOm7NJXNrY0lJY26lJnG.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-06-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.hbo.com/one-south-portrait-of-a-psych-unit",
+    "id": 253314,
+    "in_production": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "last_air_date": "2024-06-26",
+    "last_episode_to_air": {
+        "id": 5368061,
+        "name": "Part Two",
+        "overview": "As treatment progresses, patients form connections with each other and learn coping skills such as distress tolerance and radical acceptance as they gain insight into their own behavior. The staff counsels the patients about what to watch for as they try to reassimilate to life outside. As several patients successfully leave the unit, new patients continue to arrive.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-06-26",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 86,
+        "season_number": 1,
+        "show_id": 253314,
+        "still_path": "/niWGYqXHcLBs7H4dxO96Dc0hiA4.jpg"
+    },
+    "name": "One South: Portrait of a Psych Unit",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 49,
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "One South: Portrait of a Psych Unit",
+    "overview": "One South is an inpatient psychiatric unit at Zucker Hillside Hospital in Queens, NY, specializing in treating young adults. It may look more like a college dorm than a psychiatric hospital, but patients arrive every day in acute crisis. They are dealing with a variety of mental health issues, including depression, anxiety, personality disorders, and psychosis, and many have contemplated or attempted suicide. A team of doctors, social workers, and nurses work together to stabilize the patients and prepare them to return to the outside world",
+    "popularity": 5.89,
+    "poster_path": "/cUcQIROJeEp5qKBqZFgxT3Kd5JC.jpg",
+    "production_companies": [
+        {
+            "id": 14914,
+            "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+            "name": "HBO Documentary Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 98582,
+            "logo_path": null,
+            "name": "Gidalya Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-06-25",
+            "episode_count": 2,
+            "id": 391830,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Every patient has a story.",
+    "type": "Miniseries",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "66325f79ad59b501286cb170",
+            "air_date": "2024-06-25",
+            "episodes": [
+                {
+                    "air_date": "2024-06-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5317143,
+                    "name": "Part One",
+                    "overview": "Young adults in crisis arrive at One South and the doctors and staff rush to evaluate, stabilize, and support them, with the goal of readying them to leave the unit with a practical out-patient treatment plan. The patients have several group therapy sessions and meet one-on-one with doctors daily. While away from the patients, the staff also meet to support each other.",
+                    "production_code": "",
+                    "runtime": 77,
+                    "season_number": 1,
+                    "show_id": 253314,
+                    "still_path": "/bzcnvi2eIWqc142W76RrA62SDti.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-06-26",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 5368061,
+                    "name": "Part Two",
+                    "overview": "As treatment progresses, patients form connections with each other and learn coping skills such as distress tolerance and radical acceptance as they gain insight into their own behavior. The staff counsels the patients about what to watch for as they try to reassimilate to life outside. As several patients successfully leave the unit, new patients continue to arrive.",
+                    "production_code": "",
+                    "runtime": 86,
+                    "season_number": 1,
+                    "show_id": 253314,
+                    "still_path": "/niWGYqXHcLBs7H4dxO96Dc0hiA4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 391830,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

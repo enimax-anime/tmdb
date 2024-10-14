@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-12-16",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 129001,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2020-12-16",
+    "last_episode_to_air": {
+        "id": 3069861,
+        "name": "The Mountain Decides",
+        "overview": "The big day. Each driver only gets one shot to make it to the top of the mountain, but not all of them will reach the summit. One driver will surprise himself by destroying a record while another will come up just short.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-12-16",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 129001,
+        "still_path": null
+    },
+    "name": "Pike's Peak: On The Edge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2444,
+            "logo_path": "/2BGpHwd0CpeH4fKN32O217RbtI8.png",
+            "name": "MotorTrend",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Pike's Peak: On The Edge",
+    "overview": "A literal race to the clouds, Pikes Peak: On the Edge is an exclusive, fast-paced retelling of the world's most thrilling race. No guardrails. No bias. The real story of Pikes Peak that no one has ever seen.",
+    "popularity": 1.181,
+    "poster_path": "/a4TwL3f35XnOOkjpQCY0pvp89ii.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-12-16",
+            "episode_count": 3,
+            "id": 201985,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "60ec4faaa14e1000472a0f00",
+            "air_date": "2020-12-16",
+            "episodes": [
+                {
+                    "air_date": "2020-12-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3069859,
+                    "name": "14,115 Feet Up",
+                    "overview": "Six drivers prepare for the ultimate racing challenge. Some are amateurs seeking glory while others are pros seeking redemption. Dai Yoshihara hopes his team can get his car to work while Chris Becker hopes he's prepared enough to stay out of the trees this year.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129001,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3069860,
+                    "name": "You Don't Spin at Pikes Peak",
+                    "overview": "Practice at Pikes Peak starts at 3 a.m. and is a challenge for drivers and cars alike. Blake Fuller in his Tesla and Jeff Zwart in his Porsche gain two unexpected competitors. Dai Yoshihara's car keeps breaking. Multiple cars crash in an unusually brutal practice. Who will survive to race day?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129001,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-16",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3069861,
+                    "name": "The Mountain Decides",
+                    "overview": "The big day. Each driver only gets one shot to make it to the top of the mountain, but not all of them will reach the summit. One driver will surprise himself by destroying a record while another will come up just short.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 129001,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 201985,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}
