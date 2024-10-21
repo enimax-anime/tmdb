@@ -1,0 +1,289 @@
+{
+    "adult": false,
+    "backdrop_path": "/b7ITvEUp4dszOHXbdoYnNQQ2QOD.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2013-02-13",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 121467,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-05-18",
+    "last_episode_to_air": {
+        "id": 2816076,
+        "name": "In the Path of a Volcano",
+        "overview": "Venture into the danger zone of two volcanic craters posing widely divergent threats. Hawaii's Kilauea is a shield volcano that threatens communities with its slow-but-relentless lava flow, while the Sumatran Sinabung is a stratovolcano delivering carnage via a sudden and explosive surge of superheated gas and rock.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-05-18",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 121467,
+        "still_path": null
+    },
+    "name": "Volcanic Odysseys",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 658,
+            "logo_path": "/meU2LRnHcSr0m0Upx5loxHWETqF.png",
+            "name": "Smithsonian Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Volcanic Odysseys",
+    "overview": "Nowhere is the full range of nature's force more apparent than during a volcanic eruption. Join us on daring odysseys to the fiery hearts of these volcanic caldera and witness firsthand their awesome displays of power.",
+    "popularity": 3.244,
+    "poster_path": "/sxvkr7BjADxoNYyNbxTPbtilwhz.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-02-13",
+            "episode_count": 4,
+            "id": 187298,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5c5pQ8QlbFNW65uW9ZOI6DMFyDu.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2016-05-18",
+            "episode_count": 5,
+            "id": 187300,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/xPWNQWvB5z9vcXFdRXTqcMVrcvn.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6058cfd922931a006a2a3bf2",
+            "air_date": "2013-02-13",
+            "episodes": [
+                {
+                    "air_date": "2013-02-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2816067,
+                    "name": "Crossing the Danakil",
+                    "overview": "German volcanologist Tom Pfeiffer takes a group of volcano climbers on an adventure across the Danakil, and then on to the summit of Erte Ale volcano to see one of the world's few active lava lakes.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-02-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2816069,
+                    "name": "The Child of Fire",
+                    "overview": "When Tom Pfeiffer hears that Anak appears to be going into a violent phase, he hops on a plane to Indonesia to see if the Child of Fire is ready to repeat the pattern of its ancestor.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-02-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2816070,
+                    "name": "The Gates of Hell",
+                    "overview": "Tom Pfeiffer and a group of volcano climbers head to Mount Etna to see if they will get lucky to catch a paroxymal eruption.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-03-05",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2816071,
+                    "name": "The Fires of Pele",
+                    "overview": "A sudden collapse of the crater floor and a massive eruption drains Hawaii's Kilauea volcano of lava, making it possible to explore.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60854a59bc2cb30057f057fe",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2160485,
+                            "known_for_department": "Directing",
+                            "name": "Michael Dalton-Smith",
+                            "original_name": "Michael Dalton-Smith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 187298,
+            "poster_path": "/5c5pQ8QlbFNW65uW9ZOI6DMFyDu.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6058d1af6e3deb0028d981fd",
+            "air_date": "2016-05-18",
+            "episodes": [
+                {
+                    "air_date": "2016-05-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2816072,
+                    "name": "Indonesia Islands of Fire",
+                    "overview": "Volcanologist Tom Pfeiffer and his team are embarking on their most daring adventure yet--visiting and photographing two remote Indonesian volcanoes, among the 20 most active in the world. Join a tense journey into the heart of one of nature's most dramatic and unpredictable natural phenomena, one that will test this experienced crew of scientists and native guides.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-05-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2816073,
+                    "name": "Fires of Don Goyo",
+                    "overview": "As part of the connecting landmass between North and South America, Mexico has long been at the center of a tectonic tug of war spanning millennia. The result is two of the world's largest, most active volcanoes--the rumbling Popocatepetl and the menacing Volcano De Colima--whose vengeful displays of wrath are increasing in frequency. Could a cataclysmic eruption be just around the corner?",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-05-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2816074,
+                    "name": "A Place Like Hell",
+                    "overview": "Indonesia is one of the most volcanically active countries in the world--the island of Java alone has 45 active volcanoes, which could erupt at any time. Descend into some of the world's most volatile craters with scientist Tom Pfeiffer, who is hell-bent on photographing rare volcanic phenomenon.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-05-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2816075,
+                    "name": "Restless Giants",
+                    "overview": "Japan has more than 100 active volcanoes--two in particular may be on the verge of unleashing a devastating sequence of deadly eruptions and secondary earthquake activity. Join intrepid volcanologist Tom Pfeiffer's dangerous and exhilarating journey to the foot of these angry giants.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-05-18",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 2816076,
+                    "name": "In the Path of a Volcano",
+                    "overview": "Venture into the danger zone of two volcanic craters posing widely divergent threats. Hawaii's Kilauea is a shield volcano that threatens communities with its slow-but-relentless lava flow, while the Sumatran Sinabung is a stratovolcano delivering carnage via a sudden and explosive surge of superheated gas and rock.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 121467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 187300,
+            "poster_path": "/xPWNQWvB5z9vcXFdRXTqcMVrcvn.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

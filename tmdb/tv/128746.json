@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-07-06",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 128746,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-07-20",
+    "last_episode_to_air": {
+        "id": 3475945,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-07-20",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 128746,
+        "still_path": null
+    },
+    "name": "The Latino Experience",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Latino Experience",
+    "overview": "In a three-hour presentation of nonfiction and fiction short films, The Latino Experience explores a broad collection of experiences, perspectives, and points of view to highlight the diversity of the Latino/a/x community and to illuminate the vibrancy of the United States and Puerto Rico.",
+    "popularity": 0.018,
+    "poster_path": "/9hJPnZkna0dPDdHJyiHTUili7h9.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-06",
+            "episode_count": 3,
+            "id": 201435,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "60e54e6b4ca676005e179de5",
+            "air_date": "2021-07-06",
+            "episodes": [
+                {
+                    "air_date": "2021-07-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3059592,
+                    "name": "The Blue Cape",
+                    "overview": "Ten-year-old Junior (Yanniel A. Arce Rivera) is summoned by his mother to search for the medicine his grandfather so desperately needs. To embark on his journey, Junior wraps himself in a cape made from the blue tarp that covers his roof.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 128746,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3475944,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 128746,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-20",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3475945,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 128746,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 201435,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

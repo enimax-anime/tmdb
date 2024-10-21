@@ -1,0 +1,565 @@
+{
+    "adult": false,
+    "backdrop_path": "/rBg4MGYEmVjaqU5380q2mx8j4cZ.jpg",
+    "created_by": [
+        {
+            "id": 24167,
+            "credit_id": "5c5bd4b0c3a3684c23883f11",
+            "name": "Ed Whitmore",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2236747,
+            "credit_id": "5c5bd49e9251413376b97cd4",
+            "name": "Colin Sutton",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2019-01-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.itv.com/hub/manhunt",
+    "id": 85052,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-09-23",
+    "last_episode_to_air": {
+        "id": 3218570,
+        "name": "Episode 4",
+        "overview": "The team are losing morale: it's highly unlikely Minstead Man will appear again after such a close call, and the surveillance may be cut short before they can catch their culprit.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-09-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 2,
+        "show_id": 85052,
+        "still_path": "/b5VE4dscF3EykgqtDdxKHtaWTfG.jpg"
+    },
+    "name": "Manhunt",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Manhunt",
+    "overview": "The true story of London Metropolitan police detective Colin Sutton's manhunt for serial criminals.",
+    "popularity": 24.871,
+    "poster_path": "/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg",
+    "production_companies": [
+        {
+            "id": 46655,
+            "logo_path": "/7827Xo06PadcZRrNkkKlapO7c92.png",
+            "name": "Buffalo Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-06",
+            "episode_count": 3,
+            "id": 114622,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r2nhTCodJf3bjfASl8v4Px4iLYV.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        },
+        {
+            "air_date": "2021-09-20",
+            "episode_count": 4,
+            "id": 210467,
+            "name": "The Night Stalker",
+            "overview": "Detective Chief Inspector Colin Sutton is tasked with catching the Night Stalker.",
+            "poster_path": "/gkv776SMlKNjew683oGSQ0e1vUg.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "One man's quest for justice.",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 64,
+    "season_data": {
+        "1": {
+            "_id": "5c1a739bc3a3683454d03194",
+            "air_date": "2019-01-06",
+            "episodes": [
+                {
+                    "air_date": "2019-01-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1646176,
+                    "name": "The First Day",
+                    "overview": "On 19th August 2004 French student Amelie Delagrange is found on Twickenham Green with fatal head injuries. Detective Chief Inspector Colin Sutton is tasked with leading the investigation. There is no forensic evidence from the attacker at the crime scene, and no apparent motive. But there has been a spate of similar violent attacks on young women in the area.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85052,
+                    "still_path": "/u2rQ90HCjzK2zK4emLogop93kUK.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c3268b8925141635e726382",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4575,
+                            "known_for_department": "Directing",
+                            "name": "Marc Evans",
+                            "original_name": "Marc Evans",
+                            "popularity": 1.825,
+                            "profile_path": "/h7CkE0A3ZLI3InPJRx0J5uPF8Wj.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5c32690bc3a3685320a83fcd",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 24167,
+                            "known_for_department": "Writing",
+                            "name": "Ed Whitmore",
+                            "original_name": "Ed Whitmore",
+                            "popularity": 1.434,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Jean-Francois Delagrange",
+                            "credit_id": "5c36089a9251412306ea79fe",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1599256,
+                            "known_for_department": "Acting",
+                            "name": "Stephane Cornicard",
+                            "original_name": "Stephane Cornicard",
+                            "popularity": 4.025,
+                            "profile_path": "/4RlyQn1NkoAn5izaWPqXBC6BZTv.jpg"
+                        },
+                        {
+                            "character": "Det Supt Steve Scott",
+                            "credit_id": "5c36096092514122eaea8698",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1233153,
+                            "known_for_department": "Acting",
+                            "name": "Howard Ward",
+                            "original_name": "Howard Ward",
+                            "popularity": 4.349,
+                            "profile_path": "/4hzgn1zrbXs652QQepFAKtb8HVR.jpg"
+                        },
+                        {
+                            "character": "Dominque Delagrange",
+                            "credit_id": "5c36087f9251412303ea7850",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1650546,
+                            "known_for_department": "Acting",
+                            "name": "Michèle Belgrand",
+                            "original_name": "Michèle Belgrand",
+                            "popularity": 4.506,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Assembly Meeting Man",
+                            "credit_id": "63b9ac55f85958007d350d91",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2801254,
+                            "known_for_department": "Acting",
+                            "name": "Lucas Hare",
+                            "original_name": "Lucas Hare",
+                            "popularity": 17.002,
+                            "profile_path": "/7wGeY4CBgQXxUmm3TnHWFdnVGRk.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1646177,
+                    "name": "The Van",
+                    "overview": "Colin Sutton and his team are trying to identify the white van they have discovered from an extensive trawl of CCTV images. But there are 25,000 possible vans that need to be checked and eliminated.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85052,
+                    "still_path": "/aUswUHlIL4YFmV603wjQMyebt66.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c3268b8925141635e726382",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4575,
+                            "known_for_department": "Directing",
+                            "name": "Marc Evans",
+                            "original_name": "Marc Evans",
+                            "popularity": 1.825,
+                            "profile_path": "/h7CkE0A3ZLI3InPJRx0J5uPF8Wj.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5c32690bc3a3685320a83fcd",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 24167,
+                            "known_for_department": "Writing",
+                            "name": "Ed Whitmore",
+                            "original_name": "Ed Whitmore",
+                            "popularity": 1.434,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "DI Brian Marjoram",
+                            "credit_id": "5c3608bec3a36827391bf155",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6970,
+                            "known_for_department": "Acting",
+                            "name": "Christopher Fulford",
+                            "original_name": "Christopher Fulford",
+                            "popularity": 6.114,
+                            "profile_path": "/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-08",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1646178,
+                    "name": "The Suspect",
+                    "overview": "Detective Chief Inspector Colin Sutton briefs the team in preparation for Bellfield’s arrest.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 85052,
+                    "still_path": "/86cBHQzNVIJTL6ZWKBWOZSBmk0o.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c3268b8925141635e726382",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4575,
+                            "known_for_department": "Directing",
+                            "name": "Marc Evans",
+                            "original_name": "Marc Evans",
+                            "popularity": 1.825,
+                            "profile_path": "/h7CkE0A3ZLI3InPJRx0J5uPF8Wj.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5c32690bc3a3685320a83fcd",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 24167,
+                            "known_for_department": "Writing",
+                            "name": "Ed Whitmore",
+                            "original_name": "Ed Whitmore",
+                            "popularity": 1.434,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Laura Marsh",
+                            "credit_id": "5c3608ea9251412303ea7882",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1252496,
+                            "known_for_department": "Acting",
+                            "name": "Cara Theobold",
+                            "original_name": "Cara Theobold",
+                            "popularity": 17.979,
+                            "profile_path": "/rEfG0CWqOTcqUU34IiV3unQOHca.jpg"
+                        },
+                        {
+                            "character": "Jean-Francois Delagrange",
+                            "credit_id": "5c36089a9251412306ea79fe",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1599256,
+                            "known_for_department": "Acting",
+                            "name": "Stephane Cornicard",
+                            "original_name": "Stephane Cornicard",
+                            "popularity": 4.025,
+                            "profile_path": "/4RlyQn1NkoAn5izaWPqXBC6BZTv.jpg"
+                        },
+                        {
+                            "character": "Custody Sergeant",
+                            "credit_id": "60d1f73c95c0af0046237e84",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1599275,
+                            "known_for_department": "Acting",
+                            "name": "Ziad Abaza",
+                            "original_name": "Ziad Abaza",
+                            "popularity": 8.232,
+                            "profile_path": "/2wWZUE8CWkANDL1AKaeUet2gu1k.jpg"
+                        },
+                        {
+                            "character": "Det Supt Steve Scott",
+                            "credit_id": "5c36096092514122eaea8698",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1233153,
+                            "known_for_department": "Acting",
+                            "name": "Howard Ward",
+                            "original_name": "Howard Ward",
+                            "popularity": 4.349,
+                            "profile_path": "/4hzgn1zrbXs652QQepFAKtb8HVR.jpg"
+                        },
+                        {
+                            "character": "Dominque Delagrange",
+                            "credit_id": "5c36087f9251412303ea7850",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1650546,
+                            "known_for_department": "Acting",
+                            "name": "Michèle Belgrand",
+                            "original_name": "Michèle Belgrand",
+                            "popularity": 4.506,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "DCI Maria Woodall",
+                            "credit_id": "6474e21a9ee0ef0136c84e61",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4087570,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Daniels",
+                            "original_name": "Amanda Daniels",
+                            "popularity": 6.139,
+                            "profile_path": "/r2F6WhoqALr3JPT4l0fFbuzKoj0.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 114622,
+            "poster_path": "/r2nhTCodJf3bjfASl8v4Px4iLYV.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        },
+        "2": {
+            "_id": "613c53f3e8999b004287cca8",
+            "air_date": "2021-09-20",
+            "episodes": [
+                {
+                    "air_date": "2021-09-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3207525,
+                    "name": "Episode 1",
+                    "overview": "Detective Chief Inspector Colin Sutton is tasked with reviewing Operation Minstead, an eleven-year, multi-million-pound enquiry to catch the `Night Stalker'.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 85052,
+                    "still_path": "/3t3HoFayoet9q5iSqtvWxRSvnEc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c3268b8925141635e726382",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4575,
+                            "known_for_department": "Directing",
+                            "name": "Marc Evans",
+                            "original_name": "Marc Evans",
+                            "popularity": 1.825,
+                            "profile_path": "/h7CkE0A3ZLI3InPJRx0J5uPF8Wj.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5c32690bc3a3685320a83fcd",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 24167,
+                            "known_for_department": "Writing",
+                            "name": "Ed Whitmore",
+                            "original_name": "Ed Whitmore",
+                            "popularity": 1.434,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3212361,
+                    "name": "Episode 2",
+                    "overview": "Colin presents his review findings to DCS Hamish Campbell and suggests a strategy called `Minstead Lite'. But Hamish wants Colin to stay on to see this new approach through.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 85052,
+                    "still_path": "/uc9dScyp7N7Z7BuN6W2DscMIQ9o.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "The Night Stalker",
+                            "credit_id": "614df555b046050063b3cfac",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 669820,
+                            "known_for_department": "Acting",
+                            "name": "Jude Akuwudike",
+                            "original_name": "Jude Akuwudike",
+                            "popularity": 3.642,
+                            "profile_path": "/aTztf3Om6ICYXVVaW4E73105HZ4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3215309,
+                    "name": "Episode 3",
+                    "overview": "The Force Tasking Group must decide whether to fund Colin's high stakes gamble. Not only is it expensive, but there's absolutely no guarantee it will work.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 85052,
+                    "still_path": "/lzwsmp3PPXBcZbgVs24cl4vOnBl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "The Night Stalker",
+                            "credit_id": "614df555b046050063b3cfac",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 669820,
+                            "known_for_department": "Acting",
+                            "name": "Jude Akuwudike",
+                            "original_name": "Jude Akuwudike",
+                            "popularity": 3.642,
+                            "profile_path": "/aTztf3Om6ICYXVVaW4E73105HZ4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3218570,
+                    "name": "Episode 4",
+                    "overview": "The team are losing morale: it's highly unlikely Minstead Man will appear again after such a close call, and the surveillance may be cut short before they can catch their culprit.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 85052,
+                    "still_path": "/b5VE4dscF3EykgqtDdxKHtaWTfG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Delroy Grant",
+                            "credit_id": "614df52d2d8ef3008b0e71db",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 669820,
+                            "known_for_department": "Acting",
+                            "name": "Jude Akuwudike",
+                            "original_name": "Jude Akuwudike",
+                            "popularity": 3.642,
+                            "profile_path": "/aTztf3Om6ICYXVVaW4E73105HZ4.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "The Night Stalker",
+            "overview": "Detective Chief Inspector Colin Sutton is tasked with catching the Night Stalker.",
+            "id": 210467,
+            "poster_path": "/gkv776SMlKNjew683oGSQ0e1vUg.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

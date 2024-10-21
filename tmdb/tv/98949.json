@@ -1,0 +1,247 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2019-09-12",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 98949,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-31",
+    "last_episode_to_air": {
+        "id": 2068128,
+        "name": "90 Second Job",
+        "overview": "Christian rock musician and pro poker player Clay Turney funds his gambling with a nine-month-long bank-robbing spree before turning himself in",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-31",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 98949,
+        "still_path": "/nN2fi5lcCnhMpTqxQbKHaeQyItm.jpg"
+    },
+    "name": "How to Rob a Bank",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "How to Rob a Bank",
+    "overview": "Fourteen banks are robbed in the US every day. These are the true stories of eight ordinary Americans who have committed some of these extraordinary crimes.",
+    "popularity": 0.886,
+    "poster_path": "/xqeuIWgBw6eNeQnletLr0HnBmh6.jpg",
+    "production_companies": [
+        {
+            "id": 202931,
+            "logo_path": null,
+            "name": "Antenna Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-12",
+            "episode_count": 8,
+            "id": 142561,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5e36badd98f1f10018057ab7",
+            "air_date": "2019-09-12",
+            "episodes": [
+                {
+                    "air_date": "2019-09-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2068108,
+                    "name": "$17 Million and Change",
+                    "overview": "Stuck in a dead-end job, David Ghantt decides to take destiny into his own hands. He steals over $17 million. In the process, he commits the second largest bank heist in US history.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/sTWGAwHBJ4W7t7cxD7RrTE3fRe6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-09-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2068122,
+                    "name": "$7 Million by Air",
+                    "overview": "For Cuban exile Karls Monzon and his crew, stealing $7.4 million from Miami Airport is the easy part. As the gang spirals out of control, keeping the money proves far harder.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/vgQkRS1FLiOdCDQwlMrlYH3RaPU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-09-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2068123,
+                    "name": "70k Lost in a Day",
+                    "overview": "Bank manager Louis Early Jr becomes the inside man in a series of daring family run heists when he reunites with his long-lost, career-criminal father",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/bEdzhyJm1emTERaqTfpfUe2Ihfk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2068124,
+                    "name": "Kangaroo Bandit",
+                    "overview": "Former US marine Cain Dyer turns to a life of crime and becomes one of the most prolific bank robbers in American history",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/r0U80EjhvE0o7mn9QKASlGrD2j.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2068125,
+                    "name": "Math Bandit",
+                    "overview": "Math teacher Mark Gurniak gets hooked on gambling websites after winning at a casino while on vacation. When his lucky streak ends, he turns to bank robbery to fuel his addiction.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/a2B1mPvzNIz0VbxmxcdF4VGjqFh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-17",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2068126,
+                    "name": "Skinny Bandit",
+                    "overview": "Richard Stanley loves tacos. But when he can't foot his food bill, he decides that enough is enough - and robs a bank. He quickly becomes one of San Diego's most notorious stick-up men.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/n5A5IqD5eXkdiflhdXESHnjTL1z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-24",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2068127,
+                    "name": "The Fed Who Robbed the Bank",
+                    "overview": "Former federal prosecutor and marine captain Andrew McKenna gets hooked on heroin. As his life falls apart, he goes on a six-week robbery spree in upstate New York.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/lTGzliWYsVPRuZr8GmLqbby3jU0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2068128,
+                    "name": "90 Second Job",
+                    "overview": "Christian rock musician and pro poker player Clay Turney funds his gambling with a nine-month-long bank-robbing spree before turning himself in",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98949,
+                    "still_path": "/nN2fi5lcCnhMpTqxQbKHaeQyItm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 142561,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

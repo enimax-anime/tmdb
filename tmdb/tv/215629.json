@@ -1,0 +1,962 @@
+{
+    "adult": false,
+    "backdrop_path": "/oyNAFlfkbk33P2Q2oXyHJP6TPil.jpg",
+    "created_by": [
+        {
+            "id": 1668451,
+            "credit_id": "6399f4f67cffda008c3a0bd7",
+            "name": "Marek Lechki",
+            "original_name": "Marek Lechki",
+            "gender": 2,
+            "profile_path": "/fp0tsr6AQD8tWIgCivLiOkKb7H4.jpg"
+        },
+        {
+            "id": 2133318,
+            "credit_id": "65c2c7d02fe2fa01842963a4",
+            "name": "Maciej Kubicki",
+            "original_name": "Maciej Kubicki",
+            "gender": 0,
+            "profile_path": "/hZZaqyAMl41ruJikX2ixl7WtN6u.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2022-12-14",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81393836/",
+    "id": 215629,
+    "in_production": false,
+    "languages": [
+        "pl"
+    ],
+    "last_air_date": "2022-12-14",
+    "last_episode_to_air": {
+        "id": 4087070,
+        "name": "The Feast of Song",
+        "overview": "Helena completes her final assignment. Pola finds new partners for her business while Marysia confronts Jurek and starts a new life.",
+        "vote_average": 1,
+        "vote_count": 1,
+        "air_date": "2022-12-14",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 215629,
+        "still_path": "/sFiOR4WnszRHmV8TzwftyRsIuM0.jpg"
+    },
+    "name": "Glitter",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Brokat",
+    "overview": "In 1976 Sopot, Poland, three determined women navigate social and political changes as they strive to find independence, financial freedom and love.",
+    "popularity": 26.131,
+    "poster_path": "/pFbYJJCGUuJPt2DhiNgHfGCI916.jpg",
+    "production_companies": [
+        {
+            "id": 109147,
+            "logo_path": "/fmdKelaoaLILbNpXAq2T4JDWG1S.png",
+            "name": "Telemark",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-14",
+            "episode_count": 10,
+            "id": 318574,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 15,
+    "season_data": {
+        "1": {
+            "_id": "638b9f1015376c007b377a6c",
+            "air_date": "2022-12-14",
+            "episodes": [
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4085571,
+                    "name": "The Night of Love",
+                    "overview": "At a party for a hotel opening, Helena, Pola and Marysia face difficult choices to protect their businesses, family and personal safety.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/QUL6EEA3RMwnCUeeTNsjLEJIta.jpg",
+                    "vote_average": 4.4,
+                    "vote_count": 5,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6659b90ca58a300e39508d8c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1138115,
+                            "known_for_department": "Directing",
+                            "name": "Anna Kazejak",
+                            "original_name": "Anna Kazejak",
+                            "popularity": 3.244,
+                            "profile_path": "/wZ2l8FDCHkvoG154kqf3TjZGdz.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c496012c4f97af9cc9bf4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830641,
+                            "known_for_department": "Writing",
+                            "name": "Sławomir Łonisk",
+                            "original_name": "Sławomir Łonisk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c4967a5392eaf0c81b1672",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830642,
+                            "known_for_department": "Writing",
+                            "name": "Alicja Aromińska",
+                            "original_name": "Alicja Aromińska",
+                            "popularity": 0.024,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Rysiek",
+                            "credit_id": "6571f558a22d3e00accf2bc1",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136726,
+                            "known_for_department": "Acting",
+                            "name": "Kazimierz Mazur",
+                            "original_name": "Kazimierz Mazur",
+                            "popularity": 3.778,
+                            "profile_path": "/3XLhpnVfPSnK2P2ZI9ss0jXft7f.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4087046,
+                    "name": "Welcome to the Club",
+                    "overview": "After losing her business license, Pola decides to blackmail Władek. Helena continues to see Staszek while Marysia reunites with Jurek.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/agoVsLBdYHIMiJKkC5woT4tMmO2.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c2c84ee7c0970164cf178c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2133318,
+                            "known_for_department": "Production",
+                            "name": "Maciej Kubicki",
+                            "original_name": "Maciej Kubicki",
+                            "popularity": 0.884,
+                            "profile_path": "/hZZaqyAMl41ruJikX2ixl7WtN6u.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6659b90ca58a300e39508d8c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1138115,
+                            "known_for_department": "Directing",
+                            "name": "Anna Kazejak",
+                            "original_name": "Anna Kazejak",
+                            "popularity": 3.244,
+                            "profile_path": "/wZ2l8FDCHkvoG154kqf3TjZGdz.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c496012c4f97af9cc9bf4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830641,
+                            "known_for_department": "Writing",
+                            "name": "Sławomir Łonisk",
+                            "original_name": "Sławomir Łonisk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4087047,
+                    "name": "I Want You to Watch",
+                    "overview": "Pola meets with Helena’s contact at the Security Agency. Marysia teams up with Jurek to settle a score, but their relationship hits a snag.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/8Zfd5LnLNlBBFOI7ekVf9pYaTa2.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66c494abd9a924a47da58d27",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1668451,
+                            "known_for_department": "Directing",
+                            "name": "Marek Lechki",
+                            "original_name": "Marek Lechki",
+                            "popularity": 2.236,
+                            "profile_path": "/fp0tsr6AQD8tWIgCivLiOkKb7H4.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c4967a5392eaf0c81b1672",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830642,
+                            "known_for_department": "Writing",
+                            "name": "Alicja Aromińska",
+                            "original_name": "Alicja Aromińska",
+                            "popularity": 0.024,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4087048,
+                    "name": "It Will Be Sunny",
+                    "overview": "Helena, Tomas and Bogdan spend the day soaking up the sun on the beach. But they run into trouble when they stop for dinner at a local restaurant.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/mX7st1ZhP7h2lDQPNu3dgYHfILy.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6659b90ca58a300e39508d8c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1138115,
+                            "known_for_department": "Directing",
+                            "name": "Anna Kazejak",
+                            "original_name": "Anna Kazejak",
+                            "popularity": 3.244,
+                            "profile_path": "/wZ2l8FDCHkvoG154kqf3TjZGdz.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "656f78fc880551013a4a10c9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3275522,
+                            "known_for_department": "Acting",
+                            "name": "Krzysztof Kowalski",
+                            "original_name": "Krzysztof Kowalski",
+                            "popularity": 0.576,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4087049,
+                    "name": "What About Sex",
+                    "overview": "Despite Anna's wishes, Pola partners with Władek and Karmen to open a perfume business. Helena has second thoughts about her assignment for Adam.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/phzFMi5YTv7vfXjMukN1myQ4bwI.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66c494abd9a924a47da58d27",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1668451,
+                            "known_for_department": "Directing",
+                            "name": "Marek Lechki",
+                            "original_name": "Marek Lechki",
+                            "popularity": 2.236,
+                            "profile_path": "/fp0tsr6AQD8tWIgCivLiOkKb7H4.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c496012c4f97af9cc9bf4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830641,
+                            "known_for_department": "Writing",
+                            "name": "Sławomir Łonisk",
+                            "original_name": "Sławomir Łonisk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4087051,
+                    "name": "What a Girl Dreams Of",
+                    "overview": "After failing to find clients at the hotel, Marysia reconciles with Jurek. Jealous of his handsome rival, Adam takes in Staszek for questioning.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/An0Mx7mboZl4TK4ojSMqdooOcda.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66c494abd9a924a47da58d27",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1668451,
+                            "known_for_department": "Directing",
+                            "name": "Marek Lechki",
+                            "original_name": "Marek Lechki",
+                            "popularity": 2.236,
+                            "profile_path": "/fp0tsr6AQD8tWIgCivLiOkKb7H4.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Rysiek",
+                            "credit_id": "6571f558a22d3e00accf2bc1",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136726,
+                            "known_for_department": "Acting",
+                            "name": "Kazimierz Mazur",
+                            "original_name": "Kazimierz Mazur",
+                            "popularity": 3.778,
+                            "profile_path": "/3XLhpnVfPSnK2P2ZI9ss0jXft7f.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4087058,
+                    "name": "Stripteases Galore",
+                    "overview": "Tomas, his friends and Bogdan gather to watch the volleyball game. But the evening goes astray after they discover what Helena does for a living.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/7qfpKebFNMiAfBolcLTyiMdrbnj.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6626e7cab9a0bd017ad79b04",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.199,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49627e9661d33fd96a461",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830646,
+                            "known_for_department": "Writing",
+                            "name": "Marek Baranowski",
+                            "original_name": "Marek Baranowski",
+                            "popularity": 0.529,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sławek",
+                            "credit_id": "65787c32a1d33200c4c7f7b1",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3273230,
+                            "known_for_department": "Acting",
+                            "name": "Przemysław Przestrzelski",
+                            "original_name": "Przemysław Przestrzelski",
+                            "popularity": 1.082,
+                            "profile_path": "/ytAeFEmX7HYu8UAMLbfaBasXBon.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "65949f785907de27c463a47c",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3470618,
+                            "known_for_department": "Acting",
+                            "name": "Hanna Klepacka",
+                            "original_name": "Hanna Klepacka",
+                            "popularity": 3.69,
+                            "profile_path": "/iWuv00Xl50cfGqRjGhGLOvQCOF2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4087062,
+                    "name": "Not All at Once",
+                    "overview": "Anna and Józek's sudden disappearance shakes Pola. Marysia refuses to cooperate with the Security Service. Helena tries to sever ties with Adam.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/lhoh4U4pcozVYuS1vjOj5ZU7Efy.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Still Photographer",
+                            "department": "Camera",
+                            "credit_id": "65555777b5400200c4eb7623",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1612154,
+                            "known_for_department": "Camera",
+                            "name": "Krzysztof Wiktor",
+                            "original_name": "Krzysztof Wiktor",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66c49510a09ea805efc9bcfa",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1137901,
+                            "known_for_department": "Directing",
+                            "name": "Julia Kolberger",
+                            "original_name": "Julia Kolberger",
+                            "popularity": 4.127,
+                            "profile_path": "/pwrxrOuSwN4ekme8EZjETBRSaT2.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49611abbad001bca58d52",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830645,
+                            "known_for_department": "Writing",
+                            "name": "Ewa Stec",
+                            "original_name": "Ewa Stec",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4087066,
+                    "name": "Peace Cup",
+                    "overview": "Marysia and Staszek run into each other at the university. Pola and Władek’s family troubles get in the way of their perfume business.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/2XHHAzM3wk3irfujO1mjosKmAc8.jpg",
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6626e7cab9a0bd017ad79b04",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.199,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c496012c4f97af9cc9bf4a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830641,
+                            "known_for_department": "Writing",
+                            "name": "Sławomir Łonisk",
+                            "original_name": "Sławomir Łonisk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sławek",
+                            "credit_id": "65787c32a1d33200c4c7f7b1",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3273230,
+                            "known_for_department": "Acting",
+                            "name": "Przemysław Przestrzelski",
+                            "original_name": "Przemysław Przestrzelski",
+                            "popularity": 1.082,
+                            "profile_path": "/ytAeFEmX7HYu8UAMLbfaBasXBon.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4087070,
+                    "name": "The Feast of Song",
+                    "overview": "Helena completes her final assignment. Pola finds new partners for her business while Marysia confronts Jurek and starts a new life.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 215629,
+                    "still_path": "/sFiOR4WnszRHmV8TzwftyRsIuM0.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Choreographer",
+                            "department": "Crew",
+                            "credit_id": "65837b9de295b43cbb6858b0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2659914,
+                            "known_for_department": "Crew",
+                            "name": "Tomasz Tworkowski",
+                            "original_name": "Tomasz Tworkowski",
+                            "popularity": 0.329,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66c49510a09ea805efc9bcfa",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1137901,
+                            "known_for_department": "Directing",
+                            "name": "Julia Kolberger",
+                            "original_name": "Julia Kolberger",
+                            "popularity": 4.127,
+                            "profile_path": "/pwrxrOuSwN4ekme8EZjETBRSaT2.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66c49574af3e2b4c36adc4d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3830640,
+                            "known_for_department": "Writing",
+                            "name": "Aleksandra Chmielewska",
+                            "original_name": "Aleksandra Chmielewska",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Rysiek",
+                            "credit_id": "6571f558a22d3e00accf2bc1",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136726,
+                            "known_for_department": "Acting",
+                            "name": "Kazimierz Mazur",
+                            "original_name": "Kazimierz Mazur",
+                            "popularity": 3.778,
+                            "profile_path": "/3XLhpnVfPSnK2P2ZI9ss0jXft7f.jpg"
+                        },
+                        {
+                            "character": "Sławek",
+                            "credit_id": "65787c32a1d33200c4c7f7b1",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3273230,
+                            "known_for_department": "Acting",
+                            "name": "Przemysław Przestrzelski",
+                            "original_name": "Przemysław Przestrzelski",
+                            "popularity": 1.082,
+                            "profile_path": "/ytAeFEmX7HYu8UAMLbfaBasXBon.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 318574,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1.3
+        }
+    }
+}

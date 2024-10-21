@@ -1,0 +1,390 @@
+{
+    "adult": false,
+    "backdrop_path": "/iuSBGQAW0SvVl8fXNefxK6LwCek.jpg",
+    "created_by": [
+        {
+            "id": 172206,
+            "credit_id": "5e4ddd5a35811d00154f408e",
+            "name": "Andrew Orenstein",
+            "gender": 2,
+            "profile_path": "/2P5mSRTnXR87z721nG6BPnIp30p.jpg"
+        }
+    ],
+    "episode_run_time": [
+        27
+    ],
+    "first_air_date": "2020-01-17",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0832J1MCQ",
+    "id": 98078,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-01-17",
+    "last_episode_to_air": {
+        "id": 2052410,
+        "name": "Just Add Goodbyes",
+        "overview": "Bay City is in danger after the Wessons get the final ingredient to a powerful spell. Can our protectors stop them in time?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-01-17",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 31,
+        "season_number": 1,
+        "show_id": 98078,
+        "still_path": "/zpN8wvemCPFsuH67N4NHzYEAfjj.jpg"
+    },
+    "name": "Just Add Magic: Mystery City",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Just Add Magic: Mystery City",
+    "overview": "In a spinoff of the successful series Just Add Magic, we follow the magic cookbook to Bay City as it moves to three new protectors: step-siblings Zoe and Leo, and their downstairs neighbor Ish. Each of the three brings a unique skill to the table, as the cookbook unlocks a centuries-old mystery that takes them on an historical adventure through the city streets in a race to find a secret recipe.",
+    "popularity": 29.348,
+    "poster_path": "/qyxOHsLpn6ktH9gFngCV3AHvG9c.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-17",
+            "episode_count": 10,
+            "id": 141171,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aN5VtKmSFSAy6JbwwMXc1GET1PW.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.167,
+    "vote_count": 24,
+    "season_data": {
+        "1": {
+            "_id": "5e22847b397df000169a29e3",
+            "air_date": "2020-01-17",
+            "episodes": [
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2052400,
+                    "name": "Just Add Opposites",
+                    "overview": "Three new protectors have the book in Bay City. The first thing Zoe, Ish and Leo learn is that the magic doesn't always work like you want it to.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/1m3fckqWp5ePLNlrETeTivqnAov.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2052402,
+                    "name": "Just Add Numbers",
+                    "overview": "A clue sends Ish and Zoe to a mysterious section of the library while Leo uses the magic to bond with his family.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/zCBdzCRE5iwOuH5M28j3CjoJSDi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2052403,
+                    "name": "Just Add Dad",
+                    "overview": "In attempt to connect with a relative, Zoe cooks a recipe that will allow her to relive memories from when she was a baby.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/1SbcI2nn09h01NmWa663qUoxzqQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2052404,
+                    "name": "Just Add Coin",
+                    "overview": "The trio must hide a magical coin from the Wesson family. In the process, the spell begins to hide other important items from their life.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/1wFd0iyVog7JUw1oaIItDji9dSW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2052405,
+                    "name": "Just Add Volume",
+                    "overview": "The protectors cook a super-hearing spell in order to hear what song a silent music box is playing.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/df5mwXbICIsXfFvT0d9Mqk7m2ai.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Michael",
+                            "credit_id": "611df877f0317400740a3011",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3197884,
+                            "known_for_department": "Acting",
+                            "name": "Jhon Leo Hilario",
+                            "original_name": "Jhon Leo Hilario",
+                            "popularity": 0.828,
+                            "profile_path": "/gKkfmE87w1fS9QmEYZ32cVUQcq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2052406,
+                    "name": "Just Add Grown-Ups",
+                    "overview": "Zoe, Ish, and Leo pretend to be adults for the day to obtain information about the Wessons and Zoe's dad.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/nFq2NO7hHBns1Ykv74MpjTZB0FF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2052407,
+                    "name": "Just Add Foresight",
+                    "overview": "The trio cooks up a magic recipe that allows them to see into the future in order to stay one step ahead of the Wessons.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/fiwNRhRYweyBRRa3l4WQycPUmBm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2052408,
+                    "name": "Just Add Color",
+                    "overview": "Everything turns to black and white while the protectors find out what the three magic coins are for.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/pOKLoovU7M5idCcy4G9K5ZlkYjA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2052409,
+                    "name": "Just Add Waffles",
+                    "overview": "Zoe, Ish, and Leo are joined by Kelly, Hannah and Darbie to discover the location of the magical starter.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/rBfgZBuRwv7w5xfYX26cREnE2O3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kelly Quinn",
+                            "credit_id": "63449a6c71ffdf007fb09d69",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1578244,
+                            "known_for_department": "Acting",
+                            "name": "Olivia Sanabia",
+                            "original_name": "Olivia Sanabia",
+                            "popularity": 4.353,
+                            "profile_path": "/z1hP3OkMJ5JFcjaqPIGL0k6RsDK.jpg"
+                        },
+                        {
+                            "character": "Hannah Parker-Kent",
+                            "credit_id": "63449a90d55c3d007a1a4b0b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1568999,
+                            "known_for_department": "Acting",
+                            "name": "Aubrey K. Miller",
+                            "original_name": "Aubrey K. Miller",
+                            "popularity": 2.447,
+                            "profile_path": "/x35ve4kzvJZofKmuReIP6z3Itmg.jpg"
+                        },
+                        {
+                            "character": "Darbie O'Brien",
+                            "credit_id": "63449ab31b7c59007e6e3ba1",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1694676,
+                            "known_for_department": "Acting",
+                            "name": "Abby Donnelly",
+                            "original_name": "Abby Donnelly",
+                            "popularity": 2.753,
+                            "profile_path": "/bCFjxXFtdoR3wbug4JPO0IpMAEy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2052410,
+                    "name": "Just Add Goodbyes",
+                    "overview": "Bay City is in danger after the Wessons get the final ingredient to a powerful spell. Can our protectors stop them in time?",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 98078,
+                    "still_path": "/zpN8wvemCPFsuH67N4NHzYEAfjj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kelly Quinn",
+                            "credit_id": "63449a6c71ffdf007fb09d69",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1578244,
+                            "known_for_department": "Acting",
+                            "name": "Olivia Sanabia",
+                            "original_name": "Olivia Sanabia",
+                            "popularity": 4.353,
+                            "profile_path": "/z1hP3OkMJ5JFcjaqPIGL0k6RsDK.jpg"
+                        },
+                        {
+                            "character": "Hannah Parker-Kent",
+                            "credit_id": "63449a90d55c3d007a1a4b0b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1568999,
+                            "known_for_department": "Acting",
+                            "name": "Aubrey K. Miller",
+                            "original_name": "Aubrey K. Miller",
+                            "popularity": 2.447,
+                            "profile_path": "/x35ve4kzvJZofKmuReIP6z3Itmg.jpg"
+                        },
+                        {
+                            "character": "Darbie O'Brien",
+                            "credit_id": "63449ab31b7c59007e6e3ba1",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1694676,
+                            "known_for_department": "Acting",
+                            "name": "Abby Donnelly",
+                            "original_name": "Abby Donnelly",
+                            "popularity": 2.753,
+                            "profile_path": "/bCFjxXFtdoR3wbug4JPO0IpMAEy.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 141171,
+            "poster_path": "/aN5VtKmSFSAy6JbwwMXc1GET1PW.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

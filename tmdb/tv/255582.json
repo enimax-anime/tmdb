@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/z9j1hArQwAxVzDHmKsBDfovvLbK.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        55
+    ],
+    "first_air_date": "2024-05-26",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.max.com/es/es/shows/el-ultimo-dia-2024/b7459e3a-36d6-4626-9e3d-6f5bea58c2e8",
+    "id": 255582,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-06-09",
+    "last_episode_to_air": {
+        "id": 5377756,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-06-09",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 55,
+        "season_number": 1,
+        "show_id": 255582,
+        "still_path": null
+    },
+    "name": "El último día",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 7560,
+            "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+            "name": "Max",
+            "origin_country": "ES"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "El último día",
+    "overview": "",
+    "popularity": 4.66,
+    "poster_path": "/i7oja1aZdQvqUd5yEE2Lj51pMnl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2024-05-26",
+            "episode_count": 3,
+            "id": 396047,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "6656110f3d6ec91e56212ae5",
+            "air_date": "2024-05-26",
+            "episodes": [
+                {
+                    "air_date": "2024-05-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5377723,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 255582,
+                    "still_path": "/kJVg6KLiqxjKLFGFjFWNGbjaTO5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-06-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5377754,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 255582,
+                    "still_path": "/yWP3kSoO7FFv3G9fkFyHt3BYC72.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-06-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5377756,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 255582,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 396047,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

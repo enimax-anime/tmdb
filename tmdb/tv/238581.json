@@ -1,0 +1,667 @@
+{
+    "adult": false,
+    "backdrop_path": "/u4K0mJLCcJ2XIRkFLj01eOeVph8.jpg",
+    "created_by": [
+        {
+            "id": 1450498,
+            "credit_id": "654225c0e1ad7900aceef2e2",
+            "name": "Curro Royo",
+            "original_name": "Curro Royo",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1778368,
+            "credit_id": "654225b29cc67b00df912fb5",
+            "name": "Fran Carballal",
+            "original_name": "Fran Carballal",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2828196,
+            "credit_id": "654225bb13654500ae46894b",
+            "name": "Enrique Lojo",
+            "original_name": "Enrique Lojo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2024-01-28",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://premium.atresplayer.com/una-vida-menos-en-canarias/",
+    "id": 238581,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-02-25",
+    "last_episode_to_air": {
+        "id": 4879658,
+        "overview": "",
+        "name": "Episode 5",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-02-25",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 49,
+        "season_number": 1,
+        "show_id": 238581,
+        "still_path": "/kIgAYmsAnbcXRabPa43KGIw9t7N.jpg"
+    },
+    "name": "Una vida menos en Canarias",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3744,
+            "logo_path": "/tRcLVDie5E5dIIRvA8Ojjuvlp7k.png",
+            "name": "Atresplayer",
+            "origin_country": "ES"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Una vida menos en Canarias",
+    "overview": "",
+    "popularity": 15.388,
+    "poster_path": "/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg",
+    "production_companies": [
+        {
+            "id": 52275,
+            "logo_path": "/rsPExd8TSTfc20ysfw2AFvIcvuK.png",
+            "name": "Plano a plano",
+            "origin_country": "ES"
+        },
+        {
+            "id": 141786,
+            "logo_path": null,
+            "name": "Buendía Estudios",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-01-28",
+            "episode_count": 5,
+            "id": 363721,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4AaFdGnAfRFbB6R2OhoiTrKMugG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.6,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "6542233f41a56100acfc3b57",
+            "air_date": "2024-01-28",
+            "episodes": [
+                {
+                    "air_date": "2024-01-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4879654,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 238581,
+                    "still_path": "/cJmECvGPrnN4UQUzcVmWTEKzb6z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c0c06e12c6040149ffe7a2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1456401,
+                            "known_for_department": "Directing",
+                            "name": "Inma Torrente",
+                            "original_name": "Inma Torrente",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c076fc65380149e9a4df",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c07d5e120001821c8def",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd238e344a8e018736db91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd2399903c520163bb7606",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23a0903c520163bb760d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1450498,
+                            "known_for_department": "Writing",
+                            "name": "Curro Royo",
+                            "original_name": "Curro Royo",
+                            "popularity": 1.309,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4879655,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 238581,
+                    "still_path": "/5Nh7pJwJM2UBR70TbhfOKrVjHs0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c0c06e12c6040149ffe7a2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1456401,
+                            "known_for_department": "Directing",
+                            "name": "Inma Torrente",
+                            "original_name": "Inma Torrente",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c076fc65380149e9a4df",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c07d5e120001821c8def",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c0c09f37b001635ca9f8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2005168,
+                            "known_for_department": "Writing",
+                            "name": "Nano López Moure",
+                            "original_name": "Nano López Moure",
+                            "popularity": 0.155,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd238e344a8e018736db91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd2399903c520163bb7606",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23b34c1bb0018c7cc1f0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2005168,
+                            "known_for_department": "Writing",
+                            "name": "Nano López Moure",
+                            "original_name": "Nano López Moure",
+                            "popularity": 0.155,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4879656,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 238581,
+                    "still_path": "/ewZ62uc4Y9HGZkLNruBk8vPHCH9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c0c06e12c6040149ffe7a2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1456401,
+                            "known_for_department": "Directing",
+                            "name": "Inma Torrente",
+                            "original_name": "Inma Torrente",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c076fc65380149e9a4df",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c07d5e120001821c8def",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23ce39549a01494e8128",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2013215,
+                            "known_for_department": "Writing",
+                            "name": "Pablo Roa",
+                            "original_name": "Pablo Roa",
+                            "popularity": 0.905,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23d7719aeb017be72706",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2013214,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Sancristóbal",
+                            "original_name": "Fernando Sancristóbal",
+                            "popularity": 0.454,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23e08c0a4801811dc929",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1063543,
+                            "known_for_department": "Writing",
+                            "name": "Verónica Fernández",
+                            "original_name": "Verónica Fernández",
+                            "popularity": 5.167,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4879657,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 238581,
+                    "still_path": "/8oP8LuJwA0E1ZoYRflBziDuGr4x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c0c09f37b001635ca9f8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2005168,
+                            "known_for_department": "Writing",
+                            "name": "Nano López Moure",
+                            "original_name": "Nano López Moure",
+                            "popularity": 0.155,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65d25e61c144dd0149be25ba",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1565036,
+                            "known_for_department": "Directing",
+                            "name": "Moisés Ramos",
+                            "original_name": "Moisés Ramos",
+                            "popularity": 0.245,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65d25e93b422420187b39685",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818270,
+                            "known_for_department": "Writing",
+                            "name": "Nerea Gil",
+                            "original_name": "Nerea Gil",
+                            "popularity": 0.597,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65d25eaabf31f2013060b888",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818272,
+                            "known_for_department": "Writing",
+                            "name": "Pablo Manchado",
+                            "original_name": "Pablo Manchado",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23eec92c5d017c46f22a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818272,
+                            "known_for_department": "Writing",
+                            "name": "Pablo Manchado",
+                            "original_name": "Pablo Manchado",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23f65c564e016278bcd2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818270,
+                            "known_for_department": "Writing",
+                            "name": "Nerea Gil",
+                            "original_name": "Nerea Gil",
+                            "popularity": 0.597,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-25",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 4879658,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 238581,
+                    "still_path": "/kIgAYmsAnbcXRabPa43KGIw9t7N.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c076fc65380149e9a4df",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65c0c07d5e120001821c8def",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65d25e61c144dd0149be25ba",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1565036,
+                            "known_for_department": "Directing",
+                            "name": "Moisés Ramos",
+                            "original_name": "Moisés Ramos",
+                            "popularity": 0.245,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65d25eaabf31f2013060b888",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818272,
+                            "known_for_department": "Writing",
+                            "name": "Pablo Manchado",
+                            "original_name": "Pablo Manchado",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd238e344a8e018736db91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1778368,
+                            "known_for_department": "Creator",
+                            "name": "Fran Carballal",
+                            "original_name": "Fran Carballal",
+                            "popularity": 1.817,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd2399903c520163bb7606",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2828196,
+                            "known_for_department": "Writing",
+                            "name": "Enrique Lojo",
+                            "original_name": "Enrique Lojo",
+                            "popularity": 0.979,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23eec92c5d017c46f22a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818272,
+                            "known_for_department": "Writing",
+                            "name": "Pablo Manchado",
+                            "original_name": "Pablo Manchado",
+                            "popularity": 0.935,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "65dd23f65c564e016278bcd2",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3818270,
+                            "known_for_department": "Writing",
+                            "name": "Nerea Gil",
+                            "original_name": "Nerea Gil",
+                            "popularity": 0.597,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 363721,
+            "poster_path": "/4AaFdGnAfRFbB6R2OhoiTrKMugG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}
