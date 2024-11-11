@@ -1,0 +1,509 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-10-02",
+    "genres": [],
+    "homepage": "",
+    "id": 67498,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-01-28",
+    "last_episode_to_air": {
+        "id": 2168135,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-01-28",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 9,
+        "show_id": 67498,
+        "still_path": null
+    },
+    "name": "Oprah: Where Are They Now?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 827,
+            "logo_path": "/m8H0hZOpkskkIWeqRdiuP2CZOgq.png",
+            "name": "OWN",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 9,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Oprah: Where Are They Now?",
+    "overview": "Oprah: Where Are They Now? is an American reality television series on the Oprah Winfrey Network that takes a look back at what happened to some of the biggest headline makers on The Oprah Winfrey Show plus updates on their current life.",
+    "popularity": 4.12,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 129329,
+            "logo_path": null,
+            "name": "Harpo Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-10-02",
+            "episode_count": 1,
+            "id": 143575,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2013-03-19",
+            "episode_count": 2,
+            "id": 143576,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2014-01-03",
+            "episode_count": 1,
+            "id": 143577,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2014-06-08",
+            "episode_count": 1,
+            "id": 143578,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2014-10-05",
+            "episode_count": 1,
+            "id": 143579,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 5,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2015-03-08",
+            "episode_count": 1,
+            "id": 143580,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 6,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2015-09-19",
+            "episode_count": 1,
+            "id": 143581,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 7,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2016-08-13",
+            "episode_count": 3,
+            "id": 79401,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 8,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-01-28",
+            "episode_count": 1,
+            "id": 143582,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 9,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5e4c1f8f9b8616001166df52",
+            "air_date": "2012-10-02",
+            "episodes": [
+                {
+                    "air_date": "2012-10-02",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168134,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 143575,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5e4c1fa835811d00154c9f69",
+            "air_date": "2013-03-19",
+            "episodes": [
+                {
+                    "air_date": "2013-03-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2168136,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-08-04",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2475655,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f93e1a22fccee004fb05d27",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 153884,
+                            "known_for_department": "Acting",
+                            "name": "Marla Maples",
+                            "original_name": "Marla Maples",
+                            "popularity": 8.368,
+                            "profile_path": "/oIdiJ6PHwvuubj40F7qn3Mr9UP.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5f93e1acd11e0e005f8e452e",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1600274,
+                            "known_for_department": "Acting",
+                            "name": "Tiffany Trump",
+                            "original_name": "Tiffany Trump",
+                            "popularity": 0.583,
+                            "profile_path": "/btGsyfXQKHmpw25jjxfp5NlQhDY.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 143576,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "5e4c1fad9b8616001166df74",
+            "air_date": "2014-01-03",
+            "episodes": [
+                {
+                    "air_date": "2014-01-03",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168137,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 143577,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        "4": {
+            "_id": "5e4c1fb435811d00154c9f80",
+            "air_date": "2014-06-08",
+            "episodes": [
+                {
+                    "air_date": "2014-06-08",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168138,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 4",
+            "overview": "",
+            "id": 143578,
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 0
+        },
+        "5": {
+            "_id": "5e4c1fb99b8616001866a742",
+            "air_date": "2014-10-05",
+            "episodes": [
+                {
+                    "air_date": "2014-10-05",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168139,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 5,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 5",
+            "overview": "",
+            "id": 143579,
+            "poster_path": null,
+            "season_number": 5,
+            "vote_average": 0
+        },
+        "6": {
+            "_id": "5e4c1fbf2866fa00149c6e97",
+            "air_date": "2015-03-08",
+            "episodes": [
+                {
+                    "air_date": "2015-03-08",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168140,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 6,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 6",
+            "overview": "",
+            "id": 143580,
+            "poster_path": null,
+            "season_number": 6,
+            "vote_average": 0
+        },
+        "7": {
+            "_id": "5e4c1fc71e9225001ac72b7a",
+            "air_date": "2015-09-19",
+            "episodes": [
+                {
+                    "air_date": "2015-09-19",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168141,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 7,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 7",
+            "overview": "",
+            "id": 143581,
+            "poster_path": null,
+            "season_number": 7,
+            "vote_average": 0
+        },
+        "8": {
+            "_id": "57b86f2e9251410d98008421",
+            "air_date": "2016-08-13",
+            "episodes": [
+                {
+                    "air_date": "2016-08-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1216341,
+                    "name": "Sir Mix-A-Lot, Heartthrob Kevin Jonas & I Dream of Jeannie's Barbara Eden",
+                    "overview": "The Season 8 premiere features Sir Mix-A-Lot, who discusses his future plans; Kevin Jonas, who introduces his baby daughter; and Barbara Eden, who reflects on her life and \"I Dream of Jeannie.\"",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 8,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-08-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1216342,
+                    "name": "Rock Icon Sammy Hagar, Olympian Suzy Favor Hamilton & Rain Pryor",
+                    "overview": "Sammy Hagar explains why leaving Van Halen made him a better songwriter, performer and businessman; Olympian Suzy Favor Hamilton reflects on the mis-diagnosed bipolar disorder that nearly destroyed her; and Rain Pryor discusses her dad, Richard Pryor. Also: Jeana Keough (\"Real Housewives of Orange County\").",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 8,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-08-27",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1264366,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 8,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 8",
+            "overview": "",
+            "id": 79401,
+            "poster_path": null,
+            "season_number": 8,
+            "vote_average": 0
+        },
+        "9": {
+            "_id": "5e4c1fce9b8616001366ccb6",
+            "air_date": "2017-01-28",
+            "episodes": [
+                {
+                    "air_date": "2017-01-28",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2168135,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 9,
+                    "show_id": 67498,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 9",
+            "overview": "",
+            "id": 143582,
+            "poster_path": null,
+            "season_number": 9,
+            "vote_average": 0
+        }
+    }
+}

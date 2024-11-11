@@ -1,0 +1,601 @@
+{
+    "adult": false,
+    "backdrop_path": "/qkM8ZnDKpz507I2WGlMVkwYM52g.jpg",
+    "created_by": [
+        {
+            "id": 1780430,
+            "credit_id": "61ff42ba62e86f004306e5fe",
+            "name": "Mauro Aragoni",
+            "original_name": "Mauro Aragoni",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-03-10",
+    "genres": [
+        {
+            "id": 37,
+            "name": "Western"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.amcplus.com/pages/that-dirty-black-bag",
+    "id": 157084,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-04-28",
+    "last_episode_to_air": {
+        "id": 3531376,
+        "name": "Chapter Eight: The Great Duel",
+        "overview": "Red Bill and McCoy reckon with consequences. Steve and Thompson face off for the last time.",
+        "vote_average": 10,
+        "vote_count": 3,
+        "air_date": "2022-04-28",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 157084,
+        "still_path": "/kfyEjibhfKvjs7WfX5rOYNiPfpA.jpg"
+    },
+    "name": "That Dirty Black Bag",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4661,
+            "logo_path": "/hECpNxPnJowi91GQ1uAXevmk2g1.png",
+            "name": "AMC+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "That Dirty Black Bag",
+    "overview": "The 8-day clash between Arthur McCoy — an incorruptible sheriff with a troubled past — and Red Bill, an infamous, solitary bounty hunter known for decapitating his victims and stuffing their heads into a dirty black bag.",
+    "popularity": 12.945,
+    "poster_path": "/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-10",
+            "episode_count": 8,
+            "id": 242805,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg",
+            "season_number": 1,
+            "vote_average": 9.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Killing is easy but dying is easier.",
+    "type": "Scripted",
+    "vote_average": 6.864,
+    "vote_count": 55,
+    "season_data": {
+        "1": {
+            "_id": "61ff3f9f3acd20009c8313c3",
+            "air_date": "2022-03-10",
+            "episodes": [
+                {
+                    "air_date": "2022-03-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3488451,
+                    "name": "Chapter One: A Head Weighs Less Than a Body",
+                    "overview": "Far off in the West, bounty hunter, Red Bill, searches for the man who slew his mother. Nearby, in Greenvale, where it hasn't rained for years, local farmer Steve finds gold beneath his land, while Sheriff McCoy comes upon a small fortune.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/3M8qeKBIEjIfTp6yp7c9rnq2rxf.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6229ea5063aad200458fc26e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1780430,
+                            "known_for_department": "Writing",
+                            "name": "Mauro Aragoni",
+                            "original_name": "Mauro Aragoni",
+                            "popularity": 0.406,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Screenplay",
+                            "department": "Writing",
+                            "credit_id": "6229eab46d1bb200463bc4a6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1780430,
+                            "known_for_department": "Writing",
+                            "name": "Mauro Aragoni",
+                            "original_name": "Mauro Aragoni",
+                            "popularity": 0.406,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Screenplay",
+                            "department": "Writing",
+                            "credit_id": "6229eac29a3c490071ee79e3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1933143,
+                            "known_for_department": "Writing",
+                            "name": "Silvia Ebreul",
+                            "original_name": "Silvia Ebreul",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Screenplay",
+                            "department": "Writing",
+                            "credit_id": "6229eacfd6c300001b1dc01e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3077914,
+                            "known_for_department": "Writing",
+                            "name": "Marcello Izzo",
+                            "original_name": "Marcello Izzo",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6229eae6109cd0001bf302b3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3077914,
+                            "known_for_department": "Writing",
+                            "name": "Marcello Izzo",
+                            "original_name": "Marcello Izzo",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6229eaf5a579f9001c7df5a8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1933143,
+                            "known_for_department": "Writing",
+                            "name": "Silvia Ebreul",
+                            "original_name": "Silvia Ebreul",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6229eb0c9a3c49001d144e67",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1780430,
+                            "known_for_department": "Writing",
+                            "name": "Mauro Aragoni",
+                            "original_name": "Mauro Aragoni",
+                            "popularity": 0.406,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Butler",
+                            "credit_id": "62786e458072980096381f03",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 49735,
+                            "known_for_department": "Acting",
+                            "name": "Aidan Gillen",
+                            "original_name": "Aidan Gillen",
+                            "popularity": 17.676,
+                            "profile_path": "/ju5ho6nnwOQ2QLGLnDP9yOZhGpb.jpg"
+                        },
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        },
+                        {
+                            "character": "Jona",
+                            "credit_id": "64625df86e0d72015c0fa933",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1712681,
+                            "known_for_department": "Acting",
+                            "name": "Jacopo Rampini",
+                            "original_name": "Jacopo Rampini",
+                            "popularity": 0.82,
+                            "profile_path": "/tBoPjvx1SbemYxspJJHpwgoVlO6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3531370,
+                    "name": "Chapter Two: Prisoner",
+                    "overview": "Strife occurs at Butler's farm when McCoy and Kurt arrive. The ladies face a threat from within.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/lmUP2bNe7K1stp6Q3v28TR2gTJV.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Butler",
+                            "credit_id": "62786e458072980096381f03",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 49735,
+                            "known_for_department": "Acting",
+                            "name": "Aidan Gillen",
+                            "original_name": "Aidan Gillen",
+                            "popularity": 17.676,
+                            "profile_path": "/ju5ho6nnwOQ2QLGLnDP9yOZhGpb.jpg"
+                        },
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3531371,
+                    "name": "Chapter Three: Alliances",
+                    "overview": "As Red Bill and McCoy traverse the desert, Eve and Steve must both deal with looming threats.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/pA2NoIrw7uysHLEBRWK3bNFM8Zw.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3531372,
+                    "name": "Chapter Four: Genesis",
+                    "overview": "Red Bill recalls his mentor, Anderson. McCoy remembers his time with his brother, Bronson.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/bckPHCtNgVzExovOSe8Rxn0r3AQ.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3531373,
+                    "name": "Chapter Five: Justice",
+                    "overview": "Red Bill and McCoy enter the mines. Steve and Eve face consequences. Bronson runs for governor.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/j6Xj0Dkzh9YbWfB6tBFyZOZFeHh.jpg",
+                    "vote_average": 10,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        },
+                        {
+                            "character": "Jona",
+                            "credit_id": "64625df86e0d72015c0fa933",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1712681,
+                            "known_for_department": "Acting",
+                            "name": "Jacopo Rampini",
+                            "original_name": "Jacopo Rampini",
+                            "popularity": 0.82,
+                            "profile_path": "/tBoPjvx1SbemYxspJJHpwgoVlO6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-14",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3531374,
+                    "name": "Chapter Six: To Hell",
+                    "overview": "Rain comes to Greenvale, and with it, Bronson's men arrive. Violent reckonings come to pass.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/oy9bfHymLrxOha1HqXbWNNM8gRM.jpg",
+                    "vote_average": 7.75,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        },
+                        {
+                            "character": "Jona",
+                            "credit_id": "64625df86e0d72015c0fa933",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1712681,
+                            "known_for_department": "Acting",
+                            "name": "Jacopo Rampini",
+                            "original_name": "Jacopo Rampini",
+                            "popularity": 0.82,
+                            "profile_path": "/tBoPjvx1SbemYxspJJHpwgoVlO6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-21",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3531375,
+                    "name": "Chapter Seven: The Plan",
+                    "overview": "Red Bill and McCoy realize a common enemy. Steve faces increasingly heavy pressure from Thompson.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/wZxLSDALpkUxBC5Z8bGbPgQBaUk.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wanda",
+                            "credit_id": "62786e6d67e0f7358fa9b4de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 238067,
+                            "known_for_department": "Acting",
+                            "name": "Ruby Kammer",
+                            "original_name": "Ruby Kammer",
+                            "popularity": 1.057,
+                            "profile_path": "/rw82nD1F0mcByZxywDXpKowt8G1.jpg"
+                        },
+                        {
+                            "character": "Laura",
+                            "credit_id": "62786ebfd7a70a17a8ce62ae",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1636737,
+                            "known_for_department": "Acting",
+                            "name": "Gaia Scodellaro",
+                            "original_name": "Gaia Scodellaro",
+                            "popularity": 3.477,
+                            "profile_path": "/5hk50qopSbFHDqWlHzBeN7crEVj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-28",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3531376,
+                    "name": "Chapter Eight: The Great Duel",
+                    "overview": "Red Bill and McCoy reckon with consequences. Steve and Thompson face off for the last time.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 157084,
+                    "still_path": "/kfyEjibhfKvjs7WfX5rOYNiPfpA.jpg",
+                    "vote_average": 10,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 242805,
+            "poster_path": "/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg",
+            "season_number": 1,
+            "vote_average": 9.7
+        }
+    }
+}

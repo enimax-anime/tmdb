@@ -1,0 +1,435 @@
+{
+    "adult": false,
+    "backdrop_path": "/3H64a4AzKWHwfKbqtqb9KsxO1GK.jpg",
+    "created_by": [
+        {
+            "id": 2892987,
+            "credit_id": "62299d479a3c490071ee04ab",
+            "name": "Luke Tunnecliffe",
+            "original_name": "Luke Tunnecliffe",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2892988,
+            "credit_id": "62299d3ed236e60045f0c510",
+            "name": "Cos Cardone",
+            "original_name": "Cos Cardone",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-03-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://play.stan.com.au/programs/74349/",
+    "id": 194777,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-02-23",
+    "last_episode_to_air": {
+        "id": 4254936,
+        "name": "Show Me The Money II",
+        "overview": "After the Grand Final siren, the real business of footy begins. Players, agents and clubs let us in for an unprecedented look inside the deal-making and drama of the AFL off-season.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-02-23",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 100,
+        "season_number": 2,
+        "show_id": 194777,
+        "still_path": null
+    },
+    "name": "Show Me the Money",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1255,
+            "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+            "name": "Stan",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Show Me the Money",
+    "overview": "After the Grand Final siren, the real business of footy begins. Players, agents and clubs let us in for an unprecedented look inside the deal-making and drama of the AFL off-season.",
+    "popularity": 2.766,
+    "poster_path": "/rM16HadjZRNRkBBXppb6H69cfaG.jpg",
+    "production_companies": [
+        {
+            "id": 74346,
+            "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+            "name": "Stan",
+            "origin_country": "AU"
+        },
+        {
+            "id": 88180,
+            "logo_path": null,
+            "name": "JAM TV",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-10",
+            "episode_count": 3,
+            "id": 282711,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/j35Jb5MIzd4uXmgGsim9uPMLWeY.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-02-23",
+            "episode_count": 1,
+            "id": 330085,
+            "name": "Show me The Money",
+            "overview": "After the Grand Final siren, the real business of footy begins. Players, agents and clubs let us in for an unprecedented look inside the deal-making and drama of the AFL off-season.",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "62299cbc9a358d00718d27e7",
+            "air_date": "2022-03-10",
+            "episodes": [
+                {
+                    "air_date": "2022-03-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3586149,
+                    "name": "The Real Business Begins",
+                    "overview": "After the 2021 Premiers are crowned, the AFL off-season kicks into gear as Robbie works to salvage a former Saint's career, Trotts attempts a trade on compassionate grounds and Colin's prediction of a calm trade period goes out the window.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 194777,
+                    "still_path": "/5IYiIo2jafJyUra827Xm9EzeZy0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62299d7e84591c006e762c2b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2892989,
+                            "known_for_department": "Production",
+                            "name": "Michael Venables",
+                            "original_name": "Michael Venables",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6229a286498ef9006d1352a0",
+                            "order": 1,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3459757,
+                            "known_for_department": "Acting",
+                            "name": "Luke Dunstan",
+                            "original_name": "Luke Dunstan",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b873da10f000468e4a45",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467579,
+                            "known_for_department": "Acting",
+                            "name": "Christian Petracca",
+                            "original_name": "Christian Petracca",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b89cda10f000468e4ab1",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467580,
+                            "known_for_department": "Acting",
+                            "name": "Jeremy Finlayson",
+                            "original_name": "Jeremy Finlayson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b9540582240045b1d773",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467584,
+                            "known_for_department": "Acting",
+                            "name": "Nasiah Wanganeen-Milera",
+                            "original_name": "Nasiah Wanganeen-Milera",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b9a4da10f00072cc1ece",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1382441,
+                            "known_for_department": "Production",
+                            "name": "Scott Clayton",
+                            "original_name": "Scott Clayton",
+                            "popularity": 1.009,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b9ac0582240045b1d810",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467588,
+                            "known_for_department": "Acting",
+                            "name": "Glen Luff",
+                            "original_name": "Glen Luff",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b9b8414291001a39567f",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467589,
+                            "known_for_department": "Acting",
+                            "name": "Simon Goodwin",
+                            "original_name": "Simon Goodwin",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3586206,
+                    "name": "The Hits Just Keep Coming",
+                    "overview": "The most highly sought after name in the trade period hits the market leaving Robbie to choose between two big Melbourne clubs, Ben counsels a future Swans star on his contract.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 194777,
+                    "still_path": "/cAA0jPxjExCXTvsbsFdM0v4H0JS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62299d7e84591c006e762c2b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2892989,
+                            "known_for_department": "Production",
+                            "name": "Michael Venables",
+                            "original_name": "Michael Venables",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b6cdc3bffe007cd63926",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467572,
+                            "known_for_department": "Acting",
+                            "name": "Adam Cerra",
+                            "original_name": "Adam Cerra",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231ba3b0582240070a00e93",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467590,
+                            "known_for_department": "Acting",
+                            "name": "Rory Lobb",
+                            "original_name": "Rory Lobb",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231ba580582240045b1d939",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467591,
+                            "known_for_department": "Acting",
+                            "name": "Logan McDonald",
+                            "original_name": "Logan McDonald",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231ba7ec3bffe0046cfc51b",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467593,
+                            "known_for_department": "Acting",
+                            "name": "Max Lynch",
+                            "original_name": "Max Lynch",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6592663df5f1c57690014c1a",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4456598,
+                            "known_for_department": "Acting",
+                            "name": "Bobby Hill",
+                            "original_name": "Bobby Hill",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-10",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3586207,
+                    "name": "As an Agent, It's Grand Final Day",
+                    "overview": "With the focus now turned to the Draft, Ben gets a guarantee from North Melbourne to take Horne-Francis at number one, Robbie manages expectations of a father-son star.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 194777,
+                    "still_path": "/zOlbYvqNY7pRhFlv2vmISOW7kyZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b78dbefd9100447def3c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3467575,
+                            "known_for_department": "Acting",
+                            "name": "Nick Daicos",
+                            "original_name": "Nick Daicos",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6231b7999ac535007d553525",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467576,
+                            "known_for_department": "Acting",
+                            "name": "Mac Andrews",
+                            "original_name": "Mac Andrews",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 282711,
+            "poster_path": "/j35Jb5MIzd4uXmgGsim9uPMLWeY.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "63f7eda569c70f009ea5e627",
+            "air_date": "2023-02-23",
+            "episodes": [
+                {
+                    "air_date": "2023-02-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4254936,
+                    "name": "Show Me The Money II",
+                    "overview": "After the Grand Final siren, the real business of footy begins. Players, agents and clubs let us in for an unprecedented look inside the deal-making and drama of the AFL off-season.",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 2,
+                    "show_id": 194777,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Show me The Money",
+            "overview": "After the Grand Final siren, the real business of footy begins. Players, agents and clubs let us in for an unprecedented look inside the deal-making and drama of the AFL off-season.",
+            "id": 330085,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "adult": false,
+    "backdrop_path": "/5x1XRZQGDq5GuI1FO9iKzAblVRq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-06-11",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.nationalgeographic.com/tv/shows/superstructures-engineering-marvels",
+    "id": 95239,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-07-16",
+    "last_episode_to_air": {
+        "id": 1978216,
+        "name": "Giant Car Plant",
+        "overview": "Learn what makes Germany's Wolfsburg car factory, the largest car plant in the world.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-07-16",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "1BHP06",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 95239,
+        "still_path": "/vRnwERRYYzFXI20T6k7YRPpMFnM.jpg"
+    },
+    "name": "Superstructures: Engineering Marvels",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Superstructures: Engineering Marvels",
+    "overview": "An exploration of engineering marvels. This brand new series reveals the extraordinary feats of engineering hidden inside the world's most spectacular man-made constructions. From the world's biggest plane and largest free-spanning dome to the tallest building and the largest space ship, each superstructure is taken apart using state-of-the-art CGI and insight from world class specialists to reveal the startling innovations that turn it from dream to reality.",
+    "popularity": 3.384,
+    "poster_path": "/ejlflHpUTbeFO46RFXbODzwR4IK.jpg",
+    "production_companies": [
+        {
+            "id": 3506,
+            "logo_path": "/edR3oWGqXyIqYcZNYfdf7QMr4vF.png",
+            "name": "Pioneer Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-06-11",
+            "episode_count": 6,
+            "id": 135456,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ejlflHpUTbeFO46RFXbODzwR4IK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.7,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "5dc4a02dab1bc70013fd9500",
+            "air_date": "2019-06-11",
+            "episodes": [
+                {
+                    "air_date": "2019-06-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1978210,
+                    "name": "Space Station",
+                    "overview": "Learn what makes the International Space station, the most innovative and expensive superstructure ever built.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/nIeANY3HFEiquT41ylONytZXtQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1978211,
+                    "name": "Ultimate Cargo Ship",
+                    "overview": "This episode reveals how cargo ship, GPO Amethyst, transports large structures across the world.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/rIZDoJYXxPS5B8tzZvtxAGbM53H.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1978213,
+                    "name": "Monster Plane",
+                    "overview": "This episode uncovers the innovations that enable the world's largest plane, Antonov AN-255, to carry the world's heaviest air-freight.",
+                    "production_code": "1BHP01",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/wO8EnNbWtU3PtGQmtC66QqdZ2FZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1978214,
+                    "name": "Tallest Building",
+                    "overview": "This episode unveils the incredible engineering behind the Burj Khalifa.",
+                    "production_code": "1BHP04",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/rhcyjhOnxwt8KL4S5RE5CEwN640.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1978215,
+                    "name": "Biggest Dome",
+                    "overview": "Witness the science behind the architecture of Singapore National Stadium, the largest free-spanning dome in the world.",
+                    "production_code": "1BHP05",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/1mC1YVCgSMeb3KogwoSAZpDat3O.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-16",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1978216,
+                    "name": "Giant Car Plant",
+                    "overview": "Learn what makes Germany's Wolfsburg car factory, the largest car plant in the world.",
+                    "production_code": "1BHP06",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 95239,
+                    "still_path": "/vRnwERRYYzFXI20T6k7YRPpMFnM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 135456,
+            "poster_path": "/ejlflHpUTbeFO46RFXbODzwR4IK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "adult": false,
+    "backdrop_path": "/5pWgbNXcQj08FC1imBYDHPjGVb9.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2022-12-01",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 217718,
+    "in_production": false,
+    "languages": [
+        "de"
+    ],
+    "last_air_date": "2022-12-01",
+    "last_episode_to_air": {
+        "id": 4141000,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-12-01",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 217718,
+        "still_path": null
+    },
+    "name": "Toxisch",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6550,
+            "logo_path": "/n0hqN6lKlBENn9WAbSC2WwHRPnS.png",
+            "name": "Amazon Freevee",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Toxisch",
+    "overview": "Four friends set out to finally see their best friend again after a long period of radio silence after she moved away head over heels. Little by little, hidden details come to light and the clique has to question a lot of things. A relationship of love, temptation, jealousy and dominance creates toxic circles.",
+    "popularity": 3.282,
+    "poster_path": "/6tsOhtJs0VfwtUNjcPlWqbmRbl9.jpg",
+    "production_companies": [
+        {
+            "id": 146612,
+            "logo_path": null,
+            "name": "moonvibe GmbH",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AT",
+            "name": "Austria"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-01",
+            "episode_count": 4,
+            "id": 322979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ghApzAruDwwKVlnPMhODUyxGhbg.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "63b6f4a806f98400899c8d05",
+            "air_date": "2022-12-01",
+            "episodes": [
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4140996,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 1,
+                    "show_id": 217718,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4140998,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 1,
+                    "show_id": 217718,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4140999,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 217718,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4141000,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 217718,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 322979,
+            "poster_path": "/ghApzAruDwwKVlnPMhODUyxGhbg.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

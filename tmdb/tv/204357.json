@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/sAEar8H5ekcT7eFRzro0UCOacws.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        26
+    ],
+    "first_air_date": "2022-06-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.discoveryplus.com/show/hungry-for-answers-us",
+    "id": 204357,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-08",
+    "last_episode_to_air": {
+        "id": 3793075,
+        "name": "Where Are the Black Farmers?",
+        "overview": "The marginalization of Black farmers in America has major consequences.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-06-08",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 1,
+        "show_id": 204357,
+        "still_path": null
+    },
+    "name": "Hungry For Answers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4353,
+            "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+            "name": "discovery+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hungry For Answers",
+    "overview": "Caroline Randall Williams, an award-winning writer, cookbook author and restaurateur, travels the United States uncovering the fascinating, essential and often untold black stories behind American food.",
+    "popularity": 1.024,
+    "poster_path": "/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-08",
+            "episode_count": 4,
+            "id": 297913,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62ae46ab0c3ec8009209aade",
+            "air_date": "2022-06-08",
+            "episodes": [
+                {
+                    "air_date": "2022-06-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3793044,
+                    "name": "Who Gets To Cook Black Food?",
+                    "overview": "Delve into the Black history and white domination of Nashville hot chicken.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 204357,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3793058,
+                    "name": "Do You Know Sugar's Secret?",
+                    "overview": "Sugar may be sweet, but it has a bitter, complex history rooted in slavery.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 204357,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3793067,
+                    "name": "Is Jack Daniel's Black?",
+                    "overview": "Learn the story of the Black distiller behind Jack Daniel's famous whiskey.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 204357,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-08",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3793075,
+                    "name": "Where Are the Black Farmers?",
+                    "overview": "The marginalization of Black farmers in America has major consequences.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 204357,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297913,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

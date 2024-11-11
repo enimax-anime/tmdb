@@ -1,0 +1,410 @@
+{
+    "adult": false,
+    "backdrop_path": "/6HxKAJJKZ4Dxaoni75fxB7bXkrh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2021-04-09",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/rosie-jones-trip-hazard/",
+    "id": 122799,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-09-13",
+    "last_episode_to_air": {
+        "id": 3969484,
+        "name": "Pembrokeshire",
+        "overview": "Rosie takes Fay Ripley coasteering, as they launch themselves into the freezing Welsh sea!",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-09-13",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 47,
+        "season_number": 2,
+        "show_id": 122799,
+        "still_path": null
+    },
+    "name": "Rosie Jones' Trip Hazard",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Rosie Jones' Trip Hazard",
+    "overview": "Comedian Rosie Jones takes celebrity friends on thrilling outings around Britain, gorging on culture, learning local traditions and seeking excitement in the unlikeliest of places",
+    "popularity": 2.472,
+    "poster_path": "/vRyEnE8ZvMIcz0ERGI5kX2ICmPb.jpg",
+    "production_companies": [
+        {
+            "id": 80884,
+            "logo_path": "/nTpiHXhGyh9BZPccglpqt3ql2HY.png",
+            "name": "Studio71",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-09",
+            "episode_count": 4,
+            "id": 189758,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-08-23",
+            "episode_count": 5,
+            "id": 305947,
+            "name": "Series 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "My Great British Adventure",
+    "type": "Documentary",
+    "vote_average": 4.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "606f2e18d4fe040076c6c7a3",
+            "air_date": "2021-04-09",
+            "episodes": [
+                {
+                    "air_date": "2021-04-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2860405,
+                    "name": "The Lake District",
+                    "overview": "Rosie takes Scarlett Moffatt to explore the Lake District, where they re-enact a Viking battle at Kendal Castle, eat lunch cooked from the heat of a coal engine and bed down with a couple of stallions",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 122799,
+                    "still_path": "/lgkXYnKG7Lxc5vCOmBnTi0i2pRv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "606f2eb9befd910058defb31",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1941807,
+                            "known_for_department": "Acting",
+                            "name": "Scarlett Moffatt",
+                            "original_name": "Scarlett Moffatt",
+                            "popularity": 0.577,
+                            "profile_path": "/kuf8U6wqpvfLcxZJXpBMPEIYjVP.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2860406,
+                    "name": "Whitby",
+                    "overview": "Comedian Joe Wilkinson joins Rosie for a traditional seaside outing in Whitby. They sample award-winning fish and chips, go crazy for golf, explore the Jurassic Coast and goth-up to take to the stage.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 122799,
+                    "still_path": "/vYP2ArEPAKuXL9NpwqnIiVKW4Rb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "606f2ec4d4fe040029bf652c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1526636,
+                            "known_for_department": "Acting",
+                            "name": "Joe Wilkinson",
+                            "original_name": "Joe Wilkinson",
+                            "popularity": 3.434,
+                            "profile_path": "/4Ti7DUnXyvjmnejzSzj1EbdiMIm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2860407,
+                    "name": "Norwich",
+                    "overview": "Rosie takes comedian and broadcaster Jamali Maddix to Norwich, where they learn to molly dance, go wine tasting, tour the epic cathedral, hammer some hot metal and join a wrestling tag team",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 122799,
+                    "still_path": "/2lKicuemAnAQCqBjxE0uvgCatBT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "606f2ece0929f60029237cb7",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1724259,
+                            "known_for_department": "Acting",
+                            "name": "Jamali Maddix",
+                            "original_name": "Jamali Maddix",
+                            "popularity": 0.425,
+                            "profile_path": "/vVGPOGQ3ssdvvXXOWHG2hdDxIkZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-30",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2860408,
+                    "name": "Anglesey",
+                    "overview": "Comedian Jenny Eclair joins Rosie for an outdoorsy adventure on Anglesey in Wales. They have a go at sheep herding, traverse the world's fastest zip wire and learn beach survival skills at sunset.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 122799,
+                    "still_path": "/19HtBxrc8JW7nBLcHBK275rdDMi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "606f2ed7befd910058defb62",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 215827,
+                            "known_for_department": "Acting",
+                            "name": "Jenny Eclair",
+                            "original_name": "Jenny Eclair",
+                            "popularity": 0.819,
+                            "profile_path": "/cUXapU5wSsiVt2cP1FYZB6P32SS.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 189758,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6306be85b042280082e9e3a9",
+            "air_date": "2022-08-23",
+            "episodes": [
+                {
+                    "air_date": "2022-08-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3911936,
+                    "name": "Moray",
+                    "overview": "AJ Odudu joins Rosie in Moray, northern Scotland, as they climb Cairn Gorm, take part in a clay pigeon shooting competition, row across a loch and sample the area's famous whisky",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 122799,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6306bf6418864b0080e33c67",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2955637,
+                            "known_for_department": "Acting",
+                            "name": "AJ Odudu",
+                            "original_name": "AJ Odudu",
+                            "popularity": 1.625,
+                            "profile_path": "/wnnJvkrSKZgV1AKHA8sVZx1QosF.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3911937,
+                    "name": "Blackpool",
+                    "overview": "Rosie takes Guz Khan to Blackpool where they visit a fortune teller and go waltzing at the legendary Blackpool Tower Ballroom. But will the UK's highest skydive be too terrifying for them?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 122799,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6306bf6daaf8970084492b65",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2037501,
+                            "known_for_department": "Acting",
+                            "name": "Guz Khan",
+                            "original_name": "Guz Khan",
+                            "popularity": 2.792,
+                            "profile_path": "/pY2ND9eZhUtPuRBZPEoM1BRPZBd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3969482,
+                    "name": "Bradford",
+                    "overview": "Rosie and Tom Rosenthal try Yorkshire's biggest naan, go boat racing and do rap battle",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 122799,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "632cad7dfcec2e0084eec697",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1340931,
+                            "known_for_department": "Acting",
+                            "name": "Tom Rosenthal",
+                            "original_name": "Tom Rosenthal",
+                            "popularity": 1.046,
+                            "profile_path": "/22KuOfKsWJjOLzXKJjGHuP8fDsZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3969483,
+                    "name": "Northamptonshire",
+                    "overview": "Rosie and Lady Leshurr take a microlight flight but will they attempt a terrifying abseil?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 122799,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "632cad94cede6900923393b5",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3335996,
+                            "known_for_department": "Acting",
+                            "name": "Lady Leshurr",
+                            "original_name": "Lady Leshurr",
+                            "popularity": 0.543,
+                            "profile_path": "/dPiwRQjZQ9myFspJEP5HT5h1gD8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-13",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3969484,
+                    "name": "Pembrokeshire",
+                    "overview": "Rosie takes Fay Ripley coasteering, as they launch themselves into the freezing Welsh sea!",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 122799,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "632cada5c2f44b00838e7f45",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 102754,
+                            "known_for_department": "Acting",
+                            "name": "Fay Ripley",
+                            "original_name": "Fay Ripley",
+                            "popularity": 3.773,
+                            "profile_path": "/m4LMoCAOj0llge24ffCAaQzZALn.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 2",
+            "overview": "",
+            "id": 305947,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

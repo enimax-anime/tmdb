@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/pev7B2f5BAjWmDuKS6xMXoY41gB.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-03-23",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.hulu.com/series/the-lesson-is-murder-2a044424-532f-4c67-87cb-d708487581ca",
+    "id": 222390,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-03-23",
+    "last_episode_to_air": {
+        "id": 4302080,
+        "name": "The Many Faces of Ivie",
+        "overview": "Dr. Bryanna Fox and her team investigate female serial killer, Ivie DeMolina, to learn how a former sex worker led a series of robberies and murders.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-23",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 55,
+        "season_number": 1,
+        "show_id": 222390,
+        "still_path": "/r0RbTh5m1YxlHhRTRhc2URvUUVy.jpg"
+    },
+    "name": "The Lesson Is Murder",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 453,
+            "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+            "name": "Hulu",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Lesson Is Murder",
+    "overview": "Psychological criminologist and ex-FBI special agent Dr. Bryanna Fox and her class of graduate students study convicted murderers; they evaluate their personality traits and develop psychological profiles.",
+    "popularity": 3.916,
+    "poster_path": "/7qYpF0hm76Pej5ae7Uh5REnedBE.jpg",
+    "production_companies": [
+        {
+            "id": 179418,
+            "logo_path": "/rvOynvYRFkwrZmnxIheWfFZJokr.png",
+            "name": "ABC News Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-23",
+            "episode_count": 3,
+            "id": 332724,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7qYpF0hm76Pej5ae7Uh5REnedBE.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "64134399323eba00c5ece7f5",
+            "air_date": "2023-03-23",
+            "episodes": [
+                {
+                    "air_date": "2023-03-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4301660,
+                    "name": "The Killer Nurse",
+                    "overview": "Dr. Bryanna Fox and her team investigate serial killer nurse, Will Davis. In his first ever TV interview he reveals more than they bargained for.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 222390,
+                    "still_path": "/mqECnOkJp9VFBjmn5C2nV9MSCJN.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4302079,
+                    "name": "A Deadly Marriage",
+                    "overview": "Dr. Bryanna Fox and her team investigate former cop Robert Fratta to understand why he hired a hitman to kill his wife. They reveal troubling truths.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 222390,
+                    "still_path": "/iU5mvxQPADnMuplyYwinbXvLimv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4302080,
+                    "name": "The Many Faces of Ivie",
+                    "overview": "Dr. Bryanna Fox and her team investigate female serial killer, Ivie DeMolina, to learn how a former sex worker led a series of robberies and murders.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 222390,
+                    "still_path": "/r0RbTh5m1YxlHhRTRhc2URvUUVy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 332724,
+            "poster_path": "/7qYpF0hm76Pej5ae7Uh5REnedBE.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

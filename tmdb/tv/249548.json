@@ -1,0 +1,584 @@
+{
+    "adult": false,
+    "backdrop_path": "/vmh1xnROcnDYBcbaz17WT4iNxin.jpg",
+    "created_by": [
+        {
+            "id": 121693,
+            "credit_id": "65f9955907e2810186c22d17",
+            "name": "Pablo González",
+            "original_name": "Pablo González",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1543209,
+            "credit_id": "65f9956115a4a101480cc807",
+            "name": "C.S. Prince",
+            "original_name": "C.S. Prince",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-04-10",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81580682",
+    "id": 249548,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-04-10",
+    "last_episode_to_air": {
+        "id": 5220852,
+        "overview": "The crew gives their harrowing testimonies, but a pact forces them to withhold the truth. Will Wilches tip the balance in their favor... if he survives?",
+        "name": "The Woman Who Knew Too Much",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2024-04-10",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 249548,
+        "still_path": "/vcNqLkiR0ouKVnQ9jtzYTkr1ngx.jpg"
+    },
+    "name": "The Hijacking of Flight 601",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CO"
+    ],
+    "original_language": "es",
+    "original_name": "Secuestro del vuelo 601",
+    "overview": "After a plane is hijacked, two flight attendants must outwit their assailants amid intense negotiations in the air and on the ground. Based on real events.",
+    "popularity": 53.148,
+    "poster_path": "/AcSOs5wLPB9GGFY1Bact3V0riQE.jpg",
+    "production_companies": [
+        {
+            "id": 94732,
+            "logo_path": "/xdAEWQTdG7fIMIyzqWdLbZ39ZWu.png",
+            "name": "Miracol Media",
+            "origin_country": "CO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CO",
+            "name": "Colombia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-04-10",
+            "episode_count": 6,
+            "id": 384474,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vdpdMgl43SJYc86Khzedm9M54kq.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.2,
+    "vote_count": 26,
+    "season_data": {
+        "1": {
+            "_id": "65f99332391b9c017bc8f5f2",
+            "air_date": "2024-04-10",
+            "episodes": [
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5220836,
+                    "name": "Leave Her to Heaven",
+                    "overview": "After a chaotic morning at home, things only get worse for Edie — until an unlikely event becomes a chance for her to redeem herself.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/aIxIMOQw0IZhx3RZxlqZRT1LGyo.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "66163b42a579f901852fd413",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1967801,
+                            "known_for_department": "Directing",
+                            "name": "Andrés Porras",
+                            "original_name": "Andrés Porras",
+                            "popularity": 0.353,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66163c2cdc1cb4017c1bee05",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Marta Lucia",
+                            "credit_id": "66163cb2242f94017dc47cc2",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1024688,
+                            "known_for_department": "Acting",
+                            "name": "Patricia Ércole",
+                            "original_name": "Patricia Ércole",
+                            "popularity": 2.732,
+                            "profile_path": "/jW8HqmACZYqfJ9VWk0kIWNbNV6Q.jpg"
+                        },
+                        {
+                            "character": "Jorge Enrique",
+                            "credit_id": "66163cf0ce5d82017c9005c0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3549489,
+                            "known_for_department": "Acting",
+                            "name": "Mario Ruíz",
+                            "original_name": "Mario Ruíz",
+                            "popularity": 0.529,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jesús Rodriguez",
+                            "credit_id": "66163d3b66a0d30164300981",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3961606,
+                            "known_for_department": "Acting",
+                            "name": "Christian Ruiz",
+                            "original_name": "Christian Ruiz",
+                            "popularity": 0.3,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Chato Jimenez",
+                            "credit_id": "66163d6066a0d30164300997",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3608729,
+                            "known_for_department": "Directing",
+                            "name": "Felipe Franco",
+                            "original_name": "Felipe Franco",
+                            "popularity": 0.33,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "El Canicas Flóres",
+                            "credit_id": "66163dae109dec017b9dccb6",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3095349,
+                            "known_for_department": "Acting",
+                            "name": "German De Greiff",
+                            "original_name": "German De Greiff",
+                            "popularity": 0.397,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5220848,
+                    "name": "Death at Her Heels",
+                    "overview": "During a board meeting, Aerobolivar executives disagree on how to handle the crisis. Aristides makes contact with the kidnappers. Edie jumps in to help.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/1WOjF9liZ8GQyLXsv80AUikHzqs.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "66163b42a579f901852fd413",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1967801,
+                            "known_for_department": "Directing",
+                            "name": "Andrés Porras",
+                            "original_name": "Andrés Porras",
+                            "popularity": 0.353,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66164262a579f901852fdddf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5220849,
+                    "name": "Dog Day Night",
+                    "overview": "Aristides takes matters into his own hands. Edie and Barbara plot to slow down the kidnappers — and start to suspect they're not who they claim to be.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/s11kgoyU0rhDROGYMKvRhzGN55V.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66163c2cdc1cb4017c1bee05",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5220850,
+                    "name": "The Wretched of the Earth",
+                    "overview": "The previous lives of Ulises and Toro as struggling athletes are unveiled, shedding light on the motives that led them to their present actions.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/oEJOzvMXsuej1SHUCoHNr7CrXKb.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66164262a579f901852fdddf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6616430a109dec01629d6ad7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3546645,
+                            "known_for_department": "Directing",
+                            "name": "Miguel Ángel Fajardo",
+                            "original_name": "Miguel Ángel Fajardo",
+                            "popularity": 0.026,
+                            "profile_path": "/4shmEV6Nd2HrixgLTZChY0W5DO0.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5220851,
+                    "name": "601: An Aerospace Odyssey",
+                    "overview": "Chavarriaga asks Aristides to give a false testimony, but instead he rebels and forces the crew to recalibrate their plan.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/6ul9oSAQJoUFpkayzf6fHRye9n0.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66163c2cdc1cb4017c1bee05",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6616436cc68b69017b200619",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2354615,
+                            "known_for_department": "Creator",
+                            "name": "Verónica Triana Londoño",
+                            "original_name": "Verónica Triana Londoño",
+                            "popularity": 0.034,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5220852,
+                    "name": "The Woman Who Knew Too Much",
+                    "overview": "The crew gives their harrowing testimonies, but a pact forces them to withhold the truth. Will Wilches tip the balance in their favor... if he survives?",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 249548,
+                    "still_path": "/vcNqLkiR0ouKVnQ9jtzYTkr1ngx.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c07dc1cb4017c1bede4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121693,
+                            "known_for_department": "Creator",
+                            "name": "Pablo González",
+                            "original_name": "Pablo González",
+                            "popularity": 3.539,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66163c1bfac50201620b1aa9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66164262a579f901852fdddf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1543209,
+                            "known_for_department": "Creator",
+                            "name": "C.S. Prince",
+                            "original_name": "C.S. Prince",
+                            "popularity": 1.171,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 384474,
+            "poster_path": "/vdpdMgl43SJYc86Khzedm9M54kq.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    }
+}

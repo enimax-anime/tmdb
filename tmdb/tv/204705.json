@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        206
+    ],
+    "first_air_date": "2002-12-14",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 204705,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2002-12-14",
+    "last_episode_to_air": {
+        "id": 3801179,
+        "name": "Episode 1",
+        "overview": "Fidel Castro rises to power in Cuba.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2002-12-14",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204705,
+        "still_path": null
+    },
+    "name": "Fidel",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fidel",
+    "overview": "Fidel Castro rises to power in Cuba.",
+    "popularity": 0.001,
+    "poster_path": "/9YG6wJ6JeX0mdSXgWLifn9MNhq0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-12-14",
+            "episode_count": 1,
+            "id": 298471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "62b51a4544ea540052c7fdc9",
+            "air_date": "2002-12-14",
+            "episodes": [
+                {
+                    "air_date": "2002-12-14",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3801179,
+                    "name": "Episode 1",
+                    "overview": "Fidel Castro rises to power in Cuba.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204705,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 298471,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

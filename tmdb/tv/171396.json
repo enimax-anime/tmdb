@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": "/bQfFW2qUicVE7zAVWpbvDSCOdqi.jpg",
+    "created_by": [
+        {
+            "id": 1171438,
+            "credit_id": "6224bd50481382001bd2eaa4",
+            "name": "David Perrault",
+            "original_name": "David Perrault",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3645460,
+            "credit_id": "62e7f365fc5f060059c3ca01",
+            "name": "Emmanuel Voisin",
+            "original_name": "Emmanuel Voisin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2022-08-03",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 171396,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2022-08-03",
+    "last_episode_to_air": {
+        "id": 3578312,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-08-03",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 171396,
+        "still_path": null
+    },
+    "name": "Endless Night",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "BE"
+    ],
+    "original_language": "fr",
+    "original_name": "Endless Night",
+    "overview": "A group of teens must confront their deepest fears to save one another from a creature hunting them in their sleep, after trying an experimental dreaming drug.",
+    "popularity": 2.916,
+    "poster_path": "/AmNl6qDC4lpipyteFnkJhvZ1WQy.jpg",
+    "production_companies": [
+        {
+            "id": 51866,
+            "logo_path": "/8mkxHszsINLrOGEwqLBIP6p9ive.png",
+            "name": "Federation Entertainment",
+            "origin_country": "FR"
+        },
+        {
+            "id": 3040,
+            "logo_path": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
+            "name": "Versus Production",
+            "origin_country": "BE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-03",
+            "episode_count": 6,
+            "id": 259029,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4BmjBLQF2HiFTtQdipZp0BBFz1O.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "622368f985702e004263f3d5",
+            "air_date": "2022-08-03",
+            "episodes": [
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3552740,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3578304,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3578307,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3578308,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3578310,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-03",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3578312,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 171396,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 259029,
+            "poster_path": "/4BmjBLQF2HiFTtQdipZp0BBFz1O.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    }
+}

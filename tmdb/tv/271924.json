@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/or3EIaGO6BUWmjV6Mqn72QqN3cS.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-09-20",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.hulu.com/series/7e82c96b-e412-46ef-8957-74874943832a",
+    "id": 271924,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-09-20",
+    "last_episode_to_air": {
+        "id": 5611703,
+        "name": "They Took Me Down",
+        "overview": "Kaitlyn Conley finds herself the main suspect in the killing of her boss Mary Yoder.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-09-20",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 271924,
+        "still_path": null
+    },
+    "name": "Little Miss Innocent: Passion. Poison. Prison.",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 453,
+            "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+            "name": "Hulu",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Little Miss Innocent: Passion. Poison. Prison.",
+    "overview": "Speaking for the first time since her conviction for the killing of her ex-boyfriend's mother, Kaitlyn Conley goes on camera to assert her innocence.",
+    "popularity": 5.473,
+    "poster_path": "/c05DWTVjo1lBozrxp3oW7VveR57.jpg",
+    "production_companies": [
+        {
+            "id": 179418,
+            "logo_path": "/rvOynvYRFkwrZmnxIheWfFZJokr.png",
+            "name": "ABC News Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2224,
+            "logo_path": "/lwpGP0QL26q0TZpWvMIn046qXzg.png",
+            "name": "Plum Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-19",
+            "episode_count": 3,
+            "id": 419296,
+            "name": "Miniseries",
+            "overview": "Kaitlyn Conley, a 31-year-old former receptionist, claims she has been wrongfully convicted of the 2015 killing of Mary Yoder, her former boss and the mother of her ex-boyfriend Adam.",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "66ebf4f482ff873f7d1fc476",
+            "air_date": "2024-09-19",
+            "episodes": [
+                {
+                    "air_date": "2024-09-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5608099,
+                    "name": "Why Am I Here?",
+                    "overview": "Kaitlyn Conley proclaims innocence and points fingers in her ex-boyfriend's mother's death.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 271924,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5611700,
+                    "name": "Someone in the Circle",
+                    "overview": "Mary Yoder's husband Bill suddenly becomes a focus of the murder investigation.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 271924,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-20",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 5611703,
+                    "name": "They Took Me Down",
+                    "overview": "Kaitlyn Conley finds herself the main suspect in the killing of her boss Mary Yoder.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 271924,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "Kaitlyn Conley, a 31-year-old former receptionist, claims she has been wrongfully convicted of the 2015 killing of Mary Yoder, her former boss and the mother of her ex-boyfriend Adam.",
+            "id": 419296,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

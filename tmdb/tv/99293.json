@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": "/xMIG4maD99CxTsisgbYG4YcxFb2.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-04-06",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://quibi.com/shows/you-aint-got-these-500/",
+    "id": 99293,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-04-06",
+    "last_episode_to_air": {
+        "id": 2160185,
+        "name": "Episode 1",
+        "overview": "A look at sneaker culture and its impact on our society, one piece being how that industry has been “commodified,”",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-04-06",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 99293,
+        "still_path": null
+    },
+    "name": "You Ain't Got These",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3091,
+            "logo_path": "/vgrbe5rHvK28Crzb5Djl2KbdogK.png",
+            "name": "Quibi",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "You Ain't Got These",
+    "overview": "A look at sneaker culture and its impact on our society, one piece being how that industry has been “commodified.”",
+    "popularity": 1.037,
+    "poster_path": "/y5D8AThEpSEIAYziUorcJtK0lCX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-04-06",
+            "episode_count": 1,
+            "id": 143142,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5e42c32d0c27100013811f53",
+            "air_date": "2020-04-06",
+            "episodes": [
+                {
+                    "air_date": "2020-04-06",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2160185,
+                    "name": "Episode 1",
+                    "overview": "A look at sneaker culture and its impact on our society, one piece being how that industry has been “commodified,”",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 99293,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 143142,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

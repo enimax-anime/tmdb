@@ -1,0 +1,178 @@
+{
+    "adult": false,
+    "backdrop_path": "/aXjKE6yBBIbOF9ZHskDcZ3uqvLg.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2017-07-13",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.aetv.com/shows/akil-the-fugitive-hunter",
+    "id": 72810,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-07-20",
+    "last_episode_to_air": {
+        "id": 1337424,
+        "name": "Bad Medicine",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-07-20",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 72810,
+        "still_path": null
+    },
+    "name": "Akil the Fugitive Hunter",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 129,
+            "logo_path": "/ptSTdU4GPNJ1M8UVEOtA0KgtuNk.png",
+            "name": "A&E",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Akil the Fugitive Hunter",
+    "overview": "The loss of his best friend due to gang violence compels a man to change his ways and hunt the most elusive criminals in Los Angeles.",
+    "popularity": 1.163,
+    "poster_path": "/mnGLzlb98ecdHqz4G2zHawPCk12.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-13",
+            "episode_count": 4,
+            "id": 90434,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5967ad809251412ff30054f9",
+            "air_date": "2017-07-13",
+            "episodes": [
+                {
+                    "air_date": "2017-07-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1337418,
+                    "name": "Split/ Decision",
+                    "overview": "Akil is after a fugitive who has been seduced by the flashy criminal lifestyle. However, it’s the similarities in the two men’s backgrounds that illustrates.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 72810,
+                    "still_path": "/82DSb3tJfpufXluGcbXmOeMJvUD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-07-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1337421,
+                    "name": "Wildcard",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 72810,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-07-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1337423,
+                    "name": "The Fall Guy",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 72810,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-07-20",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1337424,
+                    "name": "Bad Medicine",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 72810,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 90434,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

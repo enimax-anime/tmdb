@@ -1,0 +1,603 @@
+{
+    "adult": false,
+    "backdrop_path": "/aUY5lhFjoKDv8r7KtahkRiDO7cx.jpg",
+    "created_by": [
+        {
+            "id": 1017336,
+            "credit_id": "65af0f74ad59b500ca64feef",
+            "name": "Bengt Braskered",
+            "original_name": "Bengt Braskered",
+            "gender": 2,
+            "profile_path": "/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2021-12-23",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 119410,
+    "in_production": false,
+    "languages": [
+        "sv",
+        "no"
+    ],
+    "last_air_date": "2021-12-23",
+    "last_episode_to_air": {
+        "id": 2748831,
+        "overview": "",
+        "name": "Episode 4",
+        "vote_average": 5,
+        "vote_count": 1,
+        "air_date": "2021-12-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 119410,
+        "still_path": "/ygHF2XvvXD05xbb0r5cYr8nbZx3.jpg"
+    },
+    "name": "A Royal Secret",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 356,
+            "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+            "name": "SVT1",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "En kunglig affär",
+    "overview": "Based on true events, the story follows restauranteur Kurt Haijby and his the secret relationship with king Gustav V, which eventually got out and led to one of the worst miscarriages of justice that Sweden has ever witnessed.",
+    "popularity": 10.254,
+    "poster_path": "/uaXbKrVOH4cg33k3iXBINtOysOC.jpg",
+    "production_companies": [
+        {
+            "id": 2801,
+            "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+            "name": "Film i Väst",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-23",
+            "episode_count": 4,
+            "id": 182936,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/VKL9LtW0EAoEf230RYNIrMgd5w.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "60345f6f1130bd003f43cf2b",
+            "air_date": "2021-12-23",
+            "episodes": [
+                {
+                    "air_date": "2021-12-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2748826,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 119410,
+                    "still_path": "/nL4rVWBIgWrRLne7muqft1tffy0.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "603461f7813831003f870c80",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1145017,
+                            "known_for_department": "Directing",
+                            "name": "Lisa James Larsson",
+                            "original_name": "Lisa James Larsson",
+                            "popularity": 1.705,
+                            "profile_path": "/9pmTk5YbcWHAX7Z66c4L6UrdQth.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60346211746457003f00b7c8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1017336,
+                            "known_for_department": "Acting",
+                            "name": "Bengt Braskered",
+                            "original_name": "Bengt Braskered",
+                            "popularity": 2.604,
+                            "profile_path": "/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sven",
+                            "credit_id": "603460f8609750003cc1189a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2322627,
+                            "known_for_department": "Acting",
+                            "name": "Dan Andersson",
+                            "original_name": "Dan Andersson",
+                            "popularity": 0.788,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jonsson",
+                            "credit_id": "603461bc746457004100a9e7",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2987346,
+                            "known_for_department": "Acting",
+                            "name": "Anders Jacob",
+                            "original_name": "Anders Jacob",
+                            "popularity": 1.438,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-12-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2748829,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 119410,
+                    "still_path": "/h5EB5GVlIw3tDNgNjFsG2PGZCWt.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "603461f7813831003f870c80",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1145017,
+                            "known_for_department": "Directing",
+                            "name": "Lisa James Larsson",
+                            "original_name": "Lisa James Larsson",
+                            "popularity": 1.705,
+                            "profile_path": "/9pmTk5YbcWHAX7Z66c4L6UrdQth.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60346211746457003f00b7c8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1017336,
+                            "known_for_department": "Acting",
+                            "name": "Bengt Braskered",
+                            "original_name": "Bengt Braskered",
+                            "popularity": 2.604,
+                            "profile_path": "/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sven",
+                            "credit_id": "603460f8609750003cc1189a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2322627,
+                            "known_for_department": "Acting",
+                            "name": "Dan Andersson",
+                            "original_name": "Dan Andersson",
+                            "popularity": 0.788,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Informatör Vik",
+                            "credit_id": "6034614fc6006d003cba2a12",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 862932,
+                            "known_for_department": "Acting",
+                            "name": "Karl Linnertorp",
+                            "original_name": "Karl Linnertorp",
+                            "popularity": 1.125,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Ernst Wigforss",
+                            "credit_id": "61c90e993e6f2b0086855b51",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 221208,
+                            "known_for_department": "Acting",
+                            "name": "Sven Ahlström",
+                            "original_name": "Sven Ahlström",
+                            "popularity": 2.101,
+                            "profile_path": "/mvUlD5uyBpA7WYYx2DtZRyLLMWJ.jpg"
+                        },
+                        {
+                            "character": "Östen Undén",
+                            "credit_id": "61c90f7f7a1bd6006109236f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2180264,
+                            "known_for_department": "Acting",
+                            "name": "Mats Jäderlund",
+                            "original_name": "Mats Jäderlund",
+                            "popularity": 0.378,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jonsson",
+                            "credit_id": "603461bc746457004100a9e7",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2987346,
+                            "known_for_department": "Acting",
+                            "name": "Anders Jacob",
+                            "original_name": "Anders Jacob",
+                            "popularity": 1.438,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Gustav Adolf",
+                            "credit_id": "61c9135aa055ef008e46e616",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 135710,
+                            "known_for_department": "Acting",
+                            "name": "Lars Andersson",
+                            "original_name": "Lars Andersson",
+                            "popularity": 0.588,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Per Albin Hansson",
+                            "credit_id": "61c91536b6c264001cfc5712",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 359523,
+                            "known_for_department": "Acting",
+                            "name": "Gustav Levin",
+                            "original_name": "Gustav Levin",
+                            "popularity": 3.055,
+                            "profile_path": "/f41DnQBXzjfUJE91gbhxsqhhyiQ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-12-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2748830,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 119410,
+                    "still_path": "/iZmbv0k6Q8HhbOtEnmNAK1rMTlM.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "603461f7813831003f870c80",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1145017,
+                            "known_for_department": "Directing",
+                            "name": "Lisa James Larsson",
+                            "original_name": "Lisa James Larsson",
+                            "popularity": 1.705,
+                            "profile_path": "/9pmTk5YbcWHAX7Z66c4L6UrdQth.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60346211746457003f00b7c8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1017336,
+                            "known_for_department": "Acting",
+                            "name": "Bengt Braskered",
+                            "original_name": "Bengt Braskered",
+                            "popularity": 2.604,
+                            "profile_path": "/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sven",
+                            "credit_id": "603460f8609750003cc1189a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2322627,
+                            "known_for_department": "Acting",
+                            "name": "Dan Andersson",
+                            "original_name": "Dan Andersson",
+                            "popularity": 0.788,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Informatör Vik",
+                            "credit_id": "6034614fc6006d003cba2a12",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 862932,
+                            "known_for_department": "Acting",
+                            "name": "Karl Linnertorp",
+                            "original_name": "Karl Linnertorp",
+                            "popularity": 1.125,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Ernst Wigforss",
+                            "credit_id": "61c90e993e6f2b0086855b51",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 221208,
+                            "known_for_department": "Acting",
+                            "name": "Sven Ahlström",
+                            "original_name": "Sven Ahlström",
+                            "popularity": 2.101,
+                            "profile_path": "/mvUlD5uyBpA7WYYx2DtZRyLLMWJ.jpg"
+                        },
+                        {
+                            "character": "Östen Undén",
+                            "credit_id": "61c90f7f7a1bd6006109236f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2180264,
+                            "known_for_department": "Acting",
+                            "name": "Mats Jäderlund",
+                            "original_name": "Mats Jäderlund",
+                            "popularity": 0.378,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tage Erlander",
+                            "credit_id": "61c90ff46743fa00874f4062",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1136696,
+                            "known_for_department": "Acting",
+                            "name": "Emil Almén",
+                            "original_name": "Emil Almén",
+                            "popularity": 4.044,
+                            "profile_path": "/dId1GYpFHn8JZepoyDKKNvOmbAA.jpg"
+                        },
+                        {
+                            "character": "Gustav Adolf",
+                            "credit_id": "61c9135aa055ef008e46e616",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 135710,
+                            "known_for_department": "Acting",
+                            "name": "Lars Andersson",
+                            "original_name": "Lars Andersson",
+                            "popularity": 0.588,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Per Albin Hansson",
+                            "credit_id": "61c91536b6c264001cfc5712",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 359523,
+                            "known_for_department": "Acting",
+                            "name": "Gustav Levin",
+                            "original_name": "Gustav Levin",
+                            "popularity": 3.055,
+                            "profile_path": "/f41DnQBXzjfUJE91gbhxsqhhyiQ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-12-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2748831,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 119410,
+                    "still_path": "/ygHF2XvvXD05xbb0r5cYr8nbZx3.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "603461f7813831003f870c80",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1145017,
+                            "known_for_department": "Directing",
+                            "name": "Lisa James Larsson",
+                            "original_name": "Lisa James Larsson",
+                            "popularity": 1.705,
+                            "profile_path": "/9pmTk5YbcWHAX7Z66c4L6UrdQth.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60346211746457003f00b7c8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1017336,
+                            "known_for_department": "Acting",
+                            "name": "Bengt Braskered",
+                            "original_name": "Bengt Braskered",
+                            "popularity": 2.604,
+                            "profile_path": "/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Informatör Vik",
+                            "credit_id": "6034614fc6006d003cba2a12",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 862932,
+                            "known_for_department": "Acting",
+                            "name": "Karl Linnertorp",
+                            "original_name": "Karl Linnertorp",
+                            "popularity": 1.125,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Ernst Wigforss",
+                            "credit_id": "61c90e993e6f2b0086855b51",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 221208,
+                            "known_for_department": "Acting",
+                            "name": "Sven Ahlström",
+                            "original_name": "Sven Ahlström",
+                            "popularity": 2.101,
+                            "profile_path": "/mvUlD5uyBpA7WYYx2DtZRyLLMWJ.jpg"
+                        },
+                        {
+                            "character": "Östen Undén",
+                            "credit_id": "61c90f7f7a1bd6006109236f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2180264,
+                            "known_for_department": "Acting",
+                            "name": "Mats Jäderlund",
+                            "original_name": "Mats Jäderlund",
+                            "popularity": 0.378,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tage Erlander",
+                            "credit_id": "61c90ff46743fa00874f4062",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1136696,
+                            "known_for_department": "Acting",
+                            "name": "Emil Almén",
+                            "original_name": "Emil Almén",
+                            "popularity": 4.044,
+                            "profile_path": "/dId1GYpFHn8JZepoyDKKNvOmbAA.jpg"
+                        },
+                        {
+                            "character": "Henning Sjöström",
+                            "credit_id": "61c9192563a69500416dde3b",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1137377,
+                            "known_for_department": "Acting",
+                            "name": "Adam Pålsson",
+                            "original_name": "Adam Pålsson",
+                            "popularity": 6.852,
+                            "profile_path": "/sdBaRl4pG3qUGOyASo3lcLll1p4.jpg"
+                        },
+                        {
+                            "character": "Åklagare Gunnel Rytterberg",
+                            "credit_id": "61c91958511d090043d677d3",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 111343,
+                            "known_for_department": "Acting",
+                            "name": "Tova Magnusson",
+                            "original_name": "Tova Magnusson",
+                            "popularity": 4.548,
+                            "profile_path": "/opMB4OfWs12iwczRKyoeNX4rDRo.jpg"
+                        },
+                        {
+                            "character": "Domare",
+                            "credit_id": "61c91981dbf1440094510147",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 116615,
+                            "known_for_department": "Acting",
+                            "name": "Dag Malmberg",
+                            "original_name": "Dag Malmberg",
+                            "popularity": 6.518,
+                            "profile_path": "/rVVc0e3uUtLPiL3ze87OQYF8BYD.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 182936,
+            "poster_path": "/VKL9LtW0EAoEf230RYNIrMgd5w.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    }
+}

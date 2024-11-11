@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-03-18",
+    "genres": [],
+    "homepage": "",
+    "id": 118326,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-03-18",
+    "last_episode_to_air": {
+        "id": 2714536,
+        "name": "episode 1",
+        "overview": "unknown plot",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-03-18",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 118326,
+        "still_path": null
+    },
+    "name": "Double Cross with Blake Griffin",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 364,
+            "logo_path": "/c48pVcWAEYhEFXrWFsYxx343mjx.png",
+            "name": "truTV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Double Cross with Blake Griffin",
+    "overview": "Double Cross with Blake Griffin serves up an incredibly devious twist as it offers a service to those who are all too often the victims of a prank. Each week, Griffin conspires with people who are tired of being the victim to help them get some sweet revenge on their unsuspecting prankster - by pulling off the ultimate double cross!",
+    "popularity": 0.603,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-18",
+            "episode_count": 1,
+            "id": 180313,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "602032a5d6c3000041650939",
+            "air_date": "2021-03-18",
+            "episodes": [
+                {
+                    "air_date": "2021-03-18",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2714536,
+                    "name": "episode 1",
+                    "overview": "unknown plot",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 118326,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 180313,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

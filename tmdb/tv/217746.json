@@ -1,0 +1,827 @@
+{
+    "adult": false,
+    "backdrop_path": "/2ujdzQjXSGIJVYGkRTwwye08KS1.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2023-01-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 217746,
+    "in_production": false,
+    "languages": [
+        "zh"
+    ],
+    "last_air_date": "2023-01-28",
+    "last_episode_to_air": {
+        "id": 4144273,
+        "name": "Episode 16",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-01-28",
+        "episode_number": 16,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 217746,
+        "still_path": "/dS4IFt6YGTck2nzNDSbzBKshQFn.jpg"
+    },
+    "name": "Night City",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1260,
+            "logo_path": "/2Ew6jjFlEPxeubJEijHZY14Z27p.png",
+            "name": "Sohu",
+            "origin_country": "CN"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "夜城赋",
+    "overview": "Shu Cheng, the daughter of the first aristocratic family of Shu, had to pretend to be a playgirl in order to hide her capable self that threatened the Emperor. She wanted to promote the peerless Shen Ye as the a yiji of the world, (High class courtesan) but found that Shen Ye seemed to have multiple identities, and it was difficult to distinguish between enemies and friends. In the center of the turbulent power, the two must work together, and the opposition of identities makes them the closest enemies.",
+    "popularity": 19.37,
+    "poster_path": "/jKhGZwNbGuWdlddzH3JAIpzYE6f.jpg",
+    "production_companies": [
+        {
+            "id": 189805,
+            "logo_path": null,
+            "name": "霍尔果斯视外谊海传媒有限公司",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-01-28",
+            "episode_count": 1,
+            "id": 326607,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/9botm9ooeAMFn1lDIC7db0EbVQv.jpg",
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-01-05",
+            "episode_count": 16,
+            "id": 323038,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/zkz1EZ8EKSmNnqxlUdiHXbquxwZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "63b795dbf44f2700a020b746",
+            "air_date": "2023-01-05",
+            "episodes": [
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4141996,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/zOmhnNmdIPwP69aAlN7ehMbKFkt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4144259,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/AvSBgjwU1pDplbw4uC9zqsCxtqb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4144260,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/4fObkU1ne7ctjXV6haNL6vdvV9b.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4144261,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/6M06VRTXI2KlLgAq62GYM3W7myt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4144262,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/6nBxz0mbXZiAIfVJua4WqU2d8Hq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4144263,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/hydgO6YVUx7pjSLd1tcDYquWQlV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-12",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4144264,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/2OUIm45afGmTi1SbltcCD3j9GAQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-12",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4144265,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/739Ug3bg3rM2QA42RNTUYtxcKyQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-12",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4144266,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/pL53w6ibwF2iLDqXMn5A2kpvu2R.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-19",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4144267,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/3hqx1yOjoJDgXC8IbqVot6y3Fx9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-19",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 4144268,
+                    "name": "Episode 11",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/dClGM1puZEglbjIKPoeagLf1zZG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-19",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 4144269,
+                    "name": "Episode 12",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/d96i7F0wUs2wwnYpqSn84jjiyVb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-26",
+                    "episode_number": 13,
+                    "episode_type": "standard",
+                    "id": 4144270,
+                    "name": "Episode 13",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/AbiclEuJ3A7hmZBH5O1ZVkQtWGf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-26",
+                    "episode_number": 14,
+                    "episode_type": "standard",
+                    "id": 4144271,
+                    "name": "Episode 14",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/8HPBPVzjjdp4UyWIkMMO6iW0SW7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-26",
+                    "episode_number": 15,
+                    "episode_type": "standard",
+                    "id": 4144272,
+                    "name": "Episode 15",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/hUYFbeesMYzOyxrkWasZcyl5s3W.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-28",
+                    "episode_number": 16,
+                    "episode_type": "standard",
+                    "id": 4144273,
+                    "name": "Episode 16",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 217746,
+                    "still_path": "/dS4IFt6YGTck2nzNDSbzBKshQFn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66872f9fc5f5e2e09b6a0385",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2564838,
+                            "known_for_department": "Directing",
+                            "name": "Luo Zhigang",
+                            "original_name": "Luo Zhigang",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "668730c0b1f17a0c23ba0a1c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3579898,
+                            "known_for_department": "Writing",
+                            "name": "Ren Zengchao",
+                            "original_name": "Zengchao Ren",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 323038,
+            "poster_path": "/zkz1EZ8EKSmNnqxlUdiHXbquxwZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

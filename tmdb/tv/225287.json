@@ -1,0 +1,390 @@
+{
+    "adult": false,
+    "backdrop_path": "/h7qKBKfzpfAGJfimWSNw77L1VoQ.jpg",
+    "created_by": [
+        {
+            "id": 1422583,
+            "credit_id": "6544d5f72866fa00ab102d61",
+            "name": "Tomás Peña",
+            "original_name": "Tomás Peña",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1453651,
+            "credit_id": "6544d5f07719d70139a478d4",
+            "name": "Fernando Navarro",
+            "original_name": "Fernando Navarro",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2023-11-03",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 225287,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2023-11-03",
+    "last_episode_to_air": {
+        "id": 4391252,
+        "name": "Six",
+        "overview": "The police station becomes a place where chaos and confusion reign and where past and revenge collide.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-11-03",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 225287,
+        "still_path": "/ybykmLFkIcTRZNG15NrjdGNKDV9.jpg"
+    },
+    "name": "Romancero",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Romancero",
+    "overview": "Jordán and Cornelia are two young kids who, in the dead of night, are trying to escape the angry mob accusing them of murder. Fearing for their lives, they flee from the law, from the supernatural and even from themselves.",
+    "popularity": 14.339,
+    "poster_path": "/rHu3EQq7wzmnSAZ0JyQUfF0BRZN.jpg",
+    "production_companies": [
+        {
+            "id": 62385,
+            "logo_path": null,
+            "name": "100 Balas",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-03",
+            "episode_count": 6,
+            "id": 338564,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rHu3EQq7wzmnSAZ0JyQUfF0BRZN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 15,
+    "season_data": {
+        "1": {
+            "_id": "64482cd7140bad04d3a78e6d",
+            "air_date": "2023-11-03",
+            "episodes": [
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4391239,
+                    "name": "One",
+                    "overview": "Terrified, covered in blood and not daring to look back, Jordán and Cornelia flee in the middle of the night through a desert landscape. Despite being just children, they are relentlessly pursued by a group of people, thirsty for revenge. Luckily, they find a hiding place in the dark, but not for long.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/zaIEiga5ZOetQd9JhlmPoSFgMBD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4391245,
+                    "name": "Two",
+                    "overview": "A huge bus has pulled up in the town square. In front of it, Caterina Izara, an enlightened woman imbued with an atrocious conservatism, holds a rally for the locals who acclaim her as a deity. Not far from there, agents Teodoro and Sorroche , put aside their unhappy lives to start the night shift. But the calm won’t last long.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/jcAs3i1tbuo20ukwI2FMhj28IKf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4391248,
+                    "name": "Three",
+                    "overview": "A few hours before fleeing with Jordán, Cornelia is forced to escape from the shantytown where she lives. Tábata, the woman who takes care of her as if she were her own daughter, warns her of a serious danger: they are coming for them. That same afternoon, Jordán is dealing in the mall with his friends, back home, this event will have tragic consequences.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/trRCdDTUxAbCJrydXMGuw0dkh6b.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4391249,
+                    "name": "Four",
+                    "overview": "After their intense escape, Jordán and Cornelia take shelter in the shopping mall, thinking the danger has passed. However, agents Teodoro and Sorroche are close on their heels.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/hMLaRFC8xXUK7qhtYa4BPS3B4gV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4391250,
+                    "name": "Five",
+                    "overview": "Weeks before Josué's murder, Cornelia's life in the shantytown is a living hell. Her only escape is Tábata, with whom she enjoys immersing herself in stories full of magic and mystery. Back to the present, Teodoro and Sorroche deal with the murder of Jordán and secrets are revealed.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/ghOjmasd0NsPJWzrNcpQTESMUOO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4391252,
+                    "name": "Six",
+                    "overview": "The police station becomes a place where chaos and confusion reign and where past and revenge collide.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 225287,
+                    "still_path": "/ybykmLFkIcTRZNG15NrjdGNKDV9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "64482dfcc51acd02fca9615a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1453651,
+                            "known_for_department": "Writing",
+                            "name": "Fernando Navarro",
+                            "original_name": "Fernando Navarro",
+                            "popularity": 1.119,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64482e08f04d0104bc97eeea",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1422583,
+                            "known_for_department": "Directing",
+                            "name": "Tomás Peña",
+                            "original_name": "Tomás Peña",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 338564,
+            "poster_path": "/rHu3EQq7wzmnSAZ0JyQUfF0BRZN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-06-06",
+    "genres": [],
+    "homepage": "",
+    "id": 206547,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2020-06-06",
+    "last_episode_to_air": {
+        "id": 3848226,
+        "name": "Episode 1",
+        "overview": "Scarlett Moffatt, Courtney Act, Jess Wright, Melvin Odoom, Tallia Storm, Luke Kempner and David Potts take to the stage with the hopes of being crowned the ultimate karaoke star.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-06-06",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 206547,
+        "still_path": null
+    },
+    "name": "Celebrity Karaoke Club",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Celebrity Karaoke Club",
+    "overview": "Celebrities take to the karaoke stage in the hope of being crowned the ultimate karaoke star. But each contestant is also a judge, and they are all voting to kick someone out of the club at the end of the night.",
+    "popularity": 0.028,
+    "poster_path": "/lRXHV1xA1rAHQ2YgQ38KfSwkqlJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-06-06",
+            "episode_count": 1,
+            "id": 301836,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62dba3dc85005d00694dc7a4",
+            "air_date": "2020-06-06",
+            "episodes": [
+                {
+                    "air_date": "2020-06-06",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3848226,
+                    "name": "Episode 1",
+                    "overview": "Scarlett Moffatt, Courtney Act, Jess Wright, Melvin Odoom, Tallia Storm, Luke Kempner and David Potts take to the stage with the hopes of being crowned the ultimate karaoke star.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206547,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 301836,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

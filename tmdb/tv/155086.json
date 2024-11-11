@@ -1,0 +1,219 @@
+{
+    "adult": false,
+    "backdrop_path": "/4YzFRvanFqXNMpbbYMh4JUkVZQ4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-01-02",
+    "genres": [
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.npo3.nl/the-spectacular/02-01-2022/VPWON_1298556",
+    "id": 155086,
+    "in_production": false,
+    "languages": [
+        "de",
+        "en",
+        "ga",
+        "nl"
+    ],
+    "last_air_date": "2022-01-23",
+    "last_episode_to_air": {
+        "id": 3437924,
+        "name": "The Irish Cause",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-01-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 155086,
+        "still_path": "/yKEETHQiRWwU70lOqNHm2VQR5fG.jpg"
+    },
+    "name": "The Spectacular",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1194,
+            "logo_path": "/wVbxJBRSvSdGeLTm4z7WOBgTD1B.png",
+            "name": "NPO 3",
+            "origin_country": "NL"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "The Spectacular",
+    "overview": "In the late 1980s, a Dutch anti-terrorism detective sets out to take down an IRA cell ruthlessly targeting English military personnel on leave in the south of the Netherlands.",
+    "popularity": 10.737,
+    "poster_path": "/ppVJCtfTj9fns8d8DG3C4Uq6MOQ.jpg",
+    "production_companies": [
+        {
+            "id": 157128,
+            "logo_path": "/zX7CNl9i6YHk3AFEY1JzAryF7Z7.png",
+            "name": "Pumpkin Medium",
+            "origin_country": "IN"
+        },
+        {
+            "id": 239,
+            "logo_path": "/96hCWEsfmTZQsoUap0CcG21qaA.png",
+            "name": "VPRO",
+            "origin_country": "NL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-02",
+            "episode_count": 4,
+            "id": 238940,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xrzYOYyioEQWsWwEwxLBbBPewPM.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Irish",
+            "iso_639_1": "ga",
+            "name": "Gaeilge"
+        },
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "61d8a7b1b2681f0043bb59b9",
+            "air_date": "2022-01-02",
+            "episodes": [
+                {
+                    "air_date": "2022-01-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3435720,
+                    "name": "Tribal Struggle",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 155086,
+                    "still_path": "/b2IYRDVZiE49zGRKxHOeGq3V1yF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Robbie McAllister",
+                            "credit_id": "645bd7f33fe160017225e0ee",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3562157,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Bellus",
+                            "original_name": "Daniel Bellus",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3437922,
+                    "name": "Political Bodies",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 155086,
+                    "still_path": "/9RmxiJakGW66EAsJR204akg2Fjr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3437923,
+                    "name": "The Devil Himself",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 155086,
+                    "still_path": "/nI8NCrZuotuPZLlNzMg4P8j05tL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3437924,
+                    "name": "The Irish Cause",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 155086,
+                    "still_path": "/yKEETHQiRWwU70lOqNHm2VQR5fG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 238940,
+            "poster_path": "/xrzYOYyioEQWsWwEwxLBbBPewPM.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

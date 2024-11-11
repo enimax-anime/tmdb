@@ -1,0 +1,295 @@
+{
+    "adult": false,
+    "backdrop_path": "/87BrCkjIJQdpj9uBypcsoN3GQ7.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2022-04-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/sketchbook/6Ar2fNbka6jM",
+    "id": 195292,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-04-27",
+    "last_episode_to_air": {
+        "id": 3599866,
+        "name": "The Lion King | Simba",
+        "overview": "Storied Disney animator Mark Henn teaches us how to draw one of his favorite character designs, “Simba” from The Lion King. Through Mark’s story, we learn the importance of never giving up on your dreams, even in the face of rejection.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-04-27",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 195292,
+        "still_path": "/4D4qVdvcEy9Pjt5IAfiI3MJBpu9.jpg"
+    },
+    "name": "Sketchbook",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Sketchbook",
+    "overview": "An intimate instructional documentary series, that takes us onto the desks and into the lives of talented artists and animators. Each episode focuses on a single artist teaching us how to draw a single iconic character from a Walt Disney Animation Studios film.",
+    "popularity": 4.173,
+    "poster_path": "/kBzv3RYj84a0jKeVvlx87QIgnhE.jpg",
+    "production_companies": [
+        {
+            "id": 126200,
+            "logo_path": "/lvGUhh8CR2qDy16Qe5LBSZU53Iu.png",
+            "name": "Supper Club",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-27",
+            "episode_count": 6,
+            "id": 283598,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/9r2oimTeovnswO9C6C9umf7jKVw.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "The magic is drawn one line at time.",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "6231fcc8c3bffe0046d0673a",
+            "air_date": "2022-04-27",
+            "episodes": [
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3599861,
+                    "name": "The Emperor's New Groove | Kuzco",
+                    "overview": "Gabby Capili’s path to Disney Animation began at a young age when she saw her first Disney film in a theater with her father, The Emperor’s New Groove. As Gabby teaches us how to draw her favorite character from the film, “Kuzco,” she also shares the importance of following your instincts and being free to letting life guide you where you belong.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/ymFj6zaNBFfWDJ7CaEOPFAoEg7B.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "626b6c40ea394900a4a1d0a4",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1888302,
+                            "known_for_department": "Writing",
+                            "name": "Gabby Capili",
+                            "original_name": "Gabby Capili",
+                            "popularity": 0.325,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3599862,
+                    "name": "Frozen | Olaf",
+                    "overview": "While teaching us to draw one of Disney Animation’s most beloved characters, “Olaf” from the Frozen films, Hyun Min Lee shares the joyful wonder of the character and how she channeled the loss of her mother into being a guiding light in her career in animation.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/p57YisAcQfKIjx42gPAAF7OV7AC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231fea03c3ab0001ee27c2f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1461402,
+                            "known_for_department": "Visual Effects",
+                            "name": "Hyun-min Lee",
+                            "original_name": "Hyun-min Lee",
+                            "popularity": 0.84,
+                            "profile_path": "/qgXHCWANTdTRUEZR9wRovZQZBGo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3599863,
+                    "name": "Aladdin | The Genie",
+                    "overview": "Legendary Disney animator Eric Goldberg guides us through the steps of drawing his most iconic character creation, “The Genie” from Aladdin while learning along the way the levels to which Robin Williams impacted the character and its animation.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/8tEYzdc4QUJSowxDksFjJSMB5Wn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231feabfcadb40072b75f7d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 65531,
+                            "known_for_department": "Acting",
+                            "name": "Eric Goldberg",
+                            "original_name": "Eric Goldberg",
+                            "popularity": 3.249,
+                            "profile_path": "/pqulcFpHW4dBLNUeflN5BY21yTA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3599864,
+                    "name": "Peter Pan | Captain Hook",
+                    "overview": "Growing up in South Korea, Disney animator and character designer Jin Kim was always fascinated by the villains of Disney’s films. As Jin teaches us to draw Peter Pan’s “Captain Hook” we learn that his journey to America and working at Disney almost never happened because of his colorblindness.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/daFAURw2VbrJ4Ufg4NGMUeG6LVQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231feb5447f9c0046b36479",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1615783,
+                            "known_for_department": "Visual Effects",
+                            "name": "Jin Kim",
+                            "original_name": "Jin Kim",
+                            "popularity": 0.883,
+                            "profile_path": "/yD5UpN5ieLZ8SJKqwaGYNlLcqbI.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3599865,
+                    "name": "Encanto | Mirabel",
+                    "overview": "Disney Animation story artist Samantha Vilfort teaches us how to draw one of the studio’s newest characters, “Mirabel,” from the hit film Encanto. Through her story we learn that her connection to Mirabel’s struggle of being different from everyone else in her family hits close to home.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/xU7K1r2Luj5zmH4hPIWVg6umEtH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231febe676ce200457dd99d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3467771,
+                            "known_for_department": "Acting",
+                            "name": "Samantha Vilfort",
+                            "original_name": "Samantha Vilfort",
+                            "popularity": 0.201,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-27",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3599866,
+                    "name": "The Lion King | Simba",
+                    "overview": "Storied Disney animator Mark Henn teaches us how to draw one of his favorite character designs, “Simba” from The Lion King. Through Mark’s story, we learn the importance of never giving up on your dreams, even in the face of rejection.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195292,
+                    "still_path": "/4D4qVdvcEy9Pjt5IAfiI3MJBpu9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6231feca9ac5350045d79a51",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 115755,
+                            "known_for_department": "Crew",
+                            "name": "Mark Henn",
+                            "original_name": "Mark Henn",
+                            "popularity": 3.632,
+                            "profile_path": "/moi93ZFbFglebgd5MDwm9D21bks.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 283598,
+            "poster_path": "/9r2oimTeovnswO9C6C9umf7jKVw.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

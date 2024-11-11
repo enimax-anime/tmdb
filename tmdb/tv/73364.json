@@ -1,0 +1,405 @@
+{
+    "adult": false,
+    "backdrop_path": "/wmBKnaNfJmWHTxFqIoi5Ajrvetj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2017-07-12",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.investigationdiscovery.com/tv-shows/murder-by-numbers/",
+    "id": 73364,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-10-02",
+    "last_episode_to_air": {
+        "id": 1592957,
+        "name": "Rampage",
+        "overview": "A series of murders in California bear eerie similarities, but police have trouble connecting them -- that is until unique ballistics, mysterious surveillance, and a bloody cell phone lead them to three criminals on a deadly revenge spree.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-10-02",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 2,
+        "show_id": 73364,
+        "still_path": null
+    },
+    "name": "Murder by Numbers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 244,
+            "logo_path": "/3s6YJSYXW9mtJwoszTVI1BHDNc6.png",
+            "name": "Investigation Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Murder by Numbers",
+    "overview": "Each episode of this true-crime series begins with the grisly discovery of a body and the onset of an intense investigation. When police think they've solved the case, shocking twists sends each investigation into the depths of evil.",
+    "popularity": 2.115,
+    "poster_path": "/22mZy1kcODFIEIrvAt0dhy9Pjgf.jpg",
+    "production_companies": [
+        {
+            "id": 113062,
+            "logo_path": null,
+            "name": "Lusid Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-12",
+            "episode_count": 6,
+            "id": 91556,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2018-08-14",
+            "episode_count": 8,
+            "id": 107909,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5995d6c69251412530000c2e",
+            "air_date": "2017-07-12",
+            "episodes": [
+                {
+                    "air_date": "2017-07-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1351473,
+                    "name": "Count the Bodies",
+                    "overview": "Police are puzzled by a pair of murders linked by a mysterious note, not realizing the killer has a target in mind.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": "/A2Dojd59L97c736D4zcHGLDbr75.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Antwan Lewis",
+                            "credit_id": "62e080c646f354034f549fcb",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3486233,
+                            "known_for_department": "Acting",
+                            "name": "Zae Jordan",
+                            "original_name": "Zae Jordan",
+                            "popularity": 0.176,
+                            "profile_path": "/5mZtfBpT7u6CjF9mJTHN9awcCc0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-07-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1351474,
+                    "name": "Dog Days of Murder",
+                    "overview": "In Billings, Mont., firefighters respond to a fire at a duplex and find two bound and gagged bodies; the victims' house mate is nowhere to be found, prompting police to question whether they're searching for the killer or another victim.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-07-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1351475,
+                    "name": "Blood Mountain",
+                    "overview": "A woman is found murdered on the Appalachian Trail and her husband is missing, leaving authorities to wonder if he's the killer or another victim, then more bodies begin to appear.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1351476,
+                    "name": "Murder Calling",
+                    "overview": "Firefighters find the bullet-ridden bodies of Robert and Dorothy Pape while responding to a call about smoke billowing from a garage, in which they find a truck on fire; later, police realize the smoldering truck does not belong to the homeowners.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1351477,
+                    "name": "Grave Secrets",
+                    "overview": "When a woman is found brutally murdered in her home, all signs point to a local troublemaker, then more bodies start piling up, making police realize they may be dealing with a serial killer, who is preying on the town's most vulnerable citizens.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-16",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1351478,
+                    "name": "Run From the Devil",
+                    "overview": "In Amherst, N.Y., a missing college student's body is found hidden in the woods near a bike path, making the townspeople realize that the predator who has been stalking women for years has escalated from rapist to killer.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 91556,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5b73b3f60e0a267eed1d279f",
+            "air_date": "2018-08-14",
+            "episodes": [
+                {
+                    "air_date": "2018-08-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1549213,
+                    "name": "Monster Among Us",
+                    "overview": "A monster hunts the streets of Baton Rouge, La., raping and murdering three women; when one brave woman survives a vicious attack, evidence leads police to the hunter.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Little Boy",
+                            "credit_id": "5bb39a219251411ca300fd2d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2140091,
+                            "known_for_department": "Acting",
+                            "name": "Bryson JonSteele",
+                            "original_name": "Bryson JonSteele",
+                            "popularity": 0.958,
+                            "profile_path": "/feTFmvwffx7ZJGyUwHxZ0mf1AhJ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-08-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1549214,
+                    "name": "The Eastside Killer",
+                    "overview": "In Bellevue, Wash., a twisted murderer preys on young women leaving their bodies in sadistic poses; as police work to draw crucial connections, an unconventional clue surfaces and leads them to an unlikely killer hiding in plain sight.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-08-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1560081,
+                    "name": "You Could Be Next",
+                    "overview": "In Alexandria, Va., a sheriff's wife answers the door to a blaze of gunfire, causing the community to buzz with theories; then, more citizens are shot at their front doors, leaving everyone wondering who could be next.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1560082,
+                    "name": "Friend of the Devil",
+                    "overview": "In Orange County, Calif., four men are stabbed by a mystery man in a month's time; no one makes a connection to the gruesome double murder of a woman and her son two months earlier except the man sitting in prison for killing his own family.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1569517,
+                    "name": "The Eyeball Killer",
+                    "overview": "Dallas has its dark side, but nothing compares the horror of a series of women found murdered with their eyeballs surgically removed; a pair of beat cops use their street savvy to lead detectives to a sadistic killer and his bizarre motive.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-18",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1569518,
+                    "name": "Clown Mask Murders",
+                    "overview": "A woman's husband is murdered by an intruder wearing a clown mask. After three more victims are killed by a deranged clown, police realize they're dealing with a serial killer.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1579180,
+                    "name": "Bound by Blood",
+                    "overview": "The Necktie Killer strikes fear in the hearts of Atlanta's citizens; detectives from neighboring counties piece together correlative clues and distinctive apparel left behind at each crime scene.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-02",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1592957,
+                    "name": "Rampage",
+                    "overview": "A series of murders in California bear eerie similarities, but police have trouble connecting them -- that is until unique ballistics, mysterious surveillance, and a bloody cell phone lead them to three criminals on a deadly revenge spree.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 73364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 107909,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

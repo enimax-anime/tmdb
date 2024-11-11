@@ -1,0 +1,126 @@
+{
+    "adult": false,
+    "backdrop_path": "/3f9zTVH0MGmSrroFIO9n4CXo1Pq.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-06-18",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 229141,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2023-06-25",
+    "last_episode_to_air": {
+        "id": 4541982,
+        "name": "Baddies East Auditions: Part 2",
+        "overview": "It's time for the contestants to face the main stage judges to show who is a real Baddie.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2023-06-25",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 229141,
+        "still_path": "/1HLpOEKJ5Sb6rAoP8TiZ9ow9voA.jpg"
+    },
+    "name": "Baddies East Auditions",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Baddies East Auditions",
+    "overview": "In this audition special, Executive Producer Natalie Nunn, along with rap star Rubi Rose, reality star Tokyo Toni, and the Baddies West all-stars, help to choose the cast for the next season of Zeus Network's original hit Baddies franchise. Also with special guest, Angela White.",
+    "popularity": 5.653,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 119554,
+            "logo_path": null,
+            "name": "The Zeus Network",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-18",
+            "episode_count": 2,
+            "id": 346045,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6492b7a3c2823a00ffa0828f",
+            "air_date": "2023-06-18",
+            "episodes": [
+                {
+                    "air_date": "2023-06-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4541980,
+                    "name": "Baddies East Auditions: Part 1",
+                    "overview": "In this audition special, Executive Producer Natalie Nunn, along with rap star Rubi Rose, reality star Tokyo Toni, and the Baddies West all-stars, help to choose the cast for the next season of Zeus Network's original hit Baddies franchise. Also with special guest, Angela White.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 229141,
+                    "still_path": "/pqyJTNhcHpce5T4sLEXCV4O1wJG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4541982,
+                    "name": "Baddies East Auditions: Part 2",
+                    "overview": "It's time for the contestants to face the main stage judges to show who is a real Baddie.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 229141,
+                    "still_path": "/1HLpOEKJ5Sb6rAoP8TiZ9ow9voA.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 346045,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

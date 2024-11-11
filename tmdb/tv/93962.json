@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/hDrJ1MrR2ksXjKFcr8y66uIgJY8.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2019-10-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.hbo.com/specials/247-college-football",
+    "id": 93962,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-23",
+    "last_episode_to_air": {
+        "id": 1936664,
+        "name": "Washington State Cougars",
+        "overview": "Chronicles game week of Colorado vs. Washington State.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 93962,
+        "still_path": null
+    },
+    "name": "24/7 College Football",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 49,
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "24/7 College Football",
+    "overview": "This four-part, limited series follows the Florida Gators, Penn State Nittany Lions, Arizona State Sun Devils and Washington State Cougars as they meet the demands and challenges leading up to and through game day.",
+    "popularity": 0.511,
+    "poster_path": "/4mD67Imkly2BTZRJxWrWb8tUUqf.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-02",
+            "episode_count": 4,
+            "id": 132983,
+            "name": "Limited Series",
+            "overview": "",
+            "poster_path": "/4mD67Imkly2BTZRJxWrWb8tUUqf.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5d88a11bd9f4a6000e4ca56f",
+            "air_date": "2019-10-02",
+            "episodes": [
+                {
+                    "air_date": "2019-10-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1936661,
+                    "name": "Florida Gators",
+                    "overview": "Chronicles the game week of Towson vs. Florida.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 93962,
+                    "still_path": "/hDrJ1MrR2ksXjKFcr8y66uIgJY8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1936662,
+                    "name": "Penn State Nittany Lions",
+                    "overview": "Chronicles the game week of Purdue vs. Penn State.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 93962,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1936663,
+                    "name": "Arizona State Sun Devils",
+                    "overview": "Chronicles game week of Washington State vs. Arizona State.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 93962,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1936664,
+                    "name": "Washington State Cougars",
+                    "overview": "Chronicles game week of Colorado vs. Washington State.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 93962,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Limited Series",
+            "overview": "",
+            "id": 132983,
+            "poster_path": "/4mD67Imkly2BTZRJxWrWb8tUUqf.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/kNwiUdyxXPlD5GlXghXS2Sm2aql.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2021-02-25",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 138768,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-02-25",
+    "last_episode_to_air": {
+        "id": 3341428,
+        "name": "Luda Can't Cook",
+        "overview": "Rapper and novice cook Ludacris visits chef Meherwan Irani for a masterclass in Indian cuisine. Later, Ludacris cooks his own menu for some special guests.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-02-25",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 138768,
+        "still_path": "/wt0m3C97gCA27WZuCgoLopaw7xr.jpg"
+    },
+    "name": "Luda Can't Cook",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4353,
+            "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+            "name": "discovery+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Luda Can't Cook",
+    "overview": "Hip-hop icon, accomplished actor and successful restaurateur Ludacris is passionate about food but doesn’t have any culinary skills. Explore as he learns about different flavours and techniques and takes on exciting, new recipes",
+    "popularity": 0.945,
+    "poster_path": "/c3oB3S2I2qRH58OJ4WaPxazlSVo.jpg",
+    "production_companies": [
+        {
+            "id": 739,
+            "logo_path": "/84LpDufRd7czeXBqvQGY6Su4u1C.png",
+            "name": "Anomaly Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-25",
+            "episode_count": 1,
+            "id": 219804,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c3oB3S2I2qRH58OJ4WaPxazlSVo.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 9,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6194371c258823002a3bd436",
+            "air_date": "2021-02-25",
+            "episodes": [
+                {
+                    "air_date": "2021-02-25",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3341428,
+                    "name": "Luda Can't Cook",
+                    "overview": "Rapper and novice cook Ludacris visits chef Meherwan Irani for a masterclass in Indian cuisine. Later, Ludacris cooks his own menu for some special guests.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 138768,
+                    "still_path": "/wt0m3C97gCA27WZuCgoLopaw7xr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Judge",
+                            "credit_id": "6194386effc9de00908700fb",
+                            "order": 1,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2832157,
+                            "known_for_department": "Acting",
+                            "name": "Aarti Sequeira",
+                            "original_name": "Aarti Sequeira",
+                            "popularity": 0.352,
+                            "profile_path": "/n4Qcff4SgmwmOpv36yNmb7ALCaJ.jpg"
+                        },
+                        {
+                            "character": "Self - Mentor",
+                            "credit_id": "6194385e41465c002abe74f8",
+                            "order": 2,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3312513,
+                            "known_for_department": "Acting",
+                            "name": "Meherwan Irani",
+                            "original_name": "Meherwan Irani",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 219804,
+            "poster_path": "/c3oB3S2I2qRH58OJ4WaPxazlSVo.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

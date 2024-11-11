@@ -1,0 +1,119 @@
+{
+    "adult": false,
+    "backdrop_path": "/laPAuv4HjUbKrdUVifHLvKfdu9c.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-09-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://watch.insight.tv/the-demolition-man",
+    "id": 230853,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-09-08",
+    "last_episode_to_air": {
+        "id": 4588305,
+        "name": "Manchester",
+        "overview": "A bridge in Manchester, UK hovering over one of Europe's busiest commuter routes must be demolished to make place for a modern gateway.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-09-08",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 230853,
+        "still_path": null
+    },
+    "name": "The Demolition Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3378,
+            "logo_path": "/cysCdp10yByvUrvRoJxNUtdMFhr.png",
+            "name": "Insight TV",
+            "origin_country": "NL"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "en",
+    "original_name": "The Demolition Man",
+    "overview": "Host Brendan Moar dives into the process of what it takes to bring down some of the biggest structures from around the world.",
+    "popularity": 0.636,
+    "poster_path": "/7Wc882Lx4uyw5HzfMGPWMFPsZQD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-09-08",
+            "episode_count": 1,
+            "id": 349234,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "64b69f050e4fc8519c2003cf",
+            "air_date": "2016-09-08",
+            "episodes": [
+                {
+                    "air_date": "2016-09-08",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 4588305,
+                    "name": "Manchester",
+                    "overview": "A bridge in Manchester, UK hovering over one of Europe's busiest commuter routes must be demolished to make place for a modern gateway.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 230853,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 349234,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

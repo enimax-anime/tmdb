@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/z3xVLsq7ZlCAanUoTZkUfPbkjnG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        9
+    ],
+    "first_air_date": "2016-11-25",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 68840,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2016-11-25",
+    "last_episode_to_air": {
+        "id": 1243156,
+        "name": "Episode 2",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-11-25",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 9,
+        "season_number": 1,
+        "show_id": 68840,
+        "still_path": null
+    },
+    "name": "Tank",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1677,
+            "logo_path": "/oRlKS6G0JJ7LLQUDfVgM7x1YCxk.png",
+            "name": "STUDIO+",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Tank",
+    "overview": "Alexander Braun's plan was simple: escape from prison, do his last heist, and disappear. With nearly 500 kilometers to go and every cop in pursuit, he'd better find a good car. When he stumbles onto a beautiful Mercury, he takes it - not realising that the car belongs to a gang of smugglers and is loaded to the brim with cocaine...",
+    "popularity": 4.488,
+    "poster_path": "/ld7Wlo0ZtdBcYCkmsMwMxDtR0p2.jpg",
+    "production_companies": [
+        {
+            "id": 3286,
+            "logo_path": "/kMwaZKoh6b5JouZ9mZrLN8YvaWf.png",
+            "name": "Empreinte Digitale",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-11-25",
+            "episode_count": 2,
+            "id": 82310,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r0h3Sa6fVJOLW4ZQDJW3DrJDSdc.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 1,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5838adfa92514142420031f0",
+            "air_date": "2016-11-25",
+            "episodes": [
+                {
+                    "air_date": "2016-11-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1243154,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 9,
+                    "season_number": 1,
+                    "show_id": 68840,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-11-25",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 1243156,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 9,
+                    "season_number": 1,
+                    "show_id": 68840,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 82310,
+            "poster_path": "/r0h3Sa6fVJOLW4ZQDJW3DrJDSdc.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

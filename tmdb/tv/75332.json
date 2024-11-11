@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/bcdSXOJ7YXy95pgubsiUguk4vJP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2017-11-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.sundance.tv/series/cold-blooded-the-clutter-family-murders",
+    "id": 75332,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-11-19",
+    "last_episode_to_air": {
+        "id": 1397487,
+        "name": "The Gallows and the Novel",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-11-19",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 75332,
+        "still_path": null
+    },
+    "name": "Cold Blooded: The Clutter Family Murders",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 270,
+            "logo_path": "/yMzgCPTJfk6SQ6IXX9PIlSxD4ZU.png",
+            "name": "SundanceTV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cold Blooded: The Clutter Family Murders",
+    "overview": "The story of the brutal murder of the Clutter family in a small Kansas town in 1959, the resulting investigation, convictions and executions of Perry Smith and Richard Hickock, chronicled in Truman Capote's landmark book, In Cold Blood.",
+    "popularity": 1.877,
+    "poster_path": "/vgeDuGaJY8ZfZOOBEbB0CWDMnz.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-11-18",
+            "episode_count": 4,
+            "id": 95765,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vgeDuGaJY8ZfZOOBEbB0CWDMnz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.2,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "5a1a2c949251410326036f5e",
+            "air_date": "2017-11-18",
+            "episodes": [
+                {
+                    "air_date": "2017-11-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1397484,
+                    "name": "Farm Family Slain",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 75332,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1397485,
+                    "name": "Killers on the Run",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 75332,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1397486,
+                    "name": "Intruders",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 75332,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-19",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1397487,
+                    "name": "The Gallows and the Novel",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 75332,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 95765,
+            "poster_path": "/vgeDuGaJY8ZfZOOBEbB0CWDMnz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

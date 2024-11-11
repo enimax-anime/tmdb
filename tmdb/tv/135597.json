@@ -1,0 +1,784 @@
+{
+    "adult": false,
+    "backdrop_path": "/4tGVF9BNyvxputbdTXuFWyGdOmY.jpg",
+    "created_by": [
+        {
+            "id": 182006,
+            "credit_id": "615b0ba1c8a2d4006230f484",
+            "name": "Teddy Riley",
+            "original_name": "Teddy Riley",
+            "gender": 2,
+            "profile_path": "/mbgRRdeMLss3Wz2TC9T25hP5AIf.jpg"
+        },
+        {
+            "id": 1676036,
+            "credit_id": "615b0b96dcb6a30063b88f05",
+            "name": "Aaron Buchsbaum",
+            "original_name": "Aaron Buchsbaum",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3258536,
+            "credit_id": "615b0b88dbf1440044bd844c",
+            "name": "Matthew Hausfater",
+            "original_name": "Matthew Hausfater",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-10-29",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B09HSV9MHL",
+    "id": 135597,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-09",
+    "last_episode_to_air": {
+        "id": 3660870,
+        "name": "Fashion War",
+        "overview": "It’s the season finale! We’re not spoiling sh*t.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2022-06-09",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 27,
+        "season_number": 2,
+        "show_id": 135597,
+        "still_path": "/5KvU3MQEtXpFToBgVpaUFjpjBRY.jpg"
+    },
+    "name": "Fairfax",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fairfax",
+    "overview": "Follow four middle school best friends on their never-ending quest for clout in Fairfax Avenue in Los Angeles — the pulsing heart of hypebeast culture.",
+    "popularity": 8.182,
+    "poster_path": "/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
+    "production_companies": [
+        {
+            "id": 4152,
+            "logo_path": "/8G3bKbfSreYlfPnEPFPuJn8tOOX.png",
+            "name": "Titmouse",
+            "origin_country": "US"
+        },
+        {
+            "id": 76800,
+            "logo_path": "/tmhsYGt5ADxq7qWWAd3Yc5PmYtg.png",
+            "name": "Serious Business",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-29",
+            "episode_count": 8,
+            "id": 214250,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-06-09",
+            "episode_count": 8,
+            "id": 287396,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/8DIwqALKmSoU2Wv7vjs0sLOnjPp.jpg",
+            "season_number": 2,
+            "vote_average": 7.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.972,
+    "vote_count": 18,
+    "season_data": {
+        "1": {
+            "_id": "615b07f7eb14fa008c14cc10",
+            "air_date": "2021-10-29",
+            "episodes": [
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3260486,
+                    "name": "Pilot",
+                    "overview": "Thirteen year old Dale and his family move to Fairfax, where he’s welcomed into the Gang Gang as they hunt down the latest, must have Latrine drop: the Dr. Phil Box Tee.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/e1L820cNMiENctzkcclnQQgzZAT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3311189,
+                    "name": "Big Peens",
+                    "overview": "When Melody throws a pool party to celebrate her verified status on social media, Truman helps Dale gain followers to get into the party, while Derica puts Benny on a super-cleanse.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/2O41gskD7yKgiUOS2TkTAnHeI24.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Lily (voice)",
+                            "credit_id": "63e4028f22e48000a79334ac",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3311191,
+                    "name": "Fairfolks",
+                    "overview": "Locke finds a hatch, and Sawyer discovers that-- Wait, wrong show. Fieldtrip time! The Gang Gang goes to an old folks home!!",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/vmAsN94rAkFpfSxJkDFgm3QD2Mt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3311193,
+                    "name": "Dale Hates His Dad",
+                    "overview": "The internet makes Dale question his Dad hate; meanwhile, Derica finds a runaway whale in the LA River. What the fook?!",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/lrM5ByUMHbFtP6iJfncByaxrPvX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3311194,
+                    "name": "Chernobylfest",
+                    "overview": "The Gang Gang goes to Chernobylfest, a music festival of Pollution and Radiation, hosted by Yung Polluter and the Litter Gang.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/mbsYVgj5bpZHsvt821kgbAfCGM9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3311195,
+                    "name": "Smells Like E-Spirit",
+                    "overview": "Don cheats on Betty-- sh*t wrong show again! Benny tries out for the E-sports team as Truman learns the pitfalls of cinema verite. Meanwhile, Derica becomes Dale’s campaign manager as he runs in a heated race for Spirit Chair.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/e93hbtIbNcG4hdtWAODNnPZdhS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Lily (voice)",
+                            "credit_id": "63e4028f22e48000a79334ac",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3311196,
+                    "name": "Secure the Bag",
+                    "overview": "Benny is stuck in church when Latrine announces the hottest drop of the year, the Golden Dorito. The Gang Gang, down a man, goes on an epic quest to hunt down the Dorito that could change their lives forever.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/wRUAOVUZcAi60C0Rsa6okyvwCjd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-29",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3311197,
+                    "name": "Belly of the Hypebeast",
+                    "overview": "Ross calls Emily “Rachel” on the altar, and the Gang Gang gets to meet their hero.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 135597,
+                    "still_path": "/i7GlKWtq7yXlh5sD6DtZCWjmJc9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 214250,
+            "poster_path": "/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6255ee251d78f200676419e0",
+            "air_date": "2022-06-09",
+            "episodes": [
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3660863,
+                    "name": "Fairfax at Night",
+                    "overview": "Season 2, bruh! When the hot new fashion house on Fairfax, Off-Brian, drops the coveted Tennis Ball Shoe, the Gang Gang camps out on the block overnight.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/bzASY0KJKIhxJgqr1Itby0zTHje.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "'Manda (voice)",
+                            "credit_id": "63e403331283e9007c333557",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "Dua Lipa (voice)",
+                            "credit_id": "63e403535ca70400df745b18",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "Line Hypebeast (voice)",
+                            "credit_id": "63e403661283e9007c333566",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3660864,
+                    "name": "So You Think You Can Grieve?",
+                    "overview": "After finding out that Principal Weston has died, Fairfax Middle School competes to see who can grieve the hardest.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/trOThe8Gmf6jRh1DwGftNLmV94p.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Voice on the Phone",
+                            "credit_id": "63b6064e875d1a00bde006c6",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Choir (voice)",
+                            "credit_id": "63b60662c56d2d007c858933",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Lily (voice)",
+                            "credit_id": "63e4028f22e48000a79334ac",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "'Manda (voice)",
+                            "credit_id": "63e403331283e9007c333557",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "Random Kid 2(voice)",
+                            "credit_id": "63e40391fac502007c5a157d",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3660865,
+                    "name": "The Circle of Hype",
+                    "overview": "Avon’s corner is threatened-- sh*t! I mean, the Gang Gang introduces Dale to the mystical ecosystem that is the Fairfax Flea Market. Benny gets sucked into the Shady side, Truman joins Trini’s mom band, and Derica finds the perfect jacket.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/8oW68N59kSNBKrThKNKmaauDubH.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3660866,
+                    "name": "Career Day",
+                    "overview": "Coach Taylor’s job is on the line as the Dillon Panthers -- god damnit. Which one is this again? Fairfax? Oh right. It’s career day! Derica enjoys a rapid rise at Girlbossier only to learn her dream of being an activist model comes with a catch. And Truman reconnects with a juicy old flame.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/uGzORI0XTAfnFIPdHNlQOo9v6QT.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Cerise / Extra 1 / Protestor (voice)",
+                            "credit_id": "63b6067d1d1bf400a0302825",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Aleesia / Protestor / Scarjo (voice)",
+                            "credit_id": "64ccfbc5764b9900ae128bd3",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1392140,
+                            "known_for_department": "Acting",
+                            "name": "Annie Murphy",
+                            "original_name": "Annie Murphy",
+                            "popularity": 11.127,
+                            "profile_path": "/1cQ9Piq6kcTzmzJ9I4oGd7oFEdS.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3660867,
+                    "name": "This Binch is on Fire",
+                    "overview": "A wrongfully accused Derica lands in detention and ends up proving her innocence while making some unlikely new friends along the way. Meanwhile, Truman puts his legacy on the line to make the most fire fire-safety video.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/rbWR5qtDFOVvxrsZ55D3fsL4r7S.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Cerise / Extra 1 / Protestor (voice)",
+                            "credit_id": "63b6067d1d1bf400a0302825",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Lily (voice)",
+                            "credit_id": "63e4028f22e48000a79334ac",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "'Manda (voice)",
+                            "credit_id": "63e403331283e9007c333557",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3660868,
+                    "name": "Clout 9",
+                    "overview": "The beach day Dale was hoping for gets put on hold when the Gang Gang tries to rescue Hiroki from the infamous Clout 9.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/vXMp1chUsw84dxI3WHbotiJlhwt.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "'Manda (voice)",
+                            "credit_id": "63e403331283e9007c333557",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "Serenity (voice)",
+                            "credit_id": "63e534270e597b007ca09943",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3660869,
+                    "name": "Big Little AI's",
+                    "overview": "Walt and Jesse are in over their heads with Gus. Meanwhile, the Gang Gang goes to their middle school dance! Truman stirs the pot by bringing a fifth wheel.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/AYLULxxvq6odJp7KbwIOmjmHZr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Melody (voice)",
+                            "credit_id": "63b605c95ad76b007dc9c77b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Cerise / Extra 1 / Protestor (voice)",
+                            "credit_id": "63b6067d1d1bf400a0302825",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1721740,
+                            "known_for_department": "Acting",
+                            "name": "Camila Mendes",
+                            "original_name": "Camila Mendes",
+                            "popularity": 21.055,
+                            "profile_path": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+                        },
+                        {
+                            "character": "Lily (voice)",
+                            "credit_id": "63e4028f22e48000a79334ac",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        },
+                        {
+                            "character": "Random Kid (voice)",
+                            "credit_id": "63e5345f65686e007ca6ba3f",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1059597,
+                            "known_for_department": "Acting",
+                            "name": "Zoey Deutch",
+                            "original_name": "Zoey Deutch",
+                            "popularity": 26.887,
+                            "profile_path": "/mqsyArOkBErVU8hAKXGNJe3kU2Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-09",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3660870,
+                    "name": "Fashion War",
+                    "overview": "It’s the season finale! We’re not spoiling sh*t.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 135597,
+                    "still_path": "/5KvU3MQEtXpFToBgVpaUFjpjBRY.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 287396,
+            "poster_path": "/8DIwqALKmSoU2Wv7vjs0sLOnjPp.jpg",
+            "season_number": 2,
+            "vote_average": 7.5
+        }
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "adult": false,
+    "backdrop_path": "/bZauziL8ttLtCI8QmwBWUYnjfAx.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-09-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.viceland.com/en_us/show/the-hunt-for-the-trump-tapes-with-tom-arnold",
+    "id": 81715,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-10-16",
+    "last_episode_to_air": {
+        "id": 1613212,
+        "name": "Michael Cohen and Me",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-10-16",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 81715,
+        "still_path": null
+    },
+    "name": "The Hunt for the Trump Tapes With Tom Arnold",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Hunt for the Trump Tapes With Tom Arnold",
+    "overview": "Follow the search for the truth behind the many rumored and potentially damaging recordings of President Donald Trump.",
+    "popularity": 0.636,
+    "poster_path": "/leAJKjxAZRlGwLjDK0O2XVS2yWA.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-18",
+            "episode_count": 8,
+            "id": 107994,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/leAJKjxAZRlGwLjDK0O2XVS2yWA.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 4.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5b7724460e0a2604720014c8",
+            "air_date": "2018-09-18",
+            "episodes": [
+                {
+                    "air_date": "2018-09-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1552164,
+                    "name": "The Howard Stern Files",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1613206,
+                    "name": "The Apprentice Outtakes",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1613207,
+                    "name": "The Pee Pee Tape",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1613208,
+                    "name": "From Pee Pee to Protest",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1613209,
+                    "name": "Backstage at Miss Universe",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1613210,
+                    "name": "The Melania Elevator Tape",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1613211,
+                    "name": "Sex, Lies, and Surveillance Tapes",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1613212,
+                    "name": "Michael Cohen and Me",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 81715,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 107994,
+            "poster_path": "/leAJKjxAZRlGwLjDK0O2XVS2yWA.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "adult": false,
+    "backdrop_path": "/mOmMFv5ES0thCzMkzK2vMrBqClW.jpg",
+    "created_by": [
+        {
+            "id": 82566,
+            "credit_id": "60a60a835900860029280ec3",
+            "name": "Anders Morgenthaler",
+            "original_name": "Anders Morgenthaler",
+            "gender": 2,
+            "profile_path": "/7PXsGlv8LkfUoGca4RKHb4epikd.jpg"
+        },
+        {
+            "id": 3129930,
+            "credit_id": "60ce36419a9e20006d58e14f",
+            "name": "Allan Hydes",
+            "original_name": "Allan Hydes",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2021-05-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://viaplay.dk/serier/try-hard",
+    "id": 123738,
+    "in_production": true,
+    "languages": [
+        "da"
+    ],
+    "last_air_date": "2021-05-16",
+    "last_episode_to_air": {
+        "id": 2962669,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-16",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 123738,
+        "still_path": "/qXbSU9nVwmgXhXunacMX39wpY2L.jpg"
+    },
+    "name": "Try Hard",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2869,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "DK"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DK"
+    ],
+    "original_language": "da",
+    "original_name": "Try Hard",
+    "overview": "",
+    "popularity": 2.461,
+    "poster_path": "/vSlxYZoJ5PgyE6AesA3WbhjisJO.jpg",
+    "production_companies": [
+        {
+            "id": 131710,
+            "logo_path": "/6GW5ydSeyNdIz3xJqIG8G5csgIP.png",
+            "name": "new creations",
+            "origin_country": "DK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-16",
+            "episode_count": 8,
+            "id": 191352,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "607daf8a66f2d2006d345dde",
+            "air_date": "2021-05-16",
+            "episodes": [
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2888662,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/6hmlFkECIhwxDjvALPsML0P83Zu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2962662,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/pFG5E9KsPkUT9V1fObl2q4yhtyC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2962663,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/zrfLNAdI7SWjYCGJMeaFtXZAmmE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Balthazar",
+                            "credit_id": "62d1a7ec0bb0760050eed395",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2689839,
+                            "known_for_department": "Acting",
+                            "name": "Helmer Solberg",
+                            "original_name": "Helmer Solberg",
+                            "popularity": 0.322,
+                            "profile_path": "/txVzIWV6W2FnDnOHpEqpxd8PMIe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2962664,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/xerXf0eygry4heLVzdEobzGR9mM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2962665,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/sEvi9sUnHBjvOAREkd3t4Al5gEE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2962666,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/5x4NnPGvWLoMLhdSAqA9upeI85p.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2962668,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/wsHhDSdL34EwB30bVfkKTuweSRm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2962669,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 123738,
+                    "still_path": "/qXbSU9nVwmgXhXunacMX39wpY2L.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 191352,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

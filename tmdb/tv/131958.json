@@ -1,0 +1,313 @@
+{
+    "adult": false,
+    "backdrop_path": "/nrtvinKJlYFqjsaxPEzoAWBIhFj.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2015-05-11",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 131958,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-07-27",
+    "last_episode_to_air": {
+        "id": 3153999,
+        "name": "Episode 12",
+        "overview": "A forklift lifts a shipping container; racing car pit stop goes horribly wrong.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-07-27",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 131958,
+        "still_path": null
+    },
+    "name": "Danger Decoded",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Danger Decoded",
+    "overview": "Discovering what went wrong in a series of caught-on-camera disasters.",
+    "popularity": 1.748,
+    "poster_path": "/d6iNB6wVeQYfxzu1aGPWWtQ7RYN.jpg",
+    "production_companies": [
+        {
+            "id": 159698,
+            "logo_path": null,
+            "name": "Shine North",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-05-11",
+            "episode_count": 12,
+            "id": 207471,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d6iNB6wVeQYfxzu1aGPWWtQ7RYN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6126260243250f0063f7bd02",
+            "air_date": "2015-05-11",
+            "episodes": [
+                {
+                    "air_date": "2015-05-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3153637,
+                    "name": "Episode 1",
+                    "overview": "A parachute jump doesn't go according to plan for a group of skydivers.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-05-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3153654,
+                    "name": "Episode 2",
+                    "overview": "A helicopter accident causes chaos in the workplace; a construction worker is trapped.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-05-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3153971,
+                    "name": "Episode 3",
+                    "overview": "Someone on a snowmobile takes an unexpected turn; a motocross presentation goes wrong.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-06-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3153972,
+                    "name": "Episode 4",
+                    "overview": "A dangerous rally runs through the mountains of Colorado.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-06-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3153973,
+                    "name": "Episode 5",
+                    "overview": "Rescuers in Siberia try to reach a fire in an apartment.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-06-15",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3153985,
+                    "name": "Episode 6",
+                    "overview": "Mountain expedition doesn't go as planned; a powerboat race; a downhill cycling speed racing event.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-06-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3153987,
+                    "name": "Episode 7",
+                    "overview": "Disaster looms at the Isle of Man Tourist Trophy Races, followed by a natural occurrence in Italy.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-06-29",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3153994,
+                    "name": "Episode 8",
+                    "overview": "A collection of on-camera calamities, featuring rally cars speeding along Italian roads.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-06",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3153996,
+                    "name": "Episode 9",
+                    "overview": "Trouble looms in Melbourne when two dragsters line up against each other.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-13",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3153997,
+                    "name": "Episode 10",
+                    "overview": "A street racing event in Brazil ends in disaster and danger mounts during a wingsuit stunt.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-20",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3153998,
+                    "name": "Episode 11",
+                    "overview": "A container truck attempts a level crossing; a giant crane needs to be moved.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-27",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3153999,
+                    "name": "Episode 12",
+                    "overview": "A forklift lifts a shipping container; racing car pit stop goes horribly wrong.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 131958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 207471,
+            "poster_path": "/d6iNB6wVeQYfxzu1aGPWWtQ7RYN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

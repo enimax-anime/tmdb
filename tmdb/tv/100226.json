@@ -1,0 +1,1393 @@
+{
+    "adult": false,
+    "backdrop_path": "/4TKG18wyYHXIZxEY4JgPWHAUAtU.jpg",
+    "created_by": [
+        {
+            "id": 1549818,
+            "credit_id": "66669938537bed1a87a68f8d",
+            "name": "Piotr Domalewski",
+            "original_name": "Piotr Domalewski",
+            "gender": 2,
+            "profile_path": "/faEVVYG1nF8QALPQ7E1qWbONOQb.jpg"
+        },
+        {
+            "id": 2539493,
+            "credit_id": "66669942ed42668999d3c0a8",
+            "name": "Kalina Alabrudzińska",
+            "original_name": "Kalina Alabrudzińska",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 3867702,
+            "credit_id": "6666994d5803078c961c2810",
+            "name": "Agata Gerc",
+            "original_name": "Agata Gerc",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3867704,
+            "credit_id": "666699580a4e0068a1d00e8f",
+            "name": "Małgorzata Suwała",
+            "original_name": "Małgorzata Suwała",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1063506,
+            "credit_id": "66669961b4c386feb7c09c90",
+            "name": "Jan Kwieciński",
+            "original_name": "Jan Kwieciński",
+            "gender": 2,
+            "profile_path": "/tDtVM83VtndusuTrQVuPWA3LvOp.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-04-28",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81140470",
+    "id": 100226,
+    "in_production": true,
+    "languages": [
+        "pl"
+    ],
+    "last_air_date": "2023-01-11",
+    "last_episode_to_air": {
+        "id": 4105870,
+        "name": "Episode 8",
+        "overview": "The Sexify team plots to take back their prototypes and their company. Maks reveals the truth behind Małgorzata’s plan and the speedy app launch.",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2023-01-11",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 2,
+        "show_id": 100226,
+        "still_path": "/7IeU5p2gqOrLyJZ6URHxr8J8Lh1.jpg"
+    },
+    "name": "Sexify",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Sexify",
+    "overview": "To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy.",
+    "popularity": 18.336,
+    "poster_path": "/fTSZcItpRyRpolA82EfdKinmLRL.jpg",
+    "production_companies": [
+        {
+            "id": 10826,
+            "logo_path": "/nnXr9tDsIU7uGjVOFrjsSK2jYuY.png",
+            "name": "Akson Studio",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-28",
+            "episode_count": 8,
+            "id": 144818,
+            "name": "Season 1",
+            "overview": "To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy.",
+            "poster_path": "/eusG3qMrQmYBqcsUxm2asTOPqxO.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        },
+        {
+            "air_date": "2023-01-11",
+            "episode_count": 8,
+            "id": 320178,
+            "name": "Season 2",
+            "overview": "With the future of their startup in flux, the three young entrepreneurs must balance tumultuous personal lives, a bitter rival and a demanding investor.",
+            "poster_path": "/pQCE54PUVmGyDluBQqVeDXqPBHN.jpg",
+            "season_number": 2,
+            "vote_average": 5.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 202,
+    "season_data": {
+        "1": {
+            "_id": "5e65f479459ad600115a13e4",
+            "air_date": "2021-04-28",
+            "episodes": [
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2184722,
+                    "name": "Episode 1",
+                    "overview": "When a professor gives Natalia some troubling news about the app she’s building for a tech competition, she's forced to pivot to a new idea.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/xEc8gPv7FyL9GTZ424DySry9rAO.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jabba",
+                            "credit_id": "6089a495da10f000582f15b5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136642,
+                            "known_for_department": "Acting",
+                            "name": "Sebastian Stankiewicz",
+                            "original_name": "Sebastian Stankiewicz",
+                            "popularity": 5.376,
+                            "profile_path": "/hLN0Ca09KwQOFLZLPIEzgTIbqqg.jpg"
+                        },
+                        {
+                            "character": "Portierka",
+                            "credit_id": "6089a5292dda89007a45297a",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 140223,
+                            "known_for_department": "Acting",
+                            "name": "Ewa Szykulska",
+                            "original_name": "Ewa Szykulska",
+                            "popularity": 1.236,
+                            "profile_path": "/oT2fSFZpBl9XNJJkCsfjrLMpRLw.jpg"
+                        },
+                        {
+                            "character": "Marek, ojciec Moniki",
+                            "credit_id": "6089a49ecabfe4005615f6f3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83266,
+                            "known_for_department": "Acting",
+                            "name": "Cezary Pazura",
+                            "original_name": "Cezary Pazura",
+                            "popularity": 1.321,
+                            "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+                        },
+                        {
+                            "character": "Dziekan",
+                            "credit_id": "6089a4a984448e002a83f331",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1145,
+                            "known_for_department": "Acting",
+                            "name": "Zbigniew Zamachowski",
+                            "original_name": "Zbigniew Zamachowski",
+                            "popularity": 2.78,
+                            "profile_path": "/mLntjL4Jp1LEz41NgcrHlsB7OmB.jpg"
+                        },
+                        {
+                            "character": "Ojciec Mariusza",
+                            "credit_id": "6089a5612dda89004119ceff",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1138047,
+                            "known_for_department": "Acting",
+                            "name": "Jacek Lenartowicz",
+                            "original_name": "Jacek Lenartowicz",
+                            "popularity": 0.991,
+                            "profile_path": "/cCuMYhRMIzyPW58d8iyi9XZN57p.jpg"
+                        },
+                        {
+                            "character": "Mariusz",
+                            "credit_id": "6093f4cefd4f80004019f8a6",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2539469,
+                            "known_for_department": "Acting",
+                            "name": "Piotr Pacek",
+                            "original_name": "Piotr Pacek",
+                            "popularity": 1.659,
+                            "profile_path": "/205uIJURv5CLK2ZjPcDBqLcx7Nu.jpg"
+                        },
+                        {
+                            "character": "Mama Mariusza",
+                            "credit_id": "6093f4f6528b2e005849a4e0",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1421494,
+                            "known_for_department": "Acting",
+                            "name": "Ewa Konstancja Bułhak",
+                            "original_name": "Ewa Konstancja Bułhak",
+                            "popularity": 0.62,
+                            "profile_path": "/99eVTvILFnrnNyk6KlVeolMRXoB.jpg"
+                        },
+                        {
+                            "character": "Krynicki",
+                            "credit_id": "60acfa5450733c0041016c10",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 588610,
+                            "known_for_department": "Acting",
+                            "name": "Wojciech Solarz",
+                            "original_name": "Wojciech Solarz",
+                            "popularity": 1.534,
+                            "profile_path": "/mrLZZjCFW2idmbNdwt8Q2CErnaV.jpg"
+                        },
+                        {
+                            "character": "aunt Genowefa",
+                            "credit_id": "654e813267b6130102e2e291",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1737072,
+                            "known_for_department": "Acting",
+                            "name": "Hanna Chojnacka",
+                            "original_name": "Hanna Chojnacka",
+                            "popularity": 0.77,
+                            "profile_path": "/oyDQb1vO41smsYPRR4MwZRyEP0w.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2910717,
+                    "name": "Episode 2",
+                    "overview": "Natalia decides to build an app that optimizes the female orgasm. But after realizing she’s clueless about it, she turns to Paulina and Monika for help.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/qtVo05oKiCUIKaUxBRgyQvBbTwr.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jabba",
+                            "credit_id": "6089a495da10f000582f15b5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136642,
+                            "known_for_department": "Acting",
+                            "name": "Sebastian Stankiewicz",
+                            "original_name": "Sebastian Stankiewicz",
+                            "popularity": 5.376,
+                            "profile_path": "/hLN0Ca09KwQOFLZLPIEzgTIbqqg.jpg"
+                        },
+                        {
+                            "character": "Portierka",
+                            "credit_id": "6089a5292dda89007a45297a",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 140223,
+                            "known_for_department": "Acting",
+                            "name": "Ewa Szykulska",
+                            "original_name": "Ewa Szykulska",
+                            "popularity": 1.236,
+                            "profile_path": "/oT2fSFZpBl9XNJJkCsfjrLMpRLw.jpg"
+                        },
+                        {
+                            "character": "Joanna",
+                            "credit_id": "608c407067e0f700584836cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 67278,
+                            "known_for_department": "Acting",
+                            "name": "Małgorzata Foremniak",
+                            "original_name": "Małgorzata Foremniak",
+                            "popularity": 1.831,
+                            "profile_path": "/5wnSow4m7ZyHo49RQchehDr8Xpe.jpg"
+                        },
+                        {
+                            "character": "Konrad",
+                            "credit_id": "6093f597a06efe005998f581",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 566103,
+                            "known_for_department": "Acting",
+                            "name": "Bartosz Gelner",
+                            "original_name": "Bartosz Gelner",
+                            "popularity": 4.025,
+                            "profile_path": "/byOQN7QpYeSGPphAZzUO0485JE3.jpg"
+                        },
+                        {
+                            "character": "Krynicki",
+                            "credit_id": "60acfa5450733c0041016c10",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 588610,
+                            "known_for_department": "Acting",
+                            "name": "Wojciech Solarz",
+                            "original_name": "Wojciech Solarz",
+                            "popularity": 1.534,
+                            "profile_path": "/mrLZZjCFW2idmbNdwt8Q2CErnaV.jpg"
+                        },
+                        {
+                            "character": "Mama Natalii",
+                            "credit_id": "615c6bf0eb14fa0043e064af",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1648272,
+                            "known_for_department": "Acting",
+                            "name": "Edyta Torhan",
+                            "original_name": "Edyta Torhan",
+                            "popularity": 1.434,
+                            "profile_path": "/xVviqShRhKbzIsGHM7w4Xl6vkQn.jpg"
+                        },
+                        {
+                            "character": "Ola",
+                            "credit_id": "64adb6c7c433ea011c5386a2",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3275450,
+                            "known_for_department": "Acting",
+                            "name": "Sylwia Achu",
+                            "original_name": "Sylwia Achu",
+                            "popularity": 1.235,
+                            "profile_path": "/alQOpqQCjieI0woK8xSwThY9nCz.jpg"
+                        },
+                        {
+                            "character": "Pokojówka",
+                            "credit_id": "64adb97366a0d300c6705ae3",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4157800,
+                            "known_for_department": "Acting",
+                            "name": "Ewelina Plizga",
+                            "original_name": "Ewelina Plizga",
+                            "popularity": 4.087,
+                            "profile_path": "/qzPjGWrMD8fii5oPS4WFm4Cu6OT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2910718,
+                    "name": "Episode 3",
+                    "overview": "The girls visit a sex store to find the perfect research tool for their project. When they fail to do so, Natalia decides to make one herself.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/4PqxJY7cr7pytLg6ZDbqcO7dyDZ.jpg",
+                    "vote_average": 4.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "624496ea960cde0049ffcd9b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1168767,
+                            "known_for_department": "Editing",
+                            "name": "Aleksandra Gowin",
+                            "original_name": "Aleksandra Gowin",
+                            "popularity": 0.322,
+                            "profile_path": "/pTr1q2ceYEwYgYcixQppYvAOKoK.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Portierka",
+                            "credit_id": "6089a5292dda89007a45297a",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 140223,
+                            "known_for_department": "Acting",
+                            "name": "Ewa Szykulska",
+                            "original_name": "Ewa Szykulska",
+                            "popularity": 1.236,
+                            "profile_path": "/oT2fSFZpBl9XNJJkCsfjrLMpRLw.jpg"
+                        },
+                        {
+                            "character": "Marek, ojciec Moniki",
+                            "credit_id": "6089a49ecabfe4005615f6f3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83266,
+                            "known_for_department": "Acting",
+                            "name": "Cezary Pazura",
+                            "original_name": "Cezary Pazura",
+                            "popularity": 1.321,
+                            "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+                        },
+                        {
+                            "character": "Blondynka",
+                            "credit_id": "64adb7e21cfe3a0101844e98",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3453940,
+                            "known_for_department": "Acting",
+                            "name": "Anna Oberc",
+                            "original_name": "Anna Oberc",
+                            "popularity": 0.1,
+                            "profile_path": "/q7cCU3QhRBBbVCaPX5m3jbSEKEG.jpg"
+                        },
+                        {
+                            "character": "Patryk",
+                            "credit_id": "6675a97f39d9a3e51efc7f31",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2001248,
+                            "known_for_department": "Acting",
+                            "name": "Viet Anh Doan",
+                            "original_name": "Viet Anh Doan",
+                            "popularity": 0.357,
+                            "profile_path": "/tKnZnze6rTgb543sHmiFGSsKOGe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2910719,
+                    "name": "Episode 4",
+                    "overview": "As Natalia and Paulina go to a sex trade show to learn more about intimacy, Monika embarks on her own quest to recruit subjects for their study.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/jd30m9yv0BwLgnnDKAGd5UzCEXK.jpg",
+                    "vote_average": 5.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Ola",
+                            "credit_id": "64adb6c7c433ea011c5386a2",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3275450,
+                            "known_for_department": "Acting",
+                            "name": "Sylwia Achu",
+                            "original_name": "Sylwia Achu",
+                            "popularity": 1.235,
+                            "profile_path": "/alQOpqQCjieI0woK8xSwThY9nCz.jpg"
+                        },
+                        {
+                            "character": "Julia",
+                            "credit_id": "64adb879c433ea00ff818fe8",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4157774,
+                            "known_for_department": "Acting",
+                            "name": "Julia Szewczyk",
+                            "original_name": "Julia Szewczyk",
+                            "popularity": 0.001,
+                            "profile_path": "/8L5V2ttdO6t201T8rRVNHpI2dS6.jpg"
+                        },
+                        {
+                            "character": "Patryk",
+                            "credit_id": "6675a97f39d9a3e51efc7f31",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2001248,
+                            "known_for_department": "Acting",
+                            "name": "Viet Anh Doan",
+                            "original_name": "Viet Anh Doan",
+                            "popularity": 0.357,
+                            "profile_path": "/tKnZnze6rTgb543sHmiFGSsKOGe.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "66acfce3b268a2bdb45ca53d",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3279078,
+                            "known_for_department": "Acting",
+                            "name": "Anna Kraszewska",
+                            "original_name": "Anna Kraszewska",
+                            "popularity": 0.211,
+                            "profile_path": "/teJDQEUjYooRT1LwQKDxEiW6LOH.jpg"
+                        },
+                        {
+                            "character": "Professor at the Military School",
+                            "credit_id": "67043b97b4e3d1a48474082d",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4167634,
+                            "known_for_department": "Acting",
+                            "name": "Agnieszka Kwietniewska",
+                            "original_name": "Agnieszka Kwietniewska",
+                            "popularity": 0.001,
+                            "profile_path": "/ei11gggLb2qdK7Uj8fn26OtKknu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2910720,
+                    "name": "Episode 5",
+                    "overview": "Monika’s idea for gathering data is a hit, but Natalia isn’t happy with the results. The girls go to a class on female pleasure to gain more insight.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/yHFp5H2GgNE4vpwG8SOMJFzO5CS.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "624496ea960cde0049ffcd9b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1168767,
+                            "known_for_department": "Editing",
+                            "name": "Aleksandra Gowin",
+                            "original_name": "Aleksandra Gowin",
+                            "popularity": 0.322,
+                            "profile_path": "/pTr1q2ceYEwYgYcixQppYvAOKoK.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Marek, ojciec Moniki",
+                            "credit_id": "6089a49ecabfe4005615f6f3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83266,
+                            "known_for_department": "Acting",
+                            "name": "Cezary Pazura",
+                            "original_name": "Cezary Pazura",
+                            "popularity": 1.321,
+                            "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+                        },
+                        {
+                            "character": "Joanna",
+                            "credit_id": "608c407067e0f700584836cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 67278,
+                            "known_for_department": "Acting",
+                            "name": "Małgorzata Foremniak",
+                            "original_name": "Małgorzata Foremniak",
+                            "popularity": 1.831,
+                            "profile_path": "/5wnSow4m7ZyHo49RQchehDr8Xpe.jpg"
+                        },
+                        {
+                            "character": "Julia",
+                            "credit_id": "64adb879c433ea00ff818fe8",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4157774,
+                            "known_for_department": "Acting",
+                            "name": "Julia Szewczyk",
+                            "original_name": "Julia Szewczyk",
+                            "popularity": 0.001,
+                            "profile_path": "/8L5V2ttdO6t201T8rRVNHpI2dS6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2910721,
+                    "name": "Episode 6",
+                    "overview": "After facing their parents at Easter breakfast, each of the girls needs to let off some steam. Luckily, there’s a wild party on the dorm’s rooftop.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/fZ8yR0E5gt6wGMA2ByO7B9lcs1q.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Marek, ojciec Moniki",
+                            "credit_id": "6089a49ecabfe4005615f6f3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83266,
+                            "known_for_department": "Acting",
+                            "name": "Cezary Pazura",
+                            "original_name": "Cezary Pazura",
+                            "popularity": 1.321,
+                            "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+                        },
+                        {
+                            "character": "Ojciec Mariusza",
+                            "credit_id": "6089a5612dda89004119ceff",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1138047,
+                            "known_for_department": "Acting",
+                            "name": "Jacek Lenartowicz",
+                            "original_name": "Jacek Lenartowicz",
+                            "popularity": 0.991,
+                            "profile_path": "/cCuMYhRMIzyPW58d8iyi9XZN57p.jpg"
+                        },
+                        {
+                            "character": "Joanna",
+                            "credit_id": "608c407067e0f700584836cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 67278,
+                            "known_for_department": "Acting",
+                            "name": "Małgorzata Foremniak",
+                            "original_name": "Małgorzata Foremniak",
+                            "popularity": 1.831,
+                            "profile_path": "/5wnSow4m7ZyHo49RQchehDr8Xpe.jpg"
+                        },
+                        {
+                            "character": "Mama Natalii",
+                            "credit_id": "615c6bf0eb14fa0043e064af",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1648272,
+                            "known_for_department": "Acting",
+                            "name": "Edyta Torhan",
+                            "original_name": "Edyta Torhan",
+                            "popularity": 1.434,
+                            "profile_path": "/xVviqShRhKbzIsGHM7w4Xl6vkQn.jpg"
+                        },
+                        {
+                            "character": "Svieta",
+                            "credit_id": "657ca073e93e95218f6d469d",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4431935,
+                            "known_for_department": "Acting",
+                            "name": "Anna Zalevska",
+                            "original_name": "Anna Zalevska",
+                            "popularity": 0.048,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2910722,
+                    "name": "Episode 7",
+                    "overview": "After getting an anonymous tip about the copulation lab, the dean investigates the girls’ project and threatens them with expulsion from the university.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/pAKpPP8cjxRqj0c5hbdKZQIMwfx.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dziekan",
+                            "credit_id": "6089a4a984448e002a83f331",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1145,
+                            "known_for_department": "Acting",
+                            "name": "Zbigniew Zamachowski",
+                            "original_name": "Zbigniew Zamachowski",
+                            "popularity": 2.78,
+                            "profile_path": "/mLntjL4Jp1LEz41NgcrHlsB7OmB.jpg"
+                        },
+                        {
+                            "character": "Joanna",
+                            "credit_id": "608c407067e0f700584836cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 67278,
+                            "known_for_department": "Acting",
+                            "name": "Małgorzata Foremniak",
+                            "original_name": "Małgorzata Foremniak",
+                            "popularity": 1.831,
+                            "profile_path": "/5wnSow4m7ZyHo49RQchehDr8Xpe.jpg"
+                        },
+                        {
+                            "character": "Julia",
+                            "credit_id": "64adb879c433ea00ff818fe8",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4157774,
+                            "known_for_department": "Acting",
+                            "name": "Julia Szewczyk",
+                            "original_name": "Julia Szewczyk",
+                            "popularity": 0.001,
+                            "profile_path": "/8L5V2ttdO6t201T8rRVNHpI2dS6.jpg"
+                        },
+                        {
+                            "character": "Priest",
+                            "credit_id": "657ba5f87a3c52010cdfce8b",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1256284,
+                            "known_for_department": "Acting",
+                            "name": "Rafał Kwietniewski",
+                            "original_name": "Rafał Kwietniewski",
+                            "popularity": 0.146,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "66acfce3b268a2bdb45ca53d",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3279078,
+                            "known_for_department": "Acting",
+                            "name": "Anna Kraszewska",
+                            "original_name": "Anna Kraszewska",
+                            "popularity": 0.211,
+                            "profile_path": "/teJDQEUjYooRT1LwQKDxEiW6LOH.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2910723,
+                    "name": "Episode 8",
+                    "overview": "The big pitch at the university tech competition is upon the girls. They’ll have to decide: Are they willing to sacrifice everything to participate?",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 100226,
+                    "still_path": "/dZiTyEMmqoASVIpnPh4xJdi0P62.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Marek, ojciec Moniki",
+                            "credit_id": "6089a49ecabfe4005615f6f3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83266,
+                            "known_for_department": "Acting",
+                            "name": "Cezary Pazura",
+                            "original_name": "Cezary Pazura",
+                            "popularity": 1.321,
+                            "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+                        },
+                        {
+                            "character": "Dziekan",
+                            "credit_id": "6089a4a984448e002a83f331",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1145,
+                            "known_for_department": "Acting",
+                            "name": "Zbigniew Zamachowski",
+                            "original_name": "Zbigniew Zamachowski",
+                            "popularity": 2.78,
+                            "profile_path": "/mLntjL4Jp1LEz41NgcrHlsB7OmB.jpg"
+                        },
+                        {
+                            "character": "Krynicki",
+                            "credit_id": "60acfa5450733c0041016c10",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 588610,
+                            "known_for_department": "Acting",
+                            "name": "Wojciech Solarz",
+                            "original_name": "Wojciech Solarz",
+                            "popularity": 1.534,
+                            "profile_path": "/mrLZZjCFW2idmbNdwt8Q2CErnaV.jpg"
+                        },
+                        {
+                            "character": "Mama Natalii",
+                            "credit_id": "615c6bf0eb14fa0043e064af",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1648272,
+                            "known_for_department": "Acting",
+                            "name": "Edyta Torhan",
+                            "original_name": "Edyta Torhan",
+                            "popularity": 1.434,
+                            "profile_path": "/xVviqShRhKbzIsGHM7w4Xl6vkQn.jpg"
+                        },
+                        {
+                            "character": "expert",
+                            "credit_id": "657383182811a1011b05c072",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4374884,
+                            "known_for_department": "Acting",
+                            "name": "Maciej Maciejewski",
+                            "original_name": "Maciej Maciejewski",
+                            "popularity": 0.843,
+                            "profile_path": "/b5XL1E0gTTyh8LTRzr9xCN9BEg9.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy.",
+            "id": 144818,
+            "poster_path": "/eusG3qMrQmYBqcsUxm2asTOPqxO.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        },
+        "2": {
+            "_id": "639b0e173d43e00089d66c19",
+            "air_date": "2023-01-11",
+            "episodes": [
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4105860,
+                    "name": "Episode 1",
+                    "overview": "As the app launch approaches, Natalia, Monika and Paulina prepare the finishing touches — then run into unexpected problems that derail their plans.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/bzjRxwunup8aLdS6ukQaz97rPcL.jpg",
+                    "vote_average": 5.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65522c3567b61345cf03d090",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4351336,
+                            "known_for_department": "Directing",
+                            "name": "Fryderyk Najda",
+                            "original_name": "Fryderyk Najda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Steadicam Operator",
+                            "department": "Camera",
+                            "credit_id": "672cd695c748718bf0738cbd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1403378,
+                            "known_for_department": "Camera",
+                            "name": "Tomasz Karnowski",
+                            "original_name": "Tomasz Karnowski",
+                            "popularity": 0.753,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "bellhop",
+                            "credit_id": "657531a6564ec700e10bc07e",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4359700,
+                            "known_for_department": "Acting",
+                            "name": "Olaf Staszkiewicz",
+                            "original_name": "Olaf Staszkiewicz",
+                            "popularity": 0.321,
+                            "profile_path": "/hvf1Yx0z3RRWbUsF9eM9KzULCFq.jpg"
+                        },
+                        {
+                            "character": "model",
+                            "credit_id": "659d458823168c02047c1267",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4382997,
+                            "known_for_department": "Acting",
+                            "name": "Jakub Dąbrowski",
+                            "original_name": "Jakub Dąbrowski",
+                            "popularity": 0.348,
+                            "profile_path": "/pUpxbltaWzsuz9GaLVzwAl6oPHT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4105861,
+                    "name": "Episode 2",
+                    "overview": "Given Sexify's financial troubles, Monika must make a difficult decision to keep the business afloat. Natalia and Paulina search for test subjects.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/jD6exWjbrS1WGrm0YMH4FObjqoP.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65522c3567b61345cf03d090",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4351336,
+                            "known_for_department": "Directing",
+                            "name": "Fryderyk Najda",
+                            "original_name": "Fryderyk Najda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Steadicam Operator",
+                            "department": "Camera",
+                            "credit_id": "672cd695c748718bf0738cbd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1403378,
+                            "known_for_department": "Camera",
+                            "name": "Tomasz Karnowski",
+                            "original_name": "Tomasz Karnowski",
+                            "popularity": 0.753,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lilith",
+                            "credit_id": "64adbb80e24b930100c7fa44",
+                            "order": 3,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1295312,
+                            "known_for_department": "Acting",
+                            "name": "Magdalena Grąziowska",
+                            "original_name": "Magda Grąziowska",
+                            "popularity": 1.064,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "bellhop",
+                            "credit_id": "657531a6564ec700e10bc07e",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4359700,
+                            "known_for_department": "Acting",
+                            "name": "Olaf Staszkiewicz",
+                            "original_name": "Olaf Staszkiewicz",
+                            "popularity": 0.321,
+                            "profile_path": "/hvf1Yx0z3RRWbUsF9eM9KzULCFq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4105862,
+                    "name": "Episode 3",
+                    "overview": "Natalia and Adam spend the day together while Paulina explores the dating scene for research. Monika and Maks attend an unusual event.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/f4pqESqPthZpDrXbpuP1I8A88cu.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65522c3567b61345cf03d090",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4351336,
+                            "known_for_department": "Directing",
+                            "name": "Fryderyk Najda",
+                            "original_name": "Fryderyk Najda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Dialogue Editor",
+                            "department": "Sound",
+                            "credit_id": "670001b87830c1301e7cc66d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073700,
+                            "known_for_department": "Sound",
+                            "name": "Dawid Konecki",
+                            "original_name": "Dawid Konecki",
+                            "popularity": 0.51,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Steadicam Operator",
+                            "department": "Camera",
+                            "credit_id": "672cd695c748718bf0738cbd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1403378,
+                            "known_for_department": "Camera",
+                            "name": "Tomasz Karnowski",
+                            "original_name": "Tomasz Karnowski",
+                            "popularity": 0.753,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lilith",
+                            "credit_id": "64adbb80e24b930100c7fa44",
+                            "order": 3,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1295312,
+                            "known_for_department": "Acting",
+                            "name": "Magdalena Grąziowska",
+                            "original_name": "Magda Grąziowska",
+                            "popularity": 1.064,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4105864,
+                    "name": "Episode 4",
+                    "overview": "In light of the competition, Małgorzata pushes up the release date. After learning the truth about her father, Paulina reaches out to an old friend.",
+                    "production_code": "",
+                    "runtime": 36,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/zr2w8vl7aOIP7iQ76IDjwGoRPha.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65522c3567b61345cf03d090",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4351336,
+                            "known_for_department": "Directing",
+                            "name": "Fryderyk Najda",
+                            "original_name": "Fryderyk Najda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Dialogue Editor",
+                            "department": "Sound",
+                            "credit_id": "670001b87830c1301e7cc66d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073700,
+                            "known_for_department": "Sound",
+                            "name": "Dawid Konecki",
+                            "original_name": "Dawid Konecki",
+                            "popularity": 0.51,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Steadicam Operator",
+                            "department": "Camera",
+                            "credit_id": "672cd695c748718bf0738cbd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1403378,
+                            "known_for_department": "Camera",
+                            "name": "Tomasz Karnowski",
+                            "original_name": "Tomasz Karnowski",
+                            "popularity": 0.753,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4105865,
+                    "name": "Episode 5",
+                    "overview": "While the coders stay behind to analyze data, Natalia, Monika and Paulina look to sex experts for help. Rafał's attempts to promote his app backfire.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/mPl0lp9TxKUiUE0edNIj42OwDhB.jpg",
+                    "vote_average": 3.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Foley Editor",
+                            "department": "Sound",
+                            "credit_id": "6706b3b9868ea3e4e715c2a9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073701,
+                            "known_for_department": "Sound",
+                            "name": "Kamil Kwiatkowski",
+                            "original_name": "Kamil Kwiatkowski",
+                            "popularity": 0.489,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "translator",
+                            "credit_id": "657398a8d5191f00ff2a3beb",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1645103,
+                            "known_for_department": "Acting",
+                            "name": "Marcin Bytniewski",
+                            "original_name": "Marcin Bytniewski",
+                            "popularity": 0.141,
+                            "profile_path": "/uEjn0664HhUojTL4OLCX7jWdyc8.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "664077479369bb6e65206fd0",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6643,
+                            "known_for_department": "Acting",
+                            "name": "Michał Żebrowski",
+                            "original_name": "Michał Żebrowski",
+                            "popularity": 3.625,
+                            "profile_path": "/4qzNrGn4V17nDPF3HmJcpk0rLb2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4105866,
+                    "name": "Episode 6",
+                    "overview": "After receiving negative feedback, the Sexify founders seek to improve the user experience. Małgorzata and Monika have different visions for the company.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/97olxkyE05hK29QH5xWePKKCx0V.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Foley Editor",
+                            "department": "Sound",
+                            "credit_id": "6706b3b9868ea3e4e715c2a9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073701,
+                            "known_for_department": "Sound",
+                            "name": "Kamil Kwiatkowski",
+                            "original_name": "Kamil Kwiatkowski",
+                            "popularity": 0.489,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4105867,
+                    "name": "Episode 7",
+                    "overview": "While Sexify closes its doors, Natalia, Monika and Paulina take time apart to focus on themselves and recharge. Rafał receives an offer from Małgorzata.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/u0QwsbVbkgNa1yTMFhbkvl3t0SE.jpg",
+                    "vote_average": 4.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Foley Editor",
+                            "department": "Sound",
+                            "credit_id": "6706b3b9868ea3e4e715c2a9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073701,
+                            "known_for_department": "Sound",
+                            "name": "Kamil Kwiatkowski",
+                            "original_name": "Kamil Kwiatkowski",
+                            "popularity": 0.489,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lilith",
+                            "credit_id": "64adbb80e24b930100c7fa44",
+                            "order": 3,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1295312,
+                            "known_for_department": "Acting",
+                            "name": "Magdalena Grąziowska",
+                            "original_name": "Magda Grąziowska",
+                            "popularity": 1.064,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4105870,
+                    "name": "Episode 8",
+                    "overview": "The Sexify team plots to take back their prototypes and their company. Maks reveals the truth behind Małgorzata’s plan and the speedy app launch.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 100226,
+                    "still_path": "/7IeU5p2gqOrLyJZ6URHxr8J8Lh1.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65522c3567b61345cf03d090",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4351336,
+                            "known_for_department": "Directing",
+                            "name": "Fryderyk Najda",
+                            "original_name": "Fryderyk Najda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Foley Editor",
+                            "department": "Sound",
+                            "credit_id": "6706b3b9868ea3e4e715c2a9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4073701,
+                            "known_for_department": "Sound",
+                            "name": "Kamil Kwiatkowski",
+                            "original_name": "Kamil Kwiatkowski",
+                            "popularity": 0.489,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "660cad745aadc4017c657448",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3984958,
+                            "known_for_department": "Acting",
+                            "name": "Bartłomiej Deklewa",
+                            "original_name": "Bartłomiej Deklewa",
+                            "popularity": 0.886,
+                            "profile_path": "/2jwm6pSDHN1FamQqDJkQxVm3Wvi.jpg"
+                        },
+                        {
+                            "character": "Vanessa",
+                            "credit_id": "665f66ec6992897e275baea3",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2120976,
+                            "known_for_department": "Acting",
+                            "name": "Maria Kowalska",
+                            "original_name": "Maria Kowalska",
+                            "popularity": 3.221,
+                            "profile_path": "/7TeVx1wvJYs0CQgv0VaGkj2Fk6L.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "With the future of their startup in flux, the three young entrepreneurs must balance tumultuous personal lives, a bitter rival and a demanding investor.",
+            "id": 320178,
+            "poster_path": "/pQCE54PUVmGyDluBQqVeDXqPBHN.jpg",
+            "season_number": 2,
+            "vote_average": 5.7
+        }
+    }
+}

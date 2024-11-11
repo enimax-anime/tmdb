@@ -1,0 +1,181 @@
+{
+    "adult": false,
+    "backdrop_path": "/ugIyN8Uf3PTkwQn2b4iOm2dHaWO.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-10-28",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 213774,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-10-28",
+    "last_episode_to_air": {
+        "id": 4038981,
+        "name": "The Lady of the Lake",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-28",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 213774,
+        "still_path": "/bALpg2NcDkH6uLhyiClpbU7BjMe.jpg"
+    },
+    "name": "Hauntings",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6100,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Hauntings",
+    "overview": "Explore the most intriguing and terrifying paranormal cases: The Enfield Poltergeist, The Conjuring House, The Edinburgh Executioner and The Lady of the Lake. Stories that stand up to scrutiny, where suspected supernatural activity cannot be simply explained away.",
+    "popularity": 1.732,
+    "poster_path": "/cmTMDpxUf36xqLAAhkop6huX6s2.jpg",
+    "production_companies": [
+        {
+            "id": 26359,
+            "logo_path": "/aAX3SY4np5qUZEiyzMjOdTvBO60.png",
+            "name": "Story Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 18752,
+            "logo_path": "/rpAtcmIreSwRF7BajtAGM0KEkFh.png",
+            "name": "All3Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-28",
+            "episode_count": 4,
+            "id": 315189,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "636441cad75bd6007e72682c",
+            "air_date": "2022-10-28",
+            "episodes": [
+                {
+                    "air_date": "2022-10-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4038978,
+                    "name": "The Enfield Poltergeist",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 213774,
+                    "still_path": "/4pCsHANPvE0WhEnxq964IfOe2tZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4038979,
+                    "name": "The Conjuring House",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 213774,
+                    "still_path": "/vfWmqZnmYTa2wdEbpEaCcXEzaA4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4038980,
+                    "name": "The Edinburgh Executioner",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 213774,
+                    "still_path": "/3pRXGlaHBC1gLSHWvqgiaiWuRmn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4038981,
+                    "name": "The Lady of the Lake",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 213774,
+                    "still_path": "/bALpg2NcDkH6uLhyiClpbU7BjMe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 315189,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

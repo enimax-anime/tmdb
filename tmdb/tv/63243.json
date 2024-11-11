@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2015-07-06",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://idriselbanolimits.discoveryuk.com/",
+    "id": 63243,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-07-27",
+    "last_episode_to_air": {
+        "id": 1087869,
+        "name": "Land Speed",
+        "overview": "Idris tries to break Malcolm Campbell's land speed record, which will require an average speed of 174.2mph over the course of a mile. Last in the series.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-07-27",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 63243,
+        "still_path": null
+    },
+    "name": "Idris Elba: No Limits",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1079,
+            "logo_path": "/oRxrmnbEfQqXASfvKeMlUbap6mu.png",
+            "name": "Discovery",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Idris Elba: No Limits",
+    "overview": "Follow Idris as he pushes himself to the max to master some of the toughest speed disciplines in the world, before taking to both land and air to participate in some of the most fiercely fought competitions in sport.",
+    "popularity": 1.485,
+    "poster_path": "/pnXDXfjx2DXl5YOMZq25vErXitr.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-07-06",
+            "episode_count": 4,
+            "id": 68627,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oSDpgCtjGRPkzBSCxSBIMtfJ6d5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "55a54e3dc3a3685ed40000c4",
+            "air_date": "2015-07-06",
+            "episodes": [
+                {
+                    "air_date": "2015-07-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1087865,
+                    "name": "Rally Driving",
+                    "overview": "Idris gets a chance to fulfill his childhood dream of taking part in the Circuit of Ireland race, with help from rally driver Jimmy McRae.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 63243,
+                    "still_path": "/8TjIdeqTcxxXqXQeGmgsnZP5EPQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1087867,
+                    "name": "Aerobatics",
+                    "overview": "Idris takes on a challenge as he performs aerobatic manoeuvres at the Coventry Airbase Airshow in front of thousands of spectators.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 63243,
+                    "still_path": "/tdMM5FrO7ViOoEY5zf3JxJ0zazj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1087868,
+                    "name": "Drag Racing",
+                    "overview": "With the help of 2012 NHRA champion Antron Brown, Idris attempts to obtain the NHRA drag racing licence he needs in order to compete in a Top Fuel competition.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 63243,
+                    "still_path": "/qzht7V98IEzzPIwJxAuD3ecir3q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-07-27",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1087869,
+                    "name": "Land Speed",
+                    "overview": "Idris tries to break Malcolm Campbell's land speed record, which will require an average speed of 174.2mph over the course of a mile. Last in the series.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 63243,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 68627,
+            "poster_path": "/oSDpgCtjGRPkzBSCxSBIMtfJ6d5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

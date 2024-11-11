@@ -1,0 +1,351 @@
+{
+    "adult": false,
+    "backdrop_path": "/cGPhsqCk7gwZIMLCzdcC9rTerPc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        53
+    ],
+    "first_air_date": "2018-06-03",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.starz.com/series/wrongman",
+    "id": 79471,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-03-14",
+    "last_episode_to_air": {
+        "id": 2190187,
+        "name": "CLAIR HOUR 2: WIRE TAPPED",
+        "overview": "The teams ask experts to look for evidence that leads to the conviction of Kenneth Clair in the murder of Linda Rodgers.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-14",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 53,
+        "season_number": 2,
+        "show_id": 79471,
+        "still_path": null
+    },
+    "name": "Wrong Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 318,
+            "logo_path": "/GMDGZk9iDG4WDijY3VgUgJeyus.png",
+            "name": "Starz",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wrong Man",
+    "overview": "A team of esteemed experts re-investigate the cases of three inmates who have been locked up for decades and claim they're innocent.",
+    "popularity": 2.769,
+    "poster_path": "/tOzC0aKzoKPIWIz8VPuAFpJAakx.jpg",
+    "production_companies": [
+        {
+            "id": 71816,
+            "logo_path": null,
+            "name": "Third Eye Motion Picture Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 26720,
+            "logo_path": null,
+            "name": "Electus",
+            "origin_country": "US"
+        },
+        {
+            "id": 89394,
+            "logo_path": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+            "name": "RadicalMedia",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-06-03",
+            "episode_count": 6,
+            "id": 103708,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xEU7wzjTn4S3wAzi7ZqYwnIdTY0.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        },
+        {
+            "air_date": "2020-02-08",
+            "episode_count": 6,
+            "id": 143021,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tOzC0aKzoKPIWIz8VPuAFpJAakx.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.6,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "5af85ee9c3a3682ac8008ade",
+            "air_date": "2018-06-03",
+            "episodes": [
+                {
+                    "air_date": "2018-06-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1487428,
+                    "name": "Evaristo Salas: The Letter",
+                    "overview": "At just 16-years old, Evaristo Junior Salas was sent to prison for three decades for a crime he says he did not commit. A team comes together to investigate whether Salas was brought to justice or railroaded by the system.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/ymiE42M8vaxeflca0105ZBZqKId.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1487429,
+                    "name": "Evaristo Salas: The Informant",
+                    "overview": "Investigators Ira Todd and Joe Kennedy meet with the lead detective on the Salas case. He claims an informant implicated Evaristo, but when the informant comes forward, the team is shocked by what they learn.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/cArGgRdYgi8pYElHBO7781Yg2cp.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1487430,
+                    "name": "Curtis Flowers: Trial and Error",
+                    "overview": "On July 16, 1996, Bertha Tardy and three of her employees were murdered. Curtis Flowers was arrested and went on to be tried six times over 21 years; he faces a possible seventh trial, while maintaining his innocence.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/luNZfs1R7dD9N917YRiKbwjZ5lh.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1487431,
+                    "name": "Curtis Flowers: Death Again",
+                    "overview": "Curtis Flowers is convicted of a quadruple murder. After 21 years of prosecutions, six trials and questionable tactics by the State of Mississippi, it may be impossible to determine Flowers’ guilt or innocence.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/6OTULSZEtAXiZPxkT9JoV77V7rn.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-07-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1487432,
+                    "name": "Christopher Tapp: The Confession",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/5vdVstmPOrdWb0ZUv26d4PSFwHp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-07-08",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1487433,
+                    "name": "Christopher Tapp: Flawed Freedom",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 79471,
+                    "still_path": "/pC56K3U8gyJ6PHokhSYGPTIXgB7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 103708,
+            "poster_path": "/xEU7wzjTn4S3wAzi7ZqYwnIdTY0.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        },
+        "2": {
+            "_id": "5e403b6a41465c0014cb83e2",
+            "air_date": "2020-02-08",
+            "episodes": [
+                {
+                    "air_date": "2020-02-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2158758,
+                    "name": "Vonda Hour 1: The Case Against Grandma",
+                    "overview": "Description\n\nAfter Jessie Morrison is beaten to death, police zero in on Vonda Smith; the team explores whether Vonda may have been wrongfully convicted, based on a shoddy investigation and circumstantial evidence.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2164595,
+                    "name": "Vonda Hour 2: An Unexpected Twist",
+                    "overview": "Our investigators unravel the mysteries behind Vonda Smiths' possible wrongful conviction and Jessie Morrison's brutal murder.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2171513,
+                    "name": "Rorrer Hour 1: The Hang Up",
+                    "overview": "When Andy Katrinak comes home to find his wife and infant son gone, he summons the police and tells them he believes they have been abducted, and he suspects his ex-girlfriend Patty Rorrer might be involved",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2177913,
+                    "name": "Rorrer Hour 2: Under the Microscope",
+                    "overview": "Patty Rorrer is convicted of the kidnapping and murder of her ex-boyfriend's wife and infant son, but \"Wrong Man\" investigators discover that the case is not so clear cut",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2183578,
+                    "name": "CLAIR HOUR 1: BLACK OR WHITE",
+                    "overview": "A homeless black man is sentenced to death for murder, but a witness says that a white man did it.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-14",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2190187,
+                    "name": "CLAIR HOUR 2: WIRE TAPPED",
+                    "overview": "The teams ask experts to look for evidence that leads to the conviction of Kenneth Clair in the murder of Linda Rodgers.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 2,
+                    "show_id": 79471,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 143021,
+            "poster_path": "/tOzC0aKzoKPIWIz8VPuAFpJAakx.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

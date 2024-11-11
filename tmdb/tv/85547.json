@@ -1,0 +1,662 @@
+{
+    "adult": false,
+    "backdrop_path": "/7k21NnwnMnHQwJfv6WjDGnW8IvI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-02-25",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://acorn.tv/londonkills/",
+    "id": 85547,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2023-07-10",
+    "last_episode_to_air": {
+        "id": 4548408,
+        "name": "Vendetta",
+        "overview": "A boxer confesses to killing her manager, but the detectives think she may be covering for her father; when a suspect accuses David of planting evidence, he's devastated to realize the team has doubts, and he makes a decision about his future.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-07-10",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 85547,
+        "still_path": "/ozo95QxvujOAqOKkIoxnZj8ODyS.jpg"
+    },
+    "name": "London Kills",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        },
+        {
+            "id": 2697,
+            "logo_path": "/dwHtgdgA2G69Anoq1zWxcrzYUGi.png",
+            "name": "Acorn TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "London Kills",
+    "overview": "With a documentary style delivery, this drama tells the story of a team of top murder detectives with each episode featuring a different murder while also following a serialized story involving the lead detective’s missing wife.",
+    "popularity": 9.006,
+    "poster_path": "/smVJJAOpOeOYPCOMVOvfhZr6WuB.jpg",
+    "production_companies": [
+        {
+            "id": 113176,
+            "logo_path": "/41Gbfgy1FdfLMdWMDXivFqxwX8x.png",
+            "name": "PGMTV",
+            "origin_country": "GB"
+        },
+        {
+            "id": 23242,
+            "logo_path": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+            "name": "AMC Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-25",
+            "episode_count": 5,
+            "id": 115604,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg",
+            "season_number": 1,
+            "vote_average": 7.1
+        },
+        {
+            "air_date": "2019-07-15",
+            "episode_count": 5,
+            "id": 127805,
+            "name": "Series 2",
+            "overview": "In Series 2, the mystery of the disappearance of DI Bradford's wife comes to a head.",
+            "poster_path": "/r3APokBxPWbY9hzeRTYF7MHS2mF.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-06-06",
+            "episode_count": 5,
+            "id": 296376,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/idxAgtZjAhh69akQ7u2iL52TZnj.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-07-10",
+            "episode_count": 5,
+            "id": 346453,
+            "name": "Season 4",
+            "overview": "Detective Inspector David Bradford has always been a maverick, but his behavior is spinning out of control. When Detective Sergeant Vivienne Cole pulls him up on his conduct, he announces that their professional relationship is over – and then he goes AWOL. When Vivienne tracks David down and demands he explain his behavior, what he reveals knocks her sideways.",
+            "poster_path": "/smVJJAOpOeOYPCOMVOvfhZr6WuB.jpg",
+            "season_number": 4,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.6,
+    "vote_count": 28,
+    "season_data": {
+        "1": {
+            "_id": "5c32f3750e0a2663023e0ce9",
+            "air_date": "2019-02-25",
+            "episodes": [
+                {
+                    "air_date": "2019-02-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1662783,
+                    "name": "The Politician's Son",
+                    "overview": "DC Rob Brady and Trainee DC Billie Fitzgerald respond to a gruesome scene: a man found stabbed multiple times and left hanging from a tree. DS Vivienne Cole expects to lead the investigation but is shocked when DI David Bradford takes over, as he has been on leave since the disappearance of his wife.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 85547,
+                    "still_path": "/uan1DykvAY0a3FrfaXxeDwq9gFj.jpg",
+                    "vote_average": 7.3,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5c32f85a0e0a2664f33daee3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1221490,
+                            "known_for_department": "Production",
+                            "name": "Paul Marquess",
+                            "original_name": "Paul Marquess",
+                            "popularity": 1.763,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1718659,
+                    "name": "Stag Night",
+                    "overview": "A groom is killed at his bachelor party, and the man who reports the crime is the ex-husband of the bride. The detectives race to find the missing 18-year-old best man, who may have been the killer or another victim.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 85547,
+                    "still_path": "/9TyruF2zUkvZKhsbQnwYBlk9yKH.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Eleanor Kemp",
+                            "credit_id": "6233d79523bcf4007c74f360",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2134546,
+                            "known_for_department": "Acting",
+                            "name": "Saffron Hocking",
+                            "original_name": "Saffron Hocking",
+                            "popularity": 3.865,
+                            "profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-02-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1718660,
+                    "name": "Blood Lines",
+                    "overview": "A man is found murdered on his houseboat, but the woman who alerted police has fled the scene. When Vivienne and Billie question the victim's widow, they discover he was having an affair with his best friend's wife.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 85547,
+                    "still_path": "/eTKmVNsyUkMlCDEwdPxzuxNl1Hu.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Eleanor Kemp",
+                            "credit_id": "6233d79523bcf4007c74f360",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2134546,
+                            "known_for_department": "Acting",
+                            "name": "Saffron Hocking",
+                            "original_name": "Saffron Hocking",
+                            "popularity": 3.865,
+                            "profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-02-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1718661,
+                    "name": "Sex Games",
+                    "overview": "When the body of a woman turns up by the river, the detectives track a suspect through a dating site, only to find he may have shot himself. While Rob and Vivienne disagree about whether it was a murder-suicide, Billie worries about Amber, a witness in another case.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 85547,
+                    "still_path": "/3QFNebEBXzLtylu07G50dz7lSEO.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Harry Shelston",
+                            "credit_id": "6476687089d97f00f8fd81ac",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1387727,
+                            "known_for_department": "Acting",
+                            "name": "Alexander Bhat",
+                            "original_name": "Alexander Bhat",
+                            "popularity": 0.753,
+                            "profile_path": "/oSsLhbq7yQN3f60A92WmMn92eo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-02-25",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 1718662,
+                    "name": "Connected",
+                    "overview": "With Billie stabbed and her attacker on the loose, Vivienne blames herself for not recognizing that Billie was in danger. As the team scrambles to track down Amber, they discover that there's more to her than meets the eye.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 85547,
+                    "still_path": "/o3YkJ0kSslOkdMmKR6yRsKFMFJh.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Carly Bradford",
+                            "credit_id": "6635603d66565a012c14a20d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1133857,
+                            "known_for_department": "Acting",
+                            "name": "Adrianna Bertola",
+                            "original_name": "Adrianna Bertola",
+                            "popularity": 3.209,
+                            "profile_path": "/53K9RBOzgeE2nHWcqfv0hhO7TyC.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 115604,
+            "poster_path": "/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg",
+            "season_number": 1,
+            "vote_average": 7.1
+        },
+        "2": {
+            "_id": "5d2cc6b40745e1205077f0c1",
+            "air_date": "2019-07-15",
+            "episodes": [
+                {
+                    "air_date": "2019-07-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1853073,
+                    "name": "The Dark",
+                    "overview": "Construction workers find the remains of a young man who appears to have died more than a year ago, but his sister claims he's been sending her postcards all the while.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 85547,
+                    "still_path": "/6lmOGB3eMyz5H5ZGTI7uNsI5P5G.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Carly Bradford",
+                            "credit_id": "6635603d66565a012c14a20d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1133857,
+                            "known_for_department": "Acting",
+                            "name": "Adrianna Bertola",
+                            "original_name": "Adrianna Bertola",
+                            "popularity": 3.209,
+                            "profile_path": "/53K9RBOzgeE2nHWcqfv0hhO7TyC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-07-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1853074,
+                    "name": "The Ultimate Price",
+                    "overview": "When an eight-year-old boy finds his grandfather dead in a pub basement, he tells Rob that he was hit by a man with a baseball bat, but Vivienne doubts his story.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 85547,
+                    "still_path": "/27EAR1FUBns7ssIQydcKpxTHPcV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1853075,
+                    "name": "Family Affairs",
+                    "overview": "While the team looks into the murder of a Portuguese au pair who was recently fired from her job, Vivienne and Rob start investigating David on the sly.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 85547,
+                    "still_path": "/6DLwajWDkJO6xOzz2VhFshcBTjc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1853076,
+                    "name": "Turf Wars",
+                    "overview": "When a father and son are shot execution-style in broad daylight, the detectives immediately suspect a gangland hit and worry the violence could escalate.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 85547,
+                    "still_path": "/yyUbCfh2wM1MyVmvQarMyBD0oEY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Gloria Tanner",
+                            "credit_id": "5e823646ce4ddc00157578ff",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1221461,
+                            "known_for_department": "Acting",
+                            "name": "Claire Cooper",
+                            "original_name": "Claire Cooper",
+                            "popularity": 9.054,
+                            "profile_path": "/ie6giszmrB0XzExFVVSK2WkJNJK.jpg"
+                        },
+                        {
+                            "character": "Alice Maguire",
+                            "credit_id": "655ab930b5400214d3cbb337",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1221063,
+                            "known_for_department": "Acting",
+                            "name": "Klariza Clayton",
+                            "original_name": "Klariza Clayton",
+                            "popularity": 5.872,
+                            "profile_path": "/eOy2JTDom9WOKWtRpqJZn1Y0XBj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-07-15",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 1853077,
+                    "name": "Captive",
+                    "overview": "In exchange for turning a blind eye, Adrian gives Rob a tip about Sarah. Now believing that Sarah may still be alive, David and his team race to her find her.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 85547,
+                    "still_path": "/yYaC36ykKG1WtLvRPKryFQItdwh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Series 2",
+            "overview": "In Series 2, the mystery of the disappearance of DI Bradford's wife comes to a head.",
+            "id": 127805,
+            "poster_path": "/r3APokBxPWbY9hzeRTYF7MHS2mF.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "629d941b7d5db50869967afd",
+            "air_date": "2022-06-06",
+            "episodes": [
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3764153,
+                    "name": "Grace",
+                    "overview": "After off-duty police officer Sgt. Ian Durrant finds a dead man at the wheel of his van, the detectives link the victim to a woman who was killed while in police custody. As DC Rob Brady was the one who discovered her dead, the case affects him deeply. When Trainee DC Billie Fitzgerald finds a connection to a murdered young cop, DI David Bradford suspects the killer could be a police officer.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 85547,
+                    "still_path": "/wNlSr91kMtzIFoLIdytHnCcCeQd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3764154,
+                    "name": "Cyber Bully",
+                    "overview": "When schoolboy Luis Moretti is found dead in a lake, the detectives learn of a potential connection to the recent suicide of a young girl. Meanwhile, DS Vivienne Cole tells David that she believes Detective Chief Superintendent Mulgrew was behind the threat to Rob's family, and she reveals her past relationship with the chief.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 85547,
+                    "still_path": "/34T0cv7AlhjQbg62KsJfI96eCTB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3764155,
+                    "name": "Blood",
+                    "overview": "After a locksmith is murdered, Billie recognizes the victim and learns he was a witness to her father's death 10 years earlier. The investigation brings her face-to-face with her father's killer and forces her to wrestle with her personal and professional ethics. Vivienne pleads with her ex-husband to do the right thing, but he is afraid they're both in danger.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 85547,
+                    "still_path": "/fifcjJUfTcxF0varLyj1vDsZwDY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3764156,
+                    "name": "Control Freak",
+                    "overview": "A body found in a suitcase is identified as a man who has been missing for two weeks. When the team inform his widow, Cassidy, she seems unaffected and points the finger at her brother-in-law, Charlie. But Charlie claims that Cassidy is a control freak whom his brother planned to leave. Is Cassidy a cold fish or a ruthless killer? Meanwhile, David tries to convince Mulgrew to reveal what he knows.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 85547,
+                    "still_path": "/wJdMVHoCXs5teb7KhIt0J1ploPl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-06",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3764157,
+                    "name": "Crossing the Line",
+                    "overview": "When another black police officer is murdered, the team suspect he is the latest victim of the killer cop. After speaking with Sgt. Durrant, who attended a stop-and-search with the victim in the hours before his death, as well as with the subject of the search, the detectives suspect the crimes are racially motivated and attempt to save a high-profile target. David and Vivienne cross a huge line.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 85547,
+                    "still_path": "/9tfABRjEMYjiANGmkFYvcjzuULG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 296376,
+            "poster_path": "/idxAgtZjAhh69akQ7u2iL52TZnj.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        },
+        "4": {
+            "_id": "6497f61b955c6500e65f74e0",
+            "air_date": "2023-07-10",
+            "episodes": [
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4548404,
+                    "name": "Wake-up Call",
+                    "overview": "DC Rob Brady wakes up in his car with a witness lying dead next to him and is arrested on suspicion of murder; in his eagerness to clear Rob's name, DI David Bradford interferes with the investigation against DS Vivienne Cole's advice.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 85547,
+                    "still_path": "/zMdIPDnhky8lIxw1GcvKqu7zCcB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Elaine Latimer",
+                            "credit_id": "667a3915dbc8b399fe9063f7",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3264243,
+                            "known_for_department": "Acting",
+                            "name": "Daisy Jelley",
+                            "original_name": "Daisy Jelley",
+                            "popularity": 5.37,
+                            "profile_path": "/p9p1yCAIdSgvfIKdbjCLaXdUfSv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4548405,
+                    "name": "Fallout",
+                    "overview": "When Major Len Miller is found dead at the bottom of his stairs, a bloody fingerprint implicates his grandson; as David and Vivienne shed light on a dark secret from the major's past, they also must deal with the fallout from their indiscretion.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 85547,
+                    "still_path": "/3ZrGWYizPxUccM8YYEVQgDtfCdP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4548406,
+                    "name": "Old Wounds",
+                    "overview": "After young medical student Japesh Patel is stabbed to death, Billie wonders if it's connected to a similar, non-fatal attack on a gang member. Meanwhile, tensions between David and Vivienne reach a breaking point.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 85547,
+                    "still_path": "/AsJDBy3BlLKDu0gNVDxwqEBOheL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4548407,
+                    "name": "Amnesia",
+                    "overview": "A delivery driver is killed, and a trace of his movements places him at a pub that his wife frequents; she has a motive, but she's an alcoholic and can't remember if she killed him or not; when David doesn't turn up for work, Vivienne confronts him.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 85547,
+                    "still_path": "/1O8HYtVGVJV0mNVvFgMGCP8FPTL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4548408,
+                    "name": "Vendetta",
+                    "overview": "A boxer confesses to killing her manager, but the detectives think she may be covering for her father; when a suspect accuses David of planting evidence, he's devastated to realize the team has doubts, and he makes a decision about his future.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 4,
+                    "show_id": 85547,
+                    "still_path": "/ozo95QxvujOAqOKkIoxnZj8ODyS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 4",
+            "overview": "Detective Inspector David Bradford has always been a maverick, but his behavior is spinning out of control. When Detective Sergeant Vivienne Cole pulls him up on his conduct, he announces that their professional relationship is over – and then he goes AWOL. When Vivienne tracks David down and demands he explain his behavior, what he reveals knocks her sideways.",
+            "id": 346453,
+            "poster_path": "/smVJJAOpOeOYPCOMVOvfhZr6WuB.jpg",
+            "season_number": 4,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "adult": false,
+    "backdrop_path": "/udQDQL6OhOHhUefPAHR7sk70b1J.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-07-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 91462,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-08-05",
+    "last_episode_to_air": {
+        "id": 2019626,
+        "name": "Lost in the Woods",
+        "overview": "Maria faces a gruesome new forensic discovery and takes a trip to visit Todd Kohlhepp's property; when he confesses to two more murders, Maria seeks the sheriff's help to organize a search for the bodies, fearing this is only the beginning.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-08-05",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 91462,
+        "still_path": null
+    },
+    "name": "Serial Killer: Devil Unchained",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 244,
+            "logo_path": "/3s6YJSYXW9mtJwoszTVI1BHDNc6.png",
+            "name": "Investigation Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Serial Killer: Devil Unchained",
+    "overview": "Investigative journalist Maria Awes gets a call from serial killer Todd Kohlhepp, who claims that he has murdered more victims. She teams up with former FBI profiler John Douglas and Kohlhepp's biographer Gary Garrett, to unravel the truth.",
+    "popularity": 2.653,
+    "poster_path": "/yEQP1OMJzdAVGcRHVvqh0WptXst.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-22",
+            "episode_count": 3,
+            "id": 128262,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5d374fd7ab684900108651de",
+            "air_date": "2019-07-22",
+            "episodes": [
+                {
+                    "air_date": "2019-07-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1860511,
+                    "name": "A Killer Revealed",
+                    "overview": "Investigative journalist Maria Awes receives a call from serial killer Todd Kohlhepp who claims he has murdered more than his seven known victims; Awes teams up with former FBI profiler John Douglas and biographer Gary Garrett to unravel the truth. Digging into Todd Kohlhepp's troubled youth, Maria Awes interviews his first rape victim and finds another possible victim; doubts emerge that Kohlhepp is the Superbike killer, which appears to be supported by interrogation footage.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 91462,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2019625,
+                    "name": "In Plain Sight",
+                    "overview": "Maria Awes visits the Superbike crime scene because the ballistic evidence doesn't match Todd Kohlhepp's confession and investigates allegations that the police could have caught him sooner.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 91462,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-08-05",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2019626,
+                    "name": "Lost in the Woods",
+                    "overview": "Maria faces a gruesome new forensic discovery and takes a trip to visit Todd Kohlhepp's property; when he confesses to two more murders, Maria seeks the sheriff's help to organize a search for the bodies, fearing this is only the beginning.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 91462,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 128262,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

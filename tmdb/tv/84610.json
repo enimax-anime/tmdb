@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/wl8S7HzzUUjrOyGqZzjrasxt3XM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2017-02-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/escape-to-the-wild",
+    "id": 84610,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-02-16",
+    "last_episode_to_air": {
+        "id": 1632712,
+        "name": "River Nile",
+        "overview": "Jimmy meets a British couple who have started a new life in Uganda on the banks of the River Nile. Can they preserve their land against the encroaching river?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-02-16",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 84610,
+        "still_path": null
+    },
+    "name": "Jimmy Doherty's Escape to the Wild",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Jimmy Doherty's Escape to the Wild",
+    "overview": "Jimmy Doherty visits far-flung places to meet people who have created new lives for themselves in surprising and unlikely locations",
+    "popularity": 0.451,
+    "poster_path": "/mq9xeajQQCoW02gMaBJeh3qB6ae.jpg",
+    "production_companies": [
+        {
+            "id": 13856,
+            "logo_path": "/o44n2sfzaX4IX4MnEsgAkvGbGZ3.png",
+            "name": "Optomen Television",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-02-02",
+            "episode_count": 3,
+            "id": 113650,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/mq9xeajQQCoW02gMaBJeh3qB6ae.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5c03c24ac3a3685a4b0a7d4a",
+            "air_date": "2017-02-02",
+            "episodes": [
+                {
+                    "air_date": "2017-02-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1632710,
+                    "name": "Indonesia",
+                    "overview": "Jimmy meets a young family who've moved to an isolated tropical Pacific island. It's beautiful but full of hidden dangers, from lethal centipedes to water pythons.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84610,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1632711,
+                    "name": "Yukon",
+                    "overview": "Jimmy travels to the Yukon wilderness in Canada to find out why an actress and an office worker quit the London rat race for an off grid log cabin in grizzly bear country.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84610,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-16",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1632712,
+                    "name": "River Nile",
+                    "overview": "Jimmy meets a British couple who have started a new life in Uganda on the banks of the River Nile. Can they preserve their land against the encroaching river?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84610,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 113650,
+            "poster_path": "/mq9xeajQQCoW02gMaBJeh3qB6ae.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

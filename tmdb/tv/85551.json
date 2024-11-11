@@ -1,0 +1,758 @@
+{
+    "adult": false,
+    "backdrop_path": "/8KYbaWfSbmm0qxnjcPkuF7zjeXv.jpg",
+    "created_by": [
+        {
+            "id": 1863513,
+            "credit_id": "5c3329620e0a2655ee445b47",
+            "name": "Hélène Duchateau",
+            "original_name": "Hélène Duchateau",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 2033839,
+            "credit_id": "5c332970c3a3682915ad49b6",
+            "name": "Pierre Linhart",
+            "original_name": "Pierre Linhart",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2210284,
+            "credit_id": "5c33294e0e0a260fc140ebf3",
+            "name": "Baptiste Filleul",
+            "original_name": "Baptiste Filleul",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2019-01-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tf1.fr/tf1/infidele",
+    "id": 85551,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2020-09-29",
+    "last_episode_to_air": {
+        "id": 2447832,
+        "name": "Episode 6",
+        "overview": "While dealing with the passing of Candice, Luigi must fess up to being her dealer and Emma and Matteo are finally able to move on from the past.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-09-29",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 2,
+        "show_id": 85551,
+        "still_path": "/ejmjjfVM2r2XNld52oCaPWiFUxZ.jpg"
+    },
+    "name": "Unfaithful",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1386,
+            "logo_path": "/kR47hzfGe3zFsFipHTuC123qyCe.png",
+            "name": "La Une",
+            "origin_country": "BE"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "BE"
+    ],
+    "original_language": "fr",
+    "original_name": "Infidèle",
+    "overview": "The story of Emma Sandrelli, a doctor who is close to her patients and caring mother, whose life is about to explode when she learns that her husband has had an affair with a young woman for several months. Then begins for her a real descent into hell that will lead her very, very far...  Adaptation of the British series \"Doctor Foster.\"",
+    "popularity": 5.924,
+    "poster_path": "/s3UUkcXFrVQAlhWEDlW71q9Rc6P.jpg",
+    "production_companies": [
+        {
+            "id": 22123,
+            "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+            "name": "TF1",
+            "origin_country": "FR"
+        },
+        {
+            "id": 4599,
+            "logo_path": "/sAW9KzIfOs4LgXEXqaWrEUTGkRQ.png",
+            "name": "Be-FILMS",
+            "origin_country": "BE"
+        },
+        {
+            "id": 792,
+            "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+            "name": "RTBF",
+            "origin_country": "BE"
+        },
+        {
+            "id": 113965,
+            "logo_path": "/rPMpDnHQQ7M7BFU37NGAO1haC4s.png",
+            "name": "Storia Télévision",
+            "origin_country": "FR"
+        },
+        {
+            "id": 56580,
+            "logo_path": "/vdE4t1X1oCRfE36kjOvIvR4mWA9.png",
+            "name": "BBC Worldwide France",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-06",
+            "episode_count": 6,
+            "id": 115611,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/om81d6zq2ag1cvjec18b1BmzCDy.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-09-15",
+            "episode_count": 6,
+            "id": 163972,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/nsJh7hbomE2DaXfjDqryJVkUttB.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "5c3327a40e0a2611b83fc0eb",
+            "air_date": "2019-01-06",
+            "episodes": [
+                {
+                    "air_date": "2019-01-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1662872,
+                    "name": "Episode 1",
+                    "overview": "Emma lives a happy life with her family, until she suspect her husband of cheating.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/r0LDU0c1zsNe4pl6V827J33UByH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Linda",
+                            "credit_id": "5c332b5e0e0a2611b83fc51c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2166824,
+                            "known_for_department": "Acting",
+                            "name": "Sandra Parfait",
+                            "original_name": "Sandra Parfait",
+                            "popularity": 3.695,
+                            "profile_path": "/cTAAbJmFMKFOTxf9XG1n6ryP48H.jpg"
+                        },
+                        {
+                            "character": "Jordan",
+                            "credit_id": "5c332dfc9251416e45732c2a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210290,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Rouxel",
+                            "original_name": "Kevin Rouxel",
+                            "popularity": 0.001,
+                            "profile_path": "/u2owHyhehRwarftcdkNyRUSksup.jpg"
+                        },
+                        {
+                            "character": "Sébastien",
+                            "credit_id": "5c332e5e9251415a987321cb",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2210291,
+                            "known_for_department": "Writing",
+                            "name": "Clément Koch",
+                            "original_name": "Clément Koch",
+                            "popularity": 0.001,
+                            "profile_path": "/7KlXBiue0miYBzmZBluLGoZdDuJ.jpg"
+                        },
+                        {
+                            "character": "Ghislaine",
+                            "credit_id": "5c332edb0e0a2655ee4460fe",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1713115,
+                            "known_for_department": "Acting",
+                            "name": "Laura Luna",
+                            "original_name": "Laura Luna",
+                            "popularity": 0.494,
+                            "profile_path": "/3NyWjFdEP8SUWFCyWeeQwIzrBRn.jpg"
+                        },
+                        {
+                            "character": "Raphaël",
+                            "credit_id": "5c332f309251416d94731ea1",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210292,
+                            "known_for_department": "Acting",
+                            "name": "William Dechelette",
+                            "original_name": "William Dechelette",
+                            "popularity": 0.006,
+                            "profile_path": "/erlzPIGDOrrDCuC2qlS8LwYced2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1662873,
+                    "name": "Episode 2",
+                    "overview": "Shocked by new evidence, Emma goes to her party organised by Matteo. But doubt gnaws at her.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/21LMapH9mhCDvzl87GKFyrdcIUX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kaddour",
+                            "credit_id": "5c332c54c3a3682915ad4c5f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 500339,
+                            "known_for_department": "Acting",
+                            "name": "Mhamed Arezki",
+                            "original_name": "Mhamed Arezki",
+                            "popularity": 1.211,
+                            "profile_path": "/6kiI4JJDGAqSs5Ag12XOu3K5sjT.jpg"
+                        },
+                        {
+                            "character": "Héloïse",
+                            "credit_id": "5c332d22c3a3680b8ca8317e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210289,
+                            "known_for_department": "Acting",
+                            "name": "Anne Cazenave",
+                            "original_name": "Anne Cazenave",
+                            "popularity": 0.001,
+                            "profile_path": "/mEB5ZjbCjpHzCEgZgPZ1QIJ5UNp.jpg"
+                        },
+                        {
+                            "character": "Sébastien",
+                            "credit_id": "5c332e5e9251415a987321cb",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2210291,
+                            "known_for_department": "Writing",
+                            "name": "Clément Koch",
+                            "original_name": "Clément Koch",
+                            "popularity": 0.001,
+                            "profile_path": "/7KlXBiue0miYBzmZBluLGoZdDuJ.jpg"
+                        },
+                        {
+                            "character": "Ghislaine",
+                            "credit_id": "5c332edb0e0a2655ee4460fe",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1713115,
+                            "known_for_department": "Acting",
+                            "name": "Laura Luna",
+                            "original_name": "Laura Luna",
+                            "popularity": 0.494,
+                            "profile_path": "/3NyWjFdEP8SUWFCyWeeQwIzrBRn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1662874,
+                    "name": "Episode 3",
+                    "overview": "Distracted by her personal life, Emma misdiagnoses a patient and he ends up in hospital, fighting for his life.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/isey0EGfmECGRy8CS6qVKLo6916.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Linda",
+                            "credit_id": "5c332b5e0e0a2611b83fc51c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2166824,
+                            "known_for_department": "Acting",
+                            "name": "Sandra Parfait",
+                            "original_name": "Sandra Parfait",
+                            "popularity": 3.695,
+                            "profile_path": "/cTAAbJmFMKFOTxf9XG1n6ryP48H.jpg"
+                        },
+                        {
+                            "character": "Kaddour",
+                            "credit_id": "5c332c54c3a3682915ad4c5f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 500339,
+                            "known_for_department": "Acting",
+                            "name": "Mhamed Arezki",
+                            "original_name": "Mhamed Arezki",
+                            "popularity": 1.211,
+                            "profile_path": "/6kiI4JJDGAqSs5Ag12XOu3K5sjT.jpg"
+                        },
+                        {
+                            "character": "Héloïse",
+                            "credit_id": "5c332d22c3a3680b8ca8317e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210289,
+                            "known_for_department": "Acting",
+                            "name": "Anne Cazenave",
+                            "original_name": "Anne Cazenave",
+                            "popularity": 0.001,
+                            "profile_path": "/mEB5ZjbCjpHzCEgZgPZ1QIJ5UNp.jpg"
+                        },
+                        {
+                            "character": "Sébastien",
+                            "credit_id": "5c332e5e9251415a987321cb",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2210291,
+                            "known_for_department": "Writing",
+                            "name": "Clément Koch",
+                            "original_name": "Clément Koch",
+                            "popularity": 0.001,
+                            "profile_path": "/7KlXBiue0miYBzmZBluLGoZdDuJ.jpg"
+                        },
+                        {
+                            "character": "Ghislaine",
+                            "credit_id": "5c332edb0e0a2655ee4460fe",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1713115,
+                            "known_for_department": "Acting",
+                            "name": "Laura Luna",
+                            "original_name": "Laura Luna",
+                            "popularity": 0.494,
+                            "profile_path": "/3NyWjFdEP8SUWFCyWeeQwIzrBRn.jpg"
+                        },
+                        {
+                            "character": "Raphaël",
+                            "credit_id": "5c332f309251416d94731ea1",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210292,
+                            "known_for_department": "Acting",
+                            "name": "William Dechelette",
+                            "original_name": "William Dechelette",
+                            "popularity": 0.006,
+                            "profile_path": "/erlzPIGDOrrDCuC2qlS8LwYced2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1662875,
+                    "name": "Episode 4",
+                    "overview": "Destabilized by the tension between his parents, Luigi has a violent panic attack in front of his father.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/zNetscXUnITSTuk2mwjrOptscKq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Linda",
+                            "credit_id": "5c332b5e0e0a2611b83fc51c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2166824,
+                            "known_for_department": "Acting",
+                            "name": "Sandra Parfait",
+                            "original_name": "Sandra Parfait",
+                            "popularity": 3.695,
+                            "profile_path": "/cTAAbJmFMKFOTxf9XG1n6ryP48H.jpg"
+                        },
+                        {
+                            "character": "Kaddour",
+                            "credit_id": "5c332c54c3a3682915ad4c5f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 500339,
+                            "known_for_department": "Acting",
+                            "name": "Mhamed Arezki",
+                            "original_name": "Mhamed Arezki",
+                            "popularity": 1.211,
+                            "profile_path": "/6kiI4JJDGAqSs5Ag12XOu3K5sjT.jpg"
+                        },
+                        {
+                            "character": "Jordan",
+                            "credit_id": "5c332dfc9251416e45732c2a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210290,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Rouxel",
+                            "original_name": "Kevin Rouxel",
+                            "popularity": 0.001,
+                            "profile_path": "/u2owHyhehRwarftcdkNyRUSksup.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1662876,
+                    "name": "Episode 5",
+                    "overview": "Giulia, Matteo's mother, dies of sleeping pill abuse. Matteo suspects Emma of giving them to her, which she denies.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/nqtY0aKsBsCTe88K1OYsK1yUPHu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kaddour",
+                            "credit_id": "5c332c54c3a3682915ad4c5f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 500339,
+                            "known_for_department": "Acting",
+                            "name": "Mhamed Arezki",
+                            "original_name": "Mhamed Arezki",
+                            "popularity": 1.211,
+                            "profile_path": "/6kiI4JJDGAqSs5Ag12XOu3K5sjT.jpg"
+                        },
+                        {
+                            "character": "Dr Brisson",
+                            "credit_id": "5c332cea0e0a2611b83fc652",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210288,
+                            "known_for_department": "Acting",
+                            "name": "Margherita Oscuro",
+                            "original_name": "Margherita Oscuro",
+                            "popularity": 0.001,
+                            "profile_path": "/8jGgMtuetEp4WHuI4mPnUhchL15.jpg"
+                        },
+                        {
+                            "character": "Héloïse",
+                            "credit_id": "5c332d22c3a3680b8ca8317e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210289,
+                            "known_for_department": "Acting",
+                            "name": "Anne Cazenave",
+                            "original_name": "Anne Cazenave",
+                            "popularity": 0.001,
+                            "profile_path": "/mEB5ZjbCjpHzCEgZgPZ1QIJ5UNp.jpg"
+                        },
+                        {
+                            "character": "Raphaël",
+                            "credit_id": "5c332f309251416d94731ea1",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210292,
+                            "known_for_department": "Acting",
+                            "name": "William Dechelette",
+                            "original_name": "William Dechelette",
+                            "popularity": 0.006,
+                            "profile_path": "/erlzPIGDOrrDCuC2qlS8LwYced2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-20",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1662877,
+                    "name": "Episode 6",
+                    "overview": "In the presence of Matteo, Candice and her parents, Emma reveals everything: adultery, lies and abortion.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 85551,
+                    "still_path": "/1n68Zp8Dnk6d9QT9u3DoKbGeZaz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Linda",
+                            "credit_id": "5c332b5e0e0a2611b83fc51c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2166824,
+                            "known_for_department": "Acting",
+                            "name": "Sandra Parfait",
+                            "original_name": "Sandra Parfait",
+                            "popularity": 3.695,
+                            "profile_path": "/cTAAbJmFMKFOTxf9XG1n6ryP48H.jpg"
+                        },
+                        {
+                            "character": "Kaddour",
+                            "credit_id": "5c332c54c3a3682915ad4c5f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 500339,
+                            "known_for_department": "Acting",
+                            "name": "Mhamed Arezki",
+                            "original_name": "Mhamed Arezki",
+                            "popularity": 1.211,
+                            "profile_path": "/6kiI4JJDGAqSs5Ag12XOu3K5sjT.jpg"
+                        },
+                        {
+                            "character": "Héloïse",
+                            "credit_id": "5c332d22c3a3680b8ca8317e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210289,
+                            "known_for_department": "Acting",
+                            "name": "Anne Cazenave",
+                            "original_name": "Anne Cazenave",
+                            "popularity": 0.001,
+                            "profile_path": "/mEB5ZjbCjpHzCEgZgPZ1QIJ5UNp.jpg"
+                        },
+                        {
+                            "character": "Jordan",
+                            "credit_id": "5c332dfc9251416e45732c2a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2210290,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Rouxel",
+                            "original_name": "Kevin Rouxel",
+                            "popularity": 0.001,
+                            "profile_path": "/u2owHyhehRwarftcdkNyRUSksup.jpg"
+                        },
+                        {
+                            "character": "Sébastien",
+                            "credit_id": "5c332e5e9251415a987321cb",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2210291,
+                            "known_for_department": "Writing",
+                            "name": "Clément Koch",
+                            "original_name": "Clément Koch",
+                            "popularity": 0.001,
+                            "profile_path": "/7KlXBiue0miYBzmZBluLGoZdDuJ.jpg"
+                        },
+                        {
+                            "character": "Ghislaine",
+                            "credit_id": "5c332edb0e0a2655ee4460fe",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1713115,
+                            "known_for_department": "Acting",
+                            "name": "Laura Luna",
+                            "original_name": "Laura Luna",
+                            "popularity": 0.494,
+                            "profile_path": "/3NyWjFdEP8SUWFCyWeeQwIzrBRn.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 115611,
+            "poster_path": "/om81d6zq2ag1cvjec18b1BmzCDy.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5f6f4a7b532acb00371952b4",
+            "air_date": "2020-09-15",
+            "episodes": [
+                {
+                    "air_date": "2020-09-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2442767,
+                    "name": "Episode 1",
+                    "overview": "Emma is learning to have her own love life while balancing her teenage son, after finding out her husband had been cheating on her for two years.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/xVEkbLCUPJKbQPPKIqJ2D7aTuCm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2442768,
+                    "name": "Episode 2",
+                    "overview": "Luigi takes his new job too far and ends up in hospital. Emma persuades Gabriel to keep their relationship with no strings attached.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/9C5b6vJ8EVCwwVOqZC6HYl7ED6Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2447822,
+                    "name": "Episode 3",
+                    "overview": "Candice decides to leave Matteo and Juliette and Emma realises the extent of her stalker.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/qOKTOKqT19BDY1Qra1vF5Z6B1Ka.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2447828,
+                    "name": "Episode 4",
+                    "overview": "Matteo is forced to quit his job after being left alone with Juliette and Emma discovers Gabriel's secret to making money.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/2LfIoI6xUD9sP12Q8aV0KSS7rM8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2447830,
+                    "name": "Episode 5",
+                    "overview": "Candice is depressed and resorts to drugs to make her feel better, while Emma gets confused after playing house with Matteo and Luigi.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/xJRxDEWmxIEcFRor0WW1VTT4Nbp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-29",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2447832,
+                    "name": "Episode 6",
+                    "overview": "While dealing with the passing of Candice, Luigi must fess up to being her dealer and Emma and Matteo are finally able to move on from the past.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 85551,
+                    "still_path": "/ejmjjfVM2r2XNld52oCaPWiFUxZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 163972,
+            "poster_path": "/nsJh7hbomE2DaXfjDqryJVkUttB.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "adult": false,
+    "backdrop_path": "/lug2YI8is7iYuCwUiWjJfXsiCBz.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-05-23",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 132075,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-06-27",
+    "last_episode_to_air": {
+        "id": 3159471,
+        "name": "Predator Alley",
+        "overview": "Two struggling members must decide whether to tap out or continue with only 32 miles to go.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-06-27",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 132075,
+        "still_path": null
+    },
+    "name": "Mygrations",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Mygrations",
+    "overview": "For the first time, a human herd of Americans joins the great wildebeest migration across the Serengeti.",
+    "popularity": 0.302,
+    "poster_path": "/eRR771K5wvHt7YLIDoHmddpJwcG.jpg",
+    "production_companies": [
+        {
+            "id": 236,
+            "logo_path": null,
+            "name": "October Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-05-23",
+            "episode_count": 6,
+            "id": 207704,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eRR771K5wvHt7YLIDoHmddpJwcG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "61279df7d266a2002cd1d821",
+            "air_date": "2016-05-23",
+            "episodes": [
+                {
+                    "air_date": "2016-05-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3158545,
+                    "name": "Into the Unknown",
+                    "overview": "The humans attempt to navigate north through lethal open plains while facing thirst and predators.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-05-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3159467,
+                    "name": "Lion's Den",
+                    "overview": "When rain threatens their fire, the herd faces its greatest fear - a pride of lions in the dark.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3159468,
+                    "name": "Animal House",
+                    "overview": "Savage landscape takes a toll as the herd struggles with hunger and crosses a croc-infested river.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3159469,
+                    "name": "Valley of Death",
+                    "overview": "Two members are injured by a warthog; a new river presents the daunting threat of hippos.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3159470,
+                    "name": "Falling Apart",
+                    "overview": "A doctor must be called after hunger has a serious effect on a diabetic member.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-27",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3159471,
+                    "name": "Predator Alley",
+                    "overview": "Two struggling members must decide whether to tap out or continue with only 32 miles to go.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 132075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 207704,
+            "poster_path": "/eRR771K5wvHt7YLIDoHmddpJwcG.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

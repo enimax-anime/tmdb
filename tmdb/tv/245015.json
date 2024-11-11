@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/kMG4QoCMCuLr3oQdYFUqFTxAxlu.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-15",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81667933",
+    "id": 245015,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-02-15",
+    "last_episode_to_air": {
+        "id": 5147687,
+        "overview": "Francisco becomes a public figure and starts living in fear. His case soon implicates Commissioner Villarejo and airs Spain's dirty laundry.",
+        "name": "Francisco Nicolás Gómez Iglesias",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-02-15",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 61,
+        "season_number": 1,
+        "show_id": 245015,
+        "still_path": "/9QoB19jZ9PoQkOOnxMuEj7OuiuC.jpg"
+    },
+    "name": "Little Nicholas: Life of a Scoundrel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "(P)Ícaro: El pequeño Nicolás",
+    "overview": "As a teen, Little Nicolás managed to sneak between politicians, millionaires and even royals. This docuseries revisits his case through key testimonies.",
+    "popularity": 5.923,
+    "poster_path": "/eQmOkjD7Dyg7jSCr5My54XK4uoq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-15",
+            "episode_count": 3,
+            "id": 376728,
+            "name": "Limited Series",
+            "overview": "",
+            "poster_path": "/eQmOkjD7Dyg7jSCr5My54XK4uoq.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.125,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "65b935ef2f266b017de1cb20",
+            "air_date": "2024-02-15",
+            "episodes": [
+                {
+                    "air_date": "2024-02-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5110475,
+                    "name": "Fran",
+                    "overview": "Francisco details how he went from organizing exclusive parties for teens to arranging political and business deals in a house he never bought.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 245015,
+                    "still_path": "/fTy5G8l6g2PPKLTHjxqx4KFPyMg.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5147686,
+                    "name": "Nicolay",
+                    "overview": "How did Francisco attend Felipe VI's coronation? Two opposing stories try to explain. As his ambition grows, his world crumbles and the police burst in.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 245015,
+                    "still_path": "/vgdzi9mTmZDE5QYK6ehNpDgJUwe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-15",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 5147687,
+                    "name": "Francisco Nicolás Gómez Iglesias",
+                    "overview": "Francisco becomes a public figure and starts living in fear. His case soon implicates Commissioner Villarejo and airs Spain's dirty laundry.",
+                    "production_code": "",
+                    "runtime": 61,
+                    "season_number": 1,
+                    "show_id": 245015,
+                    "still_path": "/9QoB19jZ9PoQkOOnxMuEj7OuiuC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Limited Series",
+            "overview": "",
+            "id": 376728,
+            "poster_path": "/eQmOkjD7Dyg7jSCr5My54XK4uoq.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

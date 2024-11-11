@@ -1,0 +1,420 @@
+{
+    "adult": false,
+    "backdrop_path": "/wXNPW1QaDN2KRvq0A22jU5pwsFq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2022-12-22",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/shows/der-scheich/",
+    "id": 216963,
+    "in_production": true,
+    "languages": [
+        "de"
+    ],
+    "last_air_date": "2022-12-22",
+    "last_episode_to_air": {
+        "id": 4118821,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-12-22",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 216963,
+        "still_path": "/6Hy8WYVpKvCPeX2l4AAxYmH98mg.jpg"
+    },
+    "name": "The Sheikh",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6318,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Der Scheich",
+    "overview": "Follows a con artist who reinvents himself as the heir of an Arabic fortune.",
+    "popularity": 6.454,
+    "poster_path": "/1GCILq80EyQ9nbOcAEurLfq0BH2.jpg",
+    "production_companies": [
+        {
+            "id": 96,
+            "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+            "name": "X Filme Creative Pool",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-22",
+            "episode_count": 8,
+            "id": 321284,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5LXNbrlhd8IzDcIbVbAHr9wpEpK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "63a7296ceea34d00983c1811",
+            "air_date": "2022-12-22",
+            "episodes": [
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4118814,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/yDQccdFBb4PJ8heVmUsgGu04a3F.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f3dade15376c00cb242e3c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 113502,
+                            "known_for_department": "Writing",
+                            "name": "Johannes Naber",
+                            "original_name": "Johannes Naber",
+                            "popularity": 2.654,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "63f3dba6a24c5000d4e4a296",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6273,
+                            "known_for_department": "Acting",
+                            "name": "Dani Levy",
+                            "original_name": "Dani Levy",
+                            "popularity": 1.055,
+                            "profile_path": "/zQZB45rpR5ofbmuksnJPYBSKIS6.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f3dbd2caaca2008578ae90",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6273,
+                            "known_for_department": "Acting",
+                            "name": "Dani Levy",
+                            "original_name": "Dani Levy",
+                            "popularity": 1.055,
+                            "profile_path": "/zQZB45rpR5ofbmuksnJPYBSKIS6.jpg"
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "63f3dc67caaca2008578aead",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 46981,
+                            "known_for_department": "Directing",
+                            "name": "Martin Walz",
+                            "original_name": "Martin Walz",
+                            "popularity": 0.472,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f3dc8da24c5000848df4d5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6273,
+                            "known_for_department": "Acting",
+                            "name": "Dani Levy",
+                            "original_name": "Dani Levy",
+                            "popularity": 1.055,
+                            "profile_path": "/zQZB45rpR5ofbmuksnJPYBSKIS6.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "63f3dd38a34911009d892a63",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 24219,
+                            "known_for_department": "Editing",
+                            "name": "Claus Wehlisch",
+                            "original_name": "Claus Wehlisch",
+                            "popularity": 0.378,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "63f3dd54a24c5000800d096c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 49698,
+                            "known_for_department": "Editing",
+                            "name": "Antje Zynga",
+                            "original_name": "Antje Zynga",
+                            "popularity": 0.01,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "63f3dd70524978009e78e1bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1614279,
+                            "known_for_department": "Editing",
+                            "name": "Carlotta Kittel",
+                            "original_name": "Carlotta Kittel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Ringo Babbels",
+                            "credit_id": "63f3de55524978007cb90312",
+                            "order": 0,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1467023,
+                            "known_for_department": "Acting",
+                            "name": "Björn Meyer",
+                            "original_name": "Björn Meyer",
+                            "popularity": 0.633,
+                            "profile_path": "/9Bm4iM2DXgAna9vWf1mhYCoIIpX.jpg"
+                        },
+                        {
+                            "character": "Carla",
+                            "credit_id": "63f3de70a24c500078c9f722",
+                            "order": 1,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 49628,
+                            "known_for_department": "Acting",
+                            "name": "Petra Schmidt-Schaller",
+                            "original_name": "Petra Schmidt-Schaller",
+                            "popularity": 3.595,
+                            "profile_path": "/ezOqrbTM4747vnHTn5vJZw6MYct.jpg"
+                        },
+                        {
+                            "character": "Urs",
+                            "credit_id": "63f3deb2e942ee00852bf902",
+                            "order": 2,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1087716,
+                            "known_for_department": "Acting",
+                            "name": "Philippe Graber",
+                            "original_name": "Philippe Graber",
+                            "popularity": 2.213,
+                            "profile_path": "/xgW6vI5AileU1PF0tqXQwKMcAV2.jpg"
+                        },
+                        {
+                            "character": "Beatrice von Greifen",
+                            "credit_id": "63f3df12a67254007de9e92a",
+                            "order": 3,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1030359,
+                            "known_for_department": "Acting",
+                            "name": "Bettina Stucky",
+                            "original_name": "Bettina Stucky",
+                            "popularity": 1.519,
+                            "profile_path": "/y4iHnUr3COYi7aXqRnPgkfxyRAR.jpg"
+                        },
+                        {
+                            "character": "Rocco",
+                            "credit_id": "63f3df96a34911009d892b0f",
+                            "order": 4,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2520221,
+                            "known_for_department": "Acting",
+                            "name": "Giuseppe Bonvissuto",
+                            "original_name": "Giuseppe Bonvissuto",
+                            "popularity": 0.329,
+                            "profile_path": "/fBuguavH23YCMGSTZwYZb8jRPy8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4118815,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/shdGHz03qAFsfCqIwXQWQ18GXWX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4118816,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/qlrIyyVJEgbkavItSiTAtTnKAlW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4118817,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/npLsJ0wHWaikdog0yFW4FnQxM58.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4118818,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/3vrG3pZVBnlJi8UtHhGb5QTyCWD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4118819,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/7S1mW0swRhQyq1n27Y4zFobVbAP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4118820,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/4rZI36n5eKU3jVOfhhmkX17ndoX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4118821,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 216963,
+                    "still_path": "/6Hy8WYVpKvCPeX2l4AAxYmH98mg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 321284,
+            "poster_path": "/5LXNbrlhd8IzDcIbVbAHr9wpEpK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

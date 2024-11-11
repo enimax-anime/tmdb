@@ -1,0 +1,1565 @@
+{
+    "adult": false,
+    "backdrop_path": "/i3crPeFkhLcT9ZRVwPSHQSnd6di.jpg",
+    "created_by": [
+        {
+            "id": 52779,
+            "credit_id": "589232989251412dcb00b931",
+            "name": "Ryan Murphy",
+            "original_name": "Ryan Murphy",
+            "gender": 2,
+            "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+        },
+        {
+            "id": 1080070,
+            "credit_id": "64249f21a3e4ba00f232e919",
+            "name": "Jaffe Cohen",
+            "original_name": "Jaffe Cohen",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1780851,
+            "credit_id": "64249f30c9982600b600184e",
+            "name": "Michael Zam",
+            "original_name": "Michael Zam",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        51
+    ],
+    "first_air_date": "2017-03-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.fxnetworks.com/shows/feud",
+    "id": 69851,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-03-13",
+    "last_episode_to_air": {
+        "id": 4244587,
+        "name": "Phantasm Forgiveness",
+        "overview": "Past, present and future collide as Truman makes a final push to finish Answered Prayers.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-03-13",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 51,
+        "season_number": 2,
+        "show_id": 69851,
+        "still_path": "/lmfEayMzLII8oIiyqSrxvc8ewI7.jpg"
+    },
+    "name": "FEUD",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 88,
+            "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+            "name": "FX",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "FEUD",
+    "overview": "Anthology series of famous feuds with the first season based on the legendary rivalry between Bette Davis and Joan Crawford which began early on their careers, climaxed on the set of \"Whatever Happened to Baby Jane?\" and evolved into an Oscar vendetta.",
+    "popularity": 30.865,
+    "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+    "production_companies": [
+        {
+            "id": 19328,
+            "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+            "name": "Ryan Murphy Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 86063,
+            "logo_path": "/9Juyx6JYvie3Kx24PGCDfNRYp9Y.png",
+            "name": "Fox 21 Television Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 236166,
+            "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+            "name": "20th Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 241479,
+            "logo_path": null,
+            "name": "Sawtooth Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 240712,
+            "logo_path": null,
+            "name": "Scratchpad",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-03-05",
+            "episode_count": 8,
+            "id": 84267,
+            "name": "Bette and Joan",
+            "overview": "The story of the legendary rivalry between Bette Davis and Joan Crawford which began early on their careers, climaxed on the set of \"Whatever Happened to Baby Jane?\" and evolved into an Oscar vendetta.",
+            "poster_path": "/mqz3us14EVwnFFwPLrVMip8AocL.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        },
+        {
+            "air_date": "2024-01-31",
+            "episode_count": 8,
+            "id": 308975,
+            "name": "Capote vs. the Swans",
+            "overview": "Truman Capote surrounded himself with some of society's most elite women, whom he nicknamed \"the swans,\" but his act of betrayal destroyed those relationships, banished him from high society and sent him into a spiral of self-destruction.",
+            "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+            "season_number": 2,
+            "vote_average": 5.4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "The best stories happen behind the scenes.",
+    "type": "Scripted",
+    "vote_average": 7.807,
+    "vote_count": 210,
+    "season_data": {
+        "1": {
+            "_id": "5885e356925141322d006f13",
+            "air_date": "2017-03-05",
+            "episodes": [
+                {
+                    "air_date": "2017-03-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1259669,
+                    "name": "Pilot",
+                    "overview": "Cast aside by Hollywood, screen legends Joan Crawford and Bette Davis battle ageism, sexism and each other when they sign up to make \"Whatever Happened to Baby Jane?\"",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/wkhXCZZlppJx32siiYW1HoLmKAz.jpg",
+                    "vote_average": 7.111,
+                    "vote_count": 9,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601410ff15a005878f1fa",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 52779,
+                            "known_for_department": "Creator",
+                            "name": "Ryan Murphy",
+                            "original_name": "Ryan Murphy",
+                            "popularity": 9.423,
+                            "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Photographer",
+                            "credit_id": "5aec14d69251417f63002b4c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2035830,
+                            "known_for_department": "Acting",
+                            "name": "Doug Hurley",
+                            "original_name": "Doug Hurley",
+                            "popularity": 0.842,
+                            "profile_path": "/gb71ggh7ARTu7AvkHzF8aVME51t.jpg"
+                        },
+                        {
+                            "character": "B. D. Hyman",
+                            "credit_id": "5c3ad5070e0a26443d0278dc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 934289,
+                            "known_for_department": "Acting",
+                            "name": "Kiernan Shipka",
+                            "original_name": "Kiernan Shipka",
+                            "popularity": 64.688,
+                            "profile_path": "/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+                        },
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Joan Blondell",
+                            "credit_id": "5c3ad6540e0a264437026f68",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 8534,
+                            "known_for_department": "Acting",
+                            "name": "Kathy Bates",
+                            "original_name": "Kathy Bates",
+                            "popularity": 40.806,
+                            "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+                        },
+                        {
+                            "character": "Peter",
+                            "credit_id": "5c3ad8839251414dcc75029f",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 31508,
+                            "known_for_department": "Acting",
+                            "name": "Reed Diamond",
+                            "original_name": "Reed Diamond",
+                            "popularity": 5.833,
+                            "profile_path": "/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-03-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1271212,
+                    "name": "The Other Woman",
+                    "overview": "With production on the film underway, Bette and Joan form an alliance, but outside forces conspire against them.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/5EHlxIsJHUtn8Coi26EjxV9p14b.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601410ff15a005878f1fa",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 52779,
+                            "known_for_department": "Creator",
+                            "name": "Ryan Murphy",
+                            "original_name": "Ryan Murphy",
+                            "popularity": 9.423,
+                            "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "B. D. Hyman",
+                            "credit_id": "5c3ad5070e0a26443d0278dc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 934289,
+                            "known_for_department": "Acting",
+                            "name": "Kiernan Shipka",
+                            "original_name": "Kiernan Shipka",
+                            "popularity": 64.688,
+                            "profile_path": "/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+                        },
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Joan Blondell",
+                            "credit_id": "5c3ad6540e0a264437026f68",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 8534,
+                            "known_for_department": "Acting",
+                            "name": "Kathy Bates",
+                            "original_name": "Kathy Bates",
+                            "popularity": 40.806,
+                            "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        },
+                        {
+                            "character": "Peter",
+                            "credit_id": "5c3ad8839251414dcc75029f",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 31508,
+                            "known_for_department": "Acting",
+                            "name": "Reed Diamond",
+                            "original_name": "Reed Diamond",
+                            "popularity": 5.833,
+                            "profile_path": "/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-03-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1271213,
+                    "name": "Mommie Dearest",
+                    "overview": "As the film production reaches its climax, the feud becomes physical. Bette's relationship with her daughter becomes strained when she bonds with a new cast member. Joan reveals an intimate detail about her past.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/1TrXIZNisOXoRW1YzcquuBVK1lt.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601680a94d400299e4344",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1216419,
+                            "known_for_department": "Directing",
+                            "name": "Gwyneth Horder-Payton",
+                            "original_name": "Gwyneth Horder-Payton",
+                            "popularity": 3.676,
+                            "profile_path": "/o9HPp232P2FoV7fWuyPrkdalSyw.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "B. D. Hyman",
+                            "credit_id": "5c3ad5070e0a26443d0278dc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 934289,
+                            "known_for_department": "Acting",
+                            "name": "Kiernan Shipka",
+                            "original_name": "Kiernan Shipka",
+                            "popularity": 64.688,
+                            "profile_path": "/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-03-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1271214,
+                    "name": "More, or Less",
+                    "overview": "Bad word-of-mouth plagues \"What Ever Happened to Baby Jane?\" on the eve of its release. Bette and Joan brace for failure. Pauline tries to break gender barriers. Oscar nominations are announced.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/tIjRupWhOImvdSvaNuiDIF2ohGn.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60660178e1ad7900407dc279",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 916958,
+                            "known_for_department": "Directing",
+                            "name": "Liza Johnson",
+                            "original_name": "Liza Johnson",
+                            "popularity": 3.326,
+                            "profile_path": "/y7as9fauoSzDo3J8xN9h4RZ6h7M.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Michael Parks",
+                            "credit_id": "5a16c377c3a368705500b580",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1924458,
+                            "known_for_department": "Acting",
+                            "name": "Cameron Cowperthwaite",
+                            "original_name": "Cameron Cowperthwaite",
+                            "popularity": 5.122,
+                            "profile_path": "/uT8SXIWieodbiVxjzSavuVr5rM1.jpg"
+                        },
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Joan Blondell",
+                            "credit_id": "5c3ad6540e0a264437026f68",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 8534,
+                            "known_for_department": "Acting",
+                            "name": "Kathy Bates",
+                            "original_name": "Kathy Bates",
+                            "popularity": 40.806,
+                            "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-04-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1271215,
+                    "name": "And the Winner Is... (The Oscars of 1963)",
+                    "overview": "Bette is on track to win a record-breaking, third \"Best Actress\" Oscar. Joan and Hedda launch a clandestine campaign against Bette.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/9VK0aPr1pLCU7GpIEUuxnoO86eZ.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601410ff15a005878f1fa",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 52779,
+                            "known_for_department": "Creator",
+                            "name": "Ryan Murphy",
+                            "original_name": "Ryan Murphy",
+                            "popularity": 9.423,
+                            "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Geraldine Page",
+                            "credit_id": "5c3ad7720e0a264437027070",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 34490,
+                            "known_for_department": "Acting",
+                            "name": "Sarah Paulson",
+                            "original_name": "Sarah Paulson",
+                            "popularity": 22.16,
+                            "profile_path": "/n2pcyP6jp1YNo4TFVYS5vyZ2M2s.jpg"
+                        },
+                        {
+                            "character": "Oscar Producer",
+                            "credit_id": "5d7eaaaf2866fa0472390861",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2411807,
+                            "known_for_department": "Acting",
+                            "name": "Stephen Holland",
+                            "original_name": "Stephen Holland",
+                            "popularity": 1.255,
+                            "profile_path": "/6c9uvSxTGfZrrcMkBojqVRSBsEl.jpg"
+                        },
+                        {
+                            "character": "Joan's Makeup Artist",
+                            "credit_id": "6697ba5c2353f190858872e2",
+                            "order": 533,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1590302,
+                            "known_for_department": "Acting",
+                            "name": "Juliet Tondowski",
+                            "original_name": "Juliet Tondowski",
+                            "popularity": 0.934,
+                            "profile_path": "/3Nvbt90fhdAhD2cJKSYDnLSjILa.jpg"
+                        },
+                        {
+                            "character": "Worker",
+                            "credit_id": "66cd1f8a63770a8661c6d466",
+                            "order": 534,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2024563,
+                            "known_for_department": "Acting",
+                            "name": "Josh Plasse",
+                            "original_name": "Josh Plasse",
+                            "popularity": 2.547,
+                            "profile_path": "/i0AVCML80RRT9uzE3KYdwKsaheG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-04-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1271216,
+                    "name": "Hagsploitation",
+                    "overview": "Hungry for another hit, Warner pressures Aldrich to bring the original team back together for a follow-up hag horror pic. Someone from Joan's past poses a threat.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/kqFsGol26hngH08iOK1PX4kRchJ.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "606601bb2cefc2006f6084d8",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1803249,
+                            "known_for_department": "Writing",
+                            "name": "Gina Welch",
+                            "original_name": "Gina Welch",
+                            "popularity": 0.783,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606602f3d036b60029789b0f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 202100,
+                            "known_for_department": "Writing",
+                            "name": "Tim Minear",
+                            "original_name": "Tim Minear",
+                            "popularity": 3.963,
+                            "profile_path": "/zOnOJmM0sShVbLgW2jB0j0r6D6U.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60660367bc2cb3006e10aa63",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 202100,
+                            "known_for_department": "Writing",
+                            "name": "Tim Minear",
+                            "original_name": "Tim Minear",
+                            "popularity": 3.963,
+                            "profile_path": "/zOnOJmM0sShVbLgW2jB0j0r6D6U.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bart",
+                            "credit_id": "5ad4696f9251412972011875",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2023667,
+                            "known_for_department": "Acting",
+                            "name": "James Morosini",
+                            "original_name": "James Morosini",
+                            "popularity": 3.912,
+                            "profile_path": "/vaBLK53OiwM0E4S4IHkbvSaOKHR.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        },
+                        {
+                            "character": "William Castle",
+                            "credit_id": "65be9f6dfc6538017cea84fd",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10367,
+                            "known_for_department": "Directing",
+                            "name": "John Waters",
+                            "original_name": "John Waters",
+                            "popularity": 14.354,
+                            "profile_path": "/4foU1kJ24CJwz2RVZgyc7oxMs4i.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-04-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1271217,
+                    "name": "Abandoned!",
+                    "overview": "With production of Hush…Hush Sweet Charlotte underway, the feud is intensified when Joan learns of a new producer on the project. In an unguarded moment, Bette reveals her vulnerabilities to Bob.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/tAvcVu6cfI31WyzJQKT82jv7t9r.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601cc63d7130029212465",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 9994,
+                            "known_for_department": "Acting",
+                            "name": "Helen Hunt",
+                            "original_name": "Helen Hunt",
+                            "popularity": 25.011,
+                            "profile_path": "/aJVortGgkGkvK0DMiY0I7Fv77Qb.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "B. D. Hyman",
+                            "credit_id": "5c3ad5070e0a26443d0278dc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 934289,
+                            "known_for_department": "Acting",
+                            "name": "Kiernan Shipka",
+                            "original_name": "Kiernan Shipka",
+                            "popularity": 64.688,
+                            "profile_path": "/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+                        },
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Joan Blondell",
+                            "credit_id": "5c3ad6540e0a264437026f68",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 8534,
+                            "known_for_department": "Acting",
+                            "name": "Kathy Bates",
+                            "original_name": "Kathy Bates",
+                            "popularity": 40.806,
+                            "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-04-23",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1296529,
+                    "name": "You Mean All This Time We Could Have Been Friends?",
+                    "overview": "In the season finale, Joan accepts a leading role on a new film despite her deteriorating health. Faced with a new rival, Bette reflects on her misplaced feud with Joan.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 69851,
+                    "still_path": "/crFsxO6f31MzMTSMIIjrZQILfqg.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "606601680a94d400299e4344",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1216419,
+                            "known_for_department": "Directing",
+                            "name": "Gwyneth Horder-Payton",
+                            "original_name": "Gwyneth Horder-Payton",
+                            "popularity": 3.676,
+                            "profile_path": "/o9HPp232P2FoV7fWuyPrkdalSyw.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "B. D. Hyman",
+                            "credit_id": "5c3ad5070e0a26443d0278dc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 934289,
+                            "known_for_department": "Acting",
+                            "name": "Kiernan Shipka",
+                            "original_name": "Kiernan Shipka",
+                            "popularity": 64.688,
+                            "profile_path": "/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+                        },
+                        {
+                            "character": "Olivia de Havilland",
+                            "credit_id": "5c3ad5a4c3a368086d480d8e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1922,
+                            "known_for_department": "Acting",
+                            "name": "Catherine Zeta-Jones",
+                            "original_name": "Catherine Zeta-Jones",
+                            "popularity": 26.388,
+                            "profile_path": "/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+                        },
+                        {
+                            "character": "Joan Blondell",
+                            "credit_id": "5c3ad6540e0a264437026f68",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 8534,
+                            "known_for_department": "Acting",
+                            "name": "Kathy Bates",
+                            "original_name": "Kathy Bates",
+                            "popularity": 40.806,
+                            "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+                        },
+                        {
+                            "character": "Victor Buono",
+                            "credit_id": "5c3ad7dbc3a368085847cb4b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232679,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Burgess",
+                            "original_name": "Dominic Burgess",
+                            "popularity": 3.578,
+                            "profile_path": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+                        },
+                        {
+                            "character": "Dean Martin",
+                            "credit_id": "66d79e53a6bde0d9ad26c828",
+                            "order": 535,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4922013,
+                            "known_for_department": "Acting",
+                            "name": "Andy Dimino",
+                            "original_name": "Andy Dimino",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Bette and Joan",
+            "overview": "The story of the legendary rivalry between Bette Davis and Joan Crawford which began early on their careers, climaxed on the set of \"Whatever Happened to Baby Jane?\" and evolved into an Oscar vendetta.",
+            "id": 84267,
+            "poster_path": "/mqz3us14EVwnFFwPLrVMip8AocL.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        },
+        "2": {
+            "_id": "63250ec9f14dad0073d631c2",
+            "air_date": "2024-01-31",
+            "episodes": [
+                {
+                    "air_date": "2024-01-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4244580,
+                    "name": "Pilot",
+                    "overview": "Truman Capote is the toast of New York society. But a dishy excerpt published in Esquire Magazine threatens to topple him from his precarious perch.",
+                    "production_code": "",
+                    "runtime": 61,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/ie8f5AfHp1TPjGWIjqBLgsS53L2.jpg",
+                    "vote_average": 6.8,
+                    "vote_count": 6,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae265be00e0163acb2e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5216,
+                            "known_for_department": "Directing",
+                            "name": "Gus Van Sant",
+                            "original_name": "Gus Van Sant",
+                            "popularity": 5.784,
+                            "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Happy Rockefeller",
+                            "credit_id": "65d8d17c944a57017c24ec68",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 171649,
+                            "known_for_department": "Acting",
+                            "name": "Rebecca Creskoff",
+                            "original_name": "Rebecca Creskoff",
+                            "popularity": 2.299,
+                            "profile_path": "/w1zqSXx9F4c23bpzYU6rNfkeR7c.jpg"
+                        },
+                        {
+                            "character": "Louisa Firth",
+                            "credit_id": "65d8d18b40d0fe0185a1a657",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1000907,
+                            "known_for_department": "Acting",
+                            "name": "Roya Shanks",
+                            "original_name": "Roya Shanks",
+                            "popularity": 2.479,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jennifer Jones",
+                            "credit_id": "65d8d199caa5080167341102",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3627095,
+                            "known_for_department": "Acting",
+                            "name": "Jamie Askew",
+                            "original_name": "Jamie Askew",
+                            "popularity": 0.191,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "David Selznick",
+                            "credit_id": "65d8d1a62da846018772305d",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2257562,
+                            "known_for_department": "Acting",
+                            "name": "Scott Zimmerman",
+                            "original_name": "Scott Zimmerman",
+                            "popularity": 0.011,
+                            "profile_path": "/7F180u1xFGdtHRO5EfMXK9XFsts.jpg"
+                        },
+                        {
+                            "character": "Billy Woodward",
+                            "credit_id": "65d8d1b4a284eb016287eb39",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1756616,
+                            "known_for_department": "Acting",
+                            "name": "Clifton Samuels",
+                            "original_name": "Clifton Samuels",
+                            "popularity": 0.579,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nelson Rockefeller",
+                            "credit_id": "65d8d1f423d2780164700088",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1512405,
+                            "known_for_department": "Acting",
+                            "name": "David Healy",
+                            "original_name": "David Healy",
+                            "popularity": 2.167,
+                            "profile_path": "/A07FBkngeT8kAsVT1qDxblXpQQG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-01-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4244581,
+                    "name": "Ice Water in Their Veins",
+                    "overview": "In the aftermath of the Esquire article, Truman starts on a downward spiral. The Swans form a unified front.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/qcTOsiVRY2DZ74Bpg9O72txLXWv.jpg",
+                    "vote_average": 4,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae265be00e0163acb2e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5216,
+                            "known_for_department": "Directing",
+                            "name": "Gus Van Sant",
+                            "original_name": "Gus Van Sant",
+                            "popularity": 5.784,
+                            "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lillie Mae Faulk",
+                            "credit_id": "65d8d20f3520e80187d61bf8",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4431,
+                            "known_for_department": "Acting",
+                            "name": "Jessica Lange",
+                            "original_name": "Jessica Lange",
+                            "popularity": 13.073,
+                            "profile_path": "/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+                        },
+                        {
+                            "character": "Peter Sellers",
+                            "credit_id": "65d8d22ed55c3d0149db02b1",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1366857,
+                            "known_for_department": "Acting",
+                            "name": "Theo Devaney",
+                            "original_name": "Theo Devaney",
+                            "popularity": 1.519,
+                            "profile_path": "/zfc8Q26ew39M9d469Q6t1lqjZa3.jpg"
+                        },
+                        {
+                            "character": "Jimmy Woodward",
+                            "credit_id": "65d8d24af10a1a016322f935",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2272625,
+                            "known_for_department": "Acting",
+                            "name": "Hudson Oz",
+                            "original_name": "Hudson Oz",
+                            "popularity": 34.437,
+                            "profile_path": "/vpjvHMpOY1wStHDxhfxZugDylI2.jpg"
+                        },
+                        {
+                            "character": "Robert Moore",
+                            "credit_id": "65d8d258223e2001864df3c8",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2052866,
+                            "known_for_department": "Acting",
+                            "name": "Anthony Misiano",
+                            "original_name": "Anthony Misiano",
+                            "popularity": 0.952,
+                            "profile_path": "/dKmAYtys1vNulEmqp88X1M0D7CF.jpg"
+                        },
+                        {
+                            "character": "Kerry O'Shea",
+                            "credit_id": "65d8d26b42f19f018619c9a7",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4481381,
+                            "known_for_department": "Acting",
+                            "name": "Ella Beatty",
+                            "original_name": "Ella Beatty",
+                            "popularity": 0.017,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Chris O'Shea",
+                            "credit_id": "65d8d280d55c3d0163db02e0",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4221344,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Adaro",
+                            "original_name": "Daniel Adaro",
+                            "popularity": 0.05,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jim Backus",
+                            "credit_id": "65d8d28ef10a1a016322f987",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1854669,
+                            "known_for_department": "Acting",
+                            "name": "Charles Gemmill",
+                            "original_name": "Charles Gemmill",
+                            "popularity": 0.576,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Phyllis Diller",
+                            "credit_id": "65d8d2a4d55c3d0149db0307",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1511586,
+                            "known_for_department": "Acting",
+                            "name": "Mary Beth Pape",
+                            "original_name": "Mary Beth Pape",
+                            "popularity": 0.001,
+                            "profile_path": "/8V1Q7gu8K1wQNj14MpJVIkwRRSf.jpg"
+                        },
+                        {
+                            "character": "Dancer",
+                            "credit_id": "6717c663dcb7ff811e47770b",
+                            "order": 536,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3842176,
+                            "known_for_department": "Acting",
+                            "name": "Katelyn Gaffney",
+                            "original_name": "Katelyn Gaffney",
+                            "popularity": 0.001,
+                            "profile_path": "/t2mV3AVIcyzMBdCH46jHQ5ifkfp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4244582,
+                    "name": "Masquerade 1966",
+                    "overview": "In 1966, documentary filmmakers the Maysles brothers capture the events leading up to and following Truman's iconic Black and White Ball.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/2E9FZXkfuJnGr9mT4ytnQRB7sTX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae265be00e0163acb2e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5216,
+                            "known_for_department": "Directing",
+                            "name": "Gus Van Sant",
+                            "original_name": "Gus Van Sant",
+                            "popularity": 5.784,
+                            "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lillie Mae Faulk",
+                            "credit_id": "65d8d20f3520e80187d61bf8",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4431,
+                            "known_for_department": "Acting",
+                            "name": "Jessica Lange",
+                            "original_name": "Jessica Lange",
+                            "popularity": 13.073,
+                            "profile_path": "/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+                        },
+                        {
+                            "character": "Jimmy Woodward",
+                            "credit_id": "65d8d24af10a1a016322f935",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2272625,
+                            "known_for_department": "Acting",
+                            "name": "Hudson Oz",
+                            "original_name": "Hudson Oz",
+                            "popularity": 34.437,
+                            "profile_path": "/vpjvHMpOY1wStHDxhfxZugDylI2.jpg"
+                        },
+                        {
+                            "character": "Katharine Graham",
+                            "credit_id": "65d8d2e4564ec70163f832d2",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 164094,
+                            "known_for_department": "Acting",
+                            "name": "Marin Ireland",
+                            "original_name": "Marin Ireland",
+                            "popularity": 7.897,
+                            "profile_path": "/eIjze73FLJ0vVB3pTC3K9r3RA5i.jpg"
+                        },
+                        {
+                            "character": "Pamela Harriman",
+                            "credit_id": "65d8d2f1a3e4ba0163533a0c",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1257565,
+                            "known_for_department": "Acting",
+                            "name": "Alison Wright",
+                            "original_name": "Alison Wright",
+                            "popularity": 5.921,
+                            "profile_path": "/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+                        },
+                        {
+                            "character": "Albert Maysles",
+                            "credit_id": "65d8d2fe223e2001634df43f",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 558517,
+                            "known_for_department": "Acting",
+                            "name": "Pawel Szajda",
+                            "original_name": "Pawel Szajda",
+                            "popularity": 5.148,
+                            "profile_path": "/1ZXXAOfMWj76T6kZpl14P5VOCiP.jpg"
+                        },
+                        {
+                            "character": "David Maysles",
+                            "credit_id": "65d8d3390f0da50162321333",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4006619,
+                            "known_for_department": "Acting",
+                            "name": "Yuval David",
+                            "original_name": "Yuval David",
+                            "popularity": 0.923,
+                            "profile_path": "/AvMGCV2C8xnLuTFx0z4o7bFWAAK.jpg"
+                        },
+                        {
+                            "character": "Jacob Horn",
+                            "credit_id": "65d8d352fc5f060185ca6c5e",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 15031,
+                            "known_for_department": "Acting",
+                            "name": "Patrick Breen",
+                            "original_name": "Patrick Breen",
+                            "popularity": 3.034,
+                            "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4244583,
+                    "name": "It's Impossible",
+                    "overview": "Babe makes peace with a harsh reality. Truman makes an effort to get sober.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/uKuxsyXKOQoycGKOFhxBqdDaf63.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae265be00e0163acb2e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5216,
+                            "known_for_department": "Directing",
+                            "name": "Gus Van Sant",
+                            "original_name": "Gus Van Sant",
+                            "popularity": 5.784,
+                            "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Kerry O'Shea",
+                            "credit_id": "65d8d26b42f19f018619c9a7",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4481381,
+                            "known_for_department": "Acting",
+                            "name": "Ella Beatty",
+                            "original_name": "Ella Beatty",
+                            "popularity": 0.017,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Dr. Bernard Magnin",
+                            "credit_id": "65d8d392223e2001864df548",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1326237,
+                            "known_for_department": "Acting",
+                            "name": "Ned Van Zandt",
+                            "original_name": "Ned Van Zandt",
+                            "popularity": 1.38,
+                            "profile_path": "/lJK2Bk79xhP133piZ03p4d6rsD0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4244585,
+                    "name": "The Secret Inner Lives of Swans",
+                    "overview": "November 1975, the day after the Esquire article is published, Truman receives an inspiring visit from a fellow writer.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/aincenHbv0Ql0tYDC5VQ5YGTVh9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae838c31590149389973",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 213614,
+                            "known_for_department": "Directing",
+                            "name": "Max Winkler",
+                            "original_name": "Max Winkler",
+                            "popularity": 2.567,
+                            "profile_path": "/m2muv3nWCJEGTFLGSiQKF22vG6a.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "James Baldwin",
+                            "credit_id": "65d8d3d3fc5f060162ca6b03",
+                            "order": 531,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 172096,
+                            "known_for_department": "Acting",
+                            "name": "Chris Chalk",
+                            "original_name": "Chris Chalk",
+                            "popularity": 1.641,
+                            "profile_path": "/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+                        },
+                        {
+                            "character": "Matt",
+                            "credit_id": "65d8d3dc0f0da50162321393",
+                            "order": 532,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2517086,
+                            "known_for_department": "Acting",
+                            "name": "Will Hochman",
+                            "original_name": "Will Hochman",
+                            "popularity": 2.186,
+                            "profile_path": "/6uH1b0Oo6xfm4fTDLTO4mzwnbXi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4244584,
+                    "name": "Hats, Gloves and Effete Homosexuals",
+                    "overview": "In New York, it's the end of an era. In California, Truman tries to usher in a new era with a hunky beau.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/5cS3TLEBvKkT64W5wIMBxDwCO1U.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbae265be00e0163acb2e9",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5216,
+                            "known_for_department": "Directing",
+                            "name": "Gus Van Sant",
+                            "original_name": "Gus Van Sant",
+                            "popularity": 5.784,
+                            "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-06",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4244586,
+                    "name": "Beautiful Babe",
+                    "overview": "Babe reflects on her life and her greatest treasures. Truman and the Swans reel in the fallout of a tragedy.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/n6KnQ8E7LCStpDrGwieLc7yuzdn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6453af3833ad8f01728e1db4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69697,
+                            "known_for_department": "Writing",
+                            "name": "Jon Robin Baitz",
+                            "original_name": "Jon Robin Baitz",
+                            "popularity": 0.553,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65cbaea412970c017bc6a74a",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 14800,
+                            "known_for_department": "Directing",
+                            "name": "Jennifer Lynch",
+                            "original_name": "Jennifer Lynch",
+                            "popularity": 3.947,
+                            "profile_path": "/gdrZU7gTBo8dvWV9wxXqJ305QNW.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-13",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4244587,
+                    "name": "Phantasm Forgiveness",
+                    "overview": "Past, present and future collide as Truman makes a final push to finish Answered Prayers.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 2,
+                    "show_id": 69851,
+                    "still_path": "/lmfEayMzLII8oIiyqSrxvc8ewI7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Capote vs. the Swans",
+            "overview": "Truman Capote surrounded himself with some of society's most elite women, whom he nicknamed \"the swans,\" but his act of betrayal destroyed those relationships, banished him from high society and sent him into a spiral of self-destruction.",
+            "id": 308975,
+            "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+            "season_number": 2,
+            "vote_average": 5.4
+        }
+    }
+}

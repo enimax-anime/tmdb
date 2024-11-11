@@ -1,0 +1,322 @@
+{
+    "adult": false,
+    "backdrop_path": "/sgbDzeZZH66XpxTikec9Is2COS0.jpg",
+    "created_by": [
+        {
+            "id": 2869079,
+            "credit_id": "65e3f6519ee0ef018570689c",
+            "name": "Alex Stone",
+            "original_name": "Alex Stone",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2020-11-27",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.syfy.com/the-movie-show",
+    "id": 113673,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-02-17",
+    "last_episode_to_air": {
+        "id": 2709464,
+        "name": "The Movie Show Does a Finale",
+        "overview": "Deb and Wade discuss Godzilla Vs Kong, and Gary reveals a hidden talent.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-02-17",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 113673,
+        "still_path": null
+    },
+    "name": "The Movie Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 77,
+            "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+            "name": "Syfy",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Movie Show",
+    "overview": "This public access movie review show that tapes deep in the heart of Modesto, California, is hosted by polar opposites, Deb and Wade, who have nothing in common other than their shared love of movies and the fact that they're both puppets.",
+    "popularity": 0.874,
+    "poster_path": "/aTnYkfhgjttqaYbjiaF4KArXpnB.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-11-27",
+            "episode_count": 12,
+            "id": 169983,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ovXLSXTovsUiuONmcgx06mPJUf.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Hot Hollywood takes from real Hollywood dummies.",
+    "type": "Scripted",
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5fbd83d1323eba0040fb8d0a",
+            "air_date": "2020-11-27",
+            "episodes": [
+                {
+                    "air_date": "2020-11-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2527774,
+                    "name": "The Movie Show Does Big Sharks",
+                    "overview": "Interview with the writer of \"The Meg.\"",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": "/pOSHVuZ3Q14GZATHNnhuSOHJ6mz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2527776,
+                    "name": "The Movie Show Does Batman",
+                    "overview": "Deb announces the world is ending, and Wade makes a Batman musical.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": "/zxJz5S6ImOVT6PITc6jR4nlVWHD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2527777,
+                    "name": "The Movie Show Does Horror",
+                    "overview": "Deb and Wade discuss Halloween, and a killer is on the loose in the studio.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2527784,
+                    "name": "The Movie Show Does Stunts",
+                    "overview": "Deb and Wade discuss the new Marvel film “Black Widow,” and Wade becomes a stunt man.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2567809,
+                    "name": "The Movie Show Does Assassins",
+                    "overview": "On this episode Deb and Wade catch up with Splinter from TMNT, and Gary gets into jazz.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2626901,
+                    "name": "The Movie Show Does Wingmen",
+                    "overview": "Deb and Wade discuss Top Gun: Maverick, and Wade interviews wingmen.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Timmy",
+                            "credit_id": "5ffa6b541c0435003ebd1c97",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1954921,
+                            "known_for_department": "Acting",
+                            "name": "Jonathan Tysor",
+                            "original_name": "Jonathan Tysor",
+                            "popularity": 1.155,
+                            "profile_path": "/90MkQDPc7XQA87ibVnO0WChMbkC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-01-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2673948,
+                    "name": "The Movie Show Does Marvel",
+                    "overview": "Wade and Deb discuss Thor: the raccoon has a gun, Love and Thunder.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-21",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2673949,
+                    "name": "The Movie Show Does Ghosts",
+                    "overview": "Deb and Wade discuss Ghostbusters: Afterlife, and the studio has ghost bugs.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-28",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2685383,
+                    "name": "The Movie Show Does 1995",
+                    "overview": "Deb and Wade time travel to 1995, where they talk about Seven and Apollo 13.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-03",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2709462,
+                    "name": "The Movie Show Does Romance",
+                    "overview": "Deb and Wade discuss Love and Monsters, and Uncle Ben finally gets to live.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-10",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2709463,
+                    "name": "The Movie Show Does Space",
+                    "overview": "Deb and Wade discuss the new Dune reboot, and Randy finds love.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-17",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 2709464,
+                    "name": "The Movie Show Does a Finale",
+                    "overview": "Deb and Wade discuss Godzilla Vs Kong, and Gary reveals a hidden talent.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 113673,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 169983,
+            "poster_path": "/ovXLSXTovsUiuONmcgx06mPJUf.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

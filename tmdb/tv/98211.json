@@ -1,0 +1,333 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2230468,
+            "credit_id": "5e2566065ed8e900176204eb",
+            "name": "Eric Delafosse",
+            "original_name": "Eric Delafosse",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        26,
+        52
+    ],
+    "first_air_date": "2019-10-17",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.france.tv/france-o/tahiti-pk0/",
+    "id": 98211,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2019-10-31",
+    "last_episode_to_air": {
+        "id": 2056491,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-31",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 98211,
+        "still_path": null
+    },
+    "name": "Tahiti PK.0",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2684,
+            "logo_path": null,
+            "name": "Polynésie 1ère",
+            "origin_country": ""
+        },
+        {
+            "id": 2984,
+            "logo_path": "/lpId2P6HEua9uadMpGDwUsc8T9V.png",
+            "name": "France Ô",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Tahiti PK.0",
+    "overview": "",
+    "popularity": 1.771,
+    "poster_path": "/hIhKsWa68yYhZ9plMc42w2dKB51.jpg",
+    "production_companies": [
+        {
+            "id": 128014,
+            "logo_path": null,
+            "name": "Pacific TV Productions Tahiti",
+            "origin_country": ""
+        },
+        {
+            "id": 128015,
+            "logo_path": null,
+            "name": "Monde et Médias TV",
+            "origin_country": ""
+        },
+        {
+            "id": 7131,
+            "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+            "name": "France Télévisions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-17",
+            "episode_count": 6,
+            "id": 141391,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 316093,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5e25654fbfeb8b0013d577a2",
+            "air_date": "2019-10-17",
+            "episodes": [
+                {
+                    "air_date": "2019-10-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2056474,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": "/zuIgfovm9Is47wc4l50MzJHV05M.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2056487,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2056488,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": "/mQ1rvTOTDhyfDHC9BjlgAUUxStw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2056489,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2056490,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2056491,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 141391,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "636f74b3d7fbda00e7b7e5ee",
+            "air_date": null,
+            "episodes": [
+                {
+                    "air_date": null,
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4051059,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4051060,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4051061,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4051062,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 98211,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 316093,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2015-05-28",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 76686,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2015-05-28",
+    "last_episode_to_air": {
+        "id": 1424670,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-05-28",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 76686,
+        "still_path": "/sJ9TzU3wZx6PZunzTSv9kJpPKyM.jpg"
+    },
+    "name": "Intrusion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 662,
+            "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+            "name": "Arte",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "fr",
+    "original_name": "Intrusion",
+    "overview": "Renowned pianist Philippe Kessler is preparing for an important recital. But recently, sounds and images seem deformed around him, as if one reality was superimposed on another. Worrying that he is going mad, he gradually withdraws into himself. The evening of the recital, he collapses at his piano...",
+    "popularity": 12.995,
+    "poster_path": "/aS99cs0TtfkWQ1J4qXaxjvexCIl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-05-28",
+            "episode_count": 3,
+            "id": 98532,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.875,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5a6d08f5925141076c00d6f8",
+            "air_date": "2015-05-28",
+            "episodes": [
+                {
+                    "air_date": "2015-05-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1424668,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 76686,
+                    "still_path": "/pBjooYnV8sMFe7V5qp7jJ7IGuHi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-05-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1424669,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 76686,
+                    "still_path": "/9gyTj8Zc0tS5RAXgNZk5o0nfj1C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-05-28",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1424670,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 76686,
+                    "still_path": "/sJ9TzU3wZx6PZunzTSv9kJpPKyM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 98532,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "adult": false,
+    "backdrop_path": "/6f3jIBHZO5d0iKJYPgTZqblFKIQ.jpg",
+    "created_by": [
+        {
+            "id": 3852557,
+            "credit_id": "6532989ad13324011c92f265",
+            "name": "Lucas Taylor",
+            "original_name": "Lucas Taylor",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2023-05-24",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 217828,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2023-06-28",
+    "last_episode_to_air": {
+        "id": 4467566,
+        "name": "Episode 6",
+        "overview": "As Charlie uncovers the mystery of the missing $30k, it only raises more questions as to why Nate chose to end his life.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-28",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 28,
+        "season_number": 1,
+        "show_id": 217828,
+        "still_path": "/syzhiBrQXQsdtWtDBi4VCLvDnI0.jpg"
+    },
+    "name": "In Limbo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 18,
+            "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+            "name": "ABC TV",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "In Limbo",
+    "overview": "Loss and laughs collide in Limbo, which explores the compelling and charmingly funny story of best friends Charlie and Nate as they’re faced with how hard it is to let go of those we love - especially when they're taken too soon. And when they come back to haunt you. Literally.",
+    "popularity": 5.029,
+    "poster_path": "/w4VgvSqUkrnEOkVqRzkk9aRQvUV.jpg",
+    "production_companies": [
+        {
+            "id": 86737,
+            "logo_path": "/7GLxzRtguRlYPUOncFoWXGFqjaa.png",
+            "name": "Bunya Productions",
+            "origin_country": "AU"
+        },
+        {
+            "id": 78466,
+            "logo_path": null,
+            "name": "Heiress Films",
+            "origin_country": "AU"
+        },
+        {
+            "id": 1253,
+            "logo_path": "/6f0A0AqIPHYheRb90tVMutuzSnP.png",
+            "name": "Australian Broadcasting Corporation",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-05-24",
+            "episode_count": 6,
+            "id": 323197,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "63b8916b50f7ca00a0ad2d3c",
+            "air_date": "2023-05-24",
+            "episodes": [
+                {
+                    "air_date": "2023-05-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4143956,
+                    "name": "Episode 1",
+                    "overview": "Charlie is rocked by grief when his best friend, Nate, dies. But Nate soon returns as a ghost trapped in limbo, and he needs Charlie's help to break free.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/nAxc3q8vjWaZ1bxrSLQyN0JU3SA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6532969c6d9fe800ac8900f1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1539690,
+                            "known_for_department": "Directing",
+                            "name": "Trent O'Donnell",
+                            "original_name": "Trent O'Donnell",
+                            "popularity": 1.344,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "653296c8efe37c00aef26c2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3852557,
+                            "known_for_department": "Production",
+                            "name": "Lucas Taylor",
+                            "original_name": "Lucas Taylor",
+                            "popularity": 0.085,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lily",
+                            "credit_id": "653298b16d9fe800ac89022d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1406954,
+                            "known_for_department": "Acting",
+                            "name": "Philippa Northeast",
+                            "original_name": "Philippa Northeast",
+                            "popularity": 8.957,
+                            "profile_path": "/w9xeqgMjByuTS2FxUuYbrbAcus3.jpg"
+                        },
+                        {
+                            "character": "Solomon",
+                            "credit_id": "653298bb48138200ac3a45f3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2626180,
+                            "known_for_department": "Acting",
+                            "name": "Michael Logo",
+                            "original_name": "Michael Logo",
+                            "popularity": 2.468,
+                            "profile_path": "/5cB0ENHqemY19DsMZyXF9tQ5a03.jpg"
+                        },
+                        {
+                            "character": "Tommy",
+                            "credit_id": "653298e1efe37c00e42d5e43",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1709869,
+                            "known_for_department": "Acting",
+                            "name": "Damien Thomlinson",
+                            "original_name": "Damien Thomlinson",
+                            "popularity": 0.444,
+                            "profile_path": "/bzFrAnl8JWQjpzmDqHByXA31NMY.jpg"
+                        },
+                        {
+                            "character": "Detective Blythe",
+                            "credit_id": "653298ee9ac5350877563ff4",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 94871,
+                            "known_for_department": "Acting",
+                            "name": "Anita Hegh",
+                            "original_name": "Anita Hegh",
+                            "popularity": 1.306,
+                            "profile_path": "/agMhKBpzNDd7n3K42qylRHye7qZ.jpg"
+                        },
+                        {
+                            "character": "Young Nate",
+                            "credit_id": "653298ffefe37c01013941aa",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2449431,
+                            "known_for_department": "Acting",
+                            "name": "Oliver De Los Santos",
+                            "original_name": "Oliver De Los Santos",
+                            "popularity": 0.049,
+                            "profile_path": "/x6SVZDcT2gySNfFqhQoLl7G3ZN0.jpg"
+                        },
+                        {
+                            "character": "Young Charlie",
+                            "credit_id": "6532992b481382011c21236c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330553,
+                            "known_for_department": "Acting",
+                            "name": "Valentino D'Adderio",
+                            "original_name": "Valentino D'Adderio",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-05-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4467559,
+                    "name": "Episode 2",
+                    "overview": "Freya and Charlie are shocked to discover that Nate transferred $30,000 to a secret bank account before he died. What kind of trouble was he in? Meanwhile, Nate enlists Charlie's help in a bid to rescue him from limbo.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/hZzpGu38Ljz293ZhAb58fnMS4JM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6532969c6d9fe800ac8900f1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1539690,
+                            "known_for_department": "Directing",
+                            "name": "Trent O'Donnell",
+                            "original_name": "Trent O'Donnell",
+                            "popularity": 1.344,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "653296c8efe37c00aef26c2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3852557,
+                            "known_for_department": "Production",
+                            "name": "Lucas Taylor",
+                            "original_name": "Lucas Taylor",
+                            "popularity": 0.085,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Young Nate",
+                            "credit_id": "653298ffefe37c01013941aa",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2449431,
+                            "known_for_department": "Acting",
+                            "name": "Oliver De Los Santos",
+                            "original_name": "Oliver De Los Santos",
+                            "popularity": 0.049,
+                            "profile_path": "/x6SVZDcT2gySNfFqhQoLl7G3ZN0.jpg"
+                        },
+                        {
+                            "character": "Young Charlie",
+                            "credit_id": "6532992b481382011c21236c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330553,
+                            "known_for_department": "Acting",
+                            "name": "Valentino D'Adderio",
+                            "original_name": "Valentino D'Adderio",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Conrad",
+                            "credit_id": "65329952efe37c00e42d5e86",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1014586,
+                            "known_for_department": "Acting",
+                            "name": "Christopher Sommers",
+                            "original_name": "Christopher Sommers",
+                            "popularity": 3.174,
+                            "profile_path": "/e86eKSvV5gr1qihDfG8Lpya04OC.jpg"
+                        },
+                        {
+                            "character": "Bank Worker Suzie",
+                            "credit_id": "653299b68d22fc010b71fabb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2453994,
+                            "known_for_department": "Acting",
+                            "name": "Alex McTavish",
+                            "original_name": "Alex McTavish",
+                            "popularity": 0.006,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Flintoff",
+                            "credit_id": "65329a2d8d22fc014d7cc66a",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1985781,
+                            "known_for_department": "Acting",
+                            "name": "Rafferty Grierson",
+                            "original_name": "Rafferty Grierson",
+                            "popularity": 0.022,
+                            "profile_path": "/5PMWHxzlqlMxCJBJOFbPDEK5cND.jpg"
+                        },
+                        {
+                            "character": "Bentley",
+                            "credit_id": "65329a4c9ac53508786a2ac7",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330567,
+                            "known_for_department": "Acting",
+                            "name": "Harry Beckwith",
+                            "original_name": "Harry Beckwith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Bentley's Dad",
+                            "credit_id": "65329a6648138201397307bc",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330570,
+                            "known_for_department": "Acting",
+                            "name": "Mike Bemrose",
+                            "original_name": "Mike Bemrose",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4467560,
+                    "name": "Episode 3",
+                    "overview": "It's Nate's funeral and all Charlie's angst and preparation over the eulogy comes to a head. Freya also discovers the missing $30k was transferred to a secret account by Nate.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/dEGp8fRCmDDfgUKr5zgsyR7X0kF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65329704481382011c2121ff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1480151,
+                            "known_for_department": "Directing",
+                            "name": "David Stubbs",
+                            "original_name": "David Stubbs",
+                            "popularity": 0.079,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65329761efe37c01013940cc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2646030,
+                            "known_for_department": "Writing",
+                            "name": "Tamara Asmar",
+                            "original_name": "Tamara Asmar",
+                            "popularity": 0.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lily",
+                            "credit_id": "653298b16d9fe800ac89022d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1406954,
+                            "known_for_department": "Acting",
+                            "name": "Philippa Northeast",
+                            "original_name": "Philippa Northeast",
+                            "popularity": 8.957,
+                            "profile_path": "/w9xeqgMjByuTS2FxUuYbrbAcus3.jpg"
+                        },
+                        {
+                            "character": "Solomon",
+                            "credit_id": "653298bb48138200ac3a45f3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2626180,
+                            "known_for_department": "Acting",
+                            "name": "Michael Logo",
+                            "original_name": "Michael Logo",
+                            "popularity": 2.468,
+                            "profile_path": "/5cB0ENHqemY19DsMZyXF9tQ5a03.jpg"
+                        },
+                        {
+                            "character": "Tommy",
+                            "credit_id": "653298e1efe37c00e42d5e43",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1709869,
+                            "known_for_department": "Acting",
+                            "name": "Damien Thomlinson",
+                            "original_name": "Damien Thomlinson",
+                            "popularity": 0.444,
+                            "profile_path": "/bzFrAnl8JWQjpzmDqHByXA31NMY.jpg"
+                        },
+                        {
+                            "character": "Young Nate",
+                            "credit_id": "653298ffefe37c01013941aa",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2449431,
+                            "known_for_department": "Acting",
+                            "name": "Oliver De Los Santos",
+                            "original_name": "Oliver De Los Santos",
+                            "popularity": 0.049,
+                            "profile_path": "/x6SVZDcT2gySNfFqhQoLl7G3ZN0.jpg"
+                        },
+                        {
+                            "character": "Young Charlie",
+                            "credit_id": "6532992b481382011c21236c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330553,
+                            "known_for_department": "Acting",
+                            "name": "Valentino D'Adderio",
+                            "original_name": "Valentino D'Adderio",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nanna Grace",
+                            "credit_id": "65329a9b8d22fc010b71fb47",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3044778,
+                            "known_for_department": "Acting",
+                            "name": "Jan Nary",
+                            "original_name": "Jan Nary",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Dominatrix",
+                            "credit_id": "65329b0a8d22fc010b71fb8e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330573,
+                            "known_for_department": "Acting",
+                            "name": "Rachael Hale",
+                            "original_name": "Rachael Hale",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Bartender at Wake",
+                            "credit_id": "65329b2e481382011c212489",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330574,
+                            "known_for_department": "Acting",
+                            "name": "Kai Johnson",
+                            "original_name": "Kai Johnson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4467561,
+                    "name": "Episode 4",
+                    "overview": "Charlie and Freya seek comfort in each other, blurring the lines of their friendship. A mystery package arrives on Freya's doorstep that raises further questions about the final days of Nate's life.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/yM21MxfUsH4h0DNiqpGHqyT90FY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "653296c8efe37c00aef26c2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3852557,
+                            "known_for_department": "Production",
+                            "name": "Lucas Taylor",
+                            "original_name": "Lucas Taylor",
+                            "popularity": 0.085,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65329704481382011c2121ff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1480151,
+                            "known_for_department": "Directing",
+                            "name": "David Stubbs",
+                            "original_name": "David Stubbs",
+                            "popularity": 0.079,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lily",
+                            "credit_id": "653298b16d9fe800ac89022d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1406954,
+                            "known_for_department": "Acting",
+                            "name": "Philippa Northeast",
+                            "original_name": "Philippa Northeast",
+                            "popularity": 8.957,
+                            "profile_path": "/w9xeqgMjByuTS2FxUuYbrbAcus3.jpg"
+                        },
+                        {
+                            "character": "Tommy",
+                            "credit_id": "653298e1efe37c00e42d5e43",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1709869,
+                            "known_for_department": "Acting",
+                            "name": "Damien Thomlinson",
+                            "original_name": "Damien Thomlinson",
+                            "popularity": 0.444,
+                            "profile_path": "/bzFrAnl8JWQjpzmDqHByXA31NMY.jpg"
+                        },
+                        {
+                            "character": "Young Nate",
+                            "credit_id": "653298ffefe37c01013941aa",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2449431,
+                            "known_for_department": "Acting",
+                            "name": "Oliver De Los Santos",
+                            "original_name": "Oliver De Los Santos",
+                            "popularity": 0.049,
+                            "profile_path": "/x6SVZDcT2gySNfFqhQoLl7G3ZN0.jpg"
+                        },
+                        {
+                            "character": "Young Charlie",
+                            "credit_id": "6532992b481382011c21236c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330553,
+                            "known_for_department": "Acting",
+                            "name": "Valentino D'Adderio",
+                            "original_name": "Valentino D'Adderio",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nanna Grace",
+                            "credit_id": "65329a9b8d22fc010b71fb47",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3044778,
+                            "known_for_department": "Acting",
+                            "name": "Jan Nary",
+                            "original_name": "Jan Nary",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Dominatrix",
+                            "credit_id": "65329b0a8d22fc010b71fb8e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330573,
+                            "known_for_department": "Acting",
+                            "name": "Rachael Hale",
+                            "original_name": "Rachael Hale",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Johan",
+                            "credit_id": "6532a68f9ac53508752f64d9",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1281967,
+                            "known_for_department": "Acting",
+                            "name": "Josh McConville",
+                            "original_name": "Josh McConville",
+                            "popularity": 2.668,
+                            "profile_path": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg"
+                        },
+                        {
+                            "character": "Shop Assistant Min",
+                            "credit_id": "6532a70c6f8d9500ac5d1c0d",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4330622,
+                            "known_for_department": "Acting",
+                            "name": "Jeanda St James",
+                            "original_name": "Jeanda St James",
+                            "popularity": 0.067,
+                            "profile_path": "/snus01hIezKYXaqtMKepDngyzLl.jpg"
+                        },
+                        {
+                            "character": "Shopper Lisa",
+                            "credit_id": "6532a71cd133240139996365",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2634112,
+                            "known_for_department": "Acting",
+                            "name": "Jacy Lewis",
+                            "original_name": "Jacy Lewis",
+                            "popularity": 1.5,
+                            "profile_path": "/f0rtNwJD6aVYTsGwh4WY9DfcWgE.jpg"
+                        },
+                        {
+                            "character": "Security Guard Blake",
+                            "credit_id": "6532a75948138200c5e431ae",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330624,
+                            "known_for_department": "Acting",
+                            "name": "Trevor Vanstone",
+                            "original_name": "Trevor Vanstone",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4467562,
+                    "name": "Episode 5",
+                    "overview": "Charlie is determined to uncover the truth about the $30K, as Jay warns him against getting too close to Freya.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/7brkj3DsyJ9Wpct3TuqSBBmUuCX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65329704481382011c2121ff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1480151,
+                            "known_for_department": "Directing",
+                            "name": "David Stubbs",
+                            "original_name": "David Stubbs",
+                            "popularity": 0.079,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65329761efe37c01013940cc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2646030,
+                            "known_for_department": "Writing",
+                            "name": "Tamara Asmar",
+                            "original_name": "Tamara Asmar",
+                            "popularity": 0.025,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Solomon",
+                            "credit_id": "653298bb48138200ac3a45f3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2626180,
+                            "known_for_department": "Acting",
+                            "name": "Michael Logo",
+                            "original_name": "Michael Logo",
+                            "popularity": 2.468,
+                            "profile_path": "/5cB0ENHqemY19DsMZyXF9tQ5a03.jpg"
+                        },
+                        {
+                            "character": "Bank Worker Suzie",
+                            "credit_id": "653299b68d22fc010b71fabb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2453994,
+                            "known_for_department": "Acting",
+                            "name": "Alex McTavish",
+                            "original_name": "Alex McTavish",
+                            "popularity": 0.006,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Wayne",
+                            "credit_id": "6532a7896d9fe8011b9612e2",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1779165,
+                            "known_for_department": "Acting",
+                            "name": "Jordi Webber",
+                            "original_name": "Jordi Webber",
+                            "popularity": 2.769,
+                            "profile_path": "/uXQCfPGydlGEJ5xKJH82bwiW680.jpg"
+                        },
+                        {
+                            "character": "Al King's Daughter Ella",
+                            "credit_id": "6532a7c0b2681f00e13ade7f",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4330628,
+                            "known_for_department": "Acting",
+                            "name": "Isabella Painter",
+                            "original_name": "Isabella Painter",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Fire Twirler 1",
+                            "credit_id": "6532a7d66f8d95014d6ac253",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3639276,
+                            "known_for_department": "Acting",
+                            "name": "Bridget Burt",
+                            "original_name": "Bridget Burt",
+                            "popularity": 0.759,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Fire Twirler 2",
+                            "credit_id": "6532a7e5efe37c013b460171",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1673395,
+                            "known_for_department": "Acting",
+                            "name": "Brigette Paroissien",
+                            "original_name": "Brigette Paroissien",
+                            "popularity": 0.219,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Charlie Stunt Double",
+                            "credit_id": "6532a7f9efe37c00aef27512",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1476960,
+                            "known_for_department": "Acting",
+                            "name": "Gulliver Page",
+                            "original_name": "Gulliver Page",
+                            "popularity": 1.116,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nate Stunt Double",
+                            "credit_id": "6532a8139ac53508763d1325",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3585651,
+                            "known_for_department": "Acting",
+                            "name": "Matt De Souza",
+                            "original_name": "Matt De Souza",
+                            "popularity": 0.233,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-28",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4467566,
+                    "name": "Episode 6",
+                    "overview": "As Charlie uncovers the mystery of the missing $30k, it only raises more questions as to why Nate chose to end his life.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 217828,
+                    "still_path": "/syzhiBrQXQsdtWtDBi4VCLvDnI0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "653296c8efe37c00aef26c2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3852557,
+                            "known_for_department": "Production",
+                            "name": "Lucas Taylor",
+                            "original_name": "Lucas Taylor",
+                            "popularity": 0.085,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65329704481382011c2121ff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1480151,
+                            "known_for_department": "Directing",
+                            "name": "David Stubbs",
+                            "original_name": "David Stubbs",
+                            "popularity": 0.079,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lily",
+                            "credit_id": "653298b16d9fe800ac89022d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1406954,
+                            "known_for_department": "Acting",
+                            "name": "Philippa Northeast",
+                            "original_name": "Philippa Northeast",
+                            "popularity": 8.957,
+                            "profile_path": "/w9xeqgMjByuTS2FxUuYbrbAcus3.jpg"
+                        },
+                        {
+                            "character": "Johan",
+                            "credit_id": "6532a68f9ac53508752f64d9",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1281967,
+                            "known_for_department": "Acting",
+                            "name": "Josh McConville",
+                            "original_name": "Josh McConville",
+                            "popularity": 2.668,
+                            "profile_path": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg"
+                        },
+                        {
+                            "character": "Al King",
+                            "credit_id": "6532a8606d9fe800e1aca1be",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1542088,
+                            "known_for_department": "Acting",
+                            "name": "Vanessa Moltzen",
+                            "original_name": "Vanessa Moltzen",
+                            "popularity": 0.006,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Therapist",
+                            "credit_id": "6532a86cd1332400acfd901f",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1640614,
+                            "known_for_department": "Production",
+                            "name": "Jennifer Cummins",
+                            "original_name": "Jennifer Cummins",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 323197,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

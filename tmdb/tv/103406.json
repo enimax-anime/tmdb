@@ -1,0 +1,226 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-05-09",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 103406,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2020-05-30",
+    "last_episode_to_air": {
+        "id": 2268472,
+        "name": "Episode 4",
+        "overview": "Rounding out the special, episode four will feature Wil Anderson as MC, plus Claire Hooper, Aaron Chen, Steph Tisdell, Michelle Brasier, and emerging talent Blake Freeman.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-05-30",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 103406,
+        "still_path": null
+    },
+    "name": "Australian Lockdown Comedy Festival",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1255,
+            "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+            "name": "Stan",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Australian Lockdown Comedy Festival",
+    "overview": "A four-part Stan Original comedy series featuring over 20 of Australia’s favourite comedians including Dave Hughes, Cal Wilson, Nazeem Hussain, Wil Anderson, and more, performing stand-up comedy from their own homes. Dealing with the highs and lows of lockdown, over 20 of Australia’s biggest comedians are putting on performances from the comfort of their own homes. You’ll see them in their bathrooms, bathrobes, baths, bedrooms and kitchens but most importantly, they'll be streamed directly into our homes ready to make us laugh.",
+    "popularity": 0.973,
+    "poster_path": "/rQ1YJ1lK8Cfmz7rzt3kLjPhYMqk.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-05-09",
+            "episode_count": 4,
+            "id": 150703,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5eba9bb0bbe1dd0021888d22",
+            "air_date": "2020-05-09",
+            "episodes": [
+                {
+                    "air_date": "2020-05-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2268331,
+                    "name": "Episode 1",
+                    "overview": "MC Dave Hughes performs to his toughest crowd - his kids - and brings you performances from Tom Ballard, Becky Lucas, Randy Feltface, Nikki Britton and Oliver Twist.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5eba9e0667b61300210e1fad",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 96582,
+                            "known_for_department": "Acting",
+                            "name": "Dave Hughes",
+                            "original_name": "Dave Hughes",
+                            "popularity": 1.078,
+                            "profile_path": "/wEzZ5oxvjl0idgCdhwIdxIRBSFa.jpg"
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5eba9e28bbe1dd00218890c5",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1454585,
+                            "known_for_department": "Acting",
+                            "name": "Tom Ballard",
+                            "original_name": "Tom Ballard",
+                            "popularity": 0.615,
+                            "profile_path": "/4RFNUACAByLGwyjLVuiBvNwZQen.jpg"
+                        },
+                        {
+                            "character": "Herself",
+                            "credit_id": "5ebaa3520cb3350020d4a0a3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1960546,
+                            "known_for_department": "Writing",
+                            "name": "Becky Lucas",
+                            "original_name": "Becky Lucas",
+                            "popularity": 0.479,
+                            "profile_path": "/6YxVWJrEOAJ8BN0TG3py5COQWPY.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "5ebaa370bbe1dd002085e2b7",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1253370,
+                            "known_for_department": "Acting",
+                            "name": "Heath McIvor",
+                            "original_name": "Heath McIvor",
+                            "popularity": 10.063,
+                            "profile_path": "/w83bqoC2kcbesExfT9PLA6t0sYv.jpg"
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5ebaa800cc277c002172cef8",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2635694,
+                            "known_for_department": "Acting",
+                            "name": "Oliver Twist",
+                            "original_name": "Oliver Twist",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2268463,
+                    "name": "Episode 2",
+                    "overview": "The second instalment of the comedy special will feature MC Nazeem Hussain, along with Zoë Coombs Marr, Dilruk Jayasinha, Nath Valvo, Demi Lardner & Tom Walker, plus emerging talent Lauren Bonner.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2268468,
+                    "name": "Episode 3",
+                    "overview": "Episode three will see Cal Wilson taking up the MC spot, while other comedians include Tommy Little, Geraldine Hickey, Sam Campbell, Sam Taunton and newcomer Bec Charlwood.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-30",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2268472,
+                    "name": "Episode 4",
+                    "overview": "Rounding out the special, episode four will feature Wil Anderson as MC, plus Claire Hooper, Aaron Chen, Steph Tisdell, Michelle Brasier, and emerging talent Blake Freeman.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 150703,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

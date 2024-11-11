@@ -1,0 +1,672 @@
+{
+    "adult": false,
+    "backdrop_path": "/smoEikTBxyuBLO1UF31M1ulqRj8.jpg",
+    "created_by": [
+        {
+            "id": 51895,
+            "credit_id": "60c4c6d3a76ac50040f36dac",
+            "name": "Sergio G. Sánchez",
+            "gender": 2,
+            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-08-19",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80241472",
+    "id": 127424,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2022-08-19",
+    "last_episode_to_air": {
+        "id": 3020660,
+        "name": "Return",
+        "overview": "Tom pays tribute to his classmates and then makes a decision about his future. Alma struggles with saying goodbye. Martín attempts to move forward.",
+        "vote_average": 4,
+        "vote_count": 1,
+        "air_date": "2022-08-19",
+        "episode_number": 9,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 127424,
+        "still_path": "/aOd4zxGrnZbZzyvtTxB9rBTCR7m.jpg"
+    },
+    "name": "The Girl in the Mirror",
+    "next_episode_to_air": {
+        "id": 4759050,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-08-16",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 127424,
+        "still_path": null
+    },
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Alma",
+    "overview": "After losing her memory in a bizarre accident that kills most of her classmates, Alma tries to unravel what happened that day — and regain her identity.",
+    "popularity": 9.989,
+    "poster_path": "/6xI0gpmNljWQRCkB8UgSraXRB56.jpg",
+    "production_companies": [
+        {
+            "id": 150328,
+            "logo_path": null,
+            "name": "Sospecha Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-19",
+            "episode_count": 9,
+            "id": 198979,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6xI0gpmNljWQRCkB8UgSraXRB56.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        },
+        {
+            "air_date": "2024-08-16",
+            "episode_count": 1,
+            "id": 358477,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 47,
+    "season_data": {
+        "1": {
+            "_id": "60c4c68848333a0079b5a44b",
+            "air_date": "2022-08-19",
+            "episodes": [
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3020652,
+                    "name": "Fog",
+                    "overview": "A high school class attends a retreat on a mountain, but on the way home, a horrific accident occurs with both fatal and inexplicable consequences.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/8WDnw7WQXz4B6OTQTSgUSIpiA.jpg",
+                    "vote_average": 5.5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63013236dfe31d0080104014",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3020653,
+                    "name": "Secrets",
+                    "overview": "Upon her return, Alma struggles to recover her memories, and she's intrigued by what feels familiar. Tom bids farewell to a friend.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/rne9aNLtMPGzQOnvmnTsv3tci4R.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63013236dfe31d0080104014",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63013258839d93008b610b6c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2091221,
+                            "known_for_department": "Writing",
+                            "name": "Paul Pen",
+                            "original_name": "Paul Pen",
+                            "popularity": 0.652,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3020654,
+                    "name": "Searching",
+                    "overview": "Diana implores Bruno to help her find her brother. Alma spends time with Tom in the hope of finding answers. A survivor discovers that he has powers.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/vEzcXPfc2DMpByfYGCwhoEiqoMG.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "630132657d41aa007e38b5c4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 582255,
+                            "known_for_department": "Directing",
+                            "name": "Kike Maíllo",
+                            "original_name": "Kike Maíllo",
+                            "popularity": 1.286,
+                            "profile_path": "/pwmOhK78tSX2IIFONUBfPtTNBPm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301328511c066007f8de43c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1614853,
+                            "known_for_department": "Writing",
+                            "name": "Teresa de Rosendo",
+                            "original_name": "Teresa de Rosendo",
+                            "popularity": 2.519,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3020655,
+                    "name": "Shadows",
+                    "overview": "Rumors about Carlos and pills continue to spread. Alma sorts through Deva's secret box. Bruno and company are shocked by visitors.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/ktrj1UwyIiPOOHDYra0AHMV2j1u.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63013258839d93008b610b6c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2091221,
+                            "known_for_department": "Writing",
+                            "name": "Paul Pen",
+                            "original_name": "Paul Pen",
+                            "popularity": 0.652,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "630132657d41aa007e38b5c4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 582255,
+                            "known_for_department": "Directing",
+                            "name": "Kike Maíllo",
+                            "original_name": "Kike Maíllo",
+                            "popularity": 1.286,
+                            "profile_path": "/pwmOhK78tSX2IIFONUBfPtTNBPm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301328511c066007f8de43c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1614853,
+                            "known_for_department": "Writing",
+                            "name": "Teresa de Rosendo",
+                            "original_name": "Teresa de Rosendo",
+                            "popularity": 2.519,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3020656,
+                    "name": "Lara",
+                    "overview": "Tom walks Alma through his final memories with Lara and their group of friends and details their search for the supernatural Hexaspeculum.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/q72O3GtvsvlqMCxOHYIz083RmAz.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63013236dfe31d0080104014",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301328511c066007f8de43c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1614853,
+                            "known_for_department": "Writing",
+                            "name": "Teresa de Rosendo",
+                            "original_name": "Teresa de Rosendo",
+                            "popularity": 2.519,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3020657,
+                    "name": "Revelations",
+                    "overview": "Alma insists that she and Tom see the Hexaspeculum in person. Nearby, Martín, Bruno and Diana puzzle over the implications of the prophecy.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/8prnWkGIIdq6qK7YpXalANFONt7.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63013258839d93008b610b6c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2091221,
+                            "known_for_department": "Writing",
+                            "name": "Paul Pen",
+                            "original_name": "Paul Pen",
+                            "popularity": 0.652,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "630132657d41aa007e38b5c4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 582255,
+                            "known_for_department": "Directing",
+                            "name": "Kike Maíllo",
+                            "original_name": "Kike Maíllo",
+                            "popularity": 1.286,
+                            "profile_path": "/pwmOhK78tSX2IIFONUBfPtTNBPm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301328511c066007f8de43c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1614853,
+                            "known_for_department": "Writing",
+                            "name": "Teresa de Rosendo",
+                            "original_name": "Teresa de Rosendo",
+                            "popularity": 2.519,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3020658,
+                    "name": "Thresholds",
+                    "overview": "Alma starts piecing together what happened the day of the bus accident and remembers important moments of her life.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/r8Cg1ggRstfc2t6nXcA8talAsV0.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63013236dfe31d0080104014",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301328511c066007f8de43c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1614853,
+                            "known_for_department": "Writing",
+                            "name": "Teresa de Rosendo",
+                            "original_name": "Teresa de Rosendo",
+                            "popularity": 2.519,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3020659,
+                    "name": "Deva",
+                    "overview": "Martín and Diana learn more about their family's history. Berta makes a startling discovery about Roque while Deva's mom gets an unsettling visit.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/iwKnJtKIzHKida8u3LqJBqOkIg5.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "630132657d41aa007e38b5c4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 582255,
+                            "known_for_department": "Directing",
+                            "name": "Kike Maíllo",
+                            "original_name": "Kike Maíllo",
+                            "popularity": 1.286,
+                            "profile_path": "/pwmOhK78tSX2IIFONUBfPtTNBPm.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 3020660,
+                    "name": "Return",
+                    "overview": "Tom pays tribute to his classmates and then makes a decision about his future. Alma struggles with saying goodbye. Martín attempts to move forward.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 127424,
+                    "still_path": "/aOd4zxGrnZbZzyvtTxB9rBTCR7m.jpg",
+                    "vote_average": 4,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6301323d11c066007f8de429",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51895,
+                            "known_for_department": "Writing",
+                            "name": "Sergio G. Sánchez",
+                            "original_name": "Sergio G. Sánchez",
+                            "popularity": 1.694,
+                            "profile_path": "/6dtXg0c4dnfH8zkDdtp47dnSOtd.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "630132657d41aa007e38b5c4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 582255,
+                            "known_for_department": "Directing",
+                            "name": "Kike Maíllo",
+                            "original_name": "Kike Maíllo",
+                            "popularity": 1.286,
+                            "profile_path": "/pwmOhK78tSX2IIFONUBfPtTNBPm.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 198979,
+            "poster_path": "/6xI0gpmNljWQRCkB8UgSraXRB56.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        },
+        "2": {
+            "_id": "651168a2a9117f00e1931a0f",
+            "air_date": "2024-08-16",
+            "episodes": [
+                {
+                    "air_date": "2024-08-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4759050,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 127424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 358477,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

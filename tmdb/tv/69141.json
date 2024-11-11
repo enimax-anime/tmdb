@@ -1,0 +1,206 @@
+{
+    "adult": false,
+    "backdrop_path": "/hbhaJPZ6BQZlCHPQY2EqlvKOC6M.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        46,
+        24
+    ],
+    "first_air_date": "2016-12-12",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.viceland.com/en_us/show/big-night-out-tv",
+    "id": 69141,
+    "in_production": true,
+    "languages": [
+        "en",
+        "uk"
+    ],
+    "last_air_date": "2017-01-02",
+    "last_episode_to_air": {
+        "id": 1248471,
+        "name": "Locked Off",
+        "overview": "Rave culture of the 21st century survives the mass culling of British nightclubs and faces an extreme police crackdown and Clive investigates the ways kids manage to still rave despite this suppression.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-01-02",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 69141,
+        "still_path": null
+    },
+    "name": "Big Night Out",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Big Night Out",
+    "overview": "Clive Martin explores how partying has become both an act of rebellion and survival for young people everywhere.",
+    "popularity": 0.028,
+    "poster_path": "/sJzzY0de8ujf0OV8ZdU02B2Wl96.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-12-12",
+            "episode_count": 6,
+            "id": 82925,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qIUnzWJOn3q2GyjzoVR4dlgZcTJ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Ukrainian",
+            "iso_639_1": "uk",
+            "name": "Український"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5856c27c92514146c903e475",
+            "air_date": "2016-12-12",
+            "episodes": [
+                {
+                    "air_date": "2016-12-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1248465,
+                    "name": "Purgatory in Paradise",
+                    "overview": "Greece is a hub of hedonistic nightlife and the site of a refugee crisis. How do the tourists, the immigrants and the destitute locals coexist in this island paradise?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": "/zSHI4YgpLQxZTIJyUvEkDIznPtj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-12-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1248467,
+                    "name": "Bolero of the Balkans",
+                    "overview": "Two beaches in Romania became home to two very different party cultures when the country opened its doors after the communist regime. But has this new found freedom come at a cost?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": "/cgc22ShWXBkueQtvb3ElL0Fjbyz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-12-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1248468,
+                    "name": "Rave in the Rebel State",
+                    "overview": "Ukraine is a politically polarized nation divided by war. Clive investigates how the youth is expressing their frustrations through their late night party scene.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-12-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1248469,
+                    "name": "Bastards of the Bible Belt",
+                    "overview": "Hardcore provides an escape for young misfits from Holland's industrial ghost towns, but the Protestant Church fights back, making raves the new generational battleground.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-12-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1248470,
+                    "name": "Dancing on the Devil's Isle",
+                    "overview": "Clive meets some of the local legends who keep partygoers returning to Ibiza, the undisputed Mediterranean Mecca for ravers, year after year.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-01-02",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1248471,
+                    "name": "Locked Off",
+                    "overview": "Rave culture of the 21st century survives the mass culling of British nightclubs and faces an extreme police crackdown and Clive investigates the ways kids manage to still rave despite this suppression.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 69141,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 82925,
+            "poster_path": "/qIUnzWJOn3q2GyjzoVR4dlgZcTJ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-05-04",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/the-money-maker",
+    "id": 125257,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-05-25",
+    "last_episode_to_air": {
+        "id": 3853971,
+        "name": "Trim-It",
+        "overview": "Eric visits mobile barbers Trim-It, which has huge potential but is growing slowly. Will owner Darren take Eric's advice to make the business more successful?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-25",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 47,
+        "season_number": 1,
+        "show_id": 125257,
+        "still_path": null
+    },
+    "name": "The Money Maker",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Money Maker",
+    "overview": "Entrepreneur Eric Collins offers his expertise, unrivalled business acumen and his own capital investment to small, struggling British businesses, to help turn their fortunes around.",
+    "popularity": 2.091,
+    "poster_path": "/fa8GvNfVQsyalSmOjdCrhFsztpn.jpg",
+    "production_companies": [
+        {
+            "id": 156187,
+            "logo_path": null,
+            "name": "Kalel Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 5778,
+            "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+            "name": "Channel 4 Television",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-04",
+            "episode_count": 4,
+            "id": 194305,
+            "name": "Season 1",
+            "overview": "British version of the business reality series. Serial entrepreneur and seasoned investor Eric Collins will offer his expertise and capital to turnaround a struggling business in return for taking the reins and making changes.",
+            "poster_path": "/GFqyuX14Emp1zGT9lnulLYOUnI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "609913aed2b209003c78ec57",
+            "air_date": "2021-05-04",
+            "episodes": [
+                {
+                    "air_date": "2021-05-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2940966,
+                    "name": "Prymo",
+                    "overview": "In Manchester, Eric helps repair and restoration company Prymo. CEO Jasen says he's never been busier, but there isn't enough profit to expand. Can Eric and Jasen agree on an investment deal?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 125257,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2940967,
+                    "name": "Sussex Kitchen",
+                    "overview": "Eric visits The Sussex Kitchen in the grip of the Covid pandemic, where CEO Alex risks going bankrupt. Can Eric convince social media sceptic Alex to go online and save the business?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 125257,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3853970,
+                    "name": "Winny's Meals",
+                    "overview": "Eric visits Winny's Meals in Birmingham, where business has been expanding rapidly. But when Eric takes a look at their books, there are serious problems and he has no option but to change everything.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 125257,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-25",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3853971,
+                    "name": "Trim-It",
+                    "overview": "Eric visits mobile barbers Trim-It, which has huge potential but is growing slowly. Will owner Darren take Eric's advice to make the business more successful?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 125257,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "British version of the business reality series. Serial entrepreneur and seasoned investor Eric Collins will offer his expertise and capital to turnaround a struggling business in return for taking the reins and making changes.",
+            "id": 194305,
+            "poster_path": "/GFqyuX14Emp1zGT9lnulLYOUnI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,937 @@
+{
+    "adult": false,
+    "backdrop_path": "/hYcL54Dreg1lOwLDF8RiU8nQaUU.jpg",
+    "created_by": [
+        {
+            "id": 582391,
+            "credit_id": "5eb827d1ed96bc001fa2b558",
+            "name": "Deb Cox",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1465986,
+            "credit_id": "5eb827da7d2bc1001cfbbc9b",
+            "name": "Fiona Eagger",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        120,
+        82
+    ],
+    "first_air_date": "2019-02-21",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://7plus.com.au/ms-fishers-modern-murder-mysteries",
+    "id": 86847,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-07-19",
+    "last_episode_to_air": {
+        "id": 3009003,
+        "name": "New Year's Evil",
+        "overview": "A singer is found dead at Peregrine's New Year's Eve party at the Adventuresses' Club.",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2021-07-19",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 86847,
+        "still_path": "/iJERWHaUOiLsazHcLlPVJQ3Usf9.jpg"
+    },
+    "name": "Ms Fisher's Modern Murder Mysteries",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 118,
+            "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+            "name": "Seven Network",
+            "origin_country": "AU"
+        },
+        {
+            "id": 2697,
+            "logo_path": "/xzrHiDSO2IlFrBZZ6aKnSjxIwIJ.png",
+            "name": "Acorn TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Ms Fisher's Modern Murder Mysteries",
+    "overview": "In swinging 60’s Melbourne, gorgeously reckless Peregrine Fisher inherits a windfall when the famous aunt she never knew goes missing over the highlands of New Guinea. Peregrine must prove herself brilliant enough to become a world class private detective in her own right.",
+    "popularity": 9.207,
+    "poster_path": "/o7iLddzdaTdCjTRz72qSvVQ5Djj.jpg",
+    "production_companies": [
+        {
+            "id": 26409,
+            "logo_path": null,
+            "name": "Every Cloud Productions",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-21",
+            "episode_count": 1,
+            "id": 299097,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/1EO0vXX4YfX6po853EQtXHNVjJk.jpg",
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2019-02-21",
+            "episode_count": 4,
+            "id": 118898,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rBWEJBcmk89ldcTQYHXBi2tuKrn.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        },
+        {
+            "air_date": "2021-06-07",
+            "episode_count": 8,
+            "id": 198078,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/rcsGnclBTrB1nj3yuG1XJxZXQPP.jpg",
+            "season_number": 2,
+            "vote_average": 6.9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 21,
+    "season_data": {
+        "1": {
+            "_id": "5c67a0440e0a267de69fdbe6",
+            "air_date": "2019-02-21",
+            "episodes": [
+                {
+                    "air_date": "2019-02-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1708198,
+                    "name": "Just Murdered",
+                    "overview": "Summonsed from her coastal home to claim her rightful inheritance, the unstoppable Peregrine Fisher manages to inveigle her way into a murder investigation.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 86847,
+                    "still_path": "/l1aZxXc8gdsm9Y9YNlV00uxisqr.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e25c66c74b94ca5cbada3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2465834,
+                            "known_for_department": "Directing",
+                            "name": "Fiona Banks",
+                            "original_name": "Fiona Banks",
+                            "popularity": 0.678,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e260d278d8a0011737b96",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 582391,
+                            "known_for_department": "Writing",
+                            "name": "Deb Cox",
+                            "original_name": "Deb Cox",
+                            "popularity": 1.289,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Florence Astor",
+                            "credit_id": "5e7e268a109dec1ebb040c07",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1229671,
+                            "known_for_department": "Acting",
+                            "name": "Libby Tanner",
+                            "original_name": "Libby Tanner",
+                            "popularity": 3.406,
+                            "profile_path": "/kyjuFAOmb8mFbYVUQzuxZh7h1NX.jpg"
+                        },
+                        {
+                            "character": "Terence Blair",
+                            "credit_id": "5e7e26abf794ad0013f0b59c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 128957,
+                            "known_for_department": "Acting",
+                            "name": "Andrew McFarlane",
+                            "original_name": "Andrew McFarlane",
+                            "popularity": 3.711,
+                            "profile_path": "/fGdqLKywbygVXbgpHLNPh1kiySc.jpg"
+                        },
+                        {
+                            "character": "Eric Wild",
+                            "credit_id": "5e7e26c66c849200146be548",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1232317,
+                            "known_for_department": "Acting",
+                            "name": "James Mason",
+                            "original_name": "James Mason",
+                            "popularity": 1.4,
+                            "profile_path": "/uCsM4YaEmimBwb8XJ9bT7BrK0kr.jpg"
+                        },
+                        {
+                            "character": "Colin Blair",
+                            "credit_id": "5e7e26ee6c74b94e95cc724c",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1806142,
+                            "known_for_department": "Acting",
+                            "name": "Chris Ryan",
+                            "original_name": "Chris Ryan",
+                            "popularity": 0.6,
+                            "profile_path": "/4jNvOS8JCKzYtvddg6BUmbi3Mjo.jpg"
+                        },
+                        {
+                            "character": "Joyce Hirsch",
+                            "credit_id": "5eb4bb34c3514c001f555414",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 936615,
+                            "known_for_department": "Acting",
+                            "name": "María Mercedes",
+                            "original_name": "María Mercedes",
+                            "popularity": 0.6,
+                            "profile_path": "/55OC19YZLDExWKT8TFT2IqBl7eh.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1708199,
+                    "name": "Dead Beat",
+                    "overview": "When a pop star singer and his back-up singer are electrocuted during their surf-inspired spot on a TV music show, Peregrine's ex-boyfriend Eric is under suspicion for their deaths.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 86847,
+                    "still_path": "/pnAWTzN1S7eFthkRLYeCj1Baj8J.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e260d278d8a0011737b96",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 582391,
+                            "known_for_department": "Writing",
+                            "name": "Deb Cox",
+                            "original_name": "Deb Cox",
+                            "popularity": 1.289,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e27946c74b95757cc62f4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228895,
+                            "known_for_department": "Directing",
+                            "name": "Kevin Carlin",
+                            "original_name": "Kevin Carlin",
+                            "popularity": 0.865,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e27fdfea0d708fecab21c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2580732,
+                            "known_for_department": "Writing",
+                            "name": "Jo Martino",
+                            "original_name": "Jo Martino",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Edwina Maddox",
+                            "credit_id": "5eb82883f14dad001de9590d",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 61350,
+                            "known_for_department": "Acting",
+                            "name": "Heather Mitchell",
+                            "original_name": "Heather Mitchell",
+                            "popularity": 2.583,
+                            "profile_path": "/4SxRlg8JA1EguchlyuHurOMVlji.jpg"
+                        },
+                        {
+                            "character": "Billy Carson",
+                            "credit_id": "5eb82899ed96bc0021a287f7",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1309944,
+                            "known_for_department": "Acting",
+                            "name": "Dominic Allburn",
+                            "original_name": "Dominic Allburn",
+                            "popularity": 1.49,
+                            "profile_path": "/fZ2qT4I5fw1FEDLf4LtEDNaXCBH.jpg"
+                        },
+                        {
+                            "character": "Carlo Liotti",
+                            "credit_id": "5eb828a67d2bc1001dfe183b",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1931816,
+                            "known_for_department": "Acting",
+                            "name": "Mark Casamento",
+                            "original_name": "Mark Casamento",
+                            "popularity": 0.84,
+                            "profile_path": "/8IYa7VKiLTf8BUtC1WbpHqy7OFk.jpg"
+                        },
+                        {
+                            "character": "Freddy Miles",
+                            "credit_id": "5eb828d97d2bc1001efcb47c",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1498886,
+                            "known_for_department": "Acting",
+                            "name": "Dave Lawson",
+                            "original_name": "Dave Lawson",
+                            "popularity": 1.388,
+                            "profile_path": "/bZX9pw9msdh7Mw1osEi6ybdPnBj.jpg"
+                        },
+                        {
+                            "character": "Julie Thomas",
+                            "credit_id": "5eb828e90cb3350020cfe2fd",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1531177,
+                            "known_for_department": "Acting",
+                            "name": "Georgia Chara",
+                            "original_name": "Georgia Chara",
+                            "popularity": 5.071,
+                            "profile_path": "/xG1c6D1nYjxOcgjcWqBi1opodZu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1718394,
+                    "name": "Space for Murder",
+                    "overview": "Peregrine ventures into the world of a top-secret science facility run by the government where Cecile Armand, an old comrade of Birdie's, is found frozen to death in a crashed car.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 86847,
+                    "still_path": "/6UnACdvF0mKUslJNqetuODDTteC.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e27fdfea0d708fecab21c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2580732,
+                            "known_for_department": "Writing",
+                            "name": "Jo Martino",
+                            "original_name": "Jo Martino",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e28616c74b94e95cc7438",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1861885,
+                            "known_for_department": "Directing",
+                            "name": "Lynn Hegarty",
+                            "original_name": "Lynn Hegarty",
+                            "popularity": 1.4,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e287a6c849200166bbef7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2580733,
+                            "known_for_department": "Writing",
+                            "name": "Samantha Winston",
+                            "original_name": "Samantha Winston",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sgt Malcolm Levine",
+                            "credit_id": "5e7e28d06c74b94ca5cbb23b",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 267790,
+                            "known_for_department": "Acting",
+                            "name": "David Whiteley",
+                            "original_name": "David Whiteley",
+                            "popularity": 1.57,
+                            "profile_path": "/7v5VaA6rriC5YtTxaX96IEBWNgW.jpg"
+                        },
+                        {
+                            "character": "Dr. Hans Peterson",
+                            "credit_id": "5e7e2906f794ad0013f0b667",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 187494,
+                            "known_for_department": "Acting",
+                            "name": "Steve Mouzakis",
+                            "original_name": "Steve Mouzakis",
+                            "popularity": 3.275,
+                            "profile_path": "/z28JqHK4lHKd09teJk5emcNEAe1.jpg"
+                        },
+                        {
+                            "character": "Prof. Elaine Montgomery",
+                            "credit_id": "5e7e2968fea0d772afca54ec",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 105582,
+                            "known_for_department": "Acting",
+                            "name": "Jessica Grace Smith",
+                            "original_name": "Jessica Grace Smith",
+                            "popularity": 3.777,
+                            "profile_path": "/3jj9TJaAHuF0m7pvS4fpFAoIoo.jpg"
+                        },
+                        {
+                            "character": "Rosemarie Kowalski",
+                            "credit_id": "5e7e29b0109dec1cbb03a711",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1878511,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Lee",
+                            "original_name": "Caroline Lee",
+                            "popularity": 0.631,
+                            "profile_path": "/dEzy2gTSYON0QSrAhaB5Zcev3pa.jpg"
+                        },
+                        {
+                            "character": "Charles Naylor",
+                            "credit_id": "603d94aa2b531d005a5a4bad",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2920170,
+                            "known_for_department": "Acting",
+                            "name": "James Beck",
+                            "original_name": "James Beck",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-14",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1718395,
+                    "name": "Seasoned Murder",
+                    "overview": "Peregrine gets a lesson in all things culinary when celebrated head chef at Samuel's ex-mother-in-law's international cookery school, Graham King, is murdered.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 86847,
+                    "still_path": "/iYKibxSooxpGSt33hmYAZyRanJM.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e25c66c74b94ca5cbada3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2465834,
+                            "known_for_department": "Directing",
+                            "name": "Fiona Banks",
+                            "original_name": "Fiona Banks",
+                            "popularity": 0.678,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e27fdfea0d708fecab21c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2580732,
+                            "known_for_department": "Writing",
+                            "name": "Jo Martino",
+                            "original_name": "Jo Martino",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e7e2a35278d8a001373b1d3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2580744,
+                            "known_for_department": "Writing",
+                            "name": "Alli Parker",
+                            "original_name": "Alli Parker",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Lucy Harrington",
+                            "credit_id": "5e7e2a546c74b95757cc6dc8",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1852576,
+                            "known_for_department": "Acting",
+                            "name": "Ling Cooper Tang",
+                            "original_name": "Ling Cooper Tang",
+                            "popularity": 4.447,
+                            "profile_path": "/4CtaqLk0j4sjCEeQNXDixgvMvbh.jpg"
+                        },
+                        {
+                            "character": "Rita Harrington",
+                            "credit_id": "5e7e2a6a6c849200166bc22b",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1239000,
+                            "known_for_department": "Acting",
+                            "name": "Alicia Banit",
+                            "original_name": "Alicia Banit",
+                            "popularity": 1.077,
+                            "profile_path": "/n73RdSJoswsNLegQQXkFjKalvsh.jpg"
+                        },
+                        {
+                            "character": "Graham King",
+                            "credit_id": "5e7e2a84109dec1ebb041185",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1480419,
+                            "known_for_department": "Acting",
+                            "name": "Josef Brown",
+                            "original_name": "Josef Brown",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tony Wu",
+                            "credit_id": "5e7e2a9f6c849200166bc277",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 61639,
+                            "known_for_department": "Acting",
+                            "name": "Jason Chong",
+                            "original_name": "Jason Chong",
+                            "popularity": 1.548,
+                            "profile_path": "/b69KUQ7QqeDQ2ZPthULWJ2YfubN.jpg"
+                        },
+                        {
+                            "character": "Shirley King",
+                            "credit_id": "61ad4279d207f30040026aa1",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 75958,
+                            "known_for_department": "Acting",
+                            "name": "Jane Allsop",
+                            "original_name": "Jane Allsop",
+                            "popularity": 1.857,
+                            "profile_path": "/z5jOG8FUkv4yfDBY7ASWTLzIxgz.jpg"
+                        },
+                        {
+                            "character": "Bruce Taylor",
+                            "credit_id": "61ad4294a84a4700619aca7e",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1331901,
+                            "known_for_department": "Acting",
+                            "name": "Alan Dukes",
+                            "original_name": "Alan Dukes",
+                            "popularity": 1.736,
+                            "profile_path": "/8cbXC7ntlyEroGG1uxEoQecreFZ.jpg"
+                        },
+                        {
+                            "character": "Chung Li",
+                            "credit_id": "61ad42c2149565005c2e7f31",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1217764,
+                            "known_for_department": "Acting",
+                            "name": "Gareth Yuen",
+                            "original_name": "Gareth Yuen",
+                            "popularity": 2.495,
+                            "profile_path": "/6IG6BGEY3QYFolYF14snxUckFLq.jpg"
+                        },
+                        {
+                            "character": "Mrs. Zhang",
+                            "credit_id": "61ad43740d2f530061fa737a",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3337204,
+                            "known_for_department": "Acting",
+                            "name": "Gabrielle Chan",
+                            "original_name": "Gabrielle Chan",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 118898,
+            "poster_path": "/rBWEJBcmk89ldcTQYHXBi2tuKrn.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        },
+        "2": {
+            "_id": "60bb363cea84c70079b7c11e",
+            "air_date": "2021-06-07",
+            "episodes": [
+                {
+                    "air_date": "2021-06-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3005374,
+                    "name": "Death by Design",
+                    "overview": "An architect and his lover are found dead after a party; Peregrine and James retrace the partygoers' movements, but it's proving difficult.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/5juAmT2YQlH7SA8fhGiZ9MQgV8c.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e27946c74b95757cc62f4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228895,
+                            "known_for_department": "Directing",
+                            "name": "Kevin Carlin",
+                            "original_name": "Kevin Carlin",
+                            "popularity": 0.865,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3008997,
+                    "name": "Come Die with Me",
+                    "overview": "Peregrine's excitement over her upcoming nuptials is short-lived, when a woman's body is discovered during flight attendant training.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/ugehWgerBKgr5I3G1JtxGRazDNv.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e28616c74b94e95cc7438",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1861885,
+                            "known_for_department": "Directing",
+                            "name": "Lynn Hegarty",
+                            "original_name": "Lynn Hegarty",
+                            "popularity": 0.84,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3008998,
+                    "name": "Blood Wedding",
+                    "overview": "James investigates the murder of a farmhand the day before a wedding at an estate where James's father works; Peregrine tries to help.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/ou4plQbSfNclX1fhxotaGFJeIWd.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e28616c74b94e95cc7438",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1861885,
+                            "known_for_department": "Directing",
+                            "name": "Lynn Hegarty",
+                            "original_name": "Lynn Hegarty",
+                            "popularity": 0.84,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3008999,
+                    "name": "A Killer Unleashed",
+                    "overview": "At the Melbourne Kennel Club's dog show, a competitor dies and her prized collie is framed for the murder; Peregrine considers a canine companion.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/kLw5b6UWXgp657dN5vU6CA5XUXe.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e27946c74b95757cc62f4",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228895,
+                            "known_for_department": "Directing",
+                            "name": "Kevin Carlin",
+                            "original_name": "Kevin Carlin",
+                            "popularity": 0.865,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3009000,
+                    "name": "Death Alley",
+                    "overview": "A brawl at a bowling alley between rockers and mods leads to decapitation; when the police arrest Violetta's nephew for the murder, Peregrine tries to prove his innocence.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/zA3I8ZqBCLAmARITbguuk1rl1J5.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62c83e7ceb14fa006882b6aa",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1738452,
+                            "known_for_department": "Acting",
+                            "name": "Jess Harris",
+                            "original_name": "Jess Harris",
+                            "popularity": 0.795,
+                            "profile_path": "/2ErRHi7E8KM32TQ4LwZM9PV8djL.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3009001,
+                    "name": "Coop de Grâce",
+                    "overview": "On race day, the president of the Sandridge Pigeon Club is discovered dead in the coop, covered in feathers and choked by birdseed. While Peregrine works the case with James, Birdie has her own mysterious mission to complete.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/hrJ6fEJsYYVkCeF4Mdkl30F4OKU.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62c83e7ceb14fa006882b6aa",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1738452,
+                            "known_for_department": "Acting",
+                            "name": "Jess Harris",
+                            "original_name": "Jess Harris",
+                            "popularity": 0.795,
+                            "profile_path": "/2ErRHi7E8KM32TQ4LwZM9PV8djL.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-12",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3009002,
+                    "name": "Reel Murder",
+                    "overview": "The gang gather at the river to relax and distract themselves from their assorted heartaches, but when Samuel hooks a corpse with his fishing rod, a day in the sun turns deadly.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/lLvZQaZt9iHgJ8SXdTHLigF2o3E.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e28616c74b94e95cc7438",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1861885,
+                            "known_for_department": "Directing",
+                            "name": "Lynn Hegarty",
+                            "original_name": "Lynn Hegarty",
+                            "popularity": 0.84,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-19",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3009003,
+                    "name": "New Year's Evil",
+                    "overview": "A singer is found dead at Peregrine's New Year's Eve party at the Adventuresses' Club.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 86847,
+                    "still_path": "/iJERWHaUOiLsazHcLlPVJQ3Usf9.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5e7e28616c74b94e95cc7438",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1861885,
+                            "known_for_department": "Directing",
+                            "name": "Lynn Hegarty",
+                            "original_name": "Lynn Hegarty",
+                            "popularity": 0.84,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 198078,
+            "poster_path": "/rcsGnclBTrB1nj3yuG1XJxZXQPP.jpg",
+            "season_number": 2,
+            "vote_average": 6.9
+        }
+    }
+}

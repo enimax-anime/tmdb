@@ -1,0 +1,317 @@
+{
+    "adult": false,
+    "backdrop_path": "/ssP9NIN191D3ssfHVEqQVA5RSdH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2019-10-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.nationalgeographic.com/tv/shows/prairie-dog-manor",
+    "id": 94941,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-25",
+    "last_episode_to_air": {
+        "id": 2441739,
+        "name": "The Big Sleep",
+        "overview": "For the Prairie Dogs in northern New Mexico, winter has nearly come.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-25",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 94941,
+        "still_path": "/whZA1xCe4pxkm2XS1UPHsZTh9DD.jpg"
+    },
+    "name": "Prairie Dog Manor",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1043,
+            "logo_path": "/esXeePrsUGpF6mGQXs3jImz9QoN.png",
+            "name": "Nat Geo Wild",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Prairie Dog Manor",
+    "overview": "Behavioral ecologist John Hoogland explores a prairie dog colony near the New Mexico-Colorado border containing more than its fair share of drama.",
+    "popularity": 1.741,
+    "poster_path": "/uZTQxYWavNAxlGKQ3FM9cisutsR.jpg",
+    "production_companies": [
+        {
+            "id": 78988,
+            "logo_path": "/tlAKLmHOpVs7LY6Kel5XVTzYp6J.png",
+            "name": "Radley Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-18",
+            "episode_count": 12,
+            "id": 134817,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uZTQxYWavNAxlGKQ3FM9cisutsR.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.2,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5db6867fd2c0c10018149705",
+            "air_date": "2019-10-18",
+            "episodes": [
+                {
+                    "air_date": "2019-10-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1968729,
+                    "name": "Once Upon a Time in New Mexico",
+                    "overview": "After 4 months of hibernation, the male prairie dogs in northern New Mexico emerge.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/2y0Rg6fRdM0waanbwtbN0lFmjxb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1968730,
+                    "name": "The Good, The Bad & The Snuggly",
+                    "overview": "The warm weather has officially overtaken Northern New Mexico and that means it's officially mating season.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/ha7NNHeWF22rTYJlZyKUIXteDp6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1968731,
+                    "name": "New Sheriff in Town",
+                    "overview": "Furgie deals with a local thief, while Gnash protects Scarlett from a dangerous predator.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/7grQtoAWWVTGoI7VVTxF5b9SUBO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1968732,
+                    "name": "Family Affair",
+                    "overview": "The warm weather brings other dangerous predators out of hibernation.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/1CvvuMQnelFPyQpNav6PKK2z5EE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2441702,
+                    "name": "True Grit",
+                    "overview": "Now that the pups have arrived, Dogtown is officially under new management",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/t7LJS1LT8KUijbbU9Ris7hMX4YK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2441703,
+                    "name": "Charlotte's Brawl",
+                    "overview": "With nourishing food scarce in the Highlands, Charlotte must learn to fight back against bullies to survive the harsh dry season.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/gHxECZ0zlcIK0BGAzgBCc41Jced.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2441711,
+                    "name": "The Little Rascal",
+                    "overview": "June must deal with orphaned pup, Vince, as he tries to join her burrow.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/gEz94dTOhKpExVuflzjlS3b4b2O.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2441715,
+                    "name": "Homeward Bound",
+                    "overview": "The Prairie Dogs of northern New Mexico deal with all kinds of threats, big and small.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/AbsEtUTbNjhQVyfmC4Non2rh8Ui.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2441727,
+                    "name": "A Flood of Trouble",
+                    "overview": "It's monsoon season in Dogtown.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/iC2CmrMY8ZwVQ9yM9Y83GiPNgce.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2441731,
+                    "name": "How the West was Won",
+                    "overview": "Property disputes are settled a little differently in Dogtown.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/eqcvzLTAG4sNrXzxqvyre49XciW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2441735,
+                    "name": "Great Race",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/9x0SA62Wgc8ejTsNkQ3Uhnm8k2Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-25",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 2441739,
+                    "name": "The Big Sleep",
+                    "overview": "For the Prairie Dogs in northern New Mexico, winter has nearly come.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 94941,
+                    "still_path": "/whZA1xCe4pxkm2XS1UPHsZTh9DD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 134817,
+            "poster_path": "/uZTQxYWavNAxlGKQ3FM9cisutsR.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

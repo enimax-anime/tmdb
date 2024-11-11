@@ -1,0 +1,104 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        41
+    ],
+    "first_air_date": "2019-03-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 88475,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2019-03-10",
+    "last_episode_to_air": {
+        "id": 1760007,
+        "name": "Stand Your Ground",
+        "overview": "After yet another tragic killing of an unarmed Black person in Florida, activists battle to change the controversial Stand Your Ground law.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-03-10",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 88475,
+        "still_path": null
+    },
+    "name": "Finding Justice",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 24,
+            "logo_path": "/gaouRlJrfZlEA5EPHhO5qqZ1Fgu.png",
+            "name": "BET",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Finding Justice",
+    "overview": "A series that travels around the country to follow the heroes, leaders and activists who battle to bring change to the cities they call home.",
+    "popularity": 0.012,
+    "poster_path": "/a9liLQREj9Tyyi13MEhaFe5UPGl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-03-10",
+            "episode_count": 1,
+            "id": 122283,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5cb45594c3a3685a14a953c1",
+            "air_date": "2019-03-10",
+            "episodes": [
+                {
+                    "air_date": "2019-03-10",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1760007,
+                    "name": "Stand Your Ground",
+                    "overview": "After yet another tragic killing of an unarmed Black person in Florida, activists battle to change the controversial Stand Your Ground law.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 88475,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 122283,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

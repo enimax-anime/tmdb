@@ -1,0 +1,572 @@
+{
+    "adult": false,
+    "backdrop_path": "/ef46O4ejjL8tWo4WD84UI7DLFZW.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-07-30",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.49yt85r7ow6904u0177r694qy",
+    "id": 106727,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-11-04",
+    "last_episode_to_air": {
+        "id": 3322655,
+        "name": "Will Smith",
+        "overview": "Oprah talks to Smith about his revealing memoir, deepest insecurities, biggest life lessons, and unique spiritual marriage.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-11-04",
+        "episode_number": 15,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 106727,
+        "still_path": null
+    },
+    "name": "The Oprah Conversation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 15,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Oprah Conversation",
+    "overview": "Oprah leads intimate discussions with today’s foremost newsmakers, thought leaders, and masters of their craft. Bringing truth and perspective to a range of topics shaping our world, they reveal gripping stories of human connection.",
+    "popularity": 23.619,
+    "poster_path": "/fGfbY5RcLG9HyXp3zx7AsT0XDvU.jpg",
+    "production_companies": [
+        {
+            "id": 70230,
+            "logo_path": null,
+            "name": "Harpo Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-07-30",
+            "episode_count": 15,
+            "id": 157757,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fGfbY5RcLG9HyXp3zx7AsT0XDvU.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Canceled",
+    "tagline": "Join the discussion.",
+    "type": "Talk Show",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5f23e5a4e2bca8003791d1f8",
+            "air_date": "2020-07-30",
+            "episodes": [
+                {
+                    "air_date": "2020-07-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2372015,
+                    "name": "Uncomfortable Conversations With a Black Man: Part 1",
+                    "overview": "Oprah talks to Emmanuel Acho about his provocative web series, then takes questions about racism from white and Latinx viewers.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/vOr7nb9WPFhPRoGRBxwg1a2SIXc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f874642a1a9ba00364b2ded",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2815255,
+                            "known_for_department": "Acting",
+                            "name": "Emmanuel Acho",
+                            "original_name": "Emmanuel Acho",
+                            "popularity": 1.295,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-07-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2372347,
+                    "name": "Uncomfortable Conversations with a Black Man (2)",
+                    "overview": "Oprah and Emmanuel dive deeper into their raw, unfiltered discussions about race in response to bold viewer questions.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/schDpQD6t7AXI069Nj7LyOkLh5d.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f874642a1a9ba00364b2ded",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2815255,
+                            "known_for_department": "Acting",
+                            "name": "Emmanuel Acho",
+                            "original_name": "Emmanuel Acho",
+                            "popularity": 1.295,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-08-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2388223,
+                    "name": "How to Be an Antiracist",
+                    "overview": "Oprah and best-selling author professor Ibram X. Kendi speak with white readers who confront their own racist beliefs.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/ywBpHXEEkkpg6PWtvVwbnzTWITe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f8746b6a275020039cb4947",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2815256,
+                            "known_for_department": "Acting",
+                            "name": "Ibram X. Kendi",
+                            "original_name": "Ibram X. Kendi",
+                            "popularity": 1.198,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-08-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2390012,
+                    "name": "Bryan Stevenson",
+                    "overview": "His story was told in the movie Just Mercy. The Equal Justice Initiative founder is a pivotal thought leader on racism in America.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/t16voPyqPZVJdWgyGDKVRNYCXPi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f8747862d8ef30039bedd9b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1385039,
+                            "known_for_department": "Acting",
+                            "name": "Bryan Stevenson",
+                            "original_name": "Bryan Stevenson",
+                            "popularity": 0.883,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-09-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2451499,
+                    "name": "Mariah Carey",
+                    "overview": "In their most revealing conversation, the global music superstar talks to Oprah about her new memoir, growing up biracial, and finding freedom.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/SLn4GuiRfTgyN0ab1gRFskGcpj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f8748548258fc0034abb9a0",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 66586,
+                            "known_for_department": "Acting",
+                            "name": "Mariah Carey",
+                            "original_name": "Mariah Carey",
+                            "popularity": 16.1,
+                            "profile_path": "/5abhvNcfjv7Bhj0Jdqbgy9CwOvC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-10-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2464421,
+                    "name": "Caste (1)",
+                    "overview": "Oprah, Pulitzer Prize-winning author Isabel Wilkerson, and a panel of readers discuss the concept that America is built on a caste system.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/zufNb4fq7K7z2K0w34owvIv2vOV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f87485f3a9937003761650e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1923274,
+                            "known_for_department": "Acting",
+                            "name": "Isabel Wilkerson",
+                            "original_name": "Isabel Wilkerson",
+                            "popularity": 1.551,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-10-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2464422,
+                    "name": "Caste (2)",
+                    "overview": "Continuing the conversation, readers share stories of how the themes explored in Wilkerson's book resonate with their lives and experiences.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/szwNINcyIUin9v7IF0bOIFEimv9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f87485f3a9937003761650e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1923274,
+                            "known_for_department": "Acting",
+                            "name": "Isabel Wilkerson",
+                            "original_name": "Isabel Wilkerson",
+                            "popularity": 1.551,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-10-28",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2481762,
+                    "name": "Matthew McConaughey",
+                    "overview": "The Oscar®-winning actor and humanitarian talks with Oprah about his memoir Greenlights and his guiding motto: “Just keep living.”",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f9a13c1b4a543003935febb",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10297,
+                            "known_for_department": "Acting",
+                            "name": "Matthew McConaughey",
+                            "original_name": "Matthew McConaughey",
+                            "popularity": 41.468,
+                            "profile_path": "/rUxLWWCDUF8RnDaocSqrVDJ2MS1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-11-06",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2501763,
+                    "name": "Stevie Wonder",
+                    "overview": "Sharing his urgent message of love, Stevie opens up about how COVID-19 has touched his life and his hopes for a troubled world.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5fa9e16f34e15200407e317d",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18746,
+                            "known_for_department": "Acting",
+                            "name": "Stevie Wonder",
+                            "original_name": "Stevie Wonder",
+                            "popularity": 6.447,
+                            "profile_path": "/jC4NXYZYgiUfj3EH3iKWcIH5eZ5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-11-13",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2506726,
+                    "name": "Dolly Parton",
+                    "overview": "One of the most cherished figures in pop culture, Parton discusses her lifetime of songwriting and being a unifier in divided times.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": null,
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5faf1a91202e1100421bab97",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 67274,
+                            "known_for_department": "Acting",
+                            "name": "Dolly Parton",
+                            "original_name": "Dolly Parton",
+                            "popularity": 11.467,
+                            "profile_path": "/uLFZgrfSqAxLj3UM7dkTPdlCKkc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-11-17",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2512420,
+                    "name": "Barack Obama",
+                    "overview": "Discussing his memoir A Promised Land, the former president reflects on his biggest challenges—and the results of the 2020 election.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/fGlwUcu6fOTvfjZHLRyWqgb5tvC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5fb392e293db920040b4bdfc",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 102786,
+                            "known_for_department": "Acting",
+                            "name": "Barack Obama",
+                            "original_name": "Barack Obama",
+                            "popularity": 9.369,
+                            "profile_path": "/cm19WyxzcqcaAO7bLVEQROrqY9c.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-26",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 2826194,
+                    "name": "Amanda Gorman",
+                    "overview": "Oprah and 23-year-old Gorman discuss the poem she wrote for President Joe Biden’s inauguration and the women who've mentored her.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/5B6WR8AXCTHRuI42kZ4GinDHm2Z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605dcd95f3e0df00275bf654",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2936174,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Gorman",
+                            "original_name": "Amanda Gorman",
+                            "popularity": 1.627,
+                            "profile_path": "/65nwhL4jFsdWAv38tWX3KEAF4em.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-09",
+                    "episode_number": 13,
+                    "episode_type": "standard",
+                    "id": 2862297,
+                    "name": "Eddie Murphy",
+                    "overview": "The iconic comedian joins Oprah for a conversation about Coming 2 America, life during COVID-19, and his plans to return to stand-up.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/piv9FJtBRMi8yOT88xZSnnxn0pf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "607231602f791500560706c7",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 776,
+                            "known_for_department": "Acting",
+                            "name": "Eddie Murphy",
+                            "original_name": "Eddie Murphy",
+                            "popularity": 41.984,
+                            "profile_path": "/gyzOLqFROvWaVew1yWV2UcATv5t.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-30",
+                    "episode_number": 14,
+                    "episode_type": "standard",
+                    "id": 2915551,
+                    "name": "Elliot Page",
+                    "overview": "In his first on-camera interview since disclosing that he is transgender, Page describes his life struggles and his message for trans youth.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": "/7IcamwRuuOJI6pmGMepsYRHryqz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "608bb5e377c01f003fa69deb",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 3,
+                            "id": 27578,
+                            "known_for_department": "Acting",
+                            "name": "Elliot Page",
+                            "original_name": "Elliot Page",
+                            "popularity": 57.61,
+                            "profile_path": "/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 15,
+                    "episode_type": "finale",
+                    "id": 3322655,
+                    "name": "Will Smith",
+                    "overview": "Oprah talks to Smith about his revealing memoir, deepest insecurities, biggest life lessons, and unique spiritual marriage.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106727,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618489a23e2ec8008d1f4a7d",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2888,
+                            "known_for_department": "Acting",
+                            "name": "Will Smith",
+                            "original_name": "Will Smith",
+                            "popularity": 56.921,
+                            "profile_path": "/9QD9DvQUF5t8ZVKpeoW4k2sFZ4D.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 157757,
+            "poster_path": "/fGfbY5RcLG9HyXp3zx7AsT0XDvU.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

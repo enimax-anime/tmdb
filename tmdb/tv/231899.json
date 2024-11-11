@@ -1,0 +1,236 @@
+{
+    "adult": false,
+    "backdrop_path": "/e0vGE3k57MfF8tSrQO5RqVdjmBO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2023-08-02",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.investigationdiscovery.com/show/does-murder-sleep-investigation-discovery-atve-us",
+    "id": 231899,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-06",
+    "last_episode_to_air": {
+        "id": 4680409,
+        "name": "To Kiss or Kill",
+        "overview": "When a home invasion leaves Bill Ross murdered in his sleep, detectives in Shelbyville, Tenn., scramble to uncover the identity of a pair of masked men; as they dig deeper, they discover a troubling web of secrets and lies.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-09-06",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 231899,
+        "still_path": "/zDmZkW2D8dMspkKBtrpk9o3Jomh.jpg"
+    },
+    "name": "Does Murder Sleep",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 244,
+            "logo_path": "/3s6YJSYXW9mtJwoszTVI1BHDNc6.png",
+            "name": "Investigation Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Does Murder Sleep",
+    "overview": "When we sleep, we are at our most vulnerable. Sometimes crimes occur when a few or even all key characters are fast asleep. These stories tap into the primal fear, present since childhood, of what happens once we shut our eyes.",
+    "popularity": 3.524,
+    "poster_path": "/dOnevt0NKilJ66Znlspy2yq14Cy.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-08-02",
+            "episode_count": 6,
+            "id": 351181,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7Phw8UxHE7qXlzVk8lwTwonhgFy.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "64cb728b297338020fb034e2",
+            "air_date": "2023-08-02",
+            "episodes": [
+                {
+                    "air_date": "2023-08-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4621563,
+                    "name": "Deadly Awakening",
+                    "overview": "In February 2008, Ben Oxley is shot in the head at point-blank range while sleeping in bed. His wife becomes the focus of the police investigation, but it will take over two years before investigators bring the actual killer to justice.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/kiVZOMrNbQ28MGgS0p05VBOsMD9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Undersheriff Dougles County",
+                            "credit_id": "650456b7d7dcd200ffedbc78",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4273250,
+                            "known_for_department": "Acting",
+                            "name": "Ron Elges",
+                            "original_name": "Ron Elges",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4621564,
+                    "name": "Slept Through It All",
+                    "overview": "A teenager sleeps through the brutal murder of her father, Ken Eaton, at their home. As detectives probe into the beloved teacher's secret love life, they unravel a web of heartbreak, deceit and desire. Will the truth behind Ken's tragic end be unveiled?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/7Dke6GDdnS22LOZuUWnsnGYfu9P.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - SA Iowa Division of Criminal Investigation",
+                            "credit_id": "65046aa5c390c500e1225e25",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4273371,
+                            "known_for_department": "Acting",
+                            "name": "John Quinn",
+                            "original_name": "John Quinn",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4645378,
+                    "name": "Kill Her in the Night",
+                    "overview": "In June 2009, 61-year-old Wendy DiRodio's elderly mother discovers Wendy's body in the bedroom of their shared Ventura County, Calif., home; another murder weeks earlier leads investigators to wonder if a serial killer is on the loose.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/mnKJexiOmyZR675C98wwdgjSuv5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4645502,
+                    "name": "Dream Killer",
+                    "overview": "In Palm Beach County, Fla., detectives discover pregnant mother of three, Makeva Jenkins, brutally murdered in her sleep; they delve into her extensive use of social media as they look for clues, uncovering a twisted plot and betrayal.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/1SnvJk3FD5iE9cXP3fzxWq8D4AK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-30",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4645503,
+                    "name": "No Checking Out",
+                    "overview": "After Greg Fleniken checks into a Texas hotel, police find him murdered in his sleep; when the case runs cold, a Long Island PI joins the investigation and uncovers a chilling conspiracy that no one saw coming.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/okA5BVCn4cWtc5mqAD6mINfLh5U.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-06",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4680409,
+                    "name": "To Kiss or Kill",
+                    "overview": "When a home invasion leaves Bill Ross murdered in his sleep, detectives in Shelbyville, Tenn., scramble to uncover the identity of a pair of masked men; as they dig deeper, they discover a troubling web of secrets and lies.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 231899,
+                    "still_path": "/zDmZkW2D8dMspkKBtrpk9o3Jomh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 351181,
+            "poster_path": "/7Phw8UxHE7qXlzVk8lwTwonhgFy.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

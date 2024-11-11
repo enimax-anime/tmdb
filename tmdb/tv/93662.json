@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/j2jvfo3RL38SnrZl2O4UgOYvleL.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        51
+    ],
+    "first_air_date": "2019-09-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.smithsonianchannel.com/shows/the-hunt-for-eagle-56/1006032",
+    "id": 93662,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-06",
+    "last_episode_to_air": {
+        "id": 1940950,
+        "name": "History Rewritten",
+        "overview": "After four years and countless dead ends, a team of civilian investigators has found pieces of the sunken Eagle 56, the Holy Grail of New England shipwrecks. They want to reveal their discoveries to both the Navy and the families of the warship's crew, but their case is not yet complete.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-06",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 51,
+        "season_number": 1,
+        "show_id": 93662,
+        "still_path": "/gF32Ex3ypwS8H10WASUQR7c2BT2.jpg"
+    },
+    "name": "The Hunt for Eagle 56",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 658,
+            "logo_path": "/meU2LRnHcSr0m0Upx5loxHWETqF.png",
+            "name": "Smithsonian Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Hunt for Eagle 56",
+    "overview": "On April 23, 1945, the U.S. Navy warship USS Eagle 56 exploded off the coast of Portland, Maine due to a malfunction of the ship's boilers...or so the official report said. A civilian-led dive expedition attempts to discover the lost wreckage and find out what really happened, uncovering fresh clues, startling eyewitness accounts, and a possible cover-up.",
+    "popularity": 0.424,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-22",
+            "episode_count": 3,
+            "id": 132424,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/t9mKJr7tkIbo0dpm5iKR4ECe3FX.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5d7f5322c54304001496a0ac",
+            "air_date": "2019-09-22",
+            "episodes": [
+                {
+                    "air_date": "2019-09-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1930929,
+                    "name": "Lost to History",
+                    "overview": "A group of divers discovers portions of the long-lost WWII patrol ship USS Eagle PE-56 off the coast of Maine.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 93662,
+                    "still_path": "/aDOqSE9fyH3ojJpnpbaOyXWF3Tm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-09-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1930932,
+                    "name": "The Mystery Deepens",
+                    "overview": "After finding the bow of the Eagle 56 at the bottom of the Atlantic, explorers search for the rest of the warship to uncover why it sank.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 93662,
+                    "still_path": "/moCIPp0c589amd6tPD2Xx28OqAn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-06",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1940950,
+                    "name": "History Rewritten",
+                    "overview": "After four years and countless dead ends, a team of civilian investigators has found pieces of the sunken Eagle 56, the Holy Grail of New England shipwrecks. They want to reveal their discoveries to both the Navy and the families of the warship's crew, but their case is not yet complete.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 93662,
+                    "still_path": "/gF32Ex3ypwS8H10WASUQR7c2BT2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 132424,
+            "poster_path": "/t9mKJr7tkIbo0dpm5iKR4ECe3FX.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

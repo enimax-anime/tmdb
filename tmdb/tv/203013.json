@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/4sswySjcSEhdGqfIJ7H4ZkdisTY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        120
+    ],
+    "first_air_date": "2022-06-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.pbs.org/show/hiding-plain-sight-youth-mental-illness/",
+    "id": 203013,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-28",
+    "last_episode_to_air": {
+        "id": 3747768,
+        "overview": "In Resilience, the second episode of Hiding in Plain Sight, our “heroes” speak about finding help and inpatient and/or outpatient treatment. It also explores the criminalization of mental illness, tragedy of youth suicide, and “double stigma” that occurs when mental illness is combined with racial or gender discrimination. Throughout, the interviewees demonstrate the power of resiliency and hope.",
+        "name": "Resilience",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2022-06-28",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 112,
+        "season_number": 1,
+        "show_id": 203013,
+        "still_path": "/1KBNpTh4oLujwarKYLeh0whV6sq.jpg"
+    },
+    "name": "Hiding in Plain Sight: Youth Mental Illness",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hiding in Plain Sight: Youth Mental Illness",
+    "overview": "First-person accounts from young people ranging in age from 11-27 about living with mental health conditions.",
+    "popularity": 5.182,
+    "poster_path": "/5Xr9u7UTyTGNOPCn5C2IRfKNNAU.jpg",
+    "production_companies": [
+        {
+            "id": 10722,
+            "logo_path": "/mPJs7G32jMVmgUlcuobZelsjkhv.png",
+            "name": "Florentine Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 177908,
+            "logo_path": null,
+            "name": "Ewers Brothers Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 149567,
+            "logo_path": null,
+            "name": "WETA Washington, D.C.",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-06-27",
+            "episode_count": 2,
+            "id": 295348,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6291a006df86a87624133535",
+            "air_date": "2022-06-27",
+            "episodes": [
+                {
+                    "air_date": "2022-06-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3747767,
+                    "name": "The Storm",
+                    "overview": "The Storm, the first two-hour episode of Hiding in Plain Sight, focuses on more than twenty young people who provide an intimate look at what it’s like to experience the symptoms of mental illness, from depression to addiction to suicide ideation. The film includes insights from families, providers, and advocates and explores the impact of childhood trauma, stigma, and social media.",
+                    "production_code": "",
+                    "runtime": 116,
+                    "season_number": 1,
+                    "show_id": 203013,
+                    "still_path": "/cVpPzw3qiFVegGMpeSpkPJ7UvAI.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-28",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3747768,
+                    "name": "Resilience",
+                    "overview": "In Resilience, the second episode of Hiding in Plain Sight, our “heroes” speak about finding help and inpatient and/or outpatient treatment. It also explores the criminalization of mental illness, tragedy of youth suicide, and “double stigma” that occurs when mental illness is combined with racial or gender discrimination. Throughout, the interviewees demonstrate the power of resiliency and hope.",
+                    "production_code": "",
+                    "runtime": 112,
+                    "season_number": 1,
+                    "show_id": 203013,
+                    "still_path": "/1KBNpTh4oLujwarKYLeh0whV6sq.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 295348,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

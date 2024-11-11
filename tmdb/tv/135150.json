@@ -1,0 +1,116 @@
+{
+    "adult": false,
+    "backdrop_path": "/b7kvJpPdS7pl5RmWGoGkuuriL7g.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-09-27",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 135150,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-09-27",
+    "last_episode_to_air": {
+        "id": 3245523,
+        "name": "Episode 1",
+        "overview": "Episodes one to four begin with a reveal of two key ingredients, from which each contestant creates a menu comprising one small and one large dish. Danni and Joris pick their favourite three, determining the identity of the three cooks who will battle it out in the kitchen. Those not picked observe from the sidelines and get a chance to try again next time.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-09-27",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 135150,
+        "still_path": null
+    },
+    "name": "Farm to Feast: Best Menu Wins",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Farm to Feast: Best Menu Wins",
+    "overview": "Cookery competition celebrating amateur cooks and award-winning produce from across Northern Ireland.",
+    "popularity": 1.606,
+    "poster_path": "/eqGZkba7jhhC3kLq4r21GTmemRM.jpg",
+    "production_companies": [
+        {
+            "id": 134670,
+            "logo_path": "/lmRTVYIjVFyrPEUuquBnA8oYgo7.png",
+            "name": "Stellify Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-27",
+            "episode_count": 1,
+            "id": 213438,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6152aa90af9590008e657907",
+            "air_date": "2021-09-27",
+            "episodes": [
+                {
+                    "air_date": "2021-09-27",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3245523,
+                    "name": "Episode 1",
+                    "overview": "Episodes one to four begin with a reveal of two key ingredients, from which each contestant creates a menu comprising one small and one large dish. Danni and Joris pick their favourite three, determining the identity of the three cooks who will battle it out in the kitchen. Those not picked observe from the sidelines and get a chance to try again next time.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 135150,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 213438,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

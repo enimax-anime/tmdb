@@ -1,0 +1,280 @@
+{
+    "adult": false,
+    "backdrop_path": "/bdWNcFjvDL7HnJOan2KSaQs2amI.jpg",
+    "created_by": [
+        {
+            "id": 105114,
+            "credit_id": "5e74ce49b7d352001376535d",
+            "name": "Ricky Tognazzi",
+            "original_name": "Ricky Tognazzi",
+            "gender": 2,
+            "profile_path": "/fBgtva5iaF2mUSzC4o7qqYbBEIb.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2018-09-16",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.raiplay.it/programmi/lavitapromessa",
+    "id": 96170,
+    "in_production": true,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2020-03-15",
+    "last_episode_to_air": {
+        "id": 5472091,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-15",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 96170,
+        "still_path": null
+    },
+    "name": "The Promised Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 533,
+            "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+            "name": "Rai 1",
+            "origin_country": "IT"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "La vita promessa",
+    "overview": "",
+    "popularity": 6.137,
+    "poster_path": "/bGoUru7H7HS5jvVqMjHe8k5xknq.jpg",
+    "production_companies": [
+        {
+            "id": 154744,
+            "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+            "name": "Rai Fiction",
+            "origin_country": "IT"
+        },
+        {
+            "id": 94785,
+            "logo_path": "/u1DBUwYHOPsbTB7ZTqmg2kwfRQU.png",
+            "name": "Picomedia",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-16",
+            "episode_count": 4,
+            "id": 137450,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fOEcsMEh9WXR9yj2pvheBv8m6Ok.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-02-23",
+            "episode_count": 4,
+            "id": 143908,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/fatVizqIf4iAEOFeS2w5iXBAfFt.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "5de8db947646fd00159b37ef",
+            "air_date": "2018-09-16",
+            "episodes": [
+                {
+                    "air_date": "2018-09-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2006565,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 99,
+                    "season_number": 1,
+                    "show_id": 96170,
+                    "still_path": "/oXefCKqBvJzE5VN17uqx2Qw1Gxj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2006566,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 96170,
+                    "still_path": "/2ZWjlS4MQ3CPTCJqEdZ4Usufg7G.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2006567,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 96170,
+                    "still_path": "/fq1r610MUw6s10zr0X7KZKVl5B8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-01",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2006568,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 96170,
+                    "still_path": "/zbX9SCOoDVSoVrLUu2PTeKMW9bS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 137450,
+            "poster_path": "/fOEcsMEh9WXR9yj2pvheBv8m6Ok.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5e538993a76ac50015a5e8c8",
+            "air_date": "2020-02-23",
+            "episodes": [
+                {
+                    "air_date": "2020-02-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2172395,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 96170,
+                    "still_path": "/2xDpt8L425CmlxK9ZK7kywQZOUQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2172396,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 96170,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2172397,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 96170,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-15",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 5472091,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 96170,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 143908,
+            "poster_path": "/fatVizqIf4iAEOFeS2w5iXBAfFt.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

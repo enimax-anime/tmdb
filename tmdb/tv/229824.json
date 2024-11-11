@@ -1,0 +1,159 @@
+{
+    "adult": false,
+    "backdrop_path": "/2U5RCx41ypNJ2lQWyKxUk6Ksv43.jpg",
+    "created_by": [
+        {
+            "id": 2232107,
+            "credit_id": "6517106b253fab00ae902c27",
+            "name": "Stephen Rooke",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-06-26",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 229824,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-07-03",
+    "last_episode_to_air": {
+        "id": 4560232,
+        "name": "Cleopatra's Daughter",
+        "overview": "Explores the life of Cleopatra Selena, daughter of Cleopatra the Great and Mark Antony, as she sees the collapse of her dynasty, goes as a prisoner to Rome, but rises from the embers to become one of the greatest queens of the African continent.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2023-07-03",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 229824,
+        "still_path": "/mgwZHicO2bFW86JTDniRZS1fspL.jpg"
+    },
+    "name": "Queens of Ancient Egypt",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1755,
+            "logo_path": "/mzLlbqnnLiDIzriohlvfSbWlEfR.png",
+            "name": "Sky History",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Queens of Ancient Egypt",
+    "overview": "Tells the stories of three little-known but significant Egyptian queens, revealing how they became the standard-bearers for their sex long before the modern era.",
+    "popularity": 4.728,
+    "poster_path": "/8FLHdY5jEXeT49YKFBIqS8VwsGA.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-26",
+            "episode_count": 3,
+            "id": 347237,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/otGcORNGQlhmCihHGg709ze0xtH.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 10,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "64a0fca3c390c500aeb11dee",
+            "air_date": "2023-06-26",
+            "episodes": [
+                {
+                    "air_date": "2023-06-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4560147,
+                    "name": "Queen Tiye",
+                    "overview": "In the 14th century BC, Queen Teje becomes the source of inspiration for a religious revolution that creates chaos in Egypt, and which may pave the way for the world's largest religions.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 229824,
+                    "still_path": "/xbd0nnpmgUyCvA2tDs88ci6qR5g.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4560151,
+                    "name": "The Other Cleopatra",
+                    "overview": "The reign of Cleopatra II is even more turbulent than that of her more famous namesake Cleopatra VII. This great queen saves her dynasty from being destroyed by hatred and strife.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 229824,
+                    "still_path": "/ifGoVn9cyU3wxGo1fdL3R6FTiwz.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4560232,
+                    "name": "Cleopatra's Daughter",
+                    "overview": "Explores the life of Cleopatra Selena, daughter of Cleopatra the Great and Mark Antony, as she sees the collapse of her dynasty, goes as a prisoner to Rome, but rises from the embers to become one of the greatest queens of the African continent.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 229824,
+                    "still_path": "/mgwZHicO2bFW86JTDniRZS1fspL.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 347237,
+            "poster_path": "/otGcORNGQlhmCihHGg709ze0xtH.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        }
+    }
+}

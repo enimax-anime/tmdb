@@ -1,0 +1,183 @@
+{
+    "adult": false,
+    "backdrop_path": "/cv4fvjMte7RFJswkTfZNHsJQsYs.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-08-12",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 130911,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2021-08-20",
+    "last_episode_to_air": {
+        "id": 4115334,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-08-20",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 130911,
+        "still_path": null
+    },
+    "name": "Escobar by Escobar",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4148,
+            "logo_path": "/ePgfopNKnZ6iSRMh1Gcm7IIamh1.png",
+            "name": "Sky Documentaries",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB",
+        "FR"
+    ],
+    "original_language": "en",
+    "original_name": "Escobar by Escobar",
+    "overview": "The true story of Colombian drug lord Pablo Escobar through the eyes of his son, Juan Pablo, whose life changed astronomically the day his father died.",
+    "popularity": 2.105,
+    "poster_path": "/gKZuFmavKuxiNVTzBT7OfSN4EzD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-08-12",
+            "episode_count": 4,
+            "id": 205411,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gKZuFmavKuxiNVTzBT7OfSN4EzD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "6112bf72afa1b00047dde6f7",
+            "air_date": "2021-08-12",
+            "episodes": [
+                {
+                    "air_date": "2021-08-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3121448,
+                    "name": "Episode 1",
+                    "overview": "Part one of the true story of Colombian drug lord Pablo Escobar through the eyes of his son, Juan Pablo, whose life changed astronomically the day his father died.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 130911,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3121450,
+                    "name": "Episode 2",
+                    "overview": "Part two of the true story of Colombian drug lord Pablo Escobar through the eyes of his son, Juan Pablo, whose life changed astronomically the day his father died.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 130911,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4115333,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 130911,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-20",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 4115334,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 130911,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 205411,
+            "poster_path": "/gKZuFmavKuxiNVTzBT7OfSN4EzD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

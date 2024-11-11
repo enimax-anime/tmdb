@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-06-14",
+    "genres": [],
+    "homepage": "",
+    "id": 204105,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2016-06-14",
+    "last_episode_to_air": {
+        "id": 3785796,
+        "name": "All in with Jackson and Anjali",
+        "overview": "In each episode, the quarterback enters the lives of two children and introduces them to experts who mentor them to get them closer to achieving their goals.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-06-14",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204105,
+        "still_path": null
+    },
+    "name": "All in with Cam Newton",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "All in with Cam Newton",
+    "overview": "Former Heisman Trophy winner and NFL MVP Cam Newton has achieved his dream of playing in the NFL, and now he's trying to help kids get on the right track toward fulfilling their dreams.",
+    "popularity": 0.341,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-06-14",
+            "episode_count": 1,
+            "id": 297478,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62a98bce875d1a527857ce62",
+            "air_date": "2016-06-14",
+            "episodes": [
+                {
+                    "air_date": "2016-06-14",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3785796,
+                    "name": "All in with Jackson and Anjali",
+                    "overview": "In each episode, the quarterback enters the lives of two children and introduces them to experts who mentor them to get them closer to achieving their goals.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204105,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297478,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

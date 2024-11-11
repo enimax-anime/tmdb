@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/4X5hIyOOZAWoaEQcOpeaPOsHU2I.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-06-03",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81311768",
+    "id": 202065,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2022-06-03",
+    "last_episode_to_air": {
+        "id": 3760159,
+        "name": "The Fall",
+        "overview": "After a devastating verdict, Jensen's girlfriend, Ragna, pores over the case files, hoping to uncover key evidence in time for the appeal process.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-06-03",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 202065,
+        "still_path": "/x68QGO9pAeiEDg4hBEUbBk7NlNR.jpg"
+    },
+    "name": "Mr. Good: Cop or Crook?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Mr. Good? Gåten Eirik Jensen",
+    "overview": "In this riveting docuseries, when Norway's top cop is suspected of drug trafficking, investigators must ask: Is he a good officer or a major criminal?",
+    "popularity": 1.245,
+    "poster_path": "/w7OYbHyrJymDL8DutHCuSj2pFFv.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-03",
+            "episode_count": 4,
+            "id": 293886,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w7OYbHyrJymDL8DutHCuSj2pFFv.jpg",
+            "season_number": 1,
+            "vote_average": 8.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5.2,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "628130b6031a1d0067c1168e",
+            "air_date": "2022-06-03",
+            "episodes": [
+                {
+                    "air_date": "2022-06-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3723423,
+                    "name": "Old School Cop",
+                    "overview": "Motorcycle-riding police office Eirik Jensen uses unorthodox methods to solve cases and crosses paths with drug smuggler Gjermund Cappelen.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 202065,
+                    "still_path": "/aeHdetG8cept4Mu621EeTwOSzlT.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3760157,
+                    "name": "Operation Silent",
+                    "overview": "Using Cappelen as a criminal informant pays off for Jensen in some ways - but it has devastating consequences too.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202065,
+                    "still_path": "/rDRxPGIUtwxodhbOvqEBposwArQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3760158,
+                    "name": "The Connection",
+                    "overview": "Disgraced police officer Eirik Jensen stands trial for taking bribes and for aiding Gjermund Cappelen in his drug smuggling operation.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 202065,
+                    "still_path": "/euqbfc8leJ9fKvpRmf5gIEO8qHD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-03",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3760159,
+                    "name": "The Fall",
+                    "overview": "After a devastating verdict, Jensen's girlfriend, Ragna, pores over the case files, hoping to uncover key evidence in time for the appeal process.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 202065,
+                    "still_path": "/x68QGO9pAeiEDg4hBEUbBk7NlNR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 293886,
+            "poster_path": "/w7OYbHyrJymDL8DutHCuSj2pFFv.jpg",
+            "season_number": 1,
+            "vote_average": 8.5
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": "/9wIQzqGXKAlQdJsnBsnsZDVbPJk.jpg",
+    "created_by": [
+        {
+            "id": 73637,
+            "credit_id": "63516cd4d8e225007d9853d8",
+            "name": "Nicolai Cleve Broch",
+            "original_name": "Nicolai Cleve Broch",
+            "gender": 2,
+            "profile_path": "/xKIrqVnpZQUf8qcAEXKPt9wo815.jpg"
+        },
+        {
+            "id": 1487103,
+            "credit_id": "63516cc4d8e2250082232bd2",
+            "name": "Ole Marius Araldsen",
+            "original_name": "Ole Marius Araldsen",
+            "gender": 2,
+            "profile_path": "/1Fd2jV9ffdlbXQrTuAr1VuIGCOz.jpg"
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2022-10-20",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://play.tv2.no/programmer/serier/ammo",
+    "id": 209310,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2022-11-17",
+    "last_episode_to_air": {
+        "id": 4012972,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-11-17",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 209310,
+        "still_path": "/kIYXMYrpMAk2AjLKBXNw3wAuGO9.jpg"
+    },
+    "name": "Ammo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 467,
+            "logo_path": "/vwi8lYIc8I765Z4vX0sBum9Kk55.png",
+            "name": "TV 2",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Ammo",
+    "overview": "The Norwegian arms industry is in the midst of the introduction of artificial intelligence. Bjørn is given responsibility for a large arms deal. Who will be the scapegoat if innocents are killed with these weapons?",
+    "popularity": 4.106,
+    "poster_path": "/yZxb9tOc7BO7aY3okZDKJhWo9k7.jpg",
+    "production_companies": [
+        {
+            "id": 145767,
+            "logo_path": "/h9uR2PcH9yyYsVt3iXD6YP4zj52.png",
+            "name": "Anagram Norge",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-20",
+            "episode_count": 6,
+            "id": 306890,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yZxb9tOc7BO7aY3okZDKJhWo9k7.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "6310e45f60620a007b4b4a0c",
+            "air_date": "2022-10-20",
+            "episodes": [
+                {
+                    "air_date": "2022-10-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3924980,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/dYHbBicEYVXsfirJ3tMEvMOliic.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4012968,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/tQIf1vKKXzeImXWWKkELRsBGT1n.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Paul",
+                            "credit_id": "63d4840820e6a5007b004474",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1196650,
+                            "known_for_department": "Acting",
+                            "name": "Antonin Schopfer",
+                            "original_name": "Antonin Schopfer",
+                            "popularity": 1.425,
+                            "profile_path": "/4WUHgbSo7HF8mJZZz4NLlfzJxvf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4012969,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/81BA3OSF4lnqAfLGIyFxgOoeryM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4012970,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/fhHUoEhV7nAGZVYADuqGcUQAYLI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4012971,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/5nYqmeCYiJH0kQolmsiSR0o2EQm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4012972,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 209310,
+                    "still_path": "/kIYXMYrpMAk2AjLKBXNw3wAuGO9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 306890,
+            "poster_path": "/yZxb9tOc7BO7aY3okZDKJhWo9k7.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": "/AfzpTJ5utvxpWYmCENQzSaRY3hk.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2022-03-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.history.com/shows/lost-gold-of-the-aztecs",
+    "id": 196310,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-05-24",
+    "last_episode_to_air": {
+        "id": 3721316,
+        "name": "Explosive Discoveries",
+        "overview": "In Utah, the Dillmans try not to trigger an Aztec water trap. In New Mexico, the Villesca family discovers more secrets buried beneath the Fire Pits.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-05-24",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 196310,
+        "still_path": null
+    },
+    "name": "Lost Gold of the Aztecs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 65,
+            "logo_path": "/9fGgdJz17aBX7dOyfHJtsozB7bf.png",
+            "name": "History",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lost Gold of the Aztecs",
+    "overview": "Follow three families determined to break the 500-year-old curse of Emperor Montezuma and find the lost treasure estimated to be worth over $3 billion dollars. The series intercuts each family’s epic adventure as they search for the 7 Cities of Gold on three different properties in three different states – the Dillmans in Utah, the Hoaglands in Nevada, and the Villescases in New Mexico.",
+    "popularity": 2.944,
+    "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-29",
+            "episode_count": 8,
+            "id": 285425,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "62431f600f3655009668ea4b",
+            "air_date": "2022-03-29",
+            "episodes": [
+                {
+                    "air_date": "2022-03-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3627481,
+                    "name": "Montezuma's Curse",
+                    "overview": "Legend says that the Aztecs hid a vast fortune in gold in the American southwest 500 years ago. Today, three families search for where they believe this treasure to be, each following their own set of clues.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": "/96lAiD6G0DFAUbpWKvNSjqBjJAG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3627482,
+                    "name": "Buried Below",
+                    "overview": "The Dillman Family completes the underwater dye test at Shadow Cave. In Nevada, the Miners bring in a Cave ROV so they can explore past the dangerous mine collapse.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": "/y2KtDcepkdonvEkZjuAnrjQsTTP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3644883,
+                    "name": "Spanish Death Trap",
+                    "overview": "The Miners in Nevada use a smoke gun to find another entrance to a dangerous tunnel system. In New Mexico, the Villescas family uses crossbow ingenuity to find their way into a sketchy mine.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": "/gJdzCkde7BupiRVDUl1mNqylC4i.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3663191,
+                    "name": "Weeping Cave",
+                    "overview": "The Dillman family seeks answers in the mysterious Weeping Cave. Meanwhile, the Villescas family builds a shaker box to help sift through material faster.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": "/btdIy5lVu8aWsm9YviKUNFT8Fne.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3671481,
+                    "name": "A Grave Discovery",
+                    "overview": "The Villescas talk with an expert about whether a spur they found could tie to the Conquistadors. In Nevada, the Miners' search gets sidetracked by the discovery of a potential grave site.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": "/flxUgx52T1QHFQvVRjrsYIvL3QG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-10",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3701108,
+                    "name": "A Hidden Chamber",
+                    "overview": "The Villescas family risks it all in New Mexico by bringing in more heavy machinery and a full crew. In Nevada, the Miners' research is threatened by the Sheriff's Department.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-17",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3721313,
+                    "name": "Chamber of Secrets",
+                    "overview": "In Utah, the Dillman family drills into what they believe could be the hidden treasure chamber that their grandfather predicted; after a close encounter, the gold miners in Nevada must find another way into the rest of the underground tunnel system.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-24",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3721316,
+                    "name": "Explosive Discoveries",
+                    "overview": "In Utah, the Dillmans try not to trigger an Aztec water trap. In New Mexico, the Villesca family discovers more secrets buried beneath the Fire Pits.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 196310,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 285425,
+            "poster_path": "/rQlIu3Jdyyt1Kk0CDJ6UHx3TPFq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

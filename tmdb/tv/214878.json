@@ -1,0 +1,209 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-08-04",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://curiositystream.com/video/3592",
+    "id": 214878,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-08-04",
+    "last_episode_to_air": {
+        "id": 4067080,
+        "name": "No Place Like Home",
+        "overview": "Casey and his crew wander the tidal flats and interior of Katmai and find the bones of a humpback whale that washed ashore.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-08-04",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 20,
+        "season_number": 1,
+        "show_id": 214878,
+        "still_path": "/o3ol2MiyZXxOsdoUOZYpmjAquMA.jpg"
+    },
+    "name": "The Tracker's Diary: Bears of Katmai",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2349,
+            "logo_path": "/pO2jjhCt7UeCSqDJJ4O1AtunmxE.png",
+            "name": "CuriosityStream",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Tracker's Diary: Bears of Katmai",
+    "overview": "Join filmmaker Casey Anderson as he embeds in the Alaskan wilderness to follow the largest terrestrial carnivores in the world.",
+    "popularity": 2.468,
+    "poster_path": "/lfNm2LjarSGk8NBoG42ojzSP9wg.jpg",
+    "production_companies": [
+        {
+            "id": 116480,
+            "logo_path": null,
+            "name": "Vision Hawk Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-04",
+            "episode_count": 6,
+            "id": 317220,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 2,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "637bdcc37719d700d5976f58",
+            "air_date": "2022-08-04",
+            "episodes": [
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4067073,
+                    "name": "The Last Frontier",
+                    "overview": "Every fall in the northern Pacific, up to a million salmon migrate back to the rivers and streams where they were born to spawn.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/pi6glUWr97M4CYhXtaXZTjI0u5L.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4067076,
+                    "name": "Fish Like a Bear",
+                    "overview": "The crew heads inland to a section of the river to observe the many different families as they fish.",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/fUUxRoguhkDQhx0oDYkdnuQ9uCT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4067077,
+                    "name": "A Working Ecosystem",
+                    "overview": "During a lull in bear and salmon activity, Casey and the crew decide to head inland in search of the spawning fish.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/4Hjl6xWrNhup8bTjs9YRkctRz2P.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4067078,
+                    "name": "The Wolf and The Storm",
+                    "overview": "After seeing a wolf in the distance and tracks on the shore, the crew head inland in search of more clues to the wolf's whereabouts.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/wk7AUAYWoTCUb5WntUeeSNCa7ro.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4067079,
+                    "name": "Neighbors, Old and New",
+                    "overview": "Casey and the crew go out in search of the family of the lost cub from the previous night.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/9DC62Pu7QRn0NEoTrPL2kxwQUyE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4067080,
+                    "name": "No Place Like Home",
+                    "overview": "Casey and his crew wander the tidal flats and interior of Katmai and find the bones of a humpback whale that washed ashore.",
+                    "production_code": "",
+                    "runtime": 20,
+                    "season_number": 1,
+                    "show_id": 214878,
+                    "still_path": "/o3ol2MiyZXxOsdoUOZYpmjAquMA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 317220,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

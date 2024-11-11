@@ -1,0 +1,418 @@
+{
+    "adult": false,
+    "backdrop_path": "/dR8tN9vttcihVKnNUILap9EJZCw.jpg",
+    "created_by": [
+        {
+            "id": 3296981,
+            "credit_id": "6183e1fee54d5d0043aea919",
+            "name": "Simon Dekker",
+            "original_name": "Simon Dekker",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2021-11-04",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81264650",
+    "id": 137003,
+    "in_production": true,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "last_air_date": "2023-06-23",
+    "last_episode_to_air": {
+        "id": 4545497,
+        "name": "Trained to Kill: The DC Sniper",
+        "overview": "In 2002, a sniper shoots six victims in a Washington suburb, linking him to a spree that resulted in one of the largest manhunts in American history.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2023-06-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 3,
+        "show_id": 137003,
+        "still_path": "/fIQhTM7wxoLOxPgtTwrmtEKKoMB.jpg"
+    },
+    "name": "Catching Killers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Catching Killers",
+    "overview": "The investigators behind infamous serial killer cases reveal the harrowing, chilling details of their extraordinary efforts in this true crime series.",
+    "popularity": 11.071,
+    "poster_path": "/628U5ybT3fV0gGbT41Lk3R15Ya0.jpg",
+    "production_companies": [
+        {
+            "id": 23949,
+            "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+            "name": "RAW",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-04",
+            "episode_count": 4,
+            "id": 216756,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cak5NSmsv169Qblw34Lg0JSpCU3.jpg",
+            "season_number": 1,
+            "vote_average": 6.6
+        },
+        {
+            "air_date": "2022-02-09",
+            "episode_count": 4,
+            "id": 240353,
+            "name": "Season 2",
+            "overview": "The detectives who captured the BTK Killer and other notoriously brutal murderers recount the brave actions and burdens behind their investigations.",
+            "poster_path": "/vH6sVOb2IUnli9QUIFkSUx4ksCO.jpg",
+            "season_number": 2,
+            "vote_average": 5.5
+        },
+        {
+            "air_date": "2023-06-23",
+            "episode_count": 4,
+            "id": 342281,
+            "name": "Season 3",
+            "overview": "Real-life investigators recount stories of cold-blooded killers, the desperate efforts to stop them and the brave people who brought them to justice.",
+            "poster_path": "/Asnlpf8wiHBgauLNnbGr4vcO25U.jpg",
+            "season_number": 3,
+            "vote_average": 8.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.5,
+    "vote_count": 39,
+    "season_data": {
+        "1": {
+            "_id": "61745871a217c0006252f303",
+            "air_date": "2021-11-04",
+            "episodes": [
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3300019,
+                    "name": "Body Count: The Green River Killer",
+                    "overview": "The unsolved murders of women around Green River near Seattle haunt investigators for decades — until crime scene science finally catches up.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 137003,
+                    "still_path": "/eZrKRpmxn29c8KcVBMHOOfmHzRu.jpg",
+                    "vote_average": 5,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3321717,
+                    "name": "Manhunter: Aileen Wuornos",
+                    "overview": "A serial killer’s deadly road trip through Florida in 1990 leaves several men dead and spurs investigators to go undercover for an unexpected suspect.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 137003,
+                    "still_path": "/vfiLmyZ8aWNy5U3ObfXCTdlcpUT.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "6342d08b39a1a600844285bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1752570,
+                            "known_for_department": "Camera",
+                            "name": "Paul Kirsop",
+                            "original_name": "Paul Kirsop",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3321718,
+                    "name": "True Lies (1): The Happy Face Killer",
+                    "overview": "Odd suspects, questionable confessions and ever-shifting stories confuse detectives in the hunt for a young Oregon woman's killer in the early 1990s.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 137003,
+                    "still_path": "/9YS9fvgzi5Pyj9Dd0ajbeTemJTY.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-04",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3321719,
+                    "name": "True Lies (2): The Happy Face Killer",
+                    "overview": "A consequential letter surfaces with stirring claims and upends the seemingly closed case, calling into question the guilt of the convicted criminals.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 137003,
+                    "still_path": "/zEpaMsBypIUsx3YrQM0hGklA8hW.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 216756,
+            "poster_path": "/cak5NSmsv169Qblw34Lg0JSpCU3.jpg",
+            "season_number": 1,
+            "vote_average": 6.6
+        },
+        "2": {
+            "_id": "61e4ee02cae632001c95e7ff",
+            "air_date": "2022-02-09",
+            "episodes": [
+                {
+                    "air_date": "2022-02-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3451833,
+                    "name": "Bind. Torture. Kill: BTK",
+                    "overview": "A terrifying Kansas serial killer reemerges after 30 years. Using DNA technology and help from the media, investigators race to prevent another murder.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 2,
+                    "show_id": 137003,
+                    "still_path": "/6nHTSBldpNyDSzuuIAL27zj4wFM.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3494948,
+                    "name": "Thrill Kills: The Phoenix Serial Shooter",
+                    "overview": "A serial shooter targets random pedestrians on the Phoenix streets, leading detectives on a desperate hunt for a criminal driven to kill for sport.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 2,
+                    "show_id": 137003,
+                    "still_path": "/ogUWGxZKpDhVqdIwNGDVzbHOgay.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3494949,
+                    "name": "Missing Men (1): The Toronto Village Killer",
+                    "overview": "After multiple gay men sharing similar features go missing in Toronto, detectives follow an international tip with horrific claims of cannibalism.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 2,
+                    "show_id": 137003,
+                    "still_path": "/3pgkJl6ohfdu1wivCbbFb78p3Pc.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "6342d08b39a1a600844285bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1752570,
+                            "known_for_department": "Camera",
+                            "name": "Paul Kirsop",
+                            "original_name": "Paul Kirsop",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-09",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3494950,
+                    "name": "Missing Men (2): The Toronto Village Killer",
+                    "overview": "As more men vanish, a fresh task force assembles. New surveillance footage and recovered computer files provide a final chance to identify the killer.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 2,
+                    "show_id": 137003,
+                    "still_path": "/9YwXYpCfYmy7vmoEb893rdnEr6r.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "6342d08b39a1a600844285bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1752570,
+                            "known_for_department": "Camera",
+                            "name": "Paul Kirsop",
+                            "original_name": "Paul Kirsop",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "The detectives who captured the BTK Killer and other notoriously brutal murderers recount the brave actions and burdens behind their investigations.",
+            "id": 240353,
+            "poster_path": "/vH6sVOb2IUnli9QUIFkSUx4ksCO.jpg",
+            "season_number": 2,
+            "vote_average": 5.5
+        },
+        "3": {
+            "_id": "646e2bb4bd320900e458cf19",
+            "air_date": "2023-06-23",
+            "episodes": [
+                {
+                    "air_date": "2023-06-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4467646,
+                    "name": "End of the Line: The Railroad Killer",
+                    "overview": "Dubbed \"The Railroad Killer,\" a man hops trains to his victims' homes, bludgeoning them, helping himself to their food — and evading police for years.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 137003,
+                    "still_path": "/cZhleb6jL9gig6TW3wGpy0Bs9Y0.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4545494,
+                    "name": "Night Terror: New York Zodiac Killer",
+                    "overview": "In the '90s, a killer in New York selects his victims based on their birth signs. Can the cops catch him before he attacks all 12 symbols of the zodiac?",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 3,
+                    "show_id": 137003,
+                    "still_path": "/7gXguAxGU5bCaepRS4B7Og3edRW.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4545496,
+                    "name": "Manhunt: The Olympic Park Bomber",
+                    "overview": "A deadly bomb explodes at the 1996 Olympic Games in Atlanta. But as FBI agents investigate subsequent attacks, they realize they've also become targets.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 3,
+                    "show_id": 137003,
+                    "still_path": "/4VI0f8pbY73mMNULGPdkKdvKROt.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 4545497,
+                    "name": "Trained to Kill: The DC Sniper",
+                    "overview": "In 2002, a sniper shoots six victims in a Washington suburb, linking him to a spree that resulted in one of the largest manhunts in American history.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 137003,
+                    "still_path": "/fIQhTM7wxoLOxPgtTwrmtEKKoMB.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "Real-life investigators recount stories of cold-blooded killers, the desperate efforts to stop them and the brave people who brought them to justice.",
+            "id": 342281,
+            "poster_path": "/Asnlpf8wiHBgauLNnbGr4vcO25U.jpg",
+            "season_number": 3,
+            "vote_average": 8.3
+        }
+    }
+}

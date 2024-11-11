@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-01-01",
+    "genres": [
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 84814,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2020-01-01",
+    "last_episode_to_air": {
+        "id": 1637742,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-01-01",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 84814,
+        "still_path": null
+    },
+    "name": "The Wall",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 31,
+            "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+            "name": "ZDF",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": null,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "The Wall",
+    "overview": "",
+    "popularity": 2.159,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-01",
+            "episode_count": 1,
+            "id": 114106,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5c0c62670e0a2638cc092a2e",
+            "air_date": "2020-01-01",
+            "episodes": [
+                {
+                    "air_date": "2020-01-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1637742,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 84814,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 114106,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

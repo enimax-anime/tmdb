@@ -1,0 +1,100 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2003-08-23",
+    "genres": [],
+    "homepage": "",
+    "id": 158598,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2003-08-23",
+    "last_episode_to_air": {
+        "id": 3528124,
+        "overview": "first episode",
+        "name": "1",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2003-08-23",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 158598,
+        "still_path": null
+    },
+    "name": "Martin Morning",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Martin Matin",
+    "overview": "Martin, an ordinary nine-year-old boy, has one strange characteristic: every morning he awakes to find himself transformed into fantastic and legendary beings. Despite the transformations, he goes to school with his friends, and adventures then ensue.",
+    "popularity": 0.608,
+    "poster_path": "/76gLYyxeH0gZY3nxd4LOBHHpFVe.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2003-08-23",
+            "episode_count": 1,
+            "id": 245763,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "621a91643c4344006938551a",
+            "air_date": "2003-08-23",
+            "episodes": [
+                {
+                    "air_date": "2003-08-23",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3528124,
+                    "name": "1",
+                    "overview": "first episode",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 158598,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 245763,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

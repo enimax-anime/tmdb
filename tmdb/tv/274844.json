@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/u1aQZAZPyJMGkfjBfNUzro7BLWv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2024-10-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 274844,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-10-16",
+    "last_episode_to_air": {
+        "id": 5694687,
+        "name": "The Good, The Bad & The Ugly Boy",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-16",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 274844,
+        "still_path": "/eLoSVnOOauVb85d5rsJAE9kACUh.jpg"
+    },
+    "name": "Good Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5424,
+            "logo_path": "/4q8hlv8E6fZiX1lTryk8lLm0wMM.png",
+            "name": "RTÉ Player",
+            "origin_country": "IE"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IE"
+    ],
+    "original_language": "en",
+    "original_name": "Good Boy",
+    "overview": "Tony Cantwell stars in this brand-new sitcom chronicling one man’s struggle making it in comedy while wrestling with the emotional journey of getting an ADHD diagnosis in Ireland.",
+    "popularity": 1.2,
+    "poster_path": "/6HsTf8C2Q1RfOyd3VszrVj6DaiF.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-10-16",
+            "episode_count": 4,
+            "id": 424630,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6716c233dcb7ff811e475566",
+            "air_date": "2024-10-16",
+            "episodes": [
+                {
+                    "air_date": "2024-10-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5692315,
+                    "name": "It's Conceptual, Dummy!",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 1,
+                    "show_id": 274844,
+                    "still_path": "/npEhL8gnJgSV3TDQa3bz154Utu4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5694684,
+                    "name": "Going Viral = Value as a Human",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 13,
+                    "season_number": 1,
+                    "show_id": 274844,
+                    "still_path": "/64Wle9I2T1lPxuACr2TXXi1rQRc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5694685,
+                    "name": "Right Wing? WRONG WING!",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 274844,
+                    "still_path": "/g9VQgv9EZ6lT3IOtWgVkAivK8xV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5694687,
+                    "name": "The Good, The Bad & The Ugly Boy",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 274844,
+                    "still_path": "/eLoSVnOOauVb85d5rsJAE9kACUh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 424630,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

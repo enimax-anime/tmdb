@@ -1,0 +1,162 @@
+{
+    "adult": false,
+    "backdrop_path": "/Ae4Yiwn8LVT41Vw87wotJdZai1I.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-11-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81306326",
+    "id": 238091,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2023-11-08",
+    "last_episode_to_air": {
+        "id": 4905555,
+        "name": "The Profiteers' Ball",
+        "overview": "As the storm rages on, multiple members of the French elite come under fire. A psychological evaluation of Bettencourt yields damning results.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-11-08",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 49,
+        "season_number": 1,
+        "show_id": 238091,
+        "still_path": "/i9niW2vUPtoOBhxiByNRNDC8GRY.jpg"
+    },
+    "name": "The Billionaire, the Butler, and the Boyfriend",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "L'Affaire Bettencourt : Scandale chez la femme la plus riche du monde",
+    "overview": "How did a conflict between the world's wealthiest woman and her daughter spiral into national scandal? This riveting docuseries tells the whole story.",
+    "popularity": 20.291,
+    "poster_path": "/2j3PVfH2LWQ5KWwDC5UcqJakeEB.jpg",
+    "production_companies": [
+        {
+            "id": 213108,
+            "logo_path": null,
+            "name": "QuadBox",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-08",
+            "episode_count": 3,
+            "id": 362722,
+            "name": "Season 1",
+            "overview": "How did a conflict between the world's wealthiest woman and her daughter spiral into national scandal? This riveting docuseries tells the whole story.",
+            "poster_path": "/2j3PVfH2LWQ5KWwDC5UcqJakeEB.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.75,
+    "vote_count": 12,
+    "season_data": {
+        "1": {
+            "_id": "6539f64924f2ce00ff713ee7",
+            "air_date": "2023-11-08",
+            "episodes": [
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4855886,
+                    "name": "Because He Was Worth It",
+                    "overview": "Bettencourt's relationship with Banier raises eyebrows. In 2007, he asks her to adopt him — kickstarting an explosive legal dispute with her daughter.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 238091,
+                    "still_path": "/a69Msx9SGqX6p7vRpEiAbEfkQlq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4905553,
+                    "name": "A Tangled Web",
+                    "overview": "Scandal roils as secret recordings of Bettencourt's conversations are made public, but the focus shifts from Banier to alleged tax and election fraud.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 238091,
+                    "still_path": "/zd736ZlERgf5XErOQaiOOcKPWK0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4905555,
+                    "name": "The Profiteers' Ball",
+                    "overview": "As the storm rages on, multiple members of the French elite come under fire. A psychological evaluation of Bettencourt yields damning results.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 238091,
+                    "still_path": "/i9niW2vUPtoOBhxiByNRNDC8GRY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "How did a conflict between the world's wealthiest woman and her daughter spiral into national scandal? This riveting docuseries tells the whole story.",
+            "id": 362722,
+            "poster_path": "/2j3PVfH2LWQ5KWwDC5UcqJakeEB.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

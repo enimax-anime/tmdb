@@ -1,0 +1,281 @@
+{
+    "adult": false,
+    "backdrop_path": "/cNx5nouMt5x4UfqeG9jpuHW02ok.jpg",
+    "created_by": [
+        {
+            "id": 2039202,
+            "credit_id": "60002f927390c0003ef5c30f",
+            "name": "Marley Clements",
+            "original_name": "Marley Clements",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2935999,
+            "credit_id": "60002e0bcb3084003dd5c3cc",
+            "name": "Bayan Joonam",
+            "original_name": "Bayan Joonam",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2021-01-26",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.vicetv.com/en_us/show/qanon-the-search-for-q",
+    "id": 116662,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-09-14",
+    "last_episode_to_air": {
+        "id": 3913184,
+        "name": "The Reckoning",
+        "overview": "Bayan & Marley go behind the scenes with a major player funding Stop the Steal.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-09-14",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 116662,
+        "still_path": null
+    },
+    "name": "QAnon: The Search for Q",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3706,
+            "logo_path": "/iA3HkJ8eNQZngQAjETO24YV8p1n.png",
+            "name": "Vice TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "QAnon: The Search for Q",
+    "overview": "Explore the origins, rise and social impact of QAnon, whose story has been told to the public one outrageous headline at a time. A comprehensive investigation into the who, what, and why of the viral movement.",
+    "popularity": 1.594,
+    "poster_path": "/3CxGpzlDBBDsM2dA1UBZ8LXbIiU.jpg",
+    "production_companies": [
+        {
+            "id": 145651,
+            "logo_path": null,
+            "name": "Vice TV",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-26",
+            "episode_count": 3,
+            "id": 176486,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3F6AiegrttrunvXs52VAIuynH2U.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-08-24",
+            "episode_count": 4,
+            "id": 306083,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1G3972uYJU2d51MEg11kHmQuW1I.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "60002d80594c94003e91a298",
+            "air_date": "2021-01-26",
+            "episodes": [
+                {
+                    "air_date": "2021-01-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2693022,
+                    "name": "What is Q?",
+                    "overview": "To understand what Q is and why it has been so enormously popular, hosts Bayan Joonam and Marley Clements get to know the most influential QAnon evangelists.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116662,
+                    "still_path": "/qeJo3JYytTtb5UuT7jUyzqKEBLE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2693015,
+                    "name": "Who is Q?",
+                    "overview": "In an effort to determine if Q was created as an elaborate hoax or clandestine operation, Bayan & Marley are forced into the dangerous world of internet trolls.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 116662,
+                    "still_path": "/p2Lh5bgUPxqborlSqO9klqSt9mv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-28",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2640343,
+                    "name": "Why does Q exist?",
+                    "overview": "Bayan & Marley examine Q's impact on the American electorate as Q theories spread from the far-right to the far-left, and as more crimes are committed in the name of Q.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116662,
+                    "still_path": "/dlEQPMeUl5DziRDBZKfBWKZivi9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "6394f9839f5dfb00b6aea21f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 938951,
+                            "known_for_department": "Acting",
+                            "name": "Jim Jones",
+                            "original_name": "Jim Jones",
+                            "popularity": 1.668,
+                            "profile_path": "/qcgfqqRai5JvDHMna23iz88gfPG.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 176486,
+            "poster_path": "/3F6AiegrttrunvXs52VAIuynH2U.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "630824f03dd126007b2dddd8",
+            "air_date": "2022-08-24",
+            "episodes": [
+                {
+                    "air_date": "2022-08-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3913181,
+                    "name": "Killing Q",
+                    "overview": "QAnon posted a month before January 6. Fueled by conspiracies about a stolen election and Covid, the movement is alive. Bayan Joonam and Marley Clements investigate.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 116662,
+                    "still_path": "/5BdMNPBqt8DLmE6svIt8B56kA5u.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3913182,
+                    "name": "Conspirituality",
+                    "overview": "Bayan Joonam and Marley Clements investigate the movement that is seeing pastors at giant rallies inspire a new generation of Q-inspired spiritual warriors.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 116662,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3913183,
+                    "name": "Insurgency",
+                    "overview": "Marley & Bayan investigate the rise of militias and threats to local elections.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 116662,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-14",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3913184,
+                    "name": "The Reckoning",
+                    "overview": "Bayan & Marley go behind the scenes with a major player funding Stop the Steal.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 116662,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 306083,
+            "poster_path": "/1G3972uYJU2d51MEg11kHmQuW1I.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

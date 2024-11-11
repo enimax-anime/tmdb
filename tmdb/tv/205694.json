@@ -1,0 +1,159 @@
+{
+    "adult": false,
+    "backdrop_path": "/4y0gnFzv1NtYMEunY1nSSEaHSmT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        90
+    ],
+    "first_air_date": "2021-10-26",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.pandastorm.com/detail/dasweissehaus/",
+    "id": 205694,
+    "in_production": false,
+    "languages": [
+        "de"
+    ],
+    "last_air_date": "2021-10-26",
+    "last_episode_to_air": {
+        "id": 3828362,
+        "name": "Episode 2",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-10-26",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 91,
+        "season_number": 1,
+        "show_id": 205694,
+        "still_path": "/7FGWTAXTtnWsFHE3rDGnFtYuqQY.jpg"
+    },
+    "name": "Das Weiße Haus am Rhein",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 308,
+            "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+            "name": "Das Erste",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Das Weiße Haus am Rhein",
+    "overview": "",
+    "popularity": 9.513,
+    "poster_path": "/aKHpxjgxgPd00HRkQ4yNxreP8u0.jpg",
+    "production_companies": [
+        {
+            "id": 127332,
+            "logo_path": "/zlHnt6mRYZ3CRZh0mPM9QhV9SCK.png",
+            "name": "Pandastorm Pictures",
+            "origin_country": "DE"
+        },
+        {
+            "id": 35389,
+            "logo_path": "/nX4hlwsvFV7IhhpKKj0yf3PgkG7.png",
+            "name": "Zeitsprung Pictures",
+            "origin_country": "DE"
+        },
+        {
+            "id": 11240,
+            "logo_path": "/i59ItaKFdxJ7Yi6w2s7CML0LBvI.png",
+            "name": "PISF",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-26",
+            "episode_count": 2,
+            "id": 300286,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aKHpxjgxgPd00HRkQ4yNxreP8u0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4.125,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "62c9cd79498bc20698a165cf",
+            "air_date": "2021-10-26",
+            "episodes": [
+                {
+                    "air_date": "2021-10-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3828360,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 88,
+                    "season_number": 1,
+                    "show_id": 205694,
+                    "still_path": "/rvN7TzTPTmRS0CTFShtses80t8h.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-26",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3828362,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 91,
+                    "season_number": 1,
+                    "show_id": 205694,
+                    "still_path": "/7FGWTAXTtnWsFHE3rDGnFtYuqQY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 300286,
+            "poster_path": "/aKHpxjgxgPd00HRkQ4yNxreP8u0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

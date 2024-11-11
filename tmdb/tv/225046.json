@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/gnEmRxVawNn8BjcU5sh6F5RDZNT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2023-04-20",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.sbs.com.au/ondemand/tv-series/asking-for-it",
+    "id": 225046,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-04-27",
+    "last_episode_to_air": {
+        "id": 4382188,
+        "name": "Episode 2",
+        "overview": "Less than ten percent of victims report sexual violence, but for the past decade it's the only major crime category that's continued to rise. Many argue our justice system is failing the few victims whose cases actually goes to trial. Jess Hill investigates our institutional responses to rape, and alternative justice systems beyond Australia's shores.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-04-27",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 225046,
+        "still_path": null
+    },
+    "name": "Asking For It",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 223,
+            "logo_path": "/aQ7chdTN42fz0qtmih3yYnDWp4F.png",
+            "name": "SBS",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Asking For It",
+    "overview": "Jess Hill explores the contemporary sexual revolution seeking to bring about an era of 'enthusiastic consent' at a time when millions of Australians are living with an epidemic of sexual violence.",
+    "popularity": 0.711,
+    "poster_path": "/7TonqLzCdv2XrPt8cbB9kaYN2H7.jpg",
+    "production_companies": [
+        {
+            "id": 33438,
+            "logo_path": "/geKQwKBQr4XOHDCmBzWjP3UwVjJ.png",
+            "name": "Northern Pictures",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-04-20",
+            "episode_count": 2,
+            "id": 338068,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6443a377d35dea0505fb8463",
+            "air_date": "2023-04-20",
+            "episodes": [
+                {
+                    "air_date": "2023-04-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4382181,
+                    "name": "Episode 1",
+                    "overview": "Explores the rage around sexual violence that emerged in Australia in early 2021, and society's understanding of consent.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 225046,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4382188,
+                    "name": "Episode 2",
+                    "overview": "Less than ten percent of victims report sexual violence, but for the past decade it's the only major crime category that's continued to rise. Many argue our justice system is failing the few victims whose cases actually goes to trial. Jess Hill investigates our institutional responses to rape, and alternative justice systems beyond Australia's shores.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 225046,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 338068,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

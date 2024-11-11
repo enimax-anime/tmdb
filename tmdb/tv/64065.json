@@ -1,0 +1,339 @@
+{
+    "adult": false,
+    "backdrop_path": "/z3y4XSI2TDN7Tcb6sinyHgkP4hz.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2015-09-30",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b07zyh6k",
+    "id": 64065,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-11-20",
+    "last_episode_to_air": {
+        "id": 1659021,
+        "name": "The De Silva Cousins",
+        "overview": "Romesh tries to spend some quality time with his mum, including a hip hop tour of LA in a ‘Lowrider’ and a trip to the world's biggest comic book convention.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-11-20",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 64065,
+        "still_path": "/6B8te0jApj8gzlfwurb0hqifubL.jpg"
+    },
+    "name": "Asian Provocateur",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Asian Provocateur",
+    "overview": "Comedian Romesh Ranganathan is sent by his mother on a ramshackle odyssey around his parents' homeland of Sri Lanka in an attempt to connect him with his roots.",
+    "popularity": 5.069,
+    "poster_path": "/fiVk0wzbOpVAdRT6VBX3HFPnyXW.jpg",
+    "production_companies": [
+        {
+            "id": 64640,
+            "logo_path": "/kIAlzk0v7PzLbFywQmQNt5H32s1.png",
+            "name": "Rumpus Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-09-30",
+            "episode_count": 6,
+            "id": 71099,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2016-10-12",
+            "episode_count": 6,
+            "id": 80966,
+            "name": "Mum's American Dream",
+            "overview": "In series two, Romesh Ranganathan is off to visit his relatives in the USA - and his mum's coming too.",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "560e82079251414feb002e7f",
+            "air_date": "2015-09-30",
+            "episodes": [
+                {
+                    "air_date": "2015-09-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1112596,
+                    "name": "Uncle Thiru",
+                    "overview": "Sent to receive a traditional blessing, Romesh has a chicken rubbed on his head.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1112598,
+                    "name": "Uncle Ragu",
+                    "overview": "Romesh visits Batticloa to meet his Uncle Ragu, but is soon leading the poor man astray.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1230860,
+                    "name": "Uncle Rubaharan",
+                    "overview": "Uncle Rubaharan introduces Romesh to the ancient Sri Lankan martial art known as angapora.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": "/qm728A3F6jfYd1R3mkY8Y5KkQEZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1230861,
+                    "name": "Cousin Krishna",
+                    "overview": "Romesh must look after his 12-year-old cousin Krishna, who's the more grown-up of the two.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": "/yt4lbXkEaibJCr3zSrYNYhWqUnA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1230862,
+                    "name": "King Kong",
+                    "overview": "Romesh tries to fulfil a dream of his mother's by performing in a Sri Lankan Tamil drama.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": "/ijqCRCrtGTQlYR0UVT0nf5YvcPo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-04",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1230863,
+                    "name": "Shanthi's Return",
+                    "overview": "Shanthi heads out to Sri Lanka to join Romesh and find out what he's learnt.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64065,
+                    "still_path": "/c4opkMc0JaG9QmRkir2XLMnHgS4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 71099,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "57fc88b8c3a368440f0058fa",
+            "air_date": "2016-10-12",
+            "episodes": [
+                {
+                    "air_date": "2016-10-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1230622,
+                    "name": "Cousin Pratheep",
+                    "overview": "Romesh and Shanthi kick off their trip in Tampa, Florida, meeting cousin Pratheep.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/ntty8zShNJRMJ5ruVw3pznh6xfd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-10-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1230865,
+                    "name": "The Family Reunion",
+                    "overview": "Romesh’s mother derails their America trip to take them to Canada for a family reunion.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/r1rN2SZs9GPAb8M7PNmNW28SZYI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-10-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1234274,
+                    "name": "Brother Dinesh",
+                    "overview": "Romesh Ranganathan and his mum go on a tour of the Deep South with Romesh's brother Dinesh.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/n8pEDYSe1miiyjMr0EixJRYnTGQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-11-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1234384,
+                    "name": "Cousin Krishna Returns",
+                    "overview": "Romesh tries to teach his cousin Krishna how to be a man at cowboy ranch in Colorado.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/2LqOrpZmAVFg52sR2VgOMw8NWm4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-11-12",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1659020,
+                    "name": "Uncle Ragu Returns",
+                    "overview": "Romesh Ranganathan splits from his mum to join his Uncle Ragu on a spiritual journey around Mexico. This time, Romesh is determined to be much more positive.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/3xIFC9716BgiDrdb7v71LUFBOIq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-11-20",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1659021,
+                    "name": "The De Silva Cousins",
+                    "overview": "Romesh tries to spend some quality time with his mum, including a hip hop tour of LA in a ‘Lowrider’ and a trip to the world's biggest comic book convention.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 64065,
+                    "still_path": "/6B8te0jApj8gzlfwurb0hqifubL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Mum's American Dream",
+            "overview": "In series two, Romesh Ranganathan is off to visit his relatives in the USA - and his mum's coming too.",
+            "id": 80966,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

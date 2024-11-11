@@ -1,0 +1,204 @@
+{
+    "adult": false,
+    "backdrop_path": "/rgJaDVbOIboShiCDJXobYuQJRDp.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2017-07-24",
+    "genres": [
+        {
+            "id": 10763,
+            "name": "News"
+        },
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://www.msnbc.com/the-beat-with-ari-melber",
+    "id": 86092,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-01-21",
+    "last_episode_to_air": {
+        "id": 1680325,
+        "name": "Premiere",
+        "overview": "Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-01-21",
+        "episode_number": 350,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 86092,
+        "still_path": null
+    },
+    "name": "The Beat with Ari Melber",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 37,
+            "logo_path": "/tK9acpEuJgVLDTmnd6rdCsDYP0E.png",
+            "name": "MSNBC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Beat with Ari Melber",
+    "overview": "Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.",
+    "popularity": 2.362,
+    "poster_path": "/poQjx5jZqWkJolQpifmPp2sRSZq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-07-24",
+            "episode_count": 2,
+            "id": 117331,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "News",
+    "vote_average": 7,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5c46b3420e0a264965c90d60",
+            "air_date": "2017-07-24",
+            "episodes": [
+                {
+                    "air_date": "2017-07-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4249401,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 86092,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f4bf2ea24c501339e32b35",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 102649,
+                            "known_for_department": "Acting",
+                            "name": "Cory Booker",
+                            "original_name": "Cory Booker",
+                            "popularity": 3.622,
+                            "profile_path": "/qbs1ZFOQK8iTZmYuB94gVkaNbvM.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f4bf35a6725400865f1a7d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3026,
+                            "known_for_department": "Acting",
+                            "name": "Rob Reiner",
+                            "original_name": "Rob Reiner",
+                            "popularity": 11.599,
+                            "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f4bf4715376c007819e4ea",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2161106,
+                            "known_for_department": "Acting",
+                            "name": "Sebastian Gorka",
+                            "original_name": "Sebastian Gorka",
+                            "popularity": 1.43,
+                            "profile_path": "/1iHJ7v0dW2X5OtvhjchObZazMST.jpg"
+                        },
+                        {
+                            "character": "Self - Correspondent",
+                            "credit_id": "63f4bf5b524978009e797740",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1230168,
+                            "known_for_department": "Acting",
+                            "name": "Michael Steele",
+                            "original_name": "Michael Steele",
+                            "popularity": 0.574,
+                            "profile_path": "/dwhjUdaIUadZC16cezmsi8DLDVZ.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f4bf6b15376c008bc1ba93",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3932469,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Ciraolo",
+                            "original_name": "Caroline Ciraolo",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-21",
+                    "episode_number": 350,
+                    "episode_type": "finale",
+                    "id": 1680325,
+                    "name": "Premiere",
+                    "overview": "Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 86092,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 117331,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

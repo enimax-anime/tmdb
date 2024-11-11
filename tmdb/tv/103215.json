@@ -1,0 +1,277 @@
+{
+    "adult": false,
+    "backdrop_path": "/b0MYUjfHOTPFxnyHZwdI8bdmbRO.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-05-07",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 103215,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-05-08",
+    "last_episode_to_air": {
+        "id": 2263153,
+        "name": "Robbie vs. Janie's Husband",
+        "overview": "When Janie's pen pal husband gets released from jail, he sees Robbie as a role model, and Caleb is in a shooting slump as the final game of the season approaches.",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2020-05-08",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 103215,
+        "still_path": null
+    },
+    "name": "Robbie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 47,
+            "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+            "name": "Comedy Central",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Robbie",
+    "overview": "Robbie’s life may not have panned out the way he thought, but this small-town ice cream store manager, church league basketball coach and unexpected father isn’t ready to give up on his dreams just yet.",
+    "popularity": 5.447,
+    "poster_path": "/1JyFSbiCcWKPQ69MhkU4KfWXd5b.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-05-07",
+            "episode_count": 8,
+            "id": 150356,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1JyFSbiCcWKPQ69MhkU4KfWXd5b.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5eb60612fd7aa4001c5b9c04",
+            "air_date": "2020-05-07",
+            "episodes": [
+                {
+                    "air_date": "2020-05-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2263134,
+                    "name": "Pilot",
+                    "overview": "Ice cream store manager and church league basketball coach Robbie goes after his dream job and gets some shocking news from his ex-girlfriend.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Young Robbie",
+                            "credit_id": "5ed80c121b157d001f5a70f5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2277847,
+                            "known_for_department": "Acting",
+                            "name": "Trae Romano",
+                            "original_name": "Trae Romano",
+                            "popularity": 3.954,
+                            "profile_path": "/358BzIBDnBW7oBzZxZ0QtyAuHJo.jpg"
+                        },
+                        {
+                            "character": "JP",
+                            "credit_id": "60721fad498bc200294759a6",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2004113,
+                            "known_for_department": "Acting",
+                            "name": "Tyler Crumley",
+                            "original_name": "Tyler Crumley",
+                            "popularity": 3.242,
+                            "profile_path": "/9FYaiT2IoG9TyqJkpQcBh0uCZIR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2263147,
+                    "name": "Robbie vs. the Room of Dreams",
+                    "overview": "When Robbie seeks to baptize Caleb so he can play on the church basketball team, Ava demands that Robbie first step up as a dad financially.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2263148,
+                    "name": "Robbie vs. Rooney",
+                    "overview": "Robbie tries turning the public against the new high school basketball coach so he can claim the job for himself, and Robbie Sr. embraces retirement.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2263149,
+                    "name": "Robbie vs. Tight Pants Tom",
+                    "overview": "Robbie attempts to befriend the team's parents at Ava's suggestion, but his immature behavior and hostile attitude get in the way.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2263150,
+                    "name": "Robbie vs. Sugartown",
+                    "overview": "The arrival of a new boutique ice cream chain pits Robbie against his dad and gives Ava a chance to meet her hero.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2263151,
+                    "name": "Robbie vs. Piano Chicken",
+                    "overview": "Robbie tries to get uniforms for his team, but raising the funds requires him to pack the crowd for the next game, and Ava tours a prospective private school for Caleb.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2263152,
+                    "name": "Robbie vs. Ava vs. Danielle",
+                    "overview": "At Caleb's birthday party, Ava gets frustrated at her bossy older sister and Robbie finds out that Ava lied about how their relationship ended.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2263153,
+                    "name": "Robbie vs. Janie's Husband",
+                    "overview": "When Janie's pen pal husband gets released from jail, he sees Robbie as a role model, and Caleb is in a shooting slump as the final game of the season approaches.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 103215,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Young Robbie",
+                            "credit_id": "5ed80c121b157d001f5a70f5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2277847,
+                            "known_for_department": "Acting",
+                            "name": "Trae Romano",
+                            "original_name": "Trae Romano",
+                            "popularity": 3.954,
+                            "profile_path": "/358BzIBDnBW7oBzZxZ0QtyAuHJo.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 150356,
+            "poster_path": "/1JyFSbiCcWKPQ69MhkU4KfWXd5b.jpg",
+            "season_number": 1,
+            "vote_average": 6.4
+        }
+    }
+}

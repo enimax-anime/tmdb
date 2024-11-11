@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/xlSSFpg3DJFPYbc1evdOdD11P4w.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-03-17",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.mgmplus.com/series/in-restless-dreams-the-music-of-paul-simon",
+    "id": 249221,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-03-24",
+    "last_episode_to_air": {
+        "id": 5215606,
+        "overview": "Verse two chronicles the aftermath of Simon & Garfunkel while Simon catapults into superstardom as a solo artist, showcasing an iconic appearance on \"Saturday Night Live\", a short-lived marriage to Carrie Fisher and Simon & Garfunkel's reunion.",
+        "name": "Verse 2",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-03-24",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 116,
+        "season_number": 1,
+        "show_id": 249221,
+        "still_path": "/pLaZX3JsaRWFStQ3zF7QfAULAk4.jpg"
+    },
+    "name": "In Restless Dreams: The Music of Paul Simon",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6219,
+            "logo_path": "/89TXvQzvoKvyqD9EEogohzMJ8D6.png",
+            "name": "MGM+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "In Restless Dreams: The Music of Paul Simon",
+    "overview": "The definitive musical biography of Paul Simon, one of the greatest songwriters (and performers) in the history of rock 'n roll.",
+    "popularity": 9.847,
+    "poster_path": "/8vZNtMEFUufu0Co2JocX9sQIvIE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2024-03-17",
+            "episode_count": 2,
+            "id": 383984,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "65f6acf5eb79c2017c532dbf",
+            "air_date": "2024-03-17",
+            "episodes": [
+                {
+                    "air_date": "2024-03-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5215605,
+                    "name": "Verse One",
+                    "overview": "Verse one chronicles Simon's upbringing in Queens, New York and the rise of folk-duo Simon & Garfunkel with childhood friend Art Garfunkel.",
+                    "production_code": "",
+                    "runtime": 97,
+                    "season_number": 1,
+                    "show_id": 249221,
+                    "still_path": "/drQvCl4r6LSpGTvkk0L1JahAIqn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-24",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 5215606,
+                    "name": "Verse 2",
+                    "overview": "Verse two chronicles the aftermath of Simon & Garfunkel while Simon catapults into superstardom as a solo artist, showcasing an iconic appearance on \"Saturday Night Live\", a short-lived marriage to Carrie Fisher and Simon & Garfunkel's reunion.",
+                    "production_code": "",
+                    "runtime": 116,
+                    "season_number": 1,
+                    "show_id": 249221,
+                    "still_path": "/pLaZX3JsaRWFStQ3zF7QfAULAk4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 383984,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

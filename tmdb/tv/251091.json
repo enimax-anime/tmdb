@@ -1,0 +1,972 @@
+{
+    "adult": false,
+    "backdrop_path": "/3rkITVg82HcFhEUyYpIqCwMJWTk.jpg",
+    "created_by": [
+        {
+            "id": 71538,
+            "credit_id": "660eec0ea885870162e768f6",
+            "name": "Dave Filoni",
+            "original_name": "Dave Filoni",
+            "gender": 2,
+            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-05-04",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/star-wars-tales-of-the-empire/4IEnSAj0aHpX",
+    "id": 251091,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-05-04",
+    "last_episode_to_air": {
+        "id": 5259660,
+        "overview": "A shadow from Barriss' past catches up with her.",
+        "name": "The Way Out",
+        "vote_average": 6.4,
+        "vote_count": 9,
+        "air_date": "2024-05-04",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 17,
+        "season_number": 1,
+        "show_id": 251091,
+        "still_path": "/9NdgoVpctTBP68U9GanM65AE3Xf.jpg"
+    },
+    "name": "Star Wars: Tales of the Empire",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Star Wars: Tales of the Empire",
+    "overview": "A journey into the fearsome Galactic Empire through the eyes of two warriors on divergent paths.",
+    "popularity": 84.67,
+    "poster_path": "/qA28nLteurVboSSzltuyYt1lvlC.jpg",
+    "production_companies": [
+        {
+            "id": 1,
+            "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+            "name": "Lucasfilm Ltd.",
+            "origin_country": "US"
+        },
+        {
+            "id": 108270,
+            "logo_path": "/eDWGeg5tdVNcI8aBaaJ21bEBtFa.png",
+            "name": "Lucasfilm Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-05-04",
+            "episode_count": 6,
+            "id": 387075,
+            "name": "Miniseries",
+            "overview": "After losing everything, young Morgan Elsbeth navigates the expanding Imperial world toward a path of vengeance, while former Jedi Barriss Offee does what she must to survive a rapidly changing galaxy. The choices they make will define their destinies.",
+            "poster_path": "/qA28nLteurVboSSzltuyYt1lvlC.jpg",
+            "season_number": 1,
+            "vote_average": 6.9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Two stories. One path to the dark side.",
+    "type": "Miniseries",
+    "vote_average": 7.813,
+    "vote_count": 72,
+    "season_data": {
+        "1": {
+            "_id": "660ee63f6dc507017e57cb5b",
+            "air_date": "2024-05-04",
+            "episodes": [
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5259627,
+                    "name": "The Path of Fear",
+                    "overview": "Young Morgan Elsbeth seeks revenge after losing everything.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/pKjjudnnmXpIeatUY6exm0BLrVN.jpg",
+                    "vote_average": 6.9,
+                    "vote_count": 10,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635d9940f52650122bb55a5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3078619,
+                            "known_for_department": "Directing",
+                            "name": "Nathaniel Villanueva",
+                            "original_name": "Nathaniel Villanueva",
+                            "popularity": 5.289,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635d9b16611b4012467b7ca",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3113703,
+                            "known_for_department": "Writing",
+                            "name": "Amanda Rose Muñoz",
+                            "original_name": "Amanda Rose Muñoz",
+                            "popularity": 1.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "General Grievous (voice)",
+                            "credit_id": "6635d9e183ee67012741671e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71536,
+                            "known_for_department": "Sound",
+                            "name": "Matthew Wood",
+                            "original_name": "Matthew Wood",
+                            "popularity": 9.817,
+                            "profile_path": "/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+                        },
+                        {
+                            "character": "Matron (voice)",
+                            "credit_id": "6635d9ea99d5c3012657ee67",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1217870,
+                            "known_for_department": "Acting",
+                            "name": "Lydia Look",
+                            "original_name": "Lydia Look",
+                            "popularity": 4.195,
+                            "profile_path": "/i6kFnYMpez6MBE2SjOpNd9bSlxF.jpg"
+                        },
+                        {
+                            "character": "Morgan Elsbeth (voice)",
+                            "credit_id": "6635d9f9356a710123175d96",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2168935,
+                            "known_for_department": "Acting",
+                            "name": "Cathy Ang",
+                            "original_name": "Cathy Ang",
+                            "popularity": 3.319,
+                            "profile_path": "/nF4MFh0ds8gbuJV9OaxodhUIfTN.jpg"
+                        },
+                        {
+                            "character": "Nali (voice)",
+                            "credit_id": "6635da04358da7012d55bd81",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2229691,
+                            "known_for_department": "Acting",
+                            "name": "Daisy Lightfoot",
+                            "original_name": "Daisy Lightfoot",
+                            "popularity": 0.85,
+                            "profile_path": "/a00Y7syLYEIcLajD5lamM8LXKrQ.jpg"
+                        },
+                        {
+                            "character": "Selena (voice)",
+                            "credit_id": "6635da11356a71012c175f04",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 113711,
+                            "known_for_department": "Acting",
+                            "name": "Diana Lee Inosanto",
+                            "original_name": "Diana Lee Inosanto",
+                            "popularity": 5.971,
+                            "profile_path": "/7EoE8xip9WlcaUmUm4mnowgdHbp.jpg"
+                        },
+                        {
+                            "character": "Witch #1 (voice)",
+                            "credit_id": "6635da3183ee670124414ab3",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2117340,
+                            "known_for_department": "Acting",
+                            "name": "Suzie McGrath",
+                            "original_name": "Suzie McGrath",
+                            "popularity": 3.317,
+                            "profile_path": "/1sz2Ezm0klUi4IUgpCUQ6z3lkPd.jpg"
+                        },
+                        {
+                            "character": "Witch #2 (voice)",
+                            "credit_id": "6635da3c66565a012315165f",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3758428,
+                            "known_for_department": "Acting",
+                            "name": "Meg Marchand",
+                            "original_name": "Meg Marchand",
+                            "popularity": 1.07,
+                            "profile_path": "/dbrbj8scUib3DycTSpWWflwq6gd.jpg"
+                        },
+                        {
+                            "character": "Witch #3 (voice)",
+                            "credit_id": "6635da4c66565a012c151825",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1532739,
+                            "known_for_department": "Art",
+                            "name": "Regina Hermosillo",
+                            "original_name": "Regina Hermosillo",
+                            "popularity": 2.18,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5259655,
+                    "name": "The Path of Anger",
+                    "overview": "Morgan is approached by a potentially powerful ally.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/aPjdhwQjgZNG7aFiLWi8gVZ2zR.jpg",
+                    "vote_average": 7.3,
+                    "vote_count": 10,
+                    "crew": [
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635d9b16611b4012467b7ca",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3113703,
+                            "known_for_department": "Writing",
+                            "name": "Amanda Rose Muñoz",
+                            "original_name": "Amanda Rose Muñoz",
+                            "popularity": 1.559,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635da73c3926601236ebfab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1375617,
+                            "known_for_department": "Directing",
+                            "name": "Steward Lee",
+                            "original_name": "Steward Lee",
+                            "popularity": 0.82,
+                            "profile_path": "/pPjjJkehfoKAwschuQATf7BLPGD.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Admiral Thrawn (voice)",
+                            "credit_id": "6635daa7fe6c18012930591b",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71158,
+                            "known_for_department": "Acting",
+                            "name": "Lars Mikkelsen",
+                            "original_name": "Lars Mikkelsen",
+                            "popularity": 17.641,
+                            "profile_path": "/xw3bJxjf8yT8TS8zigEGWQYSaXH.jpg"
+                        },
+                        {
+                            "character": "Gilad Pellaeon (voice)",
+                            "credit_id": "6635dab99590e3012cbc04c7",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3982,
+                            "known_for_department": "Acting",
+                            "name": "Xander Berkeley",
+                            "original_name": "Xander Berkeley",
+                            "popularity": 16.94,
+                            "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+                        },
+                        {
+                            "character": "Moff Isdain / Villager #1 (voice)",
+                            "credit_id": "6635dacd83ee670127416777",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 81581,
+                            "known_for_department": "Acting",
+                            "name": "Tom Konkle",
+                            "original_name": "Tom Konkle",
+                            "popularity": 3.005,
+                            "profile_path": "/xw2LwPWAPGBJAdQmuhvNtAhrGLS.jpg"
+                        },
+                        {
+                            "character": "Morgan Elsbeth (voice)",
+                            "credit_id": "6635dadc83ee670124414b06",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 113711,
+                            "known_for_department": "Acting",
+                            "name": "Diana Lee Inosanto",
+                            "original_name": "Diana Lee Inosanto",
+                            "popularity": 5.971,
+                            "profile_path": "/7EoE8xip9WlcaUmUm4mnowgdHbp.jpg"
+                        },
+                        {
+                            "character": "Rukh (voice)",
+                            "credit_id": "6635dae9356a710126175f80",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 11184,
+                            "known_for_department": "Acting",
+                            "name": "Warwick Davis",
+                            "original_name": "Warwick Davis",
+                            "popularity": 14.115,
+                            "profile_path": "/nGorSpUIQWAEErxq8KdDcIF6Q00.jpg"
+                        },
+                        {
+                            "character": "Villager #2 (voice)",
+                            "credit_id": "6635daf7356a71012c175fb7",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3758428,
+                            "known_for_department": "Acting",
+                            "name": "Meg Marchand",
+                            "original_name": "Meg Marchand",
+                            "popularity": 1.07,
+                            "profile_path": "/dbrbj8scUib3DycTSpWWflwq6gd.jpg"
+                        },
+                        {
+                            "character": "Villager #3 (voice)",
+                            "credit_id": "6635db0c05b549012c6e35c5",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 25113,
+                            "known_for_department": "Acting",
+                            "name": "Shelby Young",
+                            "original_name": "Shelby Young",
+                            "popularity": 8.314,
+                            "profile_path": "/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
+                        },
+                        {
+                            "character": "Wing (voice)",
+                            "credit_id": "6635db1ac9054f012d8fcb09",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2871750,
+                            "known_for_department": "Acting",
+                            "name": "Wing Tao Chao",
+                            "original_name": "Wing Tao Chao",
+                            "popularity": 0.757,
+                            "profile_path": "/bgzyI0KIlnqAbr2dDq0nIwVhAw2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5259657,
+                    "name": "The Path of Hate",
+                    "overview": "Offered the chance to stand trial for her crimes, Morgan instead seeks her destiny.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/r1R3XDXDV6bMTZQ9XNWD0dyLU6O.jpg",
+                    "vote_average": 6.9,
+                    "vote_count": 9,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635d9940f52650122bb55a5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3078619,
+                            "known_for_department": "Directing",
+                            "name": "Nathaniel Villanueva",
+                            "original_name": "Nathaniel Villanueva",
+                            "popularity": 5.289,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635d9b16611b4012467b7ca",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3113703,
+                            "known_for_department": "Writing",
+                            "name": "Amanda Rose Muñoz",
+                            "original_name": "Amanda Rose Muñoz",
+                            "popularity": 1.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Morgan Elsbeth (voice)",
+                            "credit_id": "6635dadc83ee670124414b06",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 113711,
+                            "known_for_department": "Acting",
+                            "name": "Diana Lee Inosanto",
+                            "original_name": "Diana Lee Inosanto",
+                            "popularity": 5.971,
+                            "profile_path": "/7EoE8xip9WlcaUmUm4mnowgdHbp.jpg"
+                        },
+                        {
+                            "character": "Wing (voice)",
+                            "credit_id": "6635db1ac9054f012d8fcb09",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2871750,
+                            "known_for_department": "Acting",
+                            "name": "Wing Tao Chao",
+                            "original_name": "Wing Tao Chao",
+                            "popularity": 0.757,
+                            "profile_path": "/bgzyI0KIlnqAbr2dDq0nIwVhAw2.jpg"
+                        },
+                        {
+                            "character": "Bo-Katan Kryze (voice)",
+                            "credit_id": "6635db8105b549012c6e360c",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 51798,
+                            "known_for_department": "Acting",
+                            "name": "Katee Sackhoff",
+                            "original_name": "Katee Sackhoff",
+                            "popularity": 24.267,
+                            "profile_path": "/p8jMvubKMUE8thuRMZK5T6w1KbP.jpg"
+                        },
+                        {
+                            "character": "Nadura (voice)",
+                            "credit_id": "6635db98356a710129175fd4",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 25113,
+                            "known_for_department": "Acting",
+                            "name": "Shelby Young",
+                            "original_name": "Shelby Young",
+                            "popularity": 8.314,
+                            "profile_path": "/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
+                        },
+                        {
+                            "character": "New Republic Guard / Reggi (voice)",
+                            "credit_id": "6635dbb12a09bc0126599678",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 571562,
+                            "known_for_department": "Acting",
+                            "name": "Steve Blum",
+                            "original_name": "Steve Blum",
+                            "popularity": 7.723,
+                            "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5259658,
+                    "name": "Devoted",
+                    "overview": "Former Jedi Barriss Offee is recruited by The Empire.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/85sb6N2mEnxf1PHtGUlrox4go5T.jpg",
+                    "vote_average": 7.8,
+                    "vote_count": 7,
+                    "crew": [
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635dbe5470ead012a122400",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 2.247,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635dbfdc9054f012d8fcbb0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1418470,
+                            "known_for_department": "Crew",
+                            "name": "Nicolas Anastassiou",
+                            "original_name": "Nicolas Anastassiou",
+                            "popularity": 4.375,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Ahmar (voice)",
+                            "credit_id": "6635dc0f99d5c301295813b4",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2135035,
+                            "known_for_department": "Acting",
+                            "name": "Zeno Robinson",
+                            "original_name": "Zeno Robinson",
+                            "popularity": 8.13,
+                            "profile_path": "/PyoUSDPm4AiGcp6W2WTBD2zSMt.jpg"
+                        },
+                        {
+                            "character": "Barriss Offee (voice)",
+                            "credit_id": "6635dc2666565a012815202e",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18706,
+                            "known_for_department": "Acting",
+                            "name": "Meredith Salenger",
+                            "original_name": "Meredith Salenger",
+                            "popularity": 11.216,
+                            "profile_path": "/8lOt7vQQkrZWmjg0STb4D7umIta.jpg"
+                        },
+                        {
+                            "character": "Clone Trooper (voice)",
+                            "credit_id": "6635dc4e99d5c30123580455",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 23680,
+                            "known_for_department": "Acting",
+                            "name": "Dee Bradley Baker",
+                            "original_name": "Dee Bradley Baker",
+                            "popularity": 7.479,
+                            "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+                        },
+                        {
+                            "character": "Dante (voice)",
+                            "credit_id": "6635dc59c9054f01308fc3ef",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1696351,
+                            "known_for_department": "Acting",
+                            "name": "Nicolas Cantu",
+                            "original_name": "Nicolas Cantu",
+                            "popularity": 6.786,
+                            "profile_path": "/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg"
+                        },
+                        {
+                            "character": "Lyn Rakish (Fourth Sister) (voice)",
+                            "credit_id": "6635dc748de0ae0123f5e09c",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 58724,
+                            "known_for_department": "Acting",
+                            "name": "Rya Kihlstedt",
+                            "original_name": "Rya Kihlstedt",
+                            "popularity": 17.144,
+                            "profile_path": "/86ysgxNPkckt8jp715X79CdopB7.jpg"
+                        },
+                        {
+                            "character": "Grand Inquisitor (voice)",
+                            "credit_id": "6635dc838de0ae0126f5e00a",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 11355,
+                            "known_for_department": "Acting",
+                            "name": "Jason Isaacs",
+                            "original_name": "Jason Isaacs",
+                            "popularity": 29.299,
+                            "profile_path": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5259659,
+                    "name": "Realization",
+                    "overview": "On a mission to hunt a fugitive, complications change Barriss forever.",
+                    "production_code": "",
+                    "runtime": 13,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/dvvPc3uBvgl7IGR3kKMNs09z0dw.jpg",
+                    "vote_average": 6,
+                    "vote_count": 10,
+                    "crew": [
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635da73c3926601236ebfab",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1375617,
+                            "known_for_department": "Directing",
+                            "name": "Steward Lee",
+                            "original_name": "Steward Lee",
+                            "popularity": 0.82,
+                            "profile_path": "/pPjjJkehfoKAwschuQATf7BLPGD.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635dcb12a09bc012c598aa2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228502,
+                            "known_for_department": "Writing",
+                            "name": "Matt Michnovetz",
+                            "original_name": "Matt Michnovetz",
+                            "popularity": 5.573,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Barriss Offee (voice)",
+                            "credit_id": "6635dc2666565a012815202e",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18706,
+                            "known_for_department": "Acting",
+                            "name": "Meredith Salenger",
+                            "original_name": "Meredith Salenger",
+                            "popularity": 11.216,
+                            "profile_path": "/8lOt7vQQkrZWmjg0STb4D7umIta.jpg"
+                        },
+                        {
+                            "character": "Lyn Rakish (Fourth Sister) (voice)",
+                            "credit_id": "6635dc748de0ae0123f5e09c",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 58724,
+                            "known_for_department": "Acting",
+                            "name": "Rya Kihlstedt",
+                            "original_name": "Rya Kihlstedt",
+                            "popularity": 17.144,
+                            "profile_path": "/86ysgxNPkckt8jp715X79CdopB7.jpg"
+                        },
+                        {
+                            "character": "Governor (voice)",
+                            "credit_id": "6635dcd36611b4012a67b90a",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 143346,
+                            "known_for_department": "Acting",
+                            "name": "Keith Ferguson",
+                            "original_name": "Keith Ferguson",
+                            "popularity": 14.687,
+                            "profile_path": "/8EvTlmOhP34EZFEGsznqjbr4o4q.jpg"
+                        },
+                        {
+                            "character": "The Jedi (voice)",
+                            "credit_id": "6635dcf7fe6c180123304716",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3216682,
+                            "known_for_department": "Acting",
+                            "name": "Ry Chase",
+                            "original_name": "Ry Chase",
+                            "popularity": 1.51,
+                            "profile_path": "/d0xABLhNZGdLEfUmllO2n7o2hWF.jpg"
+                        },
+                        {
+                            "character": "Young Girl (voice)",
+                            "credit_id": "6635dd029590e30123bc0933",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2482808,
+                            "known_for_department": "Acting",
+                            "name": "Jordyn Curet",
+                            "original_name": "Jordyn Curet",
+                            "popularity": 3.443,
+                            "profile_path": "/t9qacVvl5pjx1LHbrGsOXnL2yUr.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-04",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5259660,
+                    "name": "The Way Out",
+                    "overview": "A shadow from Barriss' past catches up with her.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 251091,
+                    "still_path": "/9NdgoVpctTBP68U9GanM65AE3Xf.jpg",
+                    "vote_average": 6.4,
+                    "vote_count": 9,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6635d9940f52650122bb55a5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3078619,
+                            "known_for_department": "Directing",
+                            "name": "Nathaniel Villanueva",
+                            "original_name": "Nathaniel Villanueva",
+                            "popularity": 5.289,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "6635d9a49590e30123bc06e0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 8.906,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6635dcb12a09bc012c598aa2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228502,
+                            "known_for_department": "Writing",
+                            "name": "Matt Michnovetz",
+                            "original_name": "Matt Michnovetz",
+                            "popularity": 5.573,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Barriss Offee (voice)",
+                            "credit_id": "6635dc2666565a012815202e",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18706,
+                            "known_for_department": "Acting",
+                            "name": "Meredith Salenger",
+                            "original_name": "Meredith Salenger",
+                            "popularity": 11.216,
+                            "profile_path": "/8lOt7vQQkrZWmjg0STb4D7umIta.jpg"
+                        },
+                        {
+                            "character": "Lyn Rakish (Fourth Sister) (voice)",
+                            "credit_id": "6635dc748de0ae0123f5e09c",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 58724,
+                            "known_for_department": "Acting",
+                            "name": "Rya Kihlstedt",
+                            "original_name": "Rya Kihlstedt",
+                            "popularity": 17.144,
+                            "profile_path": "/86ysgxNPkckt8jp715X79CdopB7.jpg"
+                        },
+                        {
+                            "character": "Attendant #1 (voice)",
+                            "credit_id": "6635dd45c616ac01221a5a4f",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 571562,
+                            "known_for_department": "Acting",
+                            "name": "Steve Blum",
+                            "original_name": "Steve Blum",
+                            "popularity": 7.723,
+                            "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+                        },
+                        {
+                            "character": "Attendant #2 (voice)",
+                            "credit_id": "6635dd4ffe6c180123304749",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1704418,
+                            "known_for_department": "Acting",
+                            "name": "Anna Graves",
+                            "original_name": "Anna Graves",
+                            "popularity": 2.45,
+                            "profile_path": "/sVy5jLCwhtNFHt516X3o6Hlzl62.jpg"
+                        },
+                        {
+                            "character": "Father (voice)",
+                            "credit_id": "6635dd6cc616ac01221a5a70",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1152021,
+                            "known_for_department": "Acting",
+                            "name": "Keston John",
+                            "original_name": "Keston John",
+                            "popularity": 4.222,
+                            "profile_path": "/zEqkvuCDDgiErHg3XNyoG5TulUg.jpg"
+                        },
+                        {
+                            "character": "Mother (voice)",
+                            "credit_id": "6635dd909590e30123bc0995",
+                            "order": 531,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2117340,
+                            "known_for_department": "Acting",
+                            "name": "Suzie McGrath",
+                            "original_name": "Suzie McGrath",
+                            "popularity": 3.317,
+                            "profile_path": "/1sz2Ezm0klUi4IUgpCUQ6z3lkPd.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "After losing everything, young Morgan Elsbeth navigates the expanding Imperial world toward a path of vengeance, while former Jedi Barriss Offee does what she must to survive a rapidly changing galaxy. The choices they make will define their destinies.",
+            "id": 387075,
+            "poster_path": "/qA28nLteurVboSSzltuyYt1lvlC.jpg",
+            "season_number": 1,
+            "vote_average": 6.9
+        }
+    }
+}

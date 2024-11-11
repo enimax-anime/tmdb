@@ -1,0 +1,762 @@
+{
+    "adult": false,
+    "backdrop_path": "/7GCfk489ibuUbEnllNy9MHVjLn9.jpg",
+    "created_by": [
+        {
+            "id": 1543364,
+            "credit_id": "6013325e869e75003d7afee9",
+            "name": "Diane Morgan",
+            "original_name": "Diane Morgan",
+            "gender": 1,
+            "profile_path": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
+        }
+    ],
+    "episode_run_time": [
+        14
+    ],
+    "first_air_date": "2020-08-13",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p08gpftk",
+    "id": 107484,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-04-10",
+    "last_episode_to_air": {
+        "id": 5210001,
+        "name": "The Ballad of Mandy Carter",
+        "overview": "Mandy examines the role of the shadowy global elite in contemporary world events.",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "air_date": "2024-04-10",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 16,
+        "season_number": 3,
+        "show_id": 107484,
+        "still_path": "/a2ET5uvnofVR4VLDgRfQNmou4yc.jpg"
+    },
+    "name": "Mandy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Mandy",
+    "overview": "Mandy is a woman with dreams. Big dreams. Most of all she dreams of breeding Doberman Pinchers. But there are hurdles to overcome before that dream can become a reality. In the series we'll see her go on a health kick, rent out her small back bedroom on Airbnb and attempt a series of short-lived jobs in the modern gig economy.",
+    "popularity": 9.696,
+    "poster_path": "/d8kM8CzRwrwkjqGGdKjSpgvxO8R.jpg",
+    "production_companies": [
+        {
+            "id": 80893,
+            "logo_path": "/hFzOkuR4FoZE1U1hvuojMp4Qfxa.png",
+            "name": "BBC Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-28",
+            "episode_count": 2,
+            "id": 178977,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/iN47gwkrfQLAsBeobEXTqKDTrOb.jpg",
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-08-13",
+            "episode_count": 6,
+            "id": 159126,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/63RKqJNgwhmi4AnZR8SlBPvE3oo.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        },
+        {
+            "air_date": "2022-01-05",
+            "episode_count": 6,
+            "id": 238668,
+            "name": "Series 2",
+            "overview": "",
+            "poster_path": "/A8yYj6DbTnSfMnNEHtqnZq5sEm.jpg",
+            "season_number": 2,
+            "vote_average": 6.8
+        },
+        {
+            "air_date": "2024-03-27",
+            "episode_count": 6,
+            "id": 383515,
+            "name": "Series 3",
+            "overview": "",
+            "poster_path": "/vXKW3KekfDeMxoWNikrAgxYZ8F8.jpg",
+            "season_number": 3,
+            "vote_average": 6.9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.6,
+    "vote_count": 29,
+    "season_data": {
+        "1": {
+            "_id": "5f37e8b511c066003836b33d",
+            "air_date": "2020-08-13",
+            "episodes": [
+                {
+                    "air_date": "2020-08-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2389744,
+                    "name": "Jobseeker",
+                    "overview": "She was looking for a job, and then she found a job, and heaven knows she's miserable now.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/hbGyDjo8toXIfAQeG5ewYtDdC7o.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2389745,
+                    "name": "Susan Bloody Blower",
+                    "overview": "They say revenge is a dish best served cold. But they also say that about gazpacho, and that is disgusting, so what do they know?",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/dD8qulueUKrQwQ16gYjFQGEJWWs.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2389746,
+                    "name": "Russian",
+                    "overview": "Nothing less than the future of the world as we know it is at stake in this thriller set in the cloak-and-dagger world of international geopolitics. Guest stars Tony Way.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/42goAL4GKPGlXMzqIPLSfvJT5lv.jpg",
+                    "vote_average": 7.7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2389747,
+                    "name": "Fish",
+                    "overview": "Give a man a fish and he will eat for a day. Give a Mandy a fish and she will probably leave it on the bus by mistake. With guest star Sean Lock as a man with nothing to lose.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/ziRchUvybfSGOSPBVgHK6FTPyg.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2389748,
+                    "name": "Meat",
+                    "overview": "It is dinner at Trent Manor, and everyone around the table has a motive for murdering Lord Trent. But who did? Mandy wasn't invited to the manor, so she is off doing something else.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/7CCGiqMlmJzMzgASDG9LcqFiQDa.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nurse",
+                            "credit_id": "62fadfdd175051007c59afe3",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1621974,
+                            "known_for_department": "Acting",
+                            "name": "Jackie Clune",
+                            "original_name": "Jackie Clune",
+                            "popularity": 1.532,
+                            "profile_path": "/hga4qGKDkZit596CT4HivUqsIbO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-08-27",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2389749,
+                    "name": "Broadsword to Donna Ball",
+                    "overview": "She’s lived a life that's full, she’s travelled each and every highway. And more, much more than this, she did it Mandy.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 107484,
+                    "still_path": "/3VqcfmbUnYoM7yzicHlRdtePQjW.jpg",
+                    "vote_average": 7.333,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna Ball",
+                            "credit_id": "60142a0f5ad76b0040716383",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1216087,
+                            "known_for_department": "Acting",
+                            "name": "Natalie Cassidy",
+                            "original_name": "Natalie Cassidy",
+                            "popularity": 5.205,
+                            "profile_path": "/wpjZYuZjZ8sOuy2FHGPD9w01dnp.jpg"
+                        },
+                        {
+                            "character": "Tutorial Man",
+                            "credit_id": "60142a23b5bc21003c998e36",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1605765,
+                            "known_for_department": "Acting",
+                            "name": "Alistair Green",
+                            "original_name": "Alistair Green",
+                            "popularity": 0.357,
+                            "profile_path": "/oSB7By69vVaq9TQQXiLMEHmHC9k.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "60142a51cb8028003e0a36d8",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 59797,
+                            "known_for_department": "Acting",
+                            "name": "Iain Lee",
+                            "original_name": "Iain Lee",
+                            "popularity": 1.035,
+                            "profile_path": "/xmtOrOYLHZFitHYZprv6Zg6QZXI.jpg"
+                        },
+                        {
+                            "character": "Guard 1",
+                            "credit_id": "60142a61dd731b003e54f94d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2956857,
+                            "known_for_department": "Acting",
+                            "name": "Michael Spicer",
+                            "original_name": "Michael Spicer",
+                            "popularity": 1.064,
+                            "profile_path": "/6iHfuPIOUhpHazKnq2Wg6Qjdj33.jpg"
+                        },
+                        {
+                            "character": "Guard 2",
+                            "credit_id": "60142a6a3e09f3003c3f12d3",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2357013,
+                            "known_for_department": "Acting",
+                            "name": "Mark Silcox",
+                            "original_name": "Mark Silcox",
+                            "popularity": 0.358,
+                            "profile_path": "/8oS7jaoZCyHAdhaxVNYEzwqRhAc.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 159126,
+            "poster_path": "/63RKqJNgwhmi4AnZR8SlBPvE3oo.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        },
+        "2": {
+            "_id": "61d713dfe194b000649e2ae2",
+            "air_date": "2022-01-05",
+            "episodes": [
+                {
+                    "air_date": "2022-01-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3432816,
+                    "name": "The Unpleasantness at Brampton Hall",
+                    "overview": "Unpleasantness comes in many forms. Like when you pick up an apple from the fruit bowl and find the hidden side has decomposed. The unpleasantness at Brampton Hall is different.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/vS6BM8BMNtzEVoDXqVT9nlUHGUW.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Mrs. Anderson",
+                            "credit_id": "62fadff848333a007b326f2e",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1621974,
+                            "known_for_department": "Acting",
+                            "name": "Jackie Clune",
+                            "original_name": "Jackie Clune",
+                            "popularity": 1.532,
+                            "profile_path": "/hga4qGKDkZit596CT4HivUqsIbO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3432817,
+                    "name": "Who Are You, Do You Think?",
+                    "overview": "Mandy accidentally finds herself on the programme ‘Who Are You, Do You Think?', a fictional genealogy programme that is not a parody of the programme Who Do You Think You Are?",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/jo8AKIlnWvnzl6WDQ27SYRPvGkN.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3432818,
+                    "name": "Holiday for One",
+                    "overview": "According to a friend of a friend, if the staff on a cruise start handing out free choc ices, it means a passenger has died and they need to make room in the freezer.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/p6Hr49Cik8K7RbT59DXGQ5gwMLU.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Joan MacDonald",
+                            "credit_id": "64e12df35ab81a00ffc2772f",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1218865,
+                            "known_for_department": "Acting",
+                            "name": "Kate Robbins",
+                            "original_name": "Kate Robbins",
+                            "popularity": 13.731,
+                            "profile_path": "/oWjMskbSE5Fn6H2blq5ghTePxpZ.jpg"
+                        },
+                        {
+                            "character": "Captain",
+                            "credit_id": "64e12e0d2495ab011dd44ba3",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 117555,
+                            "known_for_department": "Acting",
+                            "name": "Nigel Planer",
+                            "original_name": "Nigel Planer",
+                            "popularity": 4.672,
+                            "profile_path": "/zWwUUInlnPQvrEWAn1zsAVcPT6y.jpg"
+                        },
+                        {
+                            "character": "The Purser",
+                            "credit_id": "64e12e36a3b5e601d59e9592",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 42593,
+                            "known_for_department": "Acting",
+                            "name": "Roger Sloman",
+                            "original_name": "Roger Sloman",
+                            "popularity": 3.29,
+                            "profile_path": "/n0fUcYjJNiGT1r8hB6nbUTP7TWx.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3432819,
+                    "name": "SpaceMandy",
+                    "overview": "Why is Mandy training to be an astronaut? Why is Mars called The Red Planet? These questions and more will remain unanswered.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/7Ec5U6UDVLiwq2vanX6oI4fIWbN.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Eva",
+                            "credit_id": "64f0c6a7e0ca7f010de3d699",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 29236,
+                            "known_for_department": "Acting",
+                            "name": "Anna Maxwell Martin",
+                            "original_name": "Anna Maxwell Martin",
+                            "popularity": 22.256,
+                            "profile_path": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg"
+                        },
+                        {
+                            "character": "Konnie Huq",
+                            "credit_id": "64f0c6ca3a993700e2f7c491",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214523,
+                            "known_for_department": "Acting",
+                            "name": "Konnie Huq",
+                            "original_name": "Konnie Huq",
+                            "popularity": 3.703,
+                            "profile_path": "/rKsqsfi3mykOg6CjPhVdycxNiwa.jpg"
+                        },
+                        {
+                            "character": "Dr. Gould",
+                            "credit_id": "6673e8dfe53a15a64016c411",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73283,
+                            "known_for_department": "Acting",
+                            "name": "Peter McDonald",
+                            "original_name": "Peter McDonald",
+                            "popularity": 1.489,
+                            "profile_path": "/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3432820,
+                    "name": "Fatberg",
+                    "overview": "There is nothing more shameful for us as a society than the existence of fatbergs. But forget about that for a moment and enjoy this episode.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/5xMTiRfApt8e8mVZNmPokNXfIHZ.jpg",
+                    "vote_average": 5.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Darren Dugdale",
+                            "credit_id": "64f0c6ea5f2b8d00c431b82d",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 746,
+                            "known_for_department": "Acting",
+                            "name": "Alexei Sayle",
+                            "original_name": "Alexei Sayle",
+                            "popularity": 1.694,
+                            "profile_path": "/enPx0Zr32XX91rnOWJX6nScS5Ud.jpg"
+                        },
+                        {
+                            "character": "Engineer Woodcock",
+                            "credit_id": "64f0c6fc77d23b00aebf110f",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 14011,
+                            "known_for_department": "Acting",
+                            "name": "Tom Courtenay",
+                            "original_name": "Tom Courtenay",
+                            "popularity": 6.341,
+                            "profile_path": "/qdWWbANnljRUSj56r5BZiD760oi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-01-19",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3432821,
+                    "name": "The Curse of Mandy Carter",
+                    "overview": "Apparently if you stare into the eyes of a forest goblin, you’ll be dead within a week. Just FYI.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 2,
+                    "show_id": 107484,
+                    "still_path": "/xbSf80Z7QrwUVTmRF5d0y90j8Op.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Future Doctor",
+                            "credit_id": "64f0c72b77d23b010d6bc87c",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1509615,
+                            "known_for_department": "Acting",
+                            "name": "Nick Mohammed",
+                            "original_name": "Nick Mohammed",
+                            "popularity": 3.376,
+                            "profile_path": "/2cFSHotCLLauzqq8iDKWK6meRAY.jpg"
+                        },
+                        {
+                            "character": "Professor Brian Cox",
+                            "credit_id": "64f0c73debb99d011d5aaffc",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 224290,
+                            "known_for_department": "Acting",
+                            "name": "Brian Cox",
+                            "original_name": "Brian Cox",
+                            "popularity": 3.101,
+                            "profile_path": "/98WBXqXKoOKbXi3rjupcp1vz17F.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 2",
+            "overview": "",
+            "id": 238668,
+            "poster_path": "/A8yYj6DbTnSfMnNEHtqnZq5sEm.jpg",
+            "season_number": 2,
+            "vote_average": 6.8
+        },
+        "3": {
+            "_id": "65f1e82f06f984018544c9c2",
+            "air_date": "2024-03-27",
+            "episodes": [
+                {
+                    "air_date": "2024-03-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5209996,
+                    "name": "Destination Dundee",
+                    "overview": "Mandy often has her head in the clouds - normally a disadvantage for long-term success. But in her new role, it is absolutely essential.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/jlDPW91YzvPdvG9kLe9KTPE5k4f.jpg",
+                    "vote_average": 7.333,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Cooper",
+                            "credit_id": "668f056a3a7b61dd2e3dc613",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1534392,
+                            "known_for_department": "Acting",
+                            "name": "Paul Ready",
+                            "original_name": "Paul Ready",
+                            "popularity": 1.313,
+                            "profile_path": "/8sQg5Qb3q2wlhvtBD6iu3NKAHRg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5209997,
+                    "name": "Get Mandy Carter",
+                    "overview": "Mandy’s precious me-time is disturbed by an unexpected visitor, whose arrival sparks a series of events that lead her to a new job where she makes new friends - and even newer enemies.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/2IeZXhR7HMoeO4VcZKyHfSK0tGG.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "668f0541e4db5edd3e3dc640",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 78577,
+                            "known_for_department": "Acting",
+                            "name": "Graham Norton",
+                            "original_name": "Graham Norton",
+                            "popularity": 4.708,
+                            "profile_path": "/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-04-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5209998,
+                    "name": "Humandy Statue",
+                    "overview": "Mandy dabbles in things she does not understand. Which is almost everything if you’re Mandy.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/5GttM0ks0OdFXbDA2JrGjfSMryp.jpg",
+                    "vote_average": 6.667,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Psychic Pauline",
+                            "credit_id": "668f051f62279d458564a0e4",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1215178,
+                            "known_for_department": "Acting",
+                            "name": "Beverley Callard",
+                            "original_name": "Beverley Callard",
+                            "popularity": 4.136,
+                            "profile_path": "/unCzkDHz3nkIk1ZQz0oNx3P8JVp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-04-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5209999,
+                    "name": "The Career Ladder",
+                    "overview": "Mandy is going up in the world for once. But someone, or something, is out to send her crashing down to earth.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/23ecHn2q8CzUSZMEHA5ujwhtMBv.jpg",
+                    "vote_average": 6.667,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5210000,
+                    "name": "Nandy",
+                    "overview": "A shocking revelation in the nail bar leads Mandy to confess a dark secret to Lola: there’s a skeleton in her attic. Behind that box of old pottery frogs.",
+                    "production_code": "",
+                    "runtime": 13,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/uXVTM3I0qEZdU3WI2el3F7Xyhr1.jpg",
+                    "vote_average": 5.25,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5210001,
+                    "name": "The Ballad of Mandy Carter",
+                    "overview": "Mandy examines the role of the shadowy global elite in contemporary world events.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 3,
+                    "show_id": 107484,
+                    "still_path": "/a2ET5uvnofVR4VLDgRfQNmou4yc.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "669d8ca20a722335384bbee4",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1221960,
+                            "known_for_department": "Acting",
+                            "name": "Linda Lusardi",
+                            "original_name": "Linda Lusardi",
+                            "popularity": 4.941,
+                            "profile_path": "/AryAfLOuOhjYbUZ5JldGnIMAes8.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 3",
+            "overview": "",
+            "id": 383515,
+            "poster_path": "/vXKW3KekfDeMxoWNikrAgxYZ8F8.jpg",
+            "season_number": 3,
+            "vote_average": 6.9
+        }
+    }
+}

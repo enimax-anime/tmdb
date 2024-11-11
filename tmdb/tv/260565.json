@@ -1,0 +1,230 @@
+{
+    "adult": false,
+    "backdrop_path": "/oMS7gPtskbrmo8v4eqq6cssgSU3.jpg",
+    "created_by": [
+        {
+            "id": 2359481,
+            "credit_id": "66aa1adf146f128153e3c158",
+            "name": "Kwon Hae-bom",
+            "original_name": "Kwon Hae-bom",
+            "gender": 2,
+            "profile_path": "/gkj42ufyU5l709qWDJXdAjP88FD.jpg"
+        },
+        {
+            "id": 4338917,
+            "credit_id": "66aa1ae797659cb1d8d29fa5",
+            "name": "Park Hyun-seok",
+            "original_name": "Park Hyun-seok",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-10-15",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81782308",
+    "id": 260565,
+    "in_production": true,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2024-10-15",
+    "last_episode_to_air": {
+        "id": 5677795,
+        "name": "Comedy Is My Calling",
+        "overview": "Outrageous characters continue to surprise the crowd for precious votes. In the final round, the top two teams attempt to crack Lee Kyeong-kyu.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-15",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 49,
+        "season_number": 1,
+        "show_id": 260565,
+        "still_path": "/5gqAqD5ujRNqUQuNhe8SW6od8KK.jpg"
+    },
+    "name": "Comedy Revenge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "코미디 리벤지",
+    "overview": "Hosted by legendary comedian Lee Kyeong-kyu, 18 comedy powerhouses compete in an all-out battle of hilarity once again — let the giggles begin!",
+    "popularity": 12.339,
+    "poster_path": "/txzopH458vETdwWkXY4P45PatEt.jpg",
+    "production_companies": [
+        {
+            "id": 139214,
+            "logo_path": "/1aHsO2tVEdJfIBYCy0G4VpWYDY8.png",
+            "name": "Kakao Entertainment",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-10-15",
+            "episode_count": 6,
+            "id": 404734,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/txzopH458vETdwWkXY4P45PatEt.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "66aa1abf5182c0d1354653ee",
+            "air_date": "2024-10-15",
+            "episodes": [
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5507288,
+                    "name": "The Curtain of Revenge Rises",
+                    "overview": "Eighteen elite comedians brave the stage to compete for the crown. The first test: a searing roast challenge where they hurl witty insults to win laughs.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/7JURgfUhjJIVfqn8KlOPnq7gWZk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5677789,
+                    "name": "The Not-So-Easy Guys",
+                    "overview": "Roast mayhem continues, sparing no one — not even Lee Kyeong-kyu! With Kyeong-kyu soaking in attacks from all angles, who will win the crowd's favor?",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/cSMi0HoPvEEr1lqqmRCJ4Vyeh1K.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5677791,
+                    "name": "6 Doors",
+                    "overview": "The teams advance to an improv round, selecting random scenarios — from an 80th birthday to a prison. Who will have the perfect mix of shock and humor?",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/3jAoZiJkhSbtlT67TcomiJTTv2I.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5677793,
+                    "name": "Knocking on Heaven's Door",
+                    "overview": "The improv round forces the comics to be quick on their feet, whether that's flirting at a restaurant or debating presidential candidates.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/rk3cH6N7LFEKsDK1OarjWFaiiCl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5677794,
+                    "name": "Street Character Fighter",
+                    "overview": "What makes a crowd-pleasing character? In round three, comics embody roles from familiar to outrageous, aiming to win the audience — in just two minutes!",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/fmdqtdWLZtZrbc1Vr01Ytd8gZLq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-15",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5677795,
+                    "name": "Comedy Is My Calling",
+                    "overview": "Outrageous characters continue to surprise the crowd for precious votes. In the final round, the top two teams attempt to crack Lee Kyeong-kyu.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 260565,
+                    "still_path": "/5gqAqD5ujRNqUQuNhe8SW6od8KK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 404734,
+            "poster_path": "/txzopH458vETdwWkXY4P45PatEt.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

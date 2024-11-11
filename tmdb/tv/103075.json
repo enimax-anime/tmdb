@@ -1,0 +1,232 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 238400,
+            "credit_id": "5eb1d76b8cfcc70020ad3bc4",
+            "name": "Ivan Calbérac",
+            "original_name": "Ivan Calbérac",
+            "gender": 2,
+            "profile_path": "/c8NGoRYQM3ghKmpToiQPth5rMf6.jpg"
+        },
+        {
+            "id": 1588609,
+            "credit_id": "5eb1d7b08cfcc70020ad3bf3",
+            "name": "Alice Vial",
+            "original_name": "Alice Vial",
+            "gender": 1,
+            "profile_path": "/ti4FsqhEn7gxkhNB384X2Be7eQD.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2014-03-26",
+    "genres": [],
+    "homepage": "",
+    "id": 103075,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2019-06-12",
+    "last_episode_to_air": {
+        "id": 2258591,
+        "name": "Episode 5",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-06-12",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 90,
+        "season_number": 1,
+        "show_id": 103075,
+        "still_path": null
+    },
+    "name": "Marjorie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 361,
+            "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+            "name": "France 2",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Marjorie",
+    "overview": "",
+    "popularity": 4.957,
+    "poster_path": "/2zAg79tyfT7i2mMf4D3zZ6jlw9r.jpg",
+    "production_companies": [
+        {
+            "id": 17174,
+            "logo_path": null,
+            "name": "K'Ien Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-03-26",
+            "episode_count": 5,
+            "id": 150025,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2zAg79tyfT7i2mMf4D3zZ6jlw9r.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5eb1d67400fb6b001dea4e2c",
+            "air_date": "2014-03-26",
+            "episodes": [
+                {
+                    "air_date": "2014-03-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2258587,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 103075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "661a7d20d0b434017d893a84",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 7275,
+                            "known_for_department": "Acting",
+                            "name": "Patrick Chesnais",
+                            "original_name": "Patrick Chesnais",
+                            "popularity": 6.663,
+                            "profile_path": "/g0eY9xGHUCIZBJj0QfxNnZQcH98.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-06-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2258588,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 103075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "661a7e4faf6e94017ded3e68",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 77734,
+                            "known_for_department": "Acting",
+                            "name": "Bruno Solo",
+                            "original_name": "Bruno Solo",
+                            "popularity": 5.822,
+                            "profile_path": "/t7Hn92TFs0vwk7EaZ6alFc4APjD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-06-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2258589,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 103075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2258590,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 103075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-12",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 2258591,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 103075,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 150025,
+            "poster_path": "/2zAg79tyfT7i2mMf4D3zZ6jlw9r.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

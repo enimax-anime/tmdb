@@ -1,0 +1,328 @@
+{
+    "adult": false,
+    "backdrop_path": "/sCdlt5MTU6J9f1knr97qGe4fB4o.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-06-24",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.primevideo.com/dp/0M4D0H35L8UBQJCI1DCIXC5GFR",
+    "id": 201477,
+    "in_production": true,
+    "languages": [
+        "pt"
+    ],
+    "last_air_date": "2023-06-29",
+    "last_episode_to_air": {
+        "id": 4483276,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-29",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 201477,
+        "still_path": null
+    },
+    "name": "Gil Family",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Família Gil",
+    "overview": "Follows one of the most famous families in Brazilian music during the creation of an unprecedented concert, which will bring together all generations of the Gils on stage for the first time.",
+    "popularity": 6.792,
+    "poster_path": "/ysrSEBvYzCXrnD7zAsbErNfsaTt.jpg",
+    "production_companies": [
+        {
+            "id": 2429,
+            "logo_path": "/s0p6DEF7H9yooJFjKhN4lFpTiVk.png",
+            "name": "Conspiração Filmes",
+            "origin_country": "BR"
+        },
+        {
+            "id": 192246,
+            "logo_path": "/zIDEpcmxy1Z9dQHgGadwZ8mTnth.png",
+            "name": "GeGe Produções",
+            "origin_country": "BR"
+        },
+        {
+            "id": 208227,
+            "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+            "name": "Amazon Studios",
+            "origin_country": "BR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-23",
+            "episode_count": 5,
+            "id": 292841,
+            "name": "At Home With the Gils",
+            "overview": "",
+            "poster_path": "/owE3DmUp0ZFCsrJxchxL5MZCnIN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-06-29",
+            "episode_count": 6,
+            "id": 296718,
+            "name": "Traveling with the Gils",
+            "overview": "Gilberto Gil embarks on a historic tour of Europe and Morocco, accompanied by 28 family members. Over the course of one month, they will travel through more than 15 countries to celebrate the work of one of the most renowned Brazilian musicians of our time, all the while also navigating the challenges of living and working together for such an extended period.",
+            "poster_path": "/wHvrIikxLHxgKN67JHOLRGeDEY7.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "62767e27a802361413a760d1",
+            "air_date": "2022-06-23",
+            "episodes": [
+                {
+                    "air_date": "2022-06-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3708842,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3726750,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3726751,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3726752,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-24",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3726753,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "At Home With the Gils",
+            "overview": "",
+            "id": 292841,
+            "poster_path": "/owE3DmUp0ZFCsrJxchxL5MZCnIN.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "62a0a87ddc1cb40fb4ea41cd",
+            "air_date": "2023-06-29",
+            "episodes": [
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4481170,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4483272,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4483273,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4483274,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4483275,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4483276,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 201477,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Traveling with the Gils",
+            "overview": "Gilberto Gil embarks on a historic tour of Europe and Morocco, accompanied by 28 family members. Over the course of one month, they will travel through more than 15 countries to celebrate the work of one of the most renowned Brazilian musicians of our time, all the while also navigating the challenges of living and working together for such an extended period.",
+            "id": 296718,
+            "poster_path": "/wHvrIikxLHxgKN67JHOLRGeDEY7.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

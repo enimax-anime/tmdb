@@ -1,0 +1,139 @@
+{
+    "adult": false,
+    "backdrop_path": "/9Rp7kJVJd7mtibLqnIwMo1lVL5M.jpg",
+    "created_by": [
+        {
+            "id": 15795,
+            "credit_id": "5258ec71760ee346618b59b4",
+            "name": "Harley Peyton",
+            "original_name": "Harley Peyton",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        90
+    ],
+    "first_air_date": "2011-12-29",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 38132,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2011-12-29",
+    "last_episode_to_air": {
+        "id": 857308,
+        "name": "Pilot",
+        "overview": "An underachiever is struck by lightning and develops an unusual power, which leads to a meeting with a team of atypical superheroes in the debut of the sitcom following a man who can use his mind to move any object three inches.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2011-12-29",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 90,
+        "season_number": 1,
+        "show_id": 38132,
+        "still_path": "/9Rp7kJVJd7mtibLqnIwMo1lVL5M.jpg"
+    },
+    "name": "Three Inches",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 77,
+            "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+            "name": "Syfy",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Three Inches",
+    "overview": "Professional daydreamer and underachiever, Walter, is struck by lightning, and develops a unique \"super\" power—the ability to move any object using just his mind ... but only a distance of three inches. He's soon recruited by a covert team of superheroes each gifted with their own extraordinarily ordinary abilities. Together, the unlikely band of heroes proves that \"super\" is simply a state of mind.",
+    "popularity": 1.362,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 86063,
+            "logo_path": "/9Juyx6JYvie3Kx24PGCDfNRYp9Y.png",
+            "name": "Fox 21 Television Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-12-29",
+            "episode_count": 1,
+            "id": 49652,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Pilot",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5258ec70760ee346618b5918",
+            "air_date": "2011-12-29",
+            "episodes": [
+                {
+                    "air_date": "2011-12-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 857308,
+                    "name": "Pilot",
+                    "overview": "An underachiever is struck by lightning and develops an unusual power, which leads to a meeting with a team of atypical superheroes in the debut of the sitcom following a man who can use his mind to move any object three inches.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 38132,
+                    "still_path": "/9Rp7kJVJd7mtibLqnIwMo1lVL5M.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 49652,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

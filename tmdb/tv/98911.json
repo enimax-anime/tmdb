@@ -1,0 +1,396 @@
+{
+    "adult": false,
+    "backdrop_path": "/nh06A8u4kFM71DxtA7ePKQpFBFe.jpg",
+    "created_by": [
+        {
+            "id": 102899,
+            "credit_id": "6041eeded1ca2a0045f50dad",
+            "name": "Ida Maria Rydén",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2999150,
+            "credit_id": "6041eed8b77d4b0058844540",
+            "name": "Dorte Warnøe Høgh",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2020-02-02",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.dr.dk/drtv/serie/naar-stoevet-har-lagt-sig_164395",
+    "id": 98911,
+    "in_production": false,
+    "languages": [
+        "da",
+        "fr"
+    ],
+    "last_air_date": "2020-04-05",
+    "last_episode_to_air": {
+        "id": 2349529,
+        "name": "Episode 10",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-04-05",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 98911,
+        "still_path": "/3zB7rfHIY1HHYopqAEYHcghIczX.jpg"
+    },
+    "name": "When the Dust Settles",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 391,
+            "logo_path": "/7xOoWHdhdfYE0Pn9ilYLB1lenpC.png",
+            "name": "DR1",
+            "origin_country": "DK"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DK"
+    ],
+    "original_language": "da",
+    "original_name": "Når støvet har lagt sig",
+    "overview": "The equally important and heartbreaking story of eight strangers whose lives and fates intertwine after a tragic terrorist attack shocks Copenhagen.",
+    "popularity": 9.328,
+    "poster_path": "/kLBQD4oJXtyI48lz2YkrmfEFwCq.jpg",
+    "production_companies": [
+        {
+            "id": 639,
+            "logo_path": "/fNhXK0DtWWGh7Diy10kPvKPLk5h.png",
+            "name": "DR TV",
+            "origin_country": "DK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-02",
+            "episode_count": 10,
+            "id": 142488,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/kLBQD4oJXtyI48lz2YkrmfEFwCq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.942,
+    "vote_count": 43,
+    "season_data": {
+        "1": {
+            "_id": "5e3530c143250f0017c091ab",
+            "air_date": "2020-02-02",
+            "episodes": [
+                {
+                    "air_date": "2020-02-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2067285,
+                    "name": "Episode 1",
+                    "overview": "9 days before a tragic terrorist attack hit Copenhagen, eight strangers are living their lives, unaware of what lies ahead. Married couple Morten and Camilla's wedding day is threatened; Chef Nikolaj is making new career plans; Jamal is struggling to get a driver's license; and 10-year-old Marie finds a bag of weapons, which has major implications for Justice Elisabeth Hofmann.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/8w0A14UtrUQ4tXvJqTiMnz7CVV2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2068011,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/93rSE496oCKwMrgt111TERfivv2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Abu",
+                            "credit_id": "603faf0ca843c1004583f3b7",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141231,
+                            "known_for_department": "Acting",
+                            "name": "Sadi Tekelioglu",
+                            "original_name": "Sadi Tekelioglu",
+                            "popularity": 1.399,
+                            "profile_path": "/uvW2sXHLckuMIzC0Nxfsk7Noad1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-02-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2349521,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/u6VHVnR2WsVP1matrxV8uOvEbbZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2349522,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/dUPK9U9TJx1sqb22NM8STpJNXJx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Abu",
+                            "credit_id": "603faf0ca843c1004583f3b7",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141231,
+                            "known_for_department": "Acting",
+                            "name": "Sadi Tekelioglu",
+                            "original_name": "Sadi Tekelioglu",
+                            "popularity": 1.399,
+                            "profile_path": "/uvW2sXHLckuMIzC0Nxfsk7Noad1.jpg"
+                        },
+                        {
+                            "character": "Dalle",
+                            "credit_id": "603faf738741c40044b4fdcd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1460372,
+                            "known_for_department": "Acting",
+                            "name": "Peder Bille",
+                            "original_name": "Peder Bille",
+                            "popularity": 1.932,
+                            "profile_path": "/4heDsqDyglE1lfDzfvma0F6P6lt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2349523,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/z04MWIoHuz4WyzJFAvsZoEVGiPs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Abu",
+                            "credit_id": "603faf0ca843c1004583f3b7",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141231,
+                            "known_for_department": "Acting",
+                            "name": "Sadi Tekelioglu",
+                            "original_name": "Sadi Tekelioglu",
+                            "popularity": 1.399,
+                            "profile_path": "/uvW2sXHLckuMIzC0Nxfsk7Noad1.jpg"
+                        },
+                        {
+                            "character": "Dalle",
+                            "credit_id": "603faf738741c40044b4fdcd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1460372,
+                            "known_for_department": "Acting",
+                            "name": "Peder Bille",
+                            "original_name": "Peder Bille",
+                            "popularity": 1.932,
+                            "profile_path": "/4heDsqDyglE1lfDzfvma0F6P6lt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2349525,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/hUufjXj1PwTAexHs18zfJaZMpIf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Abu",
+                            "credit_id": "603faf0ca843c1004583f3b7",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141231,
+                            "known_for_department": "Acting",
+                            "name": "Sadi Tekelioglu",
+                            "original_name": "Sadi Tekelioglu",
+                            "popularity": 1.399,
+                            "profile_path": "/uvW2sXHLckuMIzC0Nxfsk7Noad1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-15",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2349526,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/pxbcR5xLueWVsFbc6RTD03p23E5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2349527,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/idy10eiObaxaeThB2AaYFPsE5oP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dalle",
+                            "credit_id": "603faf738741c40044b4fdcd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1460372,
+                            "known_for_department": "Acting",
+                            "name": "Peder Bille",
+                            "original_name": "Peder Bille",
+                            "popularity": 1.932,
+                            "profile_path": "/4heDsqDyglE1lfDzfvma0F6P6lt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-29",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2349528,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/gXFOim9fQqJiBBgb43ma9q2iqXV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-05",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2349529,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 98911,
+                    "still_path": "/3zB7rfHIY1HHYopqAEYHcghIczX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 142488,
+            "poster_path": "/kLBQD4oJXtyI48lz2YkrmfEFwCq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

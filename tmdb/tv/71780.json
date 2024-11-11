@@ -1,0 +1,160 @@
+{
+    "adult": false,
+    "backdrop_path": "/bdZgInwMoeP76nRdUnTPQWVs73Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        85
+    ],
+    "first_air_date": "2017-08-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.discovery.com/tv-shows/first-in-human/",
+    "id": 71780,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-08-24",
+    "last_episode_to_air": {
+        "id": 1372137,
+        "name": "Prognosis",
+        "overview": "All four patients meet with their doctors one last time to learn whether their experimental treatments were successful, and what the future holds for them.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-08-24",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 85,
+        "season_number": 1,
+        "show_id": 71780,
+        "still_path": "/lLRWRhDiASEpn9SLgpnMMlAcl2w.jpg"
+    },
+    "name": "First in Human",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 64,
+            "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "First in Human",
+    "overview": "With unprecedented access to the halls of Building 10, First In Human reveals for the first time how the medical breakthroughs of tomorrow make their way out of the hi-tech research laboratories and into the hands of our world’s medical professionals. The series explores the lives of the doctors, researchers, and patients who together make progress possible in this cutting-edge testing ground.",
+    "popularity": 1.676,
+    "poster_path": "/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+    "production_companies": [
+        {
+            "id": 83426,
+            "logo_path": null,
+            "name": "McGee Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-08-10",
+            "episode_count": 3,
+            "id": 88475,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "591d3501925141485e01aa85",
+            "air_date": "2017-08-10",
+            "episodes": [
+                {
+                    "air_date": "2017-08-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1318117,
+                    "name": "Admission",
+                    "overview": "Four patients with serious illness arrive at the NIH's Building 10 to enter potentially groundbreaking clinical trials, resting their hopes for a cure on the brilliant minds that work there.",
+                    "production_code": "",
+                    "runtime": 85,
+                    "season_number": 1,
+                    "show_id": 71780,
+                    "still_path": "/uyIVyNvbDcP41EAyfFAae1Ch5Ns.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1372136,
+                    "name": "Treatment",
+                    "overview": "While Bo Cooper recovers from a near-death experience, Anita McAlister weighs her treatment options. Patients Lucy Wiese and Deidra Williams receive highly experimental bone marrow transplants.",
+                    "production_code": "",
+                    "runtime": 85,
+                    "season_number": 1,
+                    "show_id": 71780,
+                    "still_path": "/kEd7rpL4D8BQplfjPFA3SAEC6ya.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-24",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1372137,
+                    "name": "Prognosis",
+                    "overview": "All four patients meet with their doctors one last time to learn whether their experimental treatments were successful, and what the future holds for them.",
+                    "production_code": "",
+                    "runtime": 85,
+                    "season_number": 1,
+                    "show_id": 71780,
+                    "still_path": "/lLRWRhDiASEpn9SLgpnMMlAcl2w.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 88475,
+            "poster_path": "/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

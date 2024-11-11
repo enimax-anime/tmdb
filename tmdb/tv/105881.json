@@ -1,0 +1,384 @@
+{
+    "adult": false,
+    "backdrop_path": "/62okgpGCg6LNdAaGCjmoHS8yNmJ.jpg",
+    "created_by": [
+        {
+            "id": 64279,
+            "credit_id": "6100b6b9db72c0005d8667ab",
+            "name": "Edward Gorsuch",
+            "original_name": "Edward Gorsuch",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2020-06-19",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.discovery.com/shows/dino-hunters",
+    "id": 105881,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-09-10",
+    "last_episode_to_air": {
+        "id": 3207232,
+        "name": "Rex Revealed",
+        "overview": "When a valuable fossil is trapped in a precarious location, Clayton brings in a team of horses and a helicopter to help extract it. Mike comes face-to-face with Cowboy Rex, and Andre makes a difficult decision to save the Abercrombie's mammoth.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-09-10",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 105881,
+        "still_path": "/wFiarY1s1vUL14hYsI04EcMN3HC.jpg"
+    },
+    "name": "Dino Hunters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 64,
+            "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dino Hunters",
+    "overview": "Cowboys and ranchers rely on their deep knowledge of the land to search for prehistoric dinosaur fossils - from T-Rex and Triceratops to discovering a rare and disputed dinosaur species.",
+    "popularity": 0.628,
+    "poster_path": "/madAXj5H8F2ye3oObfUVxq2xi2W.jpg",
+    "production_companies": [
+        {
+            "id": 145134,
+            "logo_path": null,
+            "name": "Batwoods Media",
+            "origin_country": ""
+        },
+        {
+            "id": 73084,
+            "logo_path": "/vOSU3oDN3h5SRIFlxU76xnLiwOG.png",
+            "name": "Half Yard Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-19",
+            "episode_count": 6,
+            "id": 156116,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cPDT7YLeFoPtUvTPH4ANYJX09mE.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        {
+            "air_date": "2021-07-30",
+            "episode_count": 8,
+            "id": 203736,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/madAXj5H8F2ye3oObfUVxq2xi2W.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5f09d773d100b6003707e9c1",
+            "air_date": "2020-06-19",
+            "episodes": [
+                {
+                    "air_date": "2020-06-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2346106,
+                    "name": "Dinosaur Cowboys",
+                    "overview": "Montana rancher Clayton finds what might be a rare and valuable fossil on his family's property. In Wyoming, Mike and his son uncover a triceratops horn.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2371782,
+                    "name": "Million-Dollar Dino",
+                    "overview": "Clayton Phipps continues his excavation of a rare carnivorous dinosaur on his Montana ranch; Mike Harris and son Jake prepare to sell their prized tyrannosaurus-rex fossil; Aaron Bolan hunts for an ankylosaurus.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2371783,
+                    "name": "Curse of the Carnivore",
+                    "overview": "Clayton Phipps and his team prepare to flip a 20,000-pound carnivore fossil out of the earth and onto a flatbed to get it to the lab for analysis. Meanwhile, Mike Harris hunts for a duckbill skull and Jared Hudson uncovers an ancient reptile.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2371784,
+                    "name": "Shots Fired",
+                    "overview": "Clayton must haul his 20,000-pound dinosaur fossil over 200 miles to a lab where it will finally be identified. The Harris/Bolan clan chases poachers off of their land and Jared makes a last-ditch effort to bring in some money this season.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2371785,
+                    "name": "We Got Skull",
+                    "overview": "With their prized carnivore fossil finally at the lab, Clayton returns to his ranch in Montana to hunt for quick finds at Old Faithful. In Wyoming, Mike Harris and his team continue excavating their triceratops site hoping to uncover the valuable horns.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-24",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2371786,
+                    "name": "The Verdict is in: Nano or T-Rex",
+                    "overview": "In Montana, Clayton Phipps prepares to learn if his carnivore skeleton belongs to a T-Rex or the controversial nanotyrannus. Meanwhile in Wyoming, Mike Harris and Aaron Bolan race against the impending winter digging at a promising new site.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 156116,
+            "poster_path": "/cPDT7YLeFoPtUvTPH4ANYJX09mE.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        "2": {
+            "_id": "60ffefab38e5100045cfcc8c",
+            "air_date": "2021-07-30",
+            "episodes": [
+                {
+                    "air_date": "2021-07-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3094945,
+                    "name": "Doubling Down on Dinos",
+                    "overview": "Clayton Phipps and his son Luke put it all on the line for a risky raptor fossil buried under 30 feet of earth. And the Harrises decide to go for broke to prep their multi-million dollar T-Rex skull.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/yuE521890z7CcLsveTAD69WGIYL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3101492,
+                    "name": "Duckbill Buffet",
+                    "overview": "Clayton and Luke begin to excavate the deep overburden that covers the T-Rex site. And while Mike Harris travels to Utah to prep the Cowboy Rex skull, Aaron, Jake and Tori think they're on a bucket-list discovery at the Duckbill site.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/nEwYcXDNZuWJPmqmzDAgkhqvafr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3131443,
+                    "name": "Mammoth Mass Mortality",
+                    "overview": "When a wildfire surrounds his hometown, Clayton Phipps drops everything to help fight the flames. The Harris-Bolan crew excavates a new Triceratops' site. And the Abercrombie family discovers a Mammoth fossil map on their ranch in New Mexico.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/llfv26tm4P6fhA3G7VNYteI6Ufm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3131506,
+                    "name": "This Thing Is a Monster",
+                    "overview": "Hoping to salvage his season, Clayton Phipps hunts for valuable Trike horns, while Mike Harris and his team believe they might be on to a world-record find. And fossil hunter Andre Lujan follows a 90 year-old map to a massive mammoth site.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/vgBApTBQJSW8SkNGCAp6KjiXh7E.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-08-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3162016,
+                    "name": "Monster Ceratopsian",
+                    "overview": "Clayton Phipps makes a shocking discovery at the Trike site. The Harris-Bolan crew unearths what they believe might be an extremely rare Ceratopsian. And on the Abercrombie ranch, Andre Lujan digs up an enormous Ice Age Mammoth tusk.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/cf58e4e2PTBLJE0djkd6YRmI86Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3183994,
+                    "name": "Skull Shock",
+                    "overview": "With winter looming, Clayton and Luke race to excavate two massive trike skulls, while the Harris-Bolan crew searches for a crucial missing femur for their rare ceratopsian. On the Abercrombie Ranch, Andre discovers a mother-lode of Ice Aged bones.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/6oJe8iSceItKy32WOCU9ew97VWp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3183995,
+                    "name": "The Race Is On",
+                    "overview": "Clayton gets news about the Nano sale and as a winter storm barrels in, he races to extract a rare trike tail. The Harris-Bolans have finally found evidence of Cerotopsian skull. And on the Abercrombie ranch, Andre struggles to excavate an enormous tusk.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-10",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3207232,
+                    "name": "Rex Revealed",
+                    "overview": "When a valuable fossil is trapped in a precarious location, Clayton brings in a team of horses and a helicopter to help extract it. Mike comes face-to-face with Cowboy Rex, and Andre makes a difficult decision to save the Abercrombie's mammoth.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 105881,
+                    "still_path": "/wFiarY1s1vUL14hYsI04EcMN3HC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 203736,
+            "poster_path": "/madAXj5H8F2ye3oObfUVxq2xi2W.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

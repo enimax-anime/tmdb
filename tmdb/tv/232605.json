@@ -1,0 +1,324 @@
+{
+    "adult": false,
+    "backdrop_path": "/gxG05ySuurVt9Jaf9IXwW4pVHDC.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-09-06",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.pbs.org/show/evolution-earth/",
+    "id": 232605,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-10-04",
+    "last_episode_to_air": {
+        "id": 4683910,
+        "name": "Grasslands",
+        "overview": "Grasslands are one of the planet’s most important, yet most overlooked habitats. Follow scientists as they discover animal species with the power to transform and restore our grasslands, turning them into carbon sinks that could slow climate change.",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2023-10-04",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 55,
+        "season_number": 1,
+        "show_id": 232605,
+        "still_path": "/g0OKBpI9zDZMS5Vjg0Q6g6j3RsJ.jpg"
+    },
+    "name": "Evolution Earth",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Evolution Earth",
+    "overview": "Traveling to the far corners of the world, we discover the extraordinary ways animals are adapting to our rapidly changing planet. We witness nature’s remarkable resilience, as our perception of evolution and its potential is forever transformed.",
+    "popularity": 5.928,
+    "poster_path": "/naMeQpCw9gWrXcg61Sw1p95vY8L.jpg",
+    "production_companies": [
+        {
+            "id": 132503,
+            "logo_path": null,
+            "name": "Passion Planet",
+            "origin_country": "GB"
+        },
+        {
+            "id": 148389,
+            "logo_path": "/yxMO0fJc6TT1HDP169WmqEQoGyr.png",
+            "name": "Love Nature",
+            "origin_country": "CA"
+        },
+        {
+            "id": 124017,
+            "logo_path": "/ioSRRQqdux1jFOxjBI5jUxcruGW.png",
+            "name": "PBS",
+            "origin_country": "US"
+        },
+        {
+            "id": 201,
+            "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+            "name": "ARTE",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-09-06",
+            "episode_count": 5,
+            "id": 352695,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aT7XfmRpXAP1cNudjYft3RxxblQ.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "At the front lines of climate change, animals have a surprising story to tell.",
+    "type": "Documentary",
+    "vote_average": 8.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "64dabf3ef495ee0294315066",
+            "air_date": "2023-09-06",
+            "episodes": [
+                {
+                    "air_date": "2023-09-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4653463,
+                    "name": "Earth",
+                    "overview": "At Earth’s extremes, animals are reacting in surprising ways. Animal homes are changing around them at superspeed. Follow remarkable stories of resilience and hope. From humpback whales to tiny butterflies to ingenious savanna chimpanzees.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 232605,
+                    "still_path": "/hoqvIKvYt5jmj3msQ2JcorqCUxL.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb98e6efea7a00c39444be",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1234301,
+                            "known_for_department": "Writing",
+                            "name": "Oliver Twinch",
+                            "original_name": "Oliver Twinch",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4683906,
+                    "name": "Islands",
+                    "overview": "Islands are like miniature simplified Earths, where evolution is playing out at super speed right before our eyes. Journey from the Galapagos to the edge of Antarctica to seek out animals responding to our changing planet in extraordinary ways.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 232605,
+                    "still_path": "/hWppvRpKXMZ97a3HqwBNrYyo5oN.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb98e6efea7a00c39444be",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1234301,
+                            "known_for_department": "Writing",
+                            "name": "Oliver Twinch",
+                            "original_name": "Oliver Twinch",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4683908,
+                    "name": "Heat",
+                    "overview": "Travel to the hottest and driest extremes to see animals go to extraordinary lengths to survive. From the Sahara Desert to Australia, animals provide new clues about our changing planet and what it will mean for the future of our heating world.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 232605,
+                    "still_path": "/wsrKNPJJDoszEvi8z4OjgvZQttI.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb9933ffc9de0ee3c39c72",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2524106,
+                            "known_for_department": "Writing",
+                            "name": "Rachelle Keeling",
+                            "original_name": "Rachelle Keeling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "64fb9952f8595800adc90fcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2524106,
+                            "known_for_department": "Writing",
+                            "name": "Rachelle Keeling",
+                            "original_name": "Rachelle Keeling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb9964a284eb00ad11d600",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1882928,
+                            "known_for_department": "Directing",
+                            "name": "Nick Stringer",
+                            "original_name": "Nick Stringer",
+                            "popularity": 0.377,
+                            "profile_path": "/laKJVX0JzZIsZ9wLZhl2eyzFaRz.jpg"
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "64fb996da284eb00c6892748",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1882928,
+                            "known_for_department": "Directing",
+                            "name": "Nick Stringer",
+                            "original_name": "Nick Stringer",
+                            "popularity": 0.377,
+                            "profile_path": "/laKJVX0JzZIsZ9wLZhl2eyzFaRz.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4683909,
+                    "name": "Ice",
+                    "overview": "At the planet’s frozen extremes, shifts in animal movement and behavior reveal vital information about our future world. Examine polar bears in the Arctic, penguins in Antarctica and other animals surviving in icy worlds.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 232605,
+                    "still_path": "/zkxLZH2NMyshCZ4HKBfE27SALyK.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb999ddb4ed6103853d582",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2777241,
+                            "known_for_department": "Directing",
+                            "name": "Charlotte Lathane",
+                            "original_name": "Charlotte Lathane",
+                            "popularity": 0.053,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-04",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 4683910,
+                    "name": "Grasslands",
+                    "overview": "Grasslands are one of the planet’s most important, yet most overlooked habitats. Follow scientists as they discover animal species with the power to transform and restore our grasslands, turning them into carbon sinks that could slow climate change.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 232605,
+                    "still_path": "/g0OKBpI9zDZMS5Vjg0Q6g6j3RsJ.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64fb999ddb4ed6103853d582",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2777241,
+                            "known_for_department": "Directing",
+                            "name": "Charlotte Lathane",
+                            "original_name": "Charlotte Lathane",
+                            "popularity": 0.053,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 352695,
+            "poster_path": "/aT7XfmRpXAP1cNudjYft3RxxblQ.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    }
+}

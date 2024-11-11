@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2018-07-31",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 135519,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-07-31",
+    "last_episode_to_air": {
+        "id": 3258029,
+        "name": "UFOs - Biggest Secret on Planet Earth",
+        "overview": "UFO's and ET's that made headlines around the world. Wolf said he was aware that extraterrestrials work with scientists, they have exchanged technology for many years.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-07-31",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 135519,
+        "still_path": null
+    },
+    "name": "Forbidden Mysteries - Ancient Knowledge and Lost Worlds",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5330,
+            "logo_path": null,
+            "name": "Zephyr School Media",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Forbidden Mysteries - Ancient Knowledge and Lost Worlds",
+    "overview": "Ancient Pyramids, Solar System Mysteries, and investigations into Antarctica have defied every scholar that has tried to understand them, the Ancients left us bizarre knowledge to decode, maybe there was there a lost ancient advanced culture on the planet. Join us as we explore Forbidden Mysteries to explore the enigmas of the past.",
+    "popularity": 0.883,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-07-31",
+            "episode_count": 3,
+            "id": 214143,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 214144,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "615a00856f8d95006699ff47",
+            "air_date": "2018-07-31",
+            "episodes": [
+                {
+                    "air_date": "2018-07-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3258002,
+                    "name": "Ancient Egypt Discoveries We Still Can't Figure",
+                    "overview": "Let's look at the most puzzling Ancient Egypt mysteries that archaeologists and scholars still haven't been able to solve, even thousands of years later. From lost labyrinths to enormous unfinished obelisks, stone masonry with exceptional precision, mysterious figurines, and Saqqara's granite boxes. The ancient Egyptian civilization has captured the imagination of many people in different times.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 135519,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-07-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3258027,
+                    "name": "Anomalies on the Moon",
+                    "overview": "There is a hidden reptilian empire which consists of alien cultures and lost civilizations, their presence explains many of the myths of gods walking among humans. The reptoids may have sought out refuge underground after Earth underwent climate changes some 12,000 years ago. There are many accounts through history of lizard people and snake like bipedal's from Sumeria to the Hopi Indians.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 135519,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-07-31",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3258029,
+                    "name": "UFOs - Biggest Secret on Planet Earth",
+                    "overview": "UFO's and ET's that made headlines around the world. Wolf said he was aware that extraterrestrials work with scientists, they have exchanged technology for many years.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 135519,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 214143,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "615a03711443f4008ddecc47",
+            "air_date": null,
+            "episodes": [],
+            "name": "Season 2",
+            "overview": "",
+            "id": 214144,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

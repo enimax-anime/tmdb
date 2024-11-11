@@ -1,0 +1,219 @@
+{
+    "adult": false,
+    "backdrop_path": "/oBHFnGYETOpPFQQki4w7YmSO9qI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2020-09-30",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://tv.nrk.no/serie/helvete",
+    "id": 110861,
+    "in_production": false,
+    "languages": [
+        "en",
+        "no",
+        "sv"
+    ],
+    "last_air_date": "2020-09-30",
+    "last_episode_to_air": {
+        "id": 2661432,
+        "name": "Føniks",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-09-30",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 40,
+        "season_number": 1,
+        "show_id": 110861,
+        "still_path": null
+    },
+    "name": "Hell: The History of Norwegian Black Metal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 379,
+            "logo_path": "/4TTFfXnGIEosh3EPYX25ERWp1XG.png",
+            "name": "NRK1",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Helvete: Historien om Norsk Black Metal",
+    "overview": "Norwegian black metal is beloved by fans worldwide, but is also known for it's shocking story. Now the musicians who created the grim genre, tells how it all came to be.",
+    "popularity": 2.723,
+    "poster_path": "/6FHECnzFYRJQx782NN9O0QYrl3K.jpg",
+    "production_companies": [
+        {
+            "id": 5975,
+            "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+            "name": "YLE",
+            "origin_country": "FI"
+        },
+        {
+            "id": 2999,
+            "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+            "name": "SVT",
+            "origin_country": "SE"
+        },
+        {
+            "id": 94657,
+            "logo_path": "/k8mX8H1Mp0DUfEiee2lI2k5Lrub.png",
+            "name": "Nordvision",
+            "origin_country": "DK"
+        },
+        {
+            "id": 119,
+            "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+            "name": "DR",
+            "origin_country": "DK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+        },
+        {
+            "iso_3166_1": "FI",
+            "name": "Finland"
+        },
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-09-30",
+            "episode_count": 4,
+            "id": 164434,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5f74ec7058efd30036abb4bc",
+            "air_date": "2020-09-30",
+            "episodes": [
+                {
+                    "air_date": "2020-09-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2449552,
+                    "name": "Ingenting for Norge",
+                    "overview": "One of the most notorius bands in the history of rock, is starting up on a small loft in Langhus. Few are interested, but the extreme music is spreading underground.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 110861,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2661424,
+                    "name": "Det är jag som är döden",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 110861,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2661429,
+                    "name": "Helvete åpner",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 110861,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-30",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2661432,
+                    "name": "Føniks",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 110861,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 164434,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1226242,
+            "credit_id": "611cc4e2ca8354002e03c0f8",
+            "name": "Liz Bonnin",
+            "original_name": "Liz Bonnin",
+            "gender": 1,
+            "profile_path": "/qonWp5ZqNTOlzp6QtPUV11wBKJZ.jpg"
+        },
+        {
+            "id": 1247503,
+            "credit_id": "611cc4b12dc44e002c453aa4",
+            "name": "Steve Backshall",
+            "original_name": "Steve Backshall",
+            "gender": 2,
+            "profile_path": "/m7Pkb8HAhRTpQJoFwApeK3eULL0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2020-03-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m000gzmj",
+    "id": 104543,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-04-05",
+    "last_episode_to_air": {
+        "id": 2300910,
+        "name": "Great Barrier Reef",
+        "overview": "The Great Barrier Reef is the world’s largest expanse of coral reefs. It is home to an astonishing diversity of life and vital to the health of our seas. But this extraordinary place and all the life it supports is under threat like never before. To find out what the future holds for one of Earth’s greatest natural wonders, a team of scientists have based themselves on Heron Island, at the southern tip of the reef, to monitor green turtles, follow families of breeding birds and meet the reef’s curious residents.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-04-05",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 104543,
+        "still_path": "/8cJhrD6yQQFmBV6oSDA7Xcu31IU.jpg"
+    },
+    "name": "Blue Planet Revisited",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4,
+            "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+            "name": "BBC One",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Blue Planet Revisited",
+    "overview": "A Nature Documentary",
+    "popularity": 1.623,
+    "poster_path": "/3fUo43hfFHL8ysszrIEjo84qocv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-03-29",
+            "episode_count": 2,
+            "id": 153012,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5edd6f629c24fc002168b3cb",
+            "air_date": "2020-03-29",
+            "episodes": [
+                {
+                    "air_date": "2020-03-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2300908,
+                    "name": "A Shark's Tale",
+                    "overview": "A scattering of some 700 islands in the Atlantic Ocean, the Bahamas are home to one of the largest and most diverse shark populations on the planet. Over the course of three weeks, Steve Backshall discovers why the Bahamas provide such sanctuary for sharks, looking at the protection offered to them, people’s changing attitudes and the key role science plays in their conservation. Steve joins researchers who have dedicated their lives to this unique and often misunderstood group of animals and learns that a healthy shark population is absolutely vital to a healthy marine ecosystem.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 104543,
+                    "still_path": "/tNL19fLZzVS88Hri53n641EFodu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-05",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 2300910,
+                    "name": "Great Barrier Reef",
+                    "overview": "The Great Barrier Reef is the world’s largest expanse of coral reefs. It is home to an astonishing diversity of life and vital to the health of our seas. But this extraordinary place and all the life it supports is under threat like never before. To find out what the future holds for one of Earth’s greatest natural wonders, a team of scientists have based themselves on Heron Island, at the southern tip of the reef, to monitor green turtles, follow families of breeding birds and meet the reef’s curious residents.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 104543,
+                    "still_path": "/8cJhrD6yQQFmBV6oSDA7Xcu31IU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 153012,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

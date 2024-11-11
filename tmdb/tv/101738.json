@@ -1,0 +1,374 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2020-04-09",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://www.vicetv.com/en_us/show/shelter-in-place-with-shane-smith",
+    "id": 101738,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-06-25",
+    "last_episode_to_air": {
+        "id": 2831104,
+        "name": "Dr. Anthony Fauci",
+        "overview": "Shane talks to Dr. Anthony Fauci about China and whether protests and political rallies will cause COVID-19 to spike.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-06-25",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 101738,
+        "still_path": null
+    },
+    "name": "Shelter in Place with Shane Smith",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3706,
+            "logo_path": "/iA3HkJ8eNQZngQAjETO24YV8p1n.png",
+            "name": "Vice TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Shelter in Place with Shane Smith",
+    "overview": "VICE founder Shane Smith hosts a series of chats with experts, thought leaders and political figures.",
+    "popularity": 2.446,
+    "poster_path": "/pWN7082buIFbSy0dsZLQ584vgrf.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-07",
+            "episode_count": 2,
+            "id": 188151,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-04-09",
+            "episode_count": 13,
+            "id": 147526,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5e9066e34a4bf60fa250eadb",
+            "air_date": "2020-04-09",
+            "episodes": [
+                {
+                    "air_date": "2020-04-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2218957,
+                    "name": "Edward Snowden",
+                    "overview": "On the premiere episode of SHELTER IN PLACE, VICE founder Shane Smith speaks with whistleblower Edward Snowden, who delves into the world of surveillance, privacy and our future civil liberties as international governments and autocratic regimes enact bold, new policies to curb the virus.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5e906a0a37b3a9001589e5e8",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1386089,
+                            "known_for_department": "Acting",
+                            "name": "Edward Snowden",
+                            "original_name": "Edward Snowden",
+                            "popularity": 3.458,
+                            "profile_path": "/q2n2J4HVxty15I9vPJ4j8yX6gdu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2218973,
+                    "name": "Gov. Gavin Newsom and Dr. Anne Rimoin",
+                    "overview": "Shane catches up with California Governor Gavin Newsom on how his state has braced for the pandemic, where the federal government has stumbled, and what is coming next.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5e906bf3197de40013076c5c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 522548,
+                            "known_for_department": "Acting",
+                            "name": "Gavin Newsom",
+                            "original_name": "Gavin Newsom",
+                            "popularity": 6.052,
+                            "profile_path": "/bttvdfiGy13x0c1CZRBubJAsdrj.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5e906d3b37b3a900138a5a36",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2552788,
+                            "known_for_department": "Acting",
+                            "name": "Anne Rimoin",
+                            "original_name": "Anne Rimoin",
+                            "popularity": 0.001,
+                            "profile_path": "/n9V6Sbdd6bVTBdHqHhhQwCgL4Ct.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2219005,
+                    "name": "David Chang and Marguerite Mariscal",
+                    "overview": "Shane talks to chef David Chang and Marguerite Mariscal of Momofuku about the collapse of the NY restaurant industry thanks to COVID-19.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2831091,
+                    "name": "Matteo Renzi and Dr. Margaret Harris",
+                    "overview": "Shane talks with former Italian Prime Minister Matteo Renzi about key learnings from Italy, and to Dr. Margaret Harris of the World Health Organization's coronavirus response team.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2831093,
+                    "name": "Gov. Phil Murphy and Richard Besser",
+                    "overview": "Shane talks with New Jersey Gov. Phil Murphy about fighting the virus, and to former CDC Director Richard Besser about the importance of trusted scientists in public health.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-30",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2831094,
+                    "name": "Rep. Alexandria Ocasio-Cortez",
+                    "overview": "Shane talks with Representative Alexandria Ocasio-Cortez about who is hit hardest by the COVID-19 pandemic, and political dysfunction in Washington.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2831095,
+                    "name": "Andrew Yang and Mayor Eric Garcetti",
+                    "overview": "Shane speaks with political disruptor Andrew Yang about the societal impact of COVID-19, and with Los Angeles Mayor Eric Garcetti about how he plans to reopen his city.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-14",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2831096,
+                    "name": "Mark Cuban and Rep. Steny Hoyer",
+                    "overview": "Shane talks to investor & entrepreneur Mark Cuban about the effects of COVID-19 on the economy and with House Majority Leader Steny Hoyer about how to legislate during a pandemic.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-21",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2831098,
+                    "name": "Larry Summers and Xiye Bastida",
+                    "overview": "Shane talks to legendary economist Larry Summers about the impact of COVID-19, and with youth climate leader Xiye Bastida about activism during a pandemic.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-28",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2831100,
+                    "name": "Eric Holder and Migos",
+                    "overview": "Shane talks to rap superstars Migos about lockdown in Atlanta, and with former Attorney General Eric Holder about the 2020 presidential election.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-11",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2831101,
+                    "name": "Rep. Maxine Waters and Alzo Slade",
+                    "overview": "Shane talks to Rep. Maxine Waters about the political impact of recent protests, and with VICE News' Alzo Slade about reporting on the ground in Minneapolis.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-18",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 2831103,
+                    "name": "J Balvin, Sergio Moro and Marcos Espinal",
+                    "overview": "Latin America and COVID-19. Shane speaks with reggaeton superstar J Balvin, Judge Sergio Moro and Dr. Marcos Espinal.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-25",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 2831104,
+                    "name": "Dr. Anthony Fauci",
+                    "overview": "Shane talks to Dr. Anthony Fauci about China and whether protests and political rallies will cause COVID-19 to spike.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 101738,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 147526,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

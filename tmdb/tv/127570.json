@@ -1,0 +1,203 @@
+{
+    "adult": false,
+    "backdrop_path": "/ug6w7FHQCckNpzjFnAvyMcdUHq2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2021-05-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://video.vice.com/en_us/show/fanatics-the-deep-end",
+    "id": 127570,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-07-01",
+    "last_episode_to_air": {
+        "id": 3045058,
+        "name": "Rare Plants",
+        "overview": "Alice meets Jerry, a plant collector who is suspected of stealing a prized cutting, and Enid, who cultivates rare plants in her backyard, attracting thousands of online buyers.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-07-01",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 127570,
+        "still_path": null
+    },
+    "name": "Fanatics: The Deep End",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3706,
+            "logo_path": "/iA3HkJ8eNQZngQAjETO24YV8p1n.png",
+            "name": "Vice TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fanatics: The Deep End",
+    "overview": "Alice Hines goes all in on a journey to the outer limits of obsession.",
+    "popularity": 0.536,
+    "poster_path": "/6kvT0zE5coSOUngnzv5KK2UVPi0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-05-27",
+            "episode_count": 6,
+            "id": 199257,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/g40HVVLRLqGFgfBoTWchXy0iIFS.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "60c8a502b0ba7e00298227fb",
+            "air_date": "2021-05-27",
+            "episodes": [
+                {
+                    "air_date": "2021-05-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3027416,
+                    "name": "QAnon",
+                    "overview": "Alice investigates what causes people to think that storming the U.S. Capitol seemed like a good idea. What draws people to the cult of QAnon?",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3045054,
+                    "name": "New Fandom",
+                    "overview": "Alice meets an 11-year-old Hype House fan and uncovers the story of a troubled woman and her fixation on an unlikely influencer who calls himself Social Repose.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3045055,
+                    "name": "Military Simulation",
+                    "overview": "Somewhere between cosplay and gun play is MilSim: Military Simulation. Who are these people who subject themselves to 40-hour full-immersion combat?",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3045056,
+                    "name": "Free Diving",
+                    "overview": "Alice meets Tessa and Dave, who freedive in the swampy, celestial springs of Florida. Is freediving the ultimate, mind-expanding, sober high, or is there something in the water?",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3045057,
+                    "name": "Cat People",
+                    "overview": "Becky and Britt have made it their mission to catch and fix New York City's street cats. They meet their match in a suspected cat hoarder who doesn't believe in sterilization.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3045058,
+                    "name": "Rare Plants",
+                    "overview": "Alice meets Jerry, a plant collector who is suspected of stealing a prized cutting, and Enid, who cultivates rare plants in her backyard, attracting thousands of online buyers.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 127570,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 199257,
+            "poster_path": "/g40HVVLRLqGFgfBoTWchXy0iIFS.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

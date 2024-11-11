@@ -1,0 +1,334 @@
+{
+    "adult": false,
+    "backdrop_path": "/3UfCbDYfoaXpov9rGWsVlDAfLYO.jpg",
+    "created_by": [
+        {
+            "id": 1038590,
+            "credit_id": "60bd0beb960cde006d8f2580",
+            "name": "Joaquim Leitão",
+            "original_name": "Joaquim Leitão",
+            "gender": 2,
+            "profile_path": "/27G4AVzAqXLel1Yz9MczwQDxcHa.jpg"
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2020-06-03",
+    "genres": [],
+    "homepage": "https://www.rtp.pt/programa/tv/p39020",
+    "id": 127059,
+    "in_production": false,
+    "languages": [
+        "pt"
+    ],
+    "last_air_date": "2020-09-02",
+    "last_episode_to_air": {
+        "id": 3009747,
+        "overview": "",
+        "name": "Episode 13",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-09-02",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 127059,
+        "still_path": "/5BCLlS3Gih5oZdR5HKywWjiuFBi.jpg"
+    },
+    "name": "Terra Nova",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 554,
+            "logo_path": "/iJBaPuHCVjROCUXZzGuon3oDqMC.png",
+            "name": "RTP1",
+            "origin_country": "PT"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "Terra Nova",
+    "overview": "",
+    "popularity": 19.563,
+    "poster_path": "/mb0wUyek31RRS9Ehn3tUE4vQYQ2.jpg",
+    "production_companies": [
+        {
+            "id": 8683,
+            "logo_path": "/tLgfcgUC96znl4rzt8gaUCRruY1.png",
+            "name": "Cinemate",
+            "origin_country": "PT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-06-03",
+            "episode_count": 13,
+            "id": 198301,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xXxqa5Ybu3CXfr1l2U59zRgqDwU.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.4,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "60bd0afcb18f320041acba84",
+            "air_date": "2020-06-03",
+            "episodes": [
+                {
+                    "air_date": "2020-06-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3009735,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/wvaUdTOyjUrx2U5znVXJWSXdHQf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3009736,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/xXzFBrk3yXTZo1X2LMd254lbCzp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3009737,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/oEv52m8TauiTkoGEgHNalZ5faQ4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3009738,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/di9gczzIILX9FXaH4vKvDvsKe80.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3009739,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/nDeczBrsIblPAYVHMgTo9AQORfp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3009740,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/gvEhTxvS81a5BOfbrnSzzKGVgOL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-15",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3009741,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/m1Ty8nugbllCTXJ7ncZxZp2sOR0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3009742,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/qGk6rHHmftViFheaNcSTKQOAzQC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-05",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3009743,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/bMPykBnMac0OcwK3Huc48D8QdwE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-12",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3009744,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/mGUdpVWyuy4w4apWDdCL8PBiCk6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-19",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3009745,
+                    "name": "Episode 11",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/7rDA9Z17zIGIF61hlPqFxU4sADn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-08-26",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 3009746,
+                    "name": "Episode 12",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/rGdisDF5D5RsAcMWIRhj1cAJgPF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-02",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 3009747,
+                    "name": "Episode 13",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 127059,
+                    "still_path": "/5BCLlS3Gih5oZdR5HKywWjiuFBi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 198301,
+            "poster_path": "/xXxqa5Ybu3CXfr1l2U59zRgqDwU.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

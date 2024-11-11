@@ -1,0 +1,227 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2021-12-12",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.itv.com/hub/walk-the-line/10a1814a0001",
+    "id": 154004,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-12-17",
+    "last_episode_to_air": {
+        "id": 3404507,
+        "name": "Episode #1.6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-12-17",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 154004,
+        "still_path": null
+    },
+    "name": "Walk the Line",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Walk the Line",
+    "overview": "The show combines a talent contest with a gaming element, as singers decide whether to stay in the competition or cash out.",
+    "popularity": 2.921,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 3448,
+            "logo_path": "/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png",
+            "name": "ITV",
+            "origin_country": "GB"
+        },
+        {
+            "id": 151212,
+            "logo_path": "/7KTm89AaiVbjDta1dsLVRTSJJ7h.png",
+            "name": "Lifted Entertainment",
+            "origin_country": "GB"
+        },
+        {
+            "id": 112144,
+            "logo_path": "/uarFf8zUkBvyxXLFE5X2S5MDh9a.png",
+            "name": "Syco Entertainment",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-12-12",
+            "episode_count": 6,
+            "id": 236949,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "61c37f3becaef5001c334fe8",
+            "air_date": "2021-12-12",
+            "episodes": [
+                {
+                    "air_date": "2021-12-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3404502,
+                    "name": "Episode #1.1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3404503,
+                    "name": "Episode #1.2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3404504,
+                    "name": "Episode #1.3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3404505,
+                    "name": "Episode #1.4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3404506,
+                    "name": "Episode #1.5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-17",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3404507,
+                    "name": "Episode #1.6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 154004,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 236949,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

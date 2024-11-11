@@ -1,0 +1,722 @@
+{
+    "adult": false,
+    "backdrop_path": "/6DpGMNzP34cXf8SCusQzPINpJHe.jpg",
+    "created_by": [
+        {
+            "id": 11041,
+            "credit_id": "60dddfe54ca676005e099ce0",
+            "name": "Anja Lundqvist",
+            "original_name": "Anja Lundqvist",
+            "gender": 1,
+            "profile_path": "/cb5mwfuCg6P91wOHoNcqFEhSHUO.jpg"
+        },
+        {
+            "id": 55885,
+            "credit_id": "60dddfdbb686b90075f40f42",
+            "name": "Sofia Helin",
+            "original_name": "Sofia Helin",
+            "gender": 1,
+            "profile_path": "/4O2IEQHkeq1vhOrA41n313HaflG.jpg"
+        },
+        {
+            "id": 544707,
+            "credit_id": "60dddfd3b686b9002d5d0318",
+            "name": "Julia Dufvenius",
+            "original_name": "Julia Dufvenius",
+            "gender": 1,
+            "profile_path": "/hVY9PBy0dJUmFzhDeJiUyjvkAFs.jpg"
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-08-30",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://viaplay.se/serier/heder",
+    "id": 93027,
+    "in_production": true,
+    "languages": [
+        "sv"
+    ],
+    "last_air_date": "2022-10-10",
+    "last_episode_to_air": {
+        "id": 3948269,
+        "name": "Episode 6",
+        "overview": "According to the police, the third accomplice planned to attack an entertainment show in an arena with a predominantly female audience. The clock is ticking as the event begins to approach…",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-10",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 3,
+        "show_id": 93027,
+        "still_path": "/gEj2noMEWp8X7ijiUOzje5vy7bz.jpg"
+    },
+    "name": "Honour",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1585,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Heder",
+    "overview": "Four partners at a law firm called \"Heder\" gain notoriety by helping victims of sex crimes and speaking out against patriarchy.",
+    "popularity": 12.602,
+    "poster_path": "/r1mBGsgC2tfJ484UdBK9IcsQM8o.jpg",
+    "production_companies": [
+        {
+            "id": 185928,
+            "logo_path": "/5EiIRmSY8bA0gJxbeUPg4tViooX.png",
+            "name": "Bigster",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-30",
+            "episode_count": 8,
+            "id": 131234,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r1mBGsgC2tfJ484UdBK9IcsQM8o.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        {
+            "air_date": "2021-04-25",
+            "episode_count": 8,
+            "id": 192194,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/pAr2xVw0saJCixKLp1go5GyCgRC.jpg",
+            "season_number": 2,
+            "vote_average": 2
+        },
+        {
+            "air_date": "2022-09-12",
+            "episode_count": 6,
+            "id": 308157,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.7,
+    "vote_count": 10,
+    "season_data": {
+        "1": {
+            "_id": "5d683c909f0e19001142f47e",
+            "air_date": "2019-08-30",
+            "episodes": [
+                {
+                    "air_date": "2019-08-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1906711,
+                    "name": "Episode 1",
+                    "overview": "Heder represents the teenage rape victim Isabel, but the accused is acquitted in court. To gather evidence for the appeal, Heder meets the journalist CA, who is working on a scoop on a sex ring.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/cdl75qoLDha8h8iZl7DD4qgWN2G.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1906787,
+                    "name": "Episode 2",
+                    "overview": "Heder, who in principle only represents victims of crime, is facing a difficult choice now that Isabel has gone from victim to perpetrator. Nour is attacked by an unknown person who cuts her and leaves a note.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/qJalATpdqeMaYMoQJlrwZU6ziMF.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1919122,
+                    "name": "Episode 3",
+                    "overview": "The threats continue and the lawyers understand that everything can be linked to their secret. Janni is worried that her DNA can be found at CA, and the women suspect that the sex ring is using an app.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/mFIpV4lKnYqPMIRFp5cDmfNpRpg.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1919130,
+                    "name": "Episode 4",
+                    "overview": "Heder tries to investigate the Neat app when it suddenly disappears. They therefore try to find someone else in the sex ring. The women figure out how the leak of their secret may have started.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/b9rQIb2ZQgK3g6cyLNvGQnHpnHI.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1919134,
+                    "name": "Episode 5",
+                    "overview": "It will be more difficult than expected to find out who is threatening the lawyers. At the same time, they find out more and more about CA's murder and Isabel's role, but the more they find out, the more questions there are.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/bc3WClqVUjQP1cNbio1bbLaVdze.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-27",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1919135,
+                    "name": "Episode 6",
+                    "overview": "The people behind Neat feel the pressure from the lawyers and start threatening with murder. Women find connections they have not seen before and continue to pursue justice and truth, with bloodier consequences.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/lFFsZFQEqotxdDJCNVvkv3EWqrV.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-04",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1919136,
+                    "name": "Episode 7",
+                    "overview": "Janni and Elin realize that Neat knows what they have done and fear for their own and their families' safety. The person who knows the women's secret confronts Nour before a TV recording.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/33u3IRc4cjEVUQB460yD0HRG8rS.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Bo",
+                            "credit_id": "5e1639f0cf4b8b00117fbfec",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2084026,
+                            "known_for_department": "Acting",
+                            "name": "Marko Randelovic",
+                            "original_name": "Marko Randelovic",
+                            "popularity": 0.073,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-11",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1919137,
+                    "name": "Episode 8",
+                    "overview": "The office is attacked with tear gas, and Heder realizes that they have a traitor among them. They are forced to make a drastic decision about 1991, which initiates a course of events with fatal consequences.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93027,
+                    "still_path": "/pRPULpY48Da6o3xaCbQTLFaWsc7.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Åsa Beckman",
+                            "credit_id": "629cdb3312197e0052fc8d1f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2428408,
+                            "known_for_department": "Acting",
+                            "name": "Aleksa Lundberg",
+                            "original_name": "Aleksa Lundberg",
+                            "popularity": 0.763,
+                            "profile_path": "/z4MTxxWzLrc39jBf4QjKxwy2D1g.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 131234,
+            "poster_path": "/r1mBGsgC2tfJ484UdBK9IcsQM8o.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        "2": {
+            "_id": "6085591b8c44b9005772d791",
+            "air_date": "2021-04-25",
+            "episodes": [
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2903581,
+                    "name": "Cast the First Stone",
+                    "overview": "After exposing the cod behind the prostitution app Neat, the four lawyers are now rewarded with even more hate and threatening letters. Despite this, they continue to fight for justice for the sake of vulnerable women.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/8OI8XPZ82MvCEoNxHXdGWAoXK3L.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Programledare",
+                            "credit_id": "6128e38ae04aca002349b697",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3166643,
+                            "known_for_department": "Acting",
+                            "name": "Peter Jihde",
+                            "original_name": "Peter Jihde",
+                            "popularity": 0.548,
+                            "profile_path": "/3PLn2OZSUd7feowFQMCkKXKrJEx.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2903583,
+                    "name": "This Far and No Further",
+                    "overview": "Nour doubts the suspect in Marta's case and Janni gets a new client, Bea. As usual, Janni becomes personally involved in the case and begins to cross the border.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/zAZ14tNuBZFjA1DxmBAxhlKuxoj.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2903585,
+                    "name": "Reap What Is Sown",
+                    "overview": "Karin has a plan to buy out Heder from the family business. At the same time, another woman is raped and when they analyze the cases more closely, they realize that the victims have something in common.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/okZrq475B0KCA7WPcsH4Q7OHxtX.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Sjuksköterska",
+                            "credit_id": "66147ba9d18b24017c344d95",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3448616,
+                            "known_for_department": "Acting",
+                            "name": "Jonathan Sand",
+                            "original_name": "Jonathan Sand",
+                            "popularity": 0.558,
+                            "profile_path": "/6Ic7AIAU2INo7WludxrSiKM5uKe.jpg"
+                        },
+                        {
+                            "character": "Läkare",
+                            "credit_id": "66147bb99bcd0f014a2b0ec3",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3086806,
+                            "known_for_department": "Acting",
+                            "name": "Desirée Ehn",
+                            "original_name": "Desirée Ehn",
+                            "popularity": 0.001,
+                            "profile_path": "/iULWbFfdkJyXORTYNMkW35bJCOq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2903588,
+                    "name": "An Eye for an Eye",
+                    "overview": "Sandra has moved in with Nour and their relationship is tense to say the least. Meanwhile, the serial rapist they are looking for comes even closer to Heder - far too close.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/gdIKPsX7hhlxnv8jBIDvijfsI2F.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2903590,
+                    "name": "The Flesh Is Weak",
+                    "overview": "Everyone gathers in concern for Karin at the hospital. At the same time, Nour gets a picture of Sandra together with someone that Nour is not comfortable with. Elin continues to be drawn to Leo.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/nHgQ2B4vKNSBR7nFXS6djfGbup3.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2903592,
+                    "name": "A Tooth for a Tooth",
+                    "overview": "To get the truth out, they may now have to put Elin in danger. At the same time, Karin receives documents that reveal why Birgitta holds on to Heder tightly.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/tWLMNZm5CiNCL7CNwsBVare353g.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2903594,
+                    "name": "The Weight of Words",
+                    "overview": "A conviction against the perpetrator feels far away. Matteo finds surveillance footage from the subway attack on Janni and they are all shocked when they realize who the perpetrator was.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/9tWAjgEQ5yhgZj6uSFKr1d8fyZC.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2903596,
+                    "name": "The Power and the Glory",
+                    "overview": "Heder and all the victims hold their breath when the verdict is announced. There are so many women who will never feel safe if the perpetrator goes free. Whose life is worth the most?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93027,
+                    "still_path": "/mqvHTgZR4XmcOQwXnrfaTnfZscc.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 192194,
+            "poster_path": "/pAr2xVw0saJCixKLp1go5GyCgRC.jpg",
+            "season_number": 2,
+            "vote_average": 2
+        },
+        "3": {
+            "_id": "631d0571bd3209007ad081a8",
+            "air_date": "2022-09-12",
+            "episodes": [
+                {
+                    "air_date": "2022-09-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3948261,
+                    "name": "Episode 1",
+                    "overview": "A women's running event is subjected to a violent attack that leaves nine dead and many seriously injured. Heder represents several of the victims and now wants to convict the perpetrators of terrorism.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/2J5dp2QIGMliy0NUSAwRrBwKZ71.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3948263,
+                    "name": "Episode 2",
+                    "overview": "The trials against the two perpetrators begin. Challenges arise when one of the perpetrators who comes from one of Denmark's most powerful families, arms himself with the best defense lawyer available.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/oo8JHPofCl4MvtMkocm5QySdD1C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3948264,
+                    "name": "Episode 3",
+                    "overview": "The prosecutor cannot link one of the perpetrators to the crime and he is acquitted. The four lawyers at Heder deal with the defeat in different ways, which causes a great strain on their cohesion.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/uy7Kwc0XkHyiOx1vHy3U98eH8RW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3948266,
+                    "name": "Episode 4",
+                    "overview": "The trial against the perpetrator who drove the van is nearing a final verdict. Elin has a final hearing with the accused, and Heder has unearthed new information that damages the defense's strategy.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/3heRJbvURdLPqBTdMYwKbYYYgbh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3948268,
+                    "name": "Episode 5",
+                    "overview": "Will the heinous acts be punished with life imprisonment or will the accused get away? Meanwhile, the third accomplice makes the final preparations for his grand plan.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/z1qyOXOQRloGWZ12xAtVDTvTxKo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3948269,
+                    "name": "Episode 6",
+                    "overview": "According to the police, the third accomplice planned to attack an entertainment show in an arena with a predominantly female audience. The clock is ticking as the event begins to approach…",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 3,
+                    "show_id": 93027,
+                    "still_path": "/gEj2noMEWp8X7ijiUOzje5vy7bz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 308157,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

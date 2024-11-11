@@ -1,0 +1,252 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        18
+    ],
+    "first_air_date": "2022-05-10",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 205670,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-28",
+    "last_episode_to_air": {
+        "id": 3827843,
+        "name": "Bing Bang Bong",
+        "overview": "In this episode, Lawrence pays a surprise visit to music producer, Leland.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-06-28",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 205670,
+        "still_path": null
+    },
+    "name": "Tartan Around with Lawrence Chaney",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        },
+        {
+            "id": 2806,
+            "logo_path": "/29fbulsOz7d9JDJLjiNkxq0jS3Y.png",
+            "name": "WOW Presents Plus",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tartan Around with Lawrence Chaney",
+    "overview": "Join Drag Race UK Season 2 winner Lawrence Chaney on their adventure to California, where they travel all around Tinseltown.",
+    "popularity": 0.96,
+    "poster_path": "/5aHzf8iYhjuGWVF2nmCP1y2VfFP.jpg",
+    "production_companies": [
+        {
+            "id": 1421,
+            "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+            "name": "World of Wonder",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-10",
+            "episode_count": 8,
+            "id": 300241,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 1,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "62c962b73d4d96004c9f6950",
+            "air_date": "2022-05-10",
+            "episodes": [
+                {
+                    "air_date": "2022-05-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3827836,
+                    "name": "Welcome to LA",
+                    "overview": "Gigi Goode and Kylie Sonique Love join Lawrence in this episode as they explore the different food cultures of Scotland and Los Angeles.",
+                    "production_code": "",
+                    "runtime": 19,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3827837,
+                    "name": "Beep Beep, Beverly Hills",
+                    "overview": "In this episode, Lawrence and Heidi N Closet set out to find the car of their dreams.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3827838,
+                    "name": "Working Girl",
+                    "overview": "In this episode, Lawrence explores a new career with social media star Brittany Broski.",
+                    "production_code": "",
+                    "runtime": 18,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3827839,
+                    "name": "House HUN-ters",
+                    "overview": "In this episode, Lawrence goes house hunting with real estate expert, Tracy Tutor.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3827840,
+                    "name": "Beach Babes",
+                    "overview": "In this episode, Lawrence hits the beach with Eureka O'Hara.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-14",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3827841,
+                    "name": "The Crystal Method",
+                    "overview": "In this episode, Lawrence and Rock M Sakura get in touch with their spiritual sides at a Los Angeles metaphysical supply store.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-21",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3827842,
+                    "name": "Self Care Saturday",
+                    "overview": "In this episode, Lawrence explores LA's self care industry.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-28",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3827843,
+                    "name": "Bing Bang Bong",
+                    "overview": "In this episode, Lawrence pays a surprise visit to music producer, Leland.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 205670,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 300241,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

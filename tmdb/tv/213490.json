@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/lM2Eo4qblzUYc31nxIee12C7Irb.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-10-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 213490,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-11-05",
+    "last_episode_to_air": {
+        "id": 4032580,
+        "name": "Episode Two",
+        "overview": "Part two examines a tragedy that made global headlines - Princess Diana's death, an event that impacted Charles greatly - and the rehabilitation of Camilla's popularity.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-11-05",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 1,
+        "show_id": 213490,
+        "still_path": "/kQtM0klVemog4A6nem7dtTlirvP.jpg"
+    },
+    "name": "Charles: Our New King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Charles: Our New King",
+    "overview": "A two-part documentary which shines a light on the new British monarch, told with an extensive collection of rare royal archive and revelatory interviews from those who know him",
+    "popularity": 0.34,
+    "poster_path": "/aOjwVERyhpUgqmOD6sld4e4abA4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-10-29",
+            "episode_count": 2,
+            "id": 314668,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aOjwVERyhpUgqmOD6sld4e4abA4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "A two-part documentary which shines a light on the new British monarch",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "635e7ba2b87aec0079093a0a",
+            "air_date": "2022-10-29",
+            "episodes": [
+                {
+                    "air_date": "2022-10-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4032579,
+                    "name": "Episode One",
+                    "overview": "This episode explores how an often-absent mother and tough-loving father would shape Charles and how the sensitive boy became a visionary and charitable man",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 213490,
+                    "still_path": "/m8Q4JLt08ylecsRxz71SUELHtJU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4032580,
+                    "name": "Episode Two",
+                    "overview": "Part two examines a tragedy that made global headlines - Princess Diana's death, an event that impacted Charles greatly - and the rehabilitation of Camilla's popularity.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 213490,
+                    "still_path": "/kQtM0klVemog4A6nem7dtTlirvP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 314668,
+            "poster_path": "/aOjwVERyhpUgqmOD6sld4e4abA4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

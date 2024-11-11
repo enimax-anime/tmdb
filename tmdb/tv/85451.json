@@ -1,0 +1,230 @@
+{
+    "adult": false,
+    "backdrop_path": "/3v4SpqrVR3iM4xxhKe9BvapHWPT.jpg",
+    "created_by": [
+        {
+            "id": 1675187,
+            "credit_id": "5c2e767bc3a36879cfa16290",
+            "name": "Xand van Tulleken",
+            "original_name": "Xand van Tulleken",
+            "gender": 2,
+            "profile_path": "/hjSNoEpqtNk8bqkmkdEoRudNhPA.jpg"
+        },
+        {
+            "id": 1675804,
+            "credit_id": "5c2e7674c3a3680b8ca164d7",
+            "name": "Chris van Tulleken",
+            "original_name": "Chris van Tulleken",
+            "gender": 2,
+            "profile_path": "/vpkmorayghf5kcQgyf2CrL5XNHu.jpg"
+        },
+        {
+            "id": 2207752,
+            "credit_id": "5c2e76680e0a26145538f9e2",
+            "name": "Lucy Bacon",
+            "original_name": "Lucy Bacon",
+            "gender": 0,
+            "profile_path": "/7wYTQzA6xRWu83n2U1ToEf7rsVy.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2019-01-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/b0bx0gjm",
+    "id": 85451,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-01-23",
+    "last_episode_to_air": {
+        "id": 1674876,
+        "name": "Better Brain",
+        "overview": "Twins find out if its possible to get a better brain, repel mosquitoes and get fit just by watching TV!",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-01-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 85451,
+        "still_path": "/vrTqK1HEFCoVkGs5aUPzHSVos32.jpg"
+    },
+    "name": "The Twinstitute",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Twinstitute",
+    "overview": "Doctors Chris and Xand van Tulleken put competing health theories to the test with the help of 30 other pairs of identical twins.",
+    "popularity": 2.499,
+    "poster_path": "/4RsAwZI1vmB8mnuJG4Ch2Qpnv3T.jpg",
+    "production_companies": [
+        {
+            "id": 113016,
+            "logo_path": null,
+            "name": "Wall to Wall West",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-02",
+            "episode_count": 4,
+            "id": 115387,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5c2e557792514122ac70724c",
+            "air_date": "2019-01-02",
+            "episodes": [
+                {
+                    "air_date": "2019-01-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1659204,
+                    "name": "Get Thin Fast",
+                    "overview": "This episode tests the best way to lose weight, improve memory and beat pain without pills.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 85451,
+                    "still_path": "/pVyJCPqEPuCkilbGnPT4FPxh4ED.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c2e59dd925141635e6ca3a8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2207637,
+                            "known_for_department": "Directing",
+                            "name": "Ed Watkins",
+                            "original_name": "Ed Watkins",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1659209,
+                    "name": "Sleep Deprivation",
+                    "overview": "Twins test the best way to beat fatigue and discover the effect of smartphones on IQ.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 85451,
+                    "still_path": "/c4xu8Ll2RNz9MvWsrG8wWsed2yC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5c2e59dd925141635e6ca3a8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2207637,
+                            "known_for_department": "Directing",
+                            "name": "Ed Watkins",
+                            "original_name": "Ed Watkins",
+                            "popularity": 0.031,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1666088,
+                    "name": "HIIT versus Easy",
+                    "overview": "This episode explores the best way to get fit, beat nausea, and discovers if you can enhance brain performance.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 85451,
+                    "still_path": "/2nRyJbPuDVo3J7oFzETtN353xfQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1674876,
+                    "name": "Better Brain",
+                    "overview": "Twins find out if its possible to get a better brain, repel mosquitoes and get fit just by watching TV!",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 85451,
+                    "still_path": "/vrTqK1HEFCoVkGs5aUPzHSVos32.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 115387,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "adult": false,
+    "backdrop_path": "/wGpV4TjHo7zpSWRFkRNcKIyC28l.jpg",
+    "created_by": [
+        {
+            "id": 1256388,
+            "credit_id": "643777b84a52f80077b8ac34",
+            "name": "Chris Culvenor",
+            "original_name": "Chris Culvenor",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-06-05",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.fox.com/stars-on-mars/",
+    "id": 224410,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-08-28",
+    "last_episode_to_air": {
+        "id": 4631755,
+        "name": "Brightest Star",
+        "overview": "The crewmates must assemble a satellite tower and broadcast a personalized message to Earth.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-08-28",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 224410,
+        "still_path": "/Am4nZe1dpBCKt9O0MTVH8MOll3.jpg"
+    },
+    "name": "Stars on Mars",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 19,
+            "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+            "name": "FOX",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stars on Mars",
+    "overview": "An out-of-this-world new unscripted series, in which household names trade in their possessions, status and glamourous lifestyles on Earth for an insane and hilarious summer on \"Mars\". Their mission? To be suited up with no space to go, as they colonize, compete and conquer their new galaxy surroundings, until there is just one \"celebronaut\" left standing.",
+    "popularity": 5.949,
+    "poster_path": "/y8rrKe0EO5QaGKCTGPsQnWZn7jW.jpg",
+    "production_companies": [
+        {
+            "id": 120525,
+            "logo_path": "/5vOQppDmcGPR0963XFHVKsqc8Qp.png",
+            "name": "Eureka Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-05",
+            "episode_count": 12,
+            "id": 336873,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/y8rrKe0EO5QaGKCTGPsQnWZn7jW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "From the red carpet to the red planet.",
+    "type": "Reality",
+    "vote_average": 5,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "643776eb1d53860077a420dc",
+            "air_date": "2023-06-05",
+            "episodes": [
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4361828,
+                    "name": "The Experiment Begins",
+                    "overview": "The 12 celebrities land on \"Mars.\"",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/unxJgrLzDbVSGudiymF4UX3U03Q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4495316,
+                    "name": "Water Crisis",
+                    "overview": "Just as they were settling into life on the red planet, the remaining celebrities must figure out how to replenish their water supply.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/A8y3rq6fhXWPKgCu4qqvL8dcnAm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4516406,
+                    "name": "Fire in the Hole",
+                    "overview": "The 10 remaining contestants brave the elements of the Martian desert when a fire breaks out.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/AbIRQUnqbdLZ8MZoRS859E0Hyp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4520125,
+                    "name": "Life on Mars?",
+                    "overview": "The contestants are sent on a mission which tests their perseverance; two are eliminated.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/yqMD1y2y18fZbPJUYJsYC8sSE7w.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4520126,
+                    "name": "Resupply Mission",
+                    "overview": "Four new crew members land on Mars, but their supply craft goes off course and crashes.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/4nzi8P6BSqkbKJZGvRP2pnDLir4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-17",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4520127,
+                    "name": "Leaks in the Hab",
+                    "overview": "The celebs must work together to plug holes in the walls of the hab caused by meteors.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/u6z2mykzojV9c7FPiuxdYvRVvPC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-24",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4520128,
+                    "name": "Evil AI",
+                    "overview": "A virus takes over the artificial intelligence system and two celebronauts are stuck outside.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/AcpTIJtyS4IoQmjobtOcpLGWzsJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-31",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4520129,
+                    "name": "Solar Flare",
+                    "overview": "The nine remaining celebronauts need to repair solar panels damaged by a series of solar flares.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/3IrnXlF3E6rIjK2tyK07wVLdlq3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-07",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4613576,
+                    "name": "We Are Not Alone",
+                    "overview": "The remaining celebronauts discover they are not alone on Mars.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/f4cHsbZSCaDFYK0yZKafGl0pL0s.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-14",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4631751,
+                    "name": "Downward Dog",
+                    "overview": "The seven remaining celebronauts must find the hab's missing house pet, Raddog.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/a0SxCIdVeo14xXSugkmIhTZB2su.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-21",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 4631752,
+                    "name": "Distress Signal",
+                    "overview": "The hab detects a weak distress signal that the crew must investigate immediately.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/p0PsxQTKLyh0WI9pvxXyhkak8rf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-28",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 4631755,
+                    "name": "Brightest Star",
+                    "overview": "The crewmates must assemble a satellite tower and broadcast a personalized message to Earth.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 224410,
+                    "still_path": "/Am4nZe1dpBCKt9O0MTVH8MOll3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 336873,
+            "poster_path": "/y8rrKe0EO5QaGKCTGPsQnWZn7jW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

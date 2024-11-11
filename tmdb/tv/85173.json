@@ -1,0 +1,173 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2018-11-25",
+    "genres": [],
+    "homepage": "https://www.vpro.nl/programmas/sahara.html",
+    "id": 85173,
+    "in_production": true,
+    "languages": [
+        "nl"
+    ],
+    "last_air_date": "2018-12-23",
+    "last_episode_to_air": {
+        "id": 1650587,
+        "name": "Episode 5",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-12-23",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 85173,
+        "still_path": null
+    },
+    "name": "Sahara",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 649,
+            "logo_path": "/96hCWEsfmTZQsoUap0CcG21qaA.png",
+            "name": "VPRO",
+            "origin_country": "NL"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "nl",
+    "original_name": "Sahara",
+    "overview": "",
+    "popularity": 0.68,
+    "poster_path": "/JsBXuqZWf4UOX32KHFYt9E5EJs.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-11-25",
+            "episode_count": 5,
+            "id": 114814,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5c1f7bed92514167efbfe81b",
+            "air_date": "2018-11-25",
+            "episodes": [
+                {
+                    "air_date": "2018-11-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1650582,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 85173,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1650583,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 85173,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1650584,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 85173,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1650586,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 85173,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-23",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 1650587,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 85173,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 114814,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,704 @@
+{
+    "adult": false,
+    "backdrop_path": "/nOTTIU0UT8ZykZiQfpuFblYRPND.jpg",
+    "created_by": [
+        {
+            "id": 567631,
+            "credit_id": "5e2bd00dc2823a001796fc14",
+            "name": "Peter Moffat",
+            "original_name": "Peter Moffat",
+            "gender": 2,
+            "profile_path": "/1MWycZieCW0fJz7rDmRun01V1QX.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-04-10",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.cwtv.com/shows/61st-street",
+    "id": 98657,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-09-09",
+    "last_episode_to_air": {
+        "id": 4556130,
+        "name": "Judgement Day",
+        "overview": "Franklin makes his closing remarks. Office Logan gets a surprising offer.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-09-09",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 51,
+        "season_number": 2,
+        "show_id": 98657,
+        "still_path": "/zWjvpBoecJJbcFXb5DHQljI9jmr.jpg"
+    },
+    "name": "61st Street",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 71,
+            "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+            "name": "The CW",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/alqLicR1ZMHMaZGP3xRQxn9sq7p.png",
+            "name": "AMC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "61st Street",
+    "overview": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
+    "popularity": 15.264,
+    "poster_path": "/4Y0979GAXgFNsIxN2jsXokb8o5e.jpg",
+    "production_companies": [
+        {
+            "id": 23242,
+            "logo_path": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+            "name": "AMC Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 102334,
+            "logo_path": "/baWl2NMe4hiIsoJ94tv32uhYQ7z.png",
+            "name": "Outlier Society",
+            "origin_country": "US"
+        },
+        {
+            "id": 192801,
+            "logo_path": "/d0KI2qXN79CoXexD3Il8v7SmggH.png",
+            "name": "The Lighthouse",
+            "origin_country": "GB"
+        },
+        {
+            "id": 80893,
+            "logo_path": "/hFzOkuR4FoZE1U1hvuojMp4Qfxa.png",
+            "name": "BBC Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-10",
+            "episode_count": 8,
+            "id": 141991,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4Y0979GAXgFNsIxN2jsXokb8o5e.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2024-07-22",
+            "episode_count": 8,
+            "id": 346795,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 16,
+    "season_data": {
+        "1": {
+            "_id": "5e2bce0198f1f10014f99138",
+            "air_date": "2022-04-10",
+            "episodes": [
+                {
+                    "air_date": "2022-04-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2061357,
+                    "name": "Pilot",
+                    "overview": "Track star Moses Johnson is swept up into a world of chaos, violence, and corrupt policing during a presumed drug sting gone wrong. Public defender Franklin Roberts considers retirement and his impact on the community.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/pHZzLBFQJlc7E0zwsoL2GrBN8QW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5e2e09a6091e620d424d85c0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 567631,
+                            "known_for_department": "Writing",
+                            "name": "Peter Moffat",
+                            "original_name": "Peter Moffat",
+                            "popularity": 1.261,
+                            "profile_path": "/1MWycZieCW0fJz7rDmRun01V1QX.jpg"
+                        },
+                        {
+                            "job": "Co-Executive Producer",
+                            "department": "Production",
+                            "credit_id": "66abfe9add3dfe5d156c19af",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1140474,
+                            "known_for_department": "Directing",
+                            "name": "Marta Cunningham",
+                            "original_name": "Marta Cunningham",
+                            "popularity": 3.144,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66abfea75638bcbff1c01fcd",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1140474,
+                            "known_for_department": "Directing",
+                            "name": "Marta Cunningham",
+                            "original_name": "Marta Cunningham",
+                            "popularity": 3.144,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3606762,
+                    "name": "The Hunter and the Hunted",
+                    "overview": "While on a collision course with the Chicago Police Department, Moses makes contact with the one person who could save him. Martha chases political aspirations.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/zoR2G90ynkhAc2UX2eH5FkDoFMo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Co-Executive Producer",
+                            "department": "Production",
+                            "credit_id": "66abfe9add3dfe5d156c19af",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1140474,
+                            "known_for_department": "Directing",
+                            "name": "Marta Cunningham",
+                            "original_name": "Marta Cunningham",
+                            "popularity": 3.144,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66abfea75638bcbff1c01fcd",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1140474,
+                            "known_for_department": "Directing",
+                            "name": "Marta Cunningham",
+                            "original_name": "Marta Cunningham",
+                            "popularity": 3.144,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-04-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3620607,
+                    "name": "Barefoot and Dangerous",
+                    "overview": "Officer Logan begins to question his own department, while Lieutenant Brannigan presses Moses for a confession. Franklin revisits the crime scene, finding a new angle for the defense.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/rd417wZ05yBCmcwTiouPhPA3zLW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "670527b3322d3ea8311d4fe0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1215404,
+                            "known_for_department": "Acting",
+                            "name": "Kara Zediker",
+                            "original_name": "Kara Zediker",
+                            "popularity": 8.418,
+                            "profile_path": "/1uZ9V3DQzZivXYdmfFrRtV9fe9l.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3620608,
+                    "name": "Chess Moves and Poker Chips",
+                    "overview": "While waiting for bond, Moses adjusts to jail. Brannigan opens up to Logan. After stumbling on evidence of police misconduct, Franklin continues to put together a defense. Joshua makes a discovery.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/mrnkfpUX3qz4PGyNcjnpONJXAyJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3620609,
+                    "name": "Over the Wall",
+                    "overview": "Franklin gets sobering news while Moses reunites with an old acquaintance. Officer Logan gets a new position. Norma holds a barbecue to raise money for Moses’ bail.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/mrxCvCsHO6MLIVrsZgbopt5GLXf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-15",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3620610,
+                    "name": "Sins of the Fathers",
+                    "overview": "Moses fights influences in prison and begins to doubt Franklins motives. Joshua sinks deeper into the Nation as Martha faces pressure from the community. Franklin makes a discovery.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/pBRre6QRO93Jt6tZ13drdtHW0XP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Gloria Hendrix",
+                            "credit_id": "642a0a95c044290236cbc4df",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1560230,
+                            "known_for_department": "Acting",
+                            "name": "Deanna Reed-Foster",
+                            "original_name": "Deanna Reed-Foster",
+                            "popularity": 0.941,
+                            "profile_path": "/mbzYPaK37713chmszqJ3PrCdVAw.jpg"
+                        },
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3620611,
+                    "name": "The Two Trials",
+                    "overview": "Moses' trial begins; Brannigan testifies; a discovery threatens to derail Franklin's defence; Joshua faces repercussions while Franklin gets an ultimatum.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/rRXOrEwEChuCzoNryRmKWpP9iiK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-29",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3620612,
+                    "name": "Man on Fire",
+                    "overview": "Franklin faces a setback; Moses takes the stand; a verdict is read.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 98657,
+                    "still_path": "/zWjvpBoecJJbcFXb5DHQljI9jmr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 141991,
+            "poster_path": "/4Y0979GAXgFNsIxN2jsXokb8o5e.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "649b7480b1f68d0101ce8331",
+            "air_date": "2024-07-22",
+            "episodes": [
+                {
+                    "air_date": "2024-07-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4552853,
+                    "name": "After the Morning After",
+                    "overview": "Officer Logan becomes the subject of a departmental cover-up; Franklin exposes police brutality.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/8z7BcGAgayYCmEgiFnk2YcOu1GX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-07-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4556123,
+                    "name": "Trust Me",
+                    "overview": "Logan goes searching for answers and asks Franklin to represent him against the police department.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/mcV2x3InI9vvrWCEjWa85AITVSA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-08-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4556125,
+                    "name": "Do No Harm",
+                    "overview": "Martha urges the mayor's office to apply more pressure; the department looks for a scapegoat.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/2AUMw9oKxDmScc2iIfNwo6uYKm2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4556126,
+                    "name": "Kamikaze",
+                    "overview": "Franklin's decision to represent Officer Logan turns the community--and Martha--against him. Joshua grows suspicious about Big Phil. Logan's relationship with his father is tested.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/7ltVyUL2JL1DMEl72gdjzp4sYwL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-08-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4556127,
+                    "name": "Two Truths and a Lie",
+                    "overview": "The State Attorney sets Franklin in her sights. While reckoning with his guilt, Officer Logan weighs the consequences of going to trial. Lieutenant Brannigan tries to stack the court in his favor.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/e7kzOvtlxopvbq2cXwZzFb5rl3s.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-26",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4556128,
+                    "name": "Argue the Facts",
+                    "overview": "The trial begins. Officer Logan is outed as the \"bad apple\" of the CPD, while Franklin makes a case against the department as a whole. A revelation makes Norma question her relationship with Joshua.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/AhXfadG3t3w9WTTwrKQ0D1N8eIF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4556129,
+                    "name": "The Offer",
+                    "overview": "Armed with a secret piece of evidence, Franklin puts Officer Logan's comrades on the stand. Someone from Norma's past appears at her door with a crucial piece of information. Josuha finds opportunity in an unlikely place.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/rRXOrEwEChuCzoNryRmKWpP9iiK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-09",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4556130,
+                    "name": "Judgement Day",
+                    "overview": "Franklin makes his closing remarks. Office Logan gets a surprising offer.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 2,
+                    "show_id": 98657,
+                    "still_path": "/zWjvpBoecJJbcFXb5DHQljI9jmr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nicole Carter",
+                            "credit_id": "671f949a769107d77b484c61",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1774266,
+                            "known_for_department": "Acting",
+                            "name": "Emily Althaus",
+                            "original_name": "Emily Althaus",
+                            "popularity": 1.784,
+                            "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 346795,
+            "poster_path": "/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

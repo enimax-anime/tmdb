@@ -1,0 +1,135 @@
+{
+    "adult": false,
+    "backdrop_path": "/y6qJlqaMYqa6h8BglJhvFbJ6iiu.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        47
+    ],
+    "first_air_date": "2005-12-12",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 128780,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2005-12-13",
+    "last_episode_to_air": {
+        "id": 3060617,
+        "name": "Episode 2",
+        "overview": "Brendan sows seeds of doubt between sisters Miranda and Kerry while continuing to influence their vulnerable younger brother, Troy.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2005-12-13",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 90,
+        "season_number": 1,
+        "show_id": 128780,
+        "still_path": null
+    },
+    "name": "Secret Smile",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Secret Smile",
+    "overview": "After Miranda Cotton breaks off her affair with the manipulative Brendan Block, she and her family become targets of his depraved revenge scheme.",
+    "popularity": 1.4,
+    "poster_path": "/d9c87bJfQqylslbeCh2b5bbYBJG.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-12-12",
+            "episode_count": 2,
+            "id": 201491,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.2,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "60e5e0ae2811a1007e814279",
+            "air_date": "2005-12-12",
+            "episodes": [
+                {
+                    "air_date": "2005-12-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3060616,
+                    "name": "Episode 1",
+                    "overview": "A passionate love affair between Miranda Cotton and self-styled entrepreneur Brendan Block turns sinister, but a month after Miranda ends the relationship, she is shocked to discover that he is now engaged to her younger sister Kerry.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 128780,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2005-12-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3060617,
+                    "name": "Episode 2",
+                    "overview": "Brendan sows seeds of doubt between sisters Miranda and Kerry while continuing to influence their vulnerable younger brother, Troy.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 128780,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 201491,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

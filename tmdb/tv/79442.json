@@ -1,0 +1,181 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2018-05-12",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "http://www.oxygen.com/abuse-of-power",
+    "id": 79442,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-06-02",
+    "last_episode_to_air": {
+        "id": 1503149,
+        "name": "Lackland Military Scandal",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-06-02",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 79442,
+        "still_path": null
+    },
+    "name": "Abuse of Power",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 132,
+            "logo_path": "/acDtMnoo5byrtFLEJa6J5BYfgBW.png",
+            "name": "Oxygen",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Abuse of Power",
+    "overview": "Examining the twisted and true stories of people in positions of power and prominence taking advantage of their authority to commit heinous acts of crime, all stemming from their control and unyielding power.",
+    "popularity": 1.787,
+    "poster_path": "/xJMNg7VfzTuiMWclIp13wGauuMb.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-05-12",
+            "episode_count": 4,
+            "id": 103656,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xJMNg7VfzTuiMWclIp13wGauuMb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5af67f260e0a26330b00341d",
+            "air_date": "2018-05-12",
+            "episodes": [
+                {
+                    "air_date": "2018-05-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1486602,
+                    "name": "White Knight, Dark Knight",
+                    "overview": "An Atlanta woman finds herself fighting for the safety of her children when she discovers her lawyer husband's involvement with a dark underworld.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 79442,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-05-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1487210,
+                    "name": "Fighting the Faith",
+                    "overview": "A young girl growing up in a polygamist community must choose between her freedom and her soul when the prophet forces her to marry her first cousin.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 79442,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-05-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1497286,
+                    "name": "Evil Rising in Utah",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 79442,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-02",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1503149,
+                    "name": "Lackland Military Scandal",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 79442,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Male MTI",
+                            "credit_id": "648668fe99259c01392bf93b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4107792,
+                            "known_for_department": "Acting",
+                            "name": "Warren Richards",
+                            "original_name": "Warren Richards",
+                            "popularity": 0.619,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 103656,
+            "poster_path": "/xJMNg7VfzTuiMWclIp13wGauuMb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-01-06",
+    "genres": [],
+    "homepage": "",
+    "id": 119346,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-01-06",
+    "last_episode_to_air": {
+        "id": 2746530,
+        "name": "Resistance to Change",
+        "overview": "HR Manager Jon Dore offers career advice to stand-up comedians. Guests: Sarah Silverman, Courtney Gilmour, Dave Merheje.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-01-06",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 119346,
+        "still_path": null
+    },
+    "name": "Humour Resources",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Humour Resources",
+    "overview": "A comedy series starring Jon Dore as the new Human Resources Manager for ComedyTM. Each episode showcases three to four separate interviews with A-list comedians via webcam, with all conversations falling under a specific HR-related theme. From conflict resolution, to accountability, moral liability to personal hygiene, Jon takes great pleasure in analyzing and correcting the behaviour of the episode’s guest comedians.",
+    "popularity": 0.335,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-01-06",
+            "episode_count": 1,
+            "id": 182806,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6033761b1d3143003c0c12ed",
+            "air_date": "2021-01-06",
+            "episodes": [
+                {
+                    "air_date": "2021-01-06",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2746530,
+                    "name": "Resistance to Change",
+                    "overview": "HR Manager Jon Dore offers career advice to stand-up comedians. Guests: Sarah Silverman, Courtney Gilmour, Dave Merheje.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 119346,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 182806,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

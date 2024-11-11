@@ -1,0 +1,430 @@
+{
+    "adult": false,
+    "backdrop_path": "/x3DB38VgEc5BmE4HzFrpN8wpwdq.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2014-07-16",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b08ry6fy",
+    "id": 62420,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-19",
+    "last_episode_to_air": {
+        "id": 3777337,
+        "name": "Episode 2",
+        "overview": "We follow 83-year-old site manager Jim Forrest - one of the oldest engineers on the project. He joined the Whitechapel Station build in 2009 and has seen it from tunnel boring and concrete pouring to constructing the station steel works.",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2022-06-19",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 4,
+        "show_id": 62420,
+        "still_path": null
+    },
+    "name": "The Fifteen Billion Pound Railway",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 4,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Fifteen Billion Pound Railway",
+    "overview": "Follow a team of more than 10,000 engineers and construction workers as they race to build a brand new railway under London - Crossrail - London's new Underground.",
+    "popularity": 4.53,
+    "poster_path": "/qTsJLoY8bB9nJArUAoOhskeF3ko.jpg",
+    "production_companies": [
+        {
+            "id": 8635,
+            "logo_path": "/sNC3eCDuMbNhRCevAUIYbblJOjO.png",
+            "name": "Windfall Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2014-07-16",
+            "episode_count": 3,
+            "id": 65989,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-05-22",
+            "episode_count": 2,
+            "id": 88613,
+            "name": "The Final Countdown",
+            "overview": "Ten thousand engineers and construction workers race to complete Crossrail.",
+            "poster_path": "/1P6ruuW2c8BKyCcDQ8DoTR3H6IT.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2019-02-13",
+            "episode_count": 2,
+            "id": 118459,
+            "name": "Under Pressure, Over Budget",
+            "overview": "Third series of the documentary charting the inside story of Crossrail.",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-06-12",
+            "episode_count": 2,
+            "id": 296380,
+            "name": "Inside the Elizabeth Line",
+            "overview": "This final series charts the inside story of how the fifteen-billion pound railway became the nineteen-billion pound Elizabeth line.",
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "552f8076c3a3685da6001b74",
+            "air_date": "2014-07-16",
+            "episodes": [
+                {
+                    "air_date": "2014-07-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1054118,
+                    "name": "Urban Heart Surgery",
+                    "overview": "A look at London's Crossrail, which requires building 42 km of tunnels under the city",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 62420,
+                    "still_path": "/6BnSr6z92ANPj1xE96lSow2jQJo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a79561eb14fa09dca263e8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1674037,
+                            "known_for_department": "Production",
+                            "name": "Joby Lubman",
+                            "original_name": "Joby Lubman",
+                            "popularity": 0.017,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-07-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1054120,
+                    "name": "Tunnels Under the Thames",
+                    "overview": "Engineers building Crossrail battle to rebuild a Victorian tunnel under the Royal Docks.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 62420,
+                    "still_path": "/peQQXrph5fUMnlQpbPZAx0Hxo0j.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a79561eb14fa09dca263e8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1674037,
+                            "known_for_department": "Production",
+                            "name": "Joby Lubman",
+                            "original_name": "Joby Lubman",
+                            "popularity": 0.017,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-07-30",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1054121,
+                    "name": "Platforms and Plague Pits",
+                    "overview": "The engineers building Crossrail race to build ten new train stations across London.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 62420,
+                    "still_path": "/e7NjFDtkEq1e6UJ4C5v9QG26Z3f.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a79561eb14fa09dca263e8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1674037,
+                            "known_for_department": "Production",
+                            "name": "Joby Lubman",
+                            "original_name": "Joby Lubman",
+                            "popularity": 0.017,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 65989,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5922b665925141482f0691ed",
+            "air_date": "2017-05-22",
+            "episodes": [
+                {
+                    "air_date": "2017-05-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1319501,
+                    "name": "Episode 1",
+                    "overview": "Linda and her team must battle fault lines that threaten the site with flooding, race to build access tunnels to alleviate pressure on a congested construction site, and piece together a giant geometric jigsaw that will form a station entrance.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 62420,
+                    "still_path": "/sqhJcInGxrRgexiP6XQQC8nxI8P.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a795bd3d4d9617e86b79c8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3587360,
+                            "known_for_department": "Directing",
+                            "name": "Lee Reading",
+                            "original_name": "Lee Reading",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-05-29",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 1319504,
+                    "name": "Episode 2",
+                    "overview": "Engineers must construct and fit out a new station at Paddington, erect a 130m long great glass canopy to soar above the structure, and plug directly into Brunel's original station.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 62420,
+                    "still_path": "/ptb1DmMTZP8oYkU8fG3dkr8OQ4g.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a795bd3d4d9617e86b79c8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3587360,
+                            "known_for_department": "Directing",
+                            "name": "Lee Reading",
+                            "original_name": "Lee Reading",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "The Final Countdown",
+            "overview": "Ten thousand engineers and construction workers race to complete Crossrail.",
+            "id": 88613,
+            "poster_path": "/1P6ruuW2c8BKyCcDQ8DoTR3H6IT.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "5c5c747e9251413376ba57fd",
+            "air_date": "2019-02-13",
+            "episodes": [
+                {
+                    "air_date": "2019-02-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1699084,
+                    "name": "Episode 1",
+                    "overview": "The first part of an exclusive series following the construction of Crossrail - one of Europe’s largest projects and one of the most ambitious in Britain since the time of Brunel.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 3,
+                    "show_id": 62420,
+                    "still_path": "/weupjLzfFiJN4NXOBxwwn5oZb27.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a795bd3d4d9617e86b79c8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3587360,
+                            "known_for_department": "Directing",
+                            "name": "Lee Reading",
+                            "original_name": "Lee Reading",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-20",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 1699085,
+                    "name": "Episode 2",
+                    "overview": "Final part of an exclusive series following the construction of Crossrail - one of Europe’s largest projects and one of the most ambitious in Britain since the time of Brunel.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 3,
+                    "show_id": 62420,
+                    "still_path": "/bLabUenCp3DAoz0rGyxWrI9Dr6o.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62a795bd3d4d9617e86b79c8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3587360,
+                            "known_for_department": "Directing",
+                            "name": "Lee Reading",
+                            "original_name": "Lee Reading",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Under Pressure, Over Budget",
+            "overview": "Third series of the documentary charting the inside story of Crossrail.",
+            "id": 118459,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        },
+        "4": {
+            "_id": "629d9f7de4c9eb0066f2e8ff",
+            "air_date": "2022-06-12",
+            "episodes": [
+                {
+                    "air_date": "2022-06-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3764278,
+                    "name": "Episode 1",
+                    "overview": "With exclusive access to Crossrail Ltd and Transport for London, this final chapter of the series follows the race to fix the railway's high-tech software and systems to launch the new Elizabeth Line in time for the Queen's platinum jubilee.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 4,
+                    "show_id": 62420,
+                    "still_path": "/aThTlaGXtgugJgKvOVGu7zPkKE8.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-19",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3777337,
+                    "name": "Episode 2",
+                    "overview": "We follow 83-year-old site manager Jim Forrest - one of the oldest engineers on the project. He joined the Whitechapel Station build in 2009 and has seen it from tunnel boring and concrete pouring to constructing the station steel works.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 4,
+                    "show_id": 62420,
+                    "still_path": null,
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Inside the Elizabeth Line",
+            "overview": "This final series charts the inside story of how the fifteen-billion pound railway became the nineteen-billion pound Elizabeth line.",
+            "id": 296380,
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 9
+        }
+    }
+}

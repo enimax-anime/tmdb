@@ -1,0 +1,718 @@
+{
+    "adult": false,
+    "backdrop_path": "/fwnfO66QDgpmvfx1zmJ1kmPMe3j.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-03-04",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.nationalgeographic.com/tv/shows/queens1",
+    "id": 237313,
+    "in_production": false,
+    "languages": [
+        "en",
+        "sw"
+    ],
+    "last_air_date": "2024-03-11",
+    "last_episode_to_air": {
+        "id": 5180515,
+        "overview": "A celebration of the extraordinary women filmmakers and game changing conservationists behind the Queens series.",
+        "name": "Behind the Queens",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-03-11",
+        "episode_number": 7,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 39,
+        "season_number": 1,
+        "show_id": 237313,
+        "still_path": "/zsBZY15zwsn3jO2CC6IgzCvJITl.jpg"
+    },
+    "name": "Queens",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Queens",
+    "overview": "In six remote and beautiful places on our planet are queendoms run by the most powerful leaders in the animal world. These queens are sisters, single mothers, grandmothers. This documentary series tells their stories of resilience, strength, love and loss for the first time.",
+    "popularity": 12.137,
+    "poster_path": "/jPFO6YQFOoOqkOyZDb0dhO2W0cH.jpg",
+    "production_companies": [
+        {
+            "id": 139622,
+            "logo_path": "/578zH4RZL2aP4DvGxzF8rvGe7eV.png",
+            "name": "Wildstar Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7521,
+            "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-03-04",
+            "episode_count": 7,
+            "id": 361185,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/jPFO6YQFOoOqkOyZDb0dhO2W0cH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Swahili",
+            "iso_639_1": "sw",
+            "name": "Kiswahili"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "All hail.",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "652e5227024ec8011e35588d",
+            "air_date": "2024-03-04",
+            "episodes": [
+                {
+                    "air_date": "2024-03-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4823115,
+                    "name": "African Queens",
+                    "overview": "In the towering walls of Tanzania's Ngorongoro crater, the sisters of a lion pride clash with a hyena clan ruled by an all-powerful queen.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/7OyNqYY6rd7lDTJipVyRKaGVCV9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e798929638640181c81106",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4188140,
+                            "known_for_department": "Directing",
+                            "name": "Rachael Kinley",
+                            "original_name": "Rachael Kinley",
+                            "popularity": 0.408,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7989642f19f01878c6687",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4188140,
+                            "known_for_department": "Directing",
+                            "name": "Rachael Kinley",
+                            "original_name": "Rachael Kinley",
+                            "popularity": 0.408,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e798a8caab6d018594feaf",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4575000,
+                            "known_for_department": "Editing",
+                            "name": "Amy Fathers",
+                            "original_name": "Amy Fathers",
+                            "popularity": 0.182,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e799116840cc01637671d0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2286243,
+                            "known_for_department": "Camera",
+                            "name": "Tom Walker",
+                            "original_name": "Tom Walker",
+                            "popularity": 1.752,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5180510,
+                    "name": "Rainforest Queens",
+                    "overview": "In the Congo Forest, a young bonobo must leave behind everything she knows to find her place in a world where friendship means survival.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/tvNs3WlRpwj4YEmjILmJCfXb51m.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a36f344a8e017d3e1126",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3220245,
+                            "known_for_department": "Production",
+                            "name": "Ilaira Mallalieu",
+                            "original_name": "Ilaira Mallalieu",
+                            "popularity": 1.025,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a3756840cc0186768d05",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3220245,
+                            "known_for_department": "Production",
+                            "name": "Ilaira Mallalieu",
+                            "original_name": "Ilaira Mallalieu",
+                            "popularity": 1.025,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a37a42f19f01878c6f4c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1862419,
+                            "known_for_department": "Editing",
+                            "name": "Nick Carline",
+                            "original_name": "Nick Carline",
+                            "popularity": 0.577,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-04",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5180511,
+                    "name": "Tiny Jungle Queens",
+                    "overview": "Under the rainforest canopy two tiny insect queens build their empires. One through great sacrifice, the other betrayal.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/7ZfxmUzJgzRKzIWLZKcN6cXAInx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e75e508d1b8e0163671465",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3996755,
+                            "known_for_department": "Camera",
+                            "name": "Joris van Alphen",
+                            "original_name": "Joris van Alphen",
+                            "popularity": 1.028,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a36f344a8e017d3e1126",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3220245,
+                            "known_for_department": "Production",
+                            "name": "Ilaira Mallalieu",
+                            "original_name": "Ilaira Mallalieu",
+                            "popularity": 1.025,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a3756840cc0186768d05",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3220245,
+                            "known_for_department": "Production",
+                            "name": "Ilaira Mallalieu",
+                            "original_name": "Ilaira Mallalieu",
+                            "popularity": 1.025,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a3ba51f99a0185fbdb37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1804586,
+                            "known_for_department": "Editing",
+                            "name": "James Taggart",
+                            "original_name": "James Taggart",
+                            "popularity": 0.377,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7a3dac15f89018615927b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1408830,
+                            "known_for_department": "Camera",
+                            "name": "Warwick Sloss",
+                            "original_name": "Warwick Sloss",
+                            "popularity": 0.777,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-11",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5180512,
+                    "name": "Savanna Queens",
+                    "overview": "A baby is born into the ultimate animal sisterhood; a family of elephants. She will need all their experience and protection if she is to survive.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/dZnwztsj2ALzqdOQRy2trQnk51M.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a3ef42f19f01878c6fc5",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1828922,
+                            "known_for_department": "Directing",
+                            "name": "Victoria Bromley",
+                            "original_name": "Victoria Bromley",
+                            "popularity": 1.182,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a3f3ea42630148210186",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1828922,
+                            "known_for_department": "Directing",
+                            "name": "Victoria Bromley",
+                            "original_name": "Victoria Bromley",
+                            "popularity": 1.182,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a3f742f19f01878c6fd0",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2783605,
+                            "known_for_department": "Editing",
+                            "name": "María Corral Benitez",
+                            "original_name": "María Corral Benitez",
+                            "popularity": 0.133,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Co-Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a4129638640181c81c73",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4188140,
+                            "known_for_department": "Directing",
+                            "name": "Rachael Kinley",
+                            "original_name": "Rachael Kinley",
+                            "popularity": 0.408,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Aerial Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7a41b51f99a00cdfbad42",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2286243,
+                            "known_for_department": "Camera",
+                            "name": "Tom Walker",
+                            "original_name": "Tom Walker",
+                            "popularity": 1.752,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Aerial Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7a420a1a9ba0185bdc9aa",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1115279,
+                            "known_for_department": "Camera",
+                            "name": "Simon Werry",
+                            "original_name": "Simon Werry",
+                            "popularity": 3.506,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5180513,
+                    "name": "Mountain Queens",
+                    "overview": "A gelada monkey and an Ethiopian wolf fight for their families and their legacy in a world of ancient Ethiopian mountain peaks.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/xAnzySxI1Z30yXnpz1mFWwZ2TZx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a4429638640161c80563",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3350089,
+                            "known_for_department": "Production",
+                            "name": "Jess Tombs",
+                            "original_name": "Jess Tombs",
+                            "popularity": 1.793,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a446a1a9ba0185bdc9cb",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3350089,
+                            "known_for_department": "Production",
+                            "name": "Jess Tombs",
+                            "original_name": "Jess Tombs",
+                            "popularity": 1.793,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a44a2b1b44014a683199",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3032116,
+                            "known_for_department": "Editing",
+                            "name": "Chrissa Geering",
+                            "original_name": "Chrissa Geering",
+                            "popularity": 0.823,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5180514,
+                    "name": "Coastal Queens",
+                    "overview": "An orca family's success relies on the experience of their sixty-year-old matriarch; while a first-time bear mother must raise her three cubs alone.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/6XGGCDgAJmVWzm6uZwDHQBr9Fat.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a4429638640161c80563",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3350089,
+                            "known_for_department": "Production",
+                            "name": "Jess Tombs",
+                            "original_name": "Jess Tombs",
+                            "popularity": 1.793,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a446a1a9ba0185bdc9cb",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3350089,
+                            "known_for_department": "Production",
+                            "name": "Jess Tombs",
+                            "original_name": "Jess Tombs",
+                            "popularity": 1.793,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a491a1a9ba0162bdba89",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2896690,
+                            "known_for_department": "Editing",
+                            "name": "Dan Schwalm",
+                            "original_name": "Dan Schwalm",
+                            "popularity": 0.302,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-11",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 5180515,
+                    "name": "Behind the Queens",
+                    "overview": "A celebration of the extraordinary women filmmakers and game changing conservationists behind the Queens series.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 237313,
+                    "still_path": "/zsBZY15zwsn3jO2CC6IgzCvJITl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a4ab6840cc0186768e41",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3620780,
+                            "known_for_department": "Editing",
+                            "name": "Faith Musembi",
+                            "original_name": "Faith Musembi",
+                            "popularity": 1.071,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "65e7a4af9638640181c81ced",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3620780,
+                            "known_for_department": "Editing",
+                            "name": "Faith Musembi",
+                            "original_name": "Faith Musembi",
+                            "popularity": 1.071,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e7a4b842f19f01878c705a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 95883,
+                            "known_for_department": "Editing",
+                            "name": "Darren Flaxstone",
+                            "original_name": "Darren Flaxstone",
+                            "popularity": 2.105,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65e7a5642b1b44018768495c",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1243587,
+                            "known_for_department": "Acting",
+                            "name": "Keira Malik",
+                            "original_name": "Keira Malik",
+                            "popularity": 3.532,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7afd1e3294301639bd612",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1006823,
+                            "known_for_department": "Directing",
+                            "name": "Andrew Thompson",
+                            "original_name": "Andrew Thompson",
+                            "popularity": 2.417,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7afe6c15f89016315814d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1157637,
+                            "known_for_department": "Camera",
+                            "name": "Matt Norman",
+                            "original_name": "Matt Norman",
+                            "popularity": 1.591,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e7b0079638640161c80bb2",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2315078,
+                            "known_for_department": "Camera",
+                            "name": "Maximilian Kölbl",
+                            "original_name": "Maximilian Kölbl",
+                            "popularity": 0.465,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65e7aec4c15f890186159ba6",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3620780,
+                            "known_for_department": "Editing",
+                            "name": "Faith Musembi",
+                            "original_name": "Faith Musembi",
+                            "popularity": 1.071,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65e7aee72b1b440164683eef",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1579049,
+                            "known_for_department": "Camera",
+                            "name": "Sophie Darlington",
+                            "original_name": "Sophie Darlington",
+                            "popularity": 1.653,
+                            "profile_path": "/deTeVPEMQqw55hVBN1bQxk0yI52.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65e7aeebea42630162210c84",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1580182,
+                            "known_for_department": "Camera",
+                            "name": "Justine Evans",
+                            "original_name": "Justine Evans",
+                            "popularity": 2.236,
+                            "profile_path": "/cudHDvRRkSylljfOquPXn8x1JhV.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65e7af1042f19f01648c5cfe",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4575094,
+                            "known_for_department": "Acting",
+                            "name": "Sharon Nankinyi",
+                            "original_name": "Sharon Nankinyi",
+                            "popularity": 1.313,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65e7af64eb093201871b0f26",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1302301,
+                            "known_for_department": "Directing",
+                            "name": "Tania Escobar",
+                            "original_name": "Tania Escobar",
+                            "popularity": 3.302,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 361185,
+            "poster_path": "/jPFO6YQFOoOqkOyZDb0dhO2W0cH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

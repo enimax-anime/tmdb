@@ -1,0 +1,1916 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30,
+        25
+    ],
+    "first_air_date": "1959-01-01",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 15209,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1959-01-01",
+    "last_episode_to_air": {
+        "id": 537144,
+        "name": "Sudden Money",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1959-01-01",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 15209,
+        "still_path": null
+    },
+    "name": "New York Confidential",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 39,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "New York Confidential",
+    "overview": "New York Confidential is a British-American crime drama series that aired from 1958 to 1959.\n\nThe series aired in syndicated in the United States and was broadcast on London's local ITV station, Associated-Rediffusion, in the UK. It was co-produced by ITC Entertainment, Metropolis Productions, Inc., and Television Programs of America.",
+    "popularity": 7.674,
+    "poster_path": "/s9rZx1mNttR2o0TiD5ry4e0Iin3.jpg",
+    "production_companies": [
+        {
+            "id": 56319,
+            "logo_path": null,
+            "name": "Television Programs of America (TPA)",
+            "origin_country": "US"
+        },
+        {
+            "id": 67405,
+            "logo_path": null,
+            "name": "Metropolis Pictures Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1155,
+            "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+            "name": "ITC Entertainment",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1959-01-01",
+            "episode_count": 39,
+            "id": 26832,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "525838bd760ee36aaa971204",
+            "air_date": "1959-01-01",
+            "episodes": [
+                {
+                    "air_date": "1959-01-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 537144,
+                    "name": "Sudden Money",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa97124d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30610,
+                            "known_for_department": "Acting",
+                            "name": "Barbara Baxley",
+                            "original_name": "Barbara Baxley",
+                            "popularity": 2.188,
+                            "profile_path": "/w7QQLcsWtWdxwmXtUAHoDCn5Ra5.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa97125b",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 89838,
+                            "known_for_department": "Directing",
+                            "name": "Leo Penn",
+                            "original_name": "Leo Penn",
+                            "popularity": 4.576,
+                            "profile_path": "/efb6SAVE9jBrHaBxAWMMRiMr1CG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 537145,
+                    "name": "A Covenant with Death",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa971288",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 229896,
+                            "known_for_department": "Acting",
+                            "name": "Louis Sorin",
+                            "original_name": "Louis Sorin",
+                            "popularity": 0.876,
+                            "profile_path": "/nk9StkWgjyNeaHkU2jOHcno9erp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 537146,
+                    "name": "Come Home to Death",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa9712ad",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2979,
+                            "known_for_department": "Acting",
+                            "name": "Michael Higgins",
+                            "original_name": "Michael Higgins",
+                            "popularity": 2.153,
+                            "profile_path": "/uEJhMQrkbDLQgJkoDU9V4RryRtW.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa9712bb",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5255,
+                            "known_for_department": "Acting",
+                            "name": "Robert Webber",
+                            "original_name": "Robert Webber",
+                            "popularity": 3.176,
+                            "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 537147,
+                    "name": "Semper Fidelis",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 537148,
+                    "name": "Chinatown, My Chinatown",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 537149,
+                    "name": "Child of Terror",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa97130e",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1217505,
+                            "known_for_department": "Acting",
+                            "name": "Gary Morgan",
+                            "original_name": "Gary Morgan",
+                            "popularity": 8.12,
+                            "profile_path": "/2Y48vEvx7oEtTxDUEvkYF0vRnP5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 537150,
+                    "name": "Legacy",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa971333",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 85987,
+                            "known_for_department": "Acting",
+                            "name": "Betty Garde",
+                            "original_name": "Betty Garde",
+                            "popularity": 2.046,
+                            "profile_path": "/q0nuDecwLWVBN74Hn5CZmOmWDaz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 537151,
+                    "name": "Garment District",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 537152,
+                    "name": "Law is for Suckers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa97136f",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3143,
+                            "known_for_department": "Acting",
+                            "name": "Rudy Bond",
+                            "original_name": "Rudy Bond",
+                            "popularity": 1.577,
+                            "profile_path": "/plsYnzwNlwGWc4s5YT1NASj4YvN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 537153,
+                    "name": "Massacre",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa971394",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 24809,
+                            "known_for_department": "Acting",
+                            "name": "Ina Balin",
+                            "original_name": "Ina Balin",
+                            "popularity": 2.757,
+                            "profile_path": "/xJvwyBVEEbADLej2Uu93TLK3BaZ.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa9713a2",
+                            "order": 531,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6937,
+                            "known_for_department": "Acting",
+                            "name": "Lawrence Tierney",
+                            "original_name": "Lawrence Tierney",
+                            "popularity": 3.544,
+                            "profile_path": "/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 537154,
+                    "name": "Girl from Nowhere",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa9713c7",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3142,
+                            "known_for_department": "Acting",
+                            "name": "John Marley",
+                            "original_name": "John Marley",
+                            "popularity": 5.026,
+                            "profile_path": "/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9713d5",
+                            "order": 532,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2314,
+                            "known_for_department": "Acting",
+                            "name": "Peter Falk",
+                            "original_name": "Peter Falk",
+                            "popularity": 14.923,
+                            "profile_path": "/e59x8ITouNlyz8Qa2abb5lxiQvI.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 537155,
+                    "name": "Skid Row Mouthpiece",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9713fa",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 119381,
+                            "known_for_department": "Acting",
+                            "name": "Howard Smith",
+                            "original_name": "Howard Smith",
+                            "popularity": 4.145,
+                            "profile_path": "/vvshXhclnmRG4HDTSK0t9rrV7yN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 13,
+                    "episode_type": "standard",
+                    "id": 537156,
+                    "name": "New Citizen",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 14,
+                    "episode_type": "standard",
+                    "id": 537157,
+                    "name": "The Bullet",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971436",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18648,
+                            "known_for_department": "Acting",
+                            "name": "Natalie Trundy",
+                            "original_name": "Natalie Trundy",
+                            "popularity": 2.695,
+                            "profile_path": "/A3Kdp47M80a4LGELSOCwch7a7lM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 15,
+                    "episode_type": "standard",
+                    "id": 537158,
+                    "name": "The Seeing Eye",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa97145b",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 78690,
+                            "known_for_department": "Acting",
+                            "name": "Jeremy Slate",
+                            "original_name": "Jeremy Slate",
+                            "popularity": 4.824,
+                            "profile_path": "/bMTnh0gP33MAbfD7NcZIF70cBjR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 16,
+                    "episode_type": "standard",
+                    "id": 537159,
+                    "name": "Man on Parole",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971480",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 89757,
+                            "known_for_department": "Acting",
+                            "name": "Sid Raymond",
+                            "original_name": "Sid Raymond",
+                            "popularity": 1.857,
+                            "profile_path": "/nSHGfFHuTDeF8jKz1zZxTuL1ger.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 17,
+                    "episode_type": "standard",
+                    "id": 537160,
+                    "name": "Broadway Sam",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9714a5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1211921,
+                            "known_for_department": "Acting",
+                            "name": "Martin E. Brooks",
+                            "original_name": "Martin E. Brooks",
+                            "popularity": 4.003,
+                            "profile_path": "/6AQuJJ38MIkUY3p7IypNDkBtAWb.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9714b3",
+                            "order": 533,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 51718,
+                            "known_for_department": "Acting",
+                            "name": "Naura Hayden",
+                            "original_name": "Naura Hayden",
+                            "popularity": 1.691,
+                            "profile_path": "/9xP2Ke9LiX33yQ5Xzkyo9FBScQM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 18,
+                    "episode_type": "standard",
+                    "id": 537161,
+                    "name": "Cross-Eyed Camera",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9714d8",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 78773,
+                            "known_for_department": "Acting",
+                            "name": "Horace McMahon",
+                            "original_name": "Horace McMahon",
+                            "popularity": 1.854,
+                            "profile_path": "/moIW21jHP8DYollXSZ3LCRTaJD0.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9714e6",
+                            "order": 534,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 16089,
+                            "known_for_department": "Acting",
+                            "name": "Jason Evers",
+                            "original_name": "Jason Evers",
+                            "popularity": 3.282,
+                            "profile_path": "/jbm0AiJvYowMoaDOEZQCcAoiEOx.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 19,
+                    "episode_type": "standard",
+                    "id": 537163,
+                    "name": "Death in Pursuit",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971528",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 129550,
+                            "known_for_department": "Acting",
+                            "name": "Norma Crane",
+                            "original_name": "Norma Crane",
+                            "popularity": 4.139,
+                            "profile_path": "/rATlBUVRJQDUoDsz9jxweDyAaaB.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa97125b",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 89838,
+                            "known_for_department": "Directing",
+                            "name": "Leo Penn",
+                            "original_name": "Leo Penn",
+                            "popularity": 4.576,
+                            "profile_path": "/efb6SAVE9jBrHaBxAWMMRiMr1CG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 20,
+                    "episode_type": "standard",
+                    "id": 537162,
+                    "name": "The Skin Game",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9714a5",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1211921,
+                            "known_for_department": "Acting",
+                            "name": "Martin E. Brooks",
+                            "original_name": "Martin E. Brooks",
+                            "popularity": 4.003,
+                            "profile_path": "/6AQuJJ38MIkUY3p7IypNDkBtAWb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 21,
+                    "episode_type": "standard",
+                    "id": 537164,
+                    "name": "Medallion",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971553",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 14452,
+                            "known_for_department": "Acting",
+                            "name": "Jerome Cowan",
+                            "original_name": "Jerome Cowan",
+                            "popularity": 4.254,
+                            "profile_path": "/79be685su9LMAr41HMVKby0FsTg.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971561",
+                            "order": 535,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94777,
+                            "known_for_department": "Acting",
+                            "name": "Frank Maxwell",
+                            "original_name": "Frank Maxwell",
+                            "popularity": 2.386,
+                            "profile_path": "/7cOClKfXOuo7wgImqFpSCRX8U2x.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 22,
+                    "episode_type": "standard",
+                    "id": 537166,
+                    "name": "Horse on the Loose",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9715b9",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1072123,
+                            "known_for_department": "Acting",
+                            "name": "Mel Ruick",
+                            "original_name": "Mel Ruick",
+                            "popularity": 0.213,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 23,
+                    "episode_type": "standard",
+                    "id": 537165,
+                    "name": "Incident as Fulton Market",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971586",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 159555,
+                            "known_for_department": "Acting",
+                            "name": "Frank Campanella",
+                            "original_name": "Frank Campanella",
+                            "popularity": 1.265,
+                            "profile_path": "/aFKBOIqvarf31YnPlXn8H4OtzAd.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa971594",
+                            "order": 536,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 121144,
+                            "known_for_department": "Acting",
+                            "name": "Joseph Campanella",
+                            "original_name": "Joseph Campanella",
+                            "popularity": 8.397,
+                            "profile_path": "/o6A0IZkjcDNDVBTFCVLsdySz3w3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 24,
+                    "episode_type": "standard",
+                    "id": 537167,
+                    "name": "Positive Identification",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838be760ee36aaa9715de",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 15650,
+                            "known_for_department": "Acting",
+                            "name": "Michael Strong",
+                            "original_name": "Michael Strong",
+                            "popularity": 5.283,
+                            "profile_path": "/a4KsknSh0kFoCWmdbnLlaMiQi0E.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 25,
+                    "episode_type": "standard",
+                    "id": 537168,
+                    "name": "Custody",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 26,
+                    "episode_type": "standard",
+                    "id": 537169,
+                    "name": "The Most Dangerous Animal",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bd760ee36aaa9712bb",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5255,
+                            "known_for_department": "Acting",
+                            "name": "Robert Webber",
+                            "original_name": "Robert Webber",
+                            "popularity": 3.176,
+                            "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971620",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2745,
+                            "known_for_department": "Acting",
+                            "name": "Doreen Lang",
+                            "original_name": "Doreen Lang",
+                            "popularity": 3.724,
+                            "profile_path": "/cpbhdsv1A1oeDGbtWaYHs77tIFm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 27,
+                    "episode_type": "standard",
+                    "id": 537170,
+                    "name": "House of Strangers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971645",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94402,
+                            "known_for_department": "Acting",
+                            "name": "Walter Brooke",
+                            "original_name": "Walter Brooke",
+                            "popularity": 2.052,
+                            "profile_path": "/wu9mt5ozFqHq1WJTABc76WDKvD9.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 28,
+                    "episode_type": "standard",
+                    "id": 537171,
+                    "name": "Body on a Couch",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa97166a",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1234836,
+                            "known_for_department": "Acting",
+                            "name": "Patricia Bosworth",
+                            "original_name": "Patricia Bosworth",
+                            "popularity": 0.619,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 29,
+                    "episode_type": "standard",
+                    "id": 537172,
+                    "name": "The Lonely Man",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 30,
+                    "episode_type": "standard",
+                    "id": 537173,
+                    "name": "The Assassin",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa9716a6",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 161448,
+                            "known_for_department": "Acting",
+                            "name": "Peter Brandon",
+                            "original_name": "Peter Brandon",
+                            "popularity": 1.188,
+                            "profile_path": "/ab2xdAoZcA8pjcjyEd0DGcUizPd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 31,
+                    "episode_type": "standard",
+                    "id": 537174,
+                    "name": "Crime Cradle",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bf760ee36aaa9716dd",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 31497,
+                            "known_for_department": "Directing",
+                            "name": "John Cromwell",
+                            "original_name": "John Cromwell",
+                            "popularity": 1.763,
+                            "profile_path": "/jfDhKNzIu9T6pgL3LtqCOxMH1cn.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa9716cb",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10608,
+                            "known_for_department": "Acting",
+                            "name": "Gary Merrill",
+                            "original_name": "Gary Merrill",
+                            "popularity": 3.812,
+                            "profile_path": "/sMmRlBwu1lS8qJW6t9iRNn8qBxA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 32,
+                    "episode_type": "standard",
+                    "id": 537175,
+                    "name": "The Captain Kenesaw Story",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa9716f8",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 14455,
+                            "known_for_department": "Acting",
+                            "name": "John Hamilton",
+                            "original_name": "John Hamilton",
+                            "popularity": 2.963,
+                            "profile_path": "/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971706",
+                            "order": 537,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 17664,
+                            "known_for_department": "Acting",
+                            "name": "Joan Chandler",
+                            "original_name": "Joan Chandler",
+                            "popularity": 1.723,
+                            "profile_path": "/t6NGcRrH8Usuag2cv3cyqOcD398.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971714",
+                            "order": 538,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 98465,
+                            "known_for_department": "Acting",
+                            "name": "James Barton",
+                            "original_name": "James Barton",
+                            "popularity": 1.187,
+                            "profile_path": "/rqSgzqnD2ZPbWJDDfyrQaVke8rn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 33,
+                    "episode_type": "standard",
+                    "id": 537176,
+                    "name": "In Retaliation",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971739",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 65505,
+                            "known_for_department": "Acting",
+                            "name": "Arthur Hill",
+                            "original_name": "Arthur Hill",
+                            "popularity": 2.841,
+                            "profile_path": "/7j7FUkRWb3aMiwxzkmRoZwPwvXq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 34,
+                    "episode_type": "standard",
+                    "id": 537143,
+                    "name": "Miracle for Gisella",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 35,
+                    "episode_type": "standard",
+                    "id": 537177,
+                    "name": "Face of Clay",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa97175e",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1221160,
+                            "known_for_department": "Acting",
+                            "name": "Eleanor Phelps",
+                            "original_name": "Eleanor Phelps",
+                            "popularity": 4.307,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 36,
+                    "episode_type": "standard",
+                    "id": 537178,
+                    "name": "Death is the Collateral",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa971232",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 94069,
+                            "known_for_department": "Directing",
+                            "name": "Steve Sekely",
+                            "original_name": "Steve Sekely",
+                            "popularity": 0.582,
+                            "profile_path": "/3XyeDAcxDwHTvKPP5tngvymXVY.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa971783",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 102510,
+                            "known_for_department": "Acting",
+                            "name": "Sándor Szabó",
+                            "original_name": "Sándor Szabó",
+                            "popularity": 2.127,
+                            "profile_path": "/2qDVm72VnAI1A1Jl2jlzKocjpYd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 37,
+                    "episode_type": "standard",
+                    "id": 537179,
+                    "name": "Ransom",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "525838bf760ee36aaa9717a8",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 83237,
+                            "known_for_department": "Acting",
+                            "name": "Elizabeth Patterson",
+                            "original_name": "Elizabeth Patterson",
+                            "popularity": 3.774,
+                            "profile_path": "/rSLcM8DsZi1ydRn8Dk3vXE89nCG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 38,
+                    "episode_type": "standard",
+                    "id": 537180,
+                    "name": "Life Care",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bd760ee36aaa97126d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1236160,
+                            "known_for_department": "Directing",
+                            "name": "Jack Gage",
+                            "original_name": "Jack Gage",
+                            "popularity": 0.096,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 39,
+                    "episode_type": "finale",
+                    "id": 537181,
+                    "name": "Airline Hostess",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 15209,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "525838bf760ee36aaa9717e8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1215605,
+                            "known_for_department": "Directing",
+                            "name": "Jus Addiss",
+                            "original_name": "Jus Addiss",
+                            "popularity": 3.311,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 26832,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

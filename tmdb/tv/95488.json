@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/k5pXpzGsjo8UeKWobLWCttNLeQ3.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2015-11-05",
+    "genres": [],
+    "homepage": "",
+    "id": 95488,
+    "in_production": true,
+    "languages": [
+        "ru"
+    ],
+    "last_air_date": "2015-11-05",
+    "last_episode_to_air": {
+        "id": 3252713,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-11-05",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 95488,
+        "still_path": null
+    },
+    "name": "Locust",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 558,
+            "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+            "name": "Channel One",
+            "origin_country": "RU"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "RU"
+    ],
+    "original_language": "ru",
+    "original_name": "Саранча",
+    "overview": "A torrid affair between a passionate lowborn poet and a wealthy Moscow heiress is engulfed by class difference, criminality and, eventually, murder.",
+    "popularity": 0.906,
+    "poster_path": "/yLWqSLbVj9WxXjYwiqrOugjKpru.jpg",
+    "production_companies": [
+        {
+            "id": 86842,
+            "logo_path": "/uCPNeQLSVrSsOtLejsNRZTvnFab.png",
+            "name": "Sreda",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-11-05",
+            "episode_count": 4,
+            "id": 135883,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ynz5ntzbPxVg5qRxrf8IRFOIBhz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5dcfb47ab76cbb00137887bb",
+            "air_date": "2015-11-05",
+            "episodes": [
+                {
+                    "air_date": "2015-11-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1984753,
+                    "name": "Episode 1",
+                    "overview": "Episode 1 of Locust",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 95488,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3252711,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 95488,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3252712,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 95488,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-05",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3252713,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 95488,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 135883,
+            "poster_path": "/ynz5ntzbPxVg5qRxrf8IRFOIBhz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

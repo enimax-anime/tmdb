@@ -1,0 +1,611 @@
+{
+    "adult": false,
+    "backdrop_path": "/zzYIX4q3Qpfm6S2LBCQFzHJ0EyT.jpg",
+    "created_by": [
+        {
+            "id": 3218499,
+            "credit_id": "623a2480a349110093c3000a",
+            "name": "Nabil Mehchi",
+            "original_name": "Nabil Mehchi",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3218500,
+            "credit_id": "623a246d945c20004a67cdf5",
+            "name": "Frank Fiorito",
+            "original_name": "Frank Fiorito",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2022-03-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://gem.cbc.ca/media/the-big-sex-talk/s01",
+    "id": 195794,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-03-18",
+    "last_episode_to_air": {
+        "id": 3614657,
+        "name": "The Meaning Of Q",
+        "overview": "Queer' is being used more often these days, but not everyone knows what it is. This episode unpacks what being queer truly means, and how ‘Q’ fits into the ever-growing acronym that is LGBTQIP2SAA+.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-03-18",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 195794,
+        "still_path": "/ag4wRqOOhg2C7GGNqNBl5GCkhoi.jpg"
+    },
+    "name": "The Big Sex Talk",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2981,
+            "logo_path": "/m4nAbyBNzPHitupGll2n9WR5kp8.png",
+            "name": "CBC Gem",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "The Big Sex Talk",
+    "overview": "The Big Sex Talk challenges Canadians' ideas about gender and sexuality, explains new vernacular, and debunks all the myths surrounding sex.",
+    "popularity": 1.252,
+    "poster_path": "/6WDe82QnzISPPi6ejyiAFzpEYhh.jpg",
+    "production_companies": [
+        {
+            "id": 154734,
+            "logo_path": "/e9jT3d7ss4vDo9AggYyRPOE9aT.png",
+            "name": "Noble Television",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-18",
+            "episode_count": 6,
+            "id": 284519,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6239ee4f07528800720407c6",
+            "air_date": "2022-03-18",
+            "episodes": [
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3614652,
+                    "name": "Mono-Poly",
+                    "overview": "If monogamy isn’t for everyone, why do we act as if it is? This episode re-examines monogamy, unpacks the jealousy question, and dives into polyamory and other forms of consensual non-monogamy.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/uEjyKRaDppKhAMbGGSF5iGlubM7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6242159daf43240047065bc1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483958,
+                            "known_for_department": "Writing",
+                            "name": "Laurel Baker",
+                            "original_name": "Laurel Baker",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624215afdfe31d00929b6af7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483959,
+                            "known_for_department": "Writing",
+                            "name": "Nick Rose",
+                            "original_name": "Nick Rose",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "624215d0c740d90089ebd674",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3157244,
+                            "known_for_department": "Editing",
+                            "name": "Lucas Villegas",
+                            "original_name": "Lucas Villegas",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6242172c3e09f30087c22843",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3218499,
+                            "known_for_department": "Production",
+                            "name": "Nabil Mehchi",
+                            "original_name": "Nabil Mehchi",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3614653,
+                    "name": "Not Having It",
+                    "overview": "Sex is everywhere, but is it essential for a 'happy' life? This episode asks what it means to be asexual in a hypersexualized world, if we should rethink pleasure, and whether cake is better than sex.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/3284JyK6f0LgkBeNiCJsH025x5N.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624218b7223a8b0094210301",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483976,
+                            "known_for_department": "Writing",
+                            "name": "Riel Lazarus",
+                            "original_name": "Riel Lazarus",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "624218cac740d90047a97e40",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483977,
+                            "known_for_department": "Editing",
+                            "name": "Jennifer Cholette",
+                            "original_name": "Jennifer Cholette",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3614654,
+                    "name": "Click, Swipe, Love",
+                    "overview": "Is technology ruining our sex lives, or are we getting off with a little tech support? From dating apps to sex robots to VR porn, this episode examines the intersection of sex, tech and humanity.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/359BSahLtobMcycOsc3IaA6og3R.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6242159daf43240047065bc1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483958,
+                            "known_for_department": "Writing",
+                            "name": "Laurel Baker",
+                            "original_name": "Laurel Baker",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62421c23d71fb400883edc25",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3218499,
+                            "known_for_department": "Production",
+                            "name": "Nabil Mehchi",
+                            "original_name": "Nabil Mehchi",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "62421c2f3e09f30047fba16a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 101222,
+                            "known_for_department": "Editing",
+                            "name": "Geoff Klein",
+                            "original_name": "Geoff Klein",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3614655,
+                    "name": "Beyond The Binary",
+                    "overview": "Gender and sexuality are so interwoven, it’s hard to know where one ends and the other begins. This episode explores our ideas of gender, sexuality, and the possibilities beyond the gender binary.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/jYWN2ocn1nVvOIOUYrMovPRXdK5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624215afdfe31d00929b6af7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483959,
+                            "known_for_department": "Writing",
+                            "name": "Nick Rose",
+                            "original_name": "Nick Rose",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624218b7223a8b0094210301",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483976,
+                            "known_for_department": "Writing",
+                            "name": "Riel Lazarus",
+                            "original_name": "Riel Lazarus",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "624218cac740d90047a97e40",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483977,
+                            "known_for_department": "Editing",
+                            "name": "Jennifer Cholette",
+                            "original_name": "Jennifer Cholette",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3614656,
+                    "name": "The Best Is Yet To Come",
+                    "overview": "Do we have a ‘sexpiration’ date, or do Boomers have lots of boom boom left? Research says sex improves with age and that if we rethink pleasure, no matter how old we are, the best is yet to come.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/dQBAK10b3JoIfkNIhlzQ4sdW8WH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6242159daf43240047065bc1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483958,
+                            "known_for_department": "Writing",
+                            "name": "Laurel Baker",
+                            "original_name": "Laurel Baker",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "62423785d71fb400883f492a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3209302,
+                            "known_for_department": "Editing",
+                            "name": "Andrew Kemp",
+                            "original_name": "Andrew Kemp",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3614657,
+                    "name": "The Meaning Of Q",
+                    "overview": "Queer' is being used more often these days, but not everyone knows what it is. This episode unpacks what being queer truly means, and how ‘Q’ fits into the ever-growing acronym that is LGBTQIP2SAA+.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 195794,
+                    "still_path": "/ag4wRqOOhg2C7GGNqNBl5GCkhoi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242157cc740d9005d780dcd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1798326,
+                            "known_for_department": "Directing",
+                            "name": "Karen Cho",
+                            "original_name": "Karen Cho",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6242158c7caa47008acc1272",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2295957,
+                            "known_for_department": "Directing",
+                            "name": "Laurence Mathieu-Leger",
+                            "original_name": "Laurence Mathieu-Leger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624215afdfe31d00929b6af7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483959,
+                            "known_for_department": "Writing",
+                            "name": "Nick Rose",
+                            "original_name": "Nick Rose",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "62423785d71fb400883f492a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3209302,
+                            "known_for_department": "Editing",
+                            "name": "Andrew Kemp",
+                            "original_name": "Andrew Kemp",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "624239ef0f3655005ff92d35",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2359897,
+                            "known_for_department": "Production",
+                            "name": "Sylvia Wilson",
+                            "original_name": "Sylvia Wilson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 284519,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

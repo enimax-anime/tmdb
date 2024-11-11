@@ -1,0 +1,320 @@
+{
+    "adult": false,
+    "backdrop_path": "/p3Ke8QB4mp0BuSSaWKpS45DUPmB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-10-01",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/snackmasters",
+    "id": 93990,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-04-27",
+    "last_episode_to_air": {
+        "id": 2868789,
+        "name": "Snickers",
+        "overview": "The mighty Snickers bar's combination of chocolate, peanuts, caramel and nougat may sound simple, but trying to recreate it drives two fine-dining chefs to distraction",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-04-27",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 3,
+        "show_id": 93990,
+        "still_path": null
+    },
+    "name": "Snackmasters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Snackmasters",
+    "overview": "Fred Sirieix sets an extraordinary challenge for top chefs - to try to work out the secret techniques and recipes behind some of Britain's best-loved snacks, before creating their own replica.",
+    "popularity": 1.18,
+    "poster_path": "/jra0TrCtybMLEKyh7r4dfr4xRR6.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-10-01",
+            "episode_count": 3,
+            "id": 133048,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-12-10",
+            "episode_count": 3,
+            "id": 170835,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-04-06",
+            "episode_count": 4,
+            "id": 189073,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5d8a6e64172d7f000d4ed143",
+            "air_date": "2019-10-01",
+            "episodes": [
+                {
+                    "air_date": "2019-10-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1938255,
+                    "name": "KitKat",
+                    "overview": "In a cook off at the KitKat factory, two top chefs compete to make the perfect replica of the chocolate-covered wafer bar, before being judged by the workers and bosses behind the real thing.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1942071,
+                    "name": "Monster Munch",
+                    "overview": "Two top chefs compete to replicate a packet of pickled onion flavour Monster Munch. After spending weeks on their recipes, the rivals compete in a cook-off, judged by experts.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-15",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1947349,
+                    "name": "The Whopper",
+                    "overview": "Fred Sirieix challenges two Michelin-starred chefs to recreate Burger King's Whopper and fries. They also compete to deliver their burgers as quickly as possible.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 133048,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5fc73ef9df857c00405faa97",
+            "air_date": "2020-12-10",
+            "episodes": [
+                {
+                    "air_date": "2020-12-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2539589,
+                    "name": "Quavers",
+                    "overview": "Fred Sirieix challenges top chefs to replicate popular snacks. This time, it's the lunchbox legend cheese Quavers. Are the delicate texture and cheesy taste just too hard to copy?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2551047,
+                    "name": "Domino's",
+                    "overview": "Fred Sirieix challenges chefs Jason Atherton and Francesco Mazzei to make a perfect replica of Domino's pepperoni passion pizza, in a contest that soon turns into England vs Italy.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-23",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2559552,
+                    "name": "Quality Street Festive Special",
+                    "overview": "Fred Sirieix challenges two leading chefs to replicate Quality Street's three most popular sweets - the purple one, a strawberry delight, and a green triangle.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 170835,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "60695a4a5507e900576cbf95",
+            "air_date": "2021-04-06",
+            "episodes": [
+                {
+                    "air_date": "2021-04-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2848939,
+                    "name": "KFC",
+                    "overview": "Two top chefs have just seven days to make culinary history as they try to replicate the secret recipes for two mighty KFC staples - the Zinger Burger and KFC's legendary original chicken",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2848940,
+                    "name": "Wagon Wheel",
+                    "overview": "Two top chefs have just seven days to replicate one of Britain's favourite chocolate snacks. Can they make a chocolate mallow biscuit that's anything like the real thing?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2868787,
+                    "name": "Shreddies",
+                    "overview": "Michelin-star chefs Daniel Clifford and Claude Bosi attempt to make Shreddies from scratch. They must figure out how to create the popular cereal's famous lattice pattern and layered structure.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-27",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2868789,
+                    "name": "Snickers",
+                    "overview": "The mighty Snickers bar's combination of chocolate, peanuts, caramel and nougat may sound simple, but trying to recreate it drives two fine-dining chefs to distraction",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 93990,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 189073,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "adult": false,
+    "backdrop_path": "/kAzYnr2wSTvLdPn8fpz2bxjbhuW.jpg",
+    "created_by": [
+        {
+            "id": 1084882,
+            "credit_id": "5cd38d28925141626f245219",
+            "name": "Justin Ware",
+            "original_name": "Justin Ware",
+            "gender": 2,
+            "profile_path": "/3ktaUDGOV5PvVJkTy7108w3RN0k.jpg"
+        },
+        {
+            "id": 1182819,
+            "credit_id": "5cd38d109251416ec12451c0",
+            "name": "Brian James O'Connell",
+            "original_name": "Brian James O'Connell",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1485567,
+            "credit_id": "5cd39008925141626f2454cd",
+            "name": "David F. Park",
+            "original_name": "David F. Park",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1505398,
+            "credit_id": "5cd38cfc925141761d244e0c",
+            "name": "Sean Cowhig",
+            "original_name": "Sean Cowhig",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1519586,
+            "credit_id": "5cd38d05925141761d244e18",
+            "name": "Neil W. Garguilo",
+            "original_name": "Neil W. Garguilo",
+            "gender": 2,
+            "profile_path": "/gnt1CUIJsOFHNdBHCpx6NHCx1Wl.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2019-05-10",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 89236,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-12-13",
+    "last_episode_to_air": {
+        "id": 2906893,
+        "name": "Gonna Make You Sweat",
+        "overview": "All that TV time is making the gang flabby, so they embark on a workout regimen.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-12-13",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 89236,
+        "still_path": null
+    },
+    "name": "Hell Den",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3084,
+            "logo_path": "/mU3bZsaS8bX08azWJJIQFCDRcch.png",
+            "name": "Drink TV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Hell Den",
+    "overview": "Civilization has been obliterated but, somehow, a 12-year-old kid named Andrew has survived with his home (and the world’s last stocked liquor cabinet) intact. The TV still works, too, so he’s got some new friends over for a viewing party. It’s the last TV party on Earth and it’s pretty twisted.",
+    "popularity": 1.188,
+    "poster_path": "/aYFd9rPDLKv05lMIfCXrhomFgG6.jpg",
+    "production_companies": [
+        {
+            "id": 118155,
+            "logo_path": "/1lBVhKMuTT2HXSCOgax07aWSik5.png",
+            "name": "Shout! Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 118156,
+            "logo_path": null,
+            "name": "Rafael Raffaele Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 118157,
+            "logo_path": null,
+            "name": "Dr. God Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-05-10",
+            "episode_count": 6,
+            "id": 123901,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aYFd9rPDLKv05lMIfCXrhomFgG6.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-11-08",
+            "episode_count": 6,
+            "id": 192427,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5cd38b8b0e0a26699dfe4435",
+            "air_date": "2019-05-10",
+            "episodes": [
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1786534,
+                    "name": "New Friends",
+                    "overview": "Andrew makes some strange new friends...who just might kill him. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2906854,
+                    "name": "The Spill",
+                    "overview": "Fleek spills a gin martini on Bet-C, which has unexpected consequences. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2906855,
+                    "name": "The Foot Fist Bae",
+                    "overview": "Giantic's wife shows up and things get gross. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2906856,
+                    "name": "Gender Swap",
+                    "overview": "Fleek flips genders proving gender dynamics are a complicated topic. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2906858,
+                    "name": "The Horsemen Cometh",
+                    "overview": "Kenneth is visited by his brothers...the Four Horsemen of the Apocalypse. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2906859,
+                    "name": "Birthday Blues",
+                    "overview": "It's Andrew's first birthday since humanity was destroyed and an unexpected guest shows up. OH, BOY.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 123901,
+            "poster_path": "/aYFd9rPDLKv05lMIfCXrhomFgG6.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6086f2939974ee0029b9874f",
+            "air_date": "2020-11-08",
+            "episodes": [
+                {
+                    "air_date": "2020-11-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2906876,
+                    "name": "My Sister, the Demon",
+                    "overview": "Andrew's sister returns, but she's head-spinningly different.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": "/zmVBku08yNYhGg0AE60yVziG7qR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2906883,
+                    "name": "Enter the Ghoulie",
+                    "overview": "The gang meets the annoying Ghoulie in the basement.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": "/g23ToCZToMWbT7QFMYPLwQlVufP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2906887,
+                    "name": "Welcome to the New 'Murica",
+                    "overview": "Andrew plans on enjoying the Fourth of July despite the fact that the U.S.A. is rubble.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": "/nKoLa6xEg7FOChpv3g9uMpaM6eh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2906891,
+                    "name": "BET-C Versus the House",
+                    "overview": "BET-C spurns the Controlled Home Automated Zystem (CHAZ) and it starts acting up.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2906892,
+                    "name": "A Long Strange Trip",
+                    "overview": "The gang takes a psychedelic trip that makes their world even weirder than usual.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-13",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2906893,
+                    "name": "Gonna Make You Sweat",
+                    "overview": "All that TV time is making the gang flabby, so they embark on a workout regimen.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 89236,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 192427,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

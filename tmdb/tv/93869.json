@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/5QpJ9H0Cl9qFiiKTGRUneuzboBs.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-08-24",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://www.oprah.com/app/black-women-own-the-conversation.html",
+    "id": 93869,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-08-24",
+    "last_episode_to_air": {
+        "id": 1934621,
+        "name": "Beauty",
+        "overview": "Know what this is about?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-08-24",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 93869,
+        "still_path": null
+    },
+    "name": "OWN Spotlight: Black Women OWN the Conversation",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 827,
+            "logo_path": "/m8H0hZOpkskkIWeqRdiuP2CZOgq.png",
+            "name": "OWN",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "OWN Spotlight: Black Women OWN the Conversation",
+    "overview": "Intimate conversations about important issues with honest opinions and surprising solutions that put people first.",
+    "popularity": 0.447,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 181371,
+            "logo_path": null,
+            "name": "Cowboy Bear Ninja",
+            "origin_country": ""
+        },
+        {
+            "id": 80546,
+            "logo_path": "/v3LljktOnzgjktlgYN8iIfa56Fh.png",
+            "name": "Critical Content",
+            "origin_country": "US"
+        },
+        {
+            "id": 163347,
+            "logo_path": null,
+            "name": "OZY Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-24",
+            "episode_count": 1,
+            "id": 132780,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5d848fb9109dec0220cd0b31",
+            "air_date": "2019-08-24",
+            "episodes": [
+                {
+                    "air_date": "2019-08-24",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1934621,
+                    "name": "Beauty",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93869,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 132780,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

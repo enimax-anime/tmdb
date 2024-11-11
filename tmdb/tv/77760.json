@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/88fO8vaHxa8Zh6799kZsWxPvK07.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-01-01",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 77760,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-01-01",
+    "last_episode_to_air": {
+        "id": 1449464,
+        "name": "Episode 3: The Industrial Revolution and Modern Warfare",
+        "overview": "The Industrial Revolution and the rise of modern warfare have roots in the depths of time—in the natural process that enriches the soil.  How do prehistoric forests link to the development of steam engines, and the rise of modern industry?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-01-01",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 77760,
+        "still_path": null
+    },
+    "name": "Deep Time History",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2349,
+            "logo_path": "/pO2jjhCt7UeCSqDJJ4O1AtunmxE.png",
+            "name": "CuriosityStream",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Deep Time History",
+    "overview": "The story of humans is often driven by events from the prehistoric past. How did physics, geology, biology, chemistry shape our history?",
+    "popularity": 0.881,
+    "poster_path": "/ig63yfzwJ9gBq7XjhsGC0smUXG4.jpg",
+    "production_companies": [
+        {
+            "id": 4192,
+            "logo_path": null,
+            "name": "Flight 33 Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-01-01",
+            "episode_count": 3,
+            "id": 100456,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ig63yfzwJ9gBq7XjhsGC0smUXG4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5aa178390e0a2644e700c383",
+            "air_date": "2016-01-01",
+            "episodes": [
+                {
+                    "air_date": "2016-01-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1449462,
+                    "name": "Episode 1: The Rise of Civilization",
+                    "overview": "About 8,000 BC, in a few select places some people begin to experiment with a new way of harvesting energy. They’re growing their own crops. An act so simple, it’s hard to believe it will kick start a revolution. But it will. These are the first seeds, literally, of the rise of civilization.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 77760,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-01-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1449463,
+                    "name": "Episode 2: The Age of Discovery",
+                    "overview": "Columbus has no idea that because of Earth’s geology and geography he won't get to his destination…or how that epic failure will make his voyage one of the most influential expeditions in the history of humankind. Let's add an asteroid hitting the earth billions of years ago and connect the dots...",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 77760,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-01-01",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1449464,
+                    "name": "Episode 3: The Industrial Revolution and Modern Warfare",
+                    "overview": "The Industrial Revolution and the rise of modern warfare have roots in the depths of time—in the natural process that enriches the soil.  How do prehistoric forests link to the development of steam engines, and the rise of modern industry?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 77760,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 100456,
+            "poster_path": "/ig63yfzwJ9gBq7XjhsGC0smUXG4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": "/hVh9TDpRuRWzixC8OAWwMvcMwR2.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-04-27",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "",
+    "id": 102411,
+    "in_production": true,
+    "languages": [
+        "ru"
+    ],
+    "last_air_date": "2020-05-05",
+    "last_episode_to_air": {
+        "id": 2237759,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-05-05",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 102411,
+        "still_path": null
+    },
+    "name": "The Black Sea",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 412,
+            "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+            "name": "Russia-1",
+            "origin_country": "RU"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "RU"
+    ],
+    "original_language": "ru",
+    "original_name": "Черное море",
+    "overview": "Year 1944. Shortly before the start of the Crimean Offensive, the ships of the Soviet Black Sea Fleet and the Azov Naval Flotilla are in serious danger: German underwater commandos are preparing a large-scale operation to destroy the main combat units of the Soviet fleet in ports and roads. Aware of the seriousness of the threat, the Soviet command is developing an operation to detect and destroy the main base of the German underwater saboteurs.",
+    "popularity": 4.802,
+    "poster_path": "/8t8fPGwNN6iJOrCyn6PIEFuU6cr.jpg",
+    "production_companies": [
+        {
+            "id": 16079,
+            "logo_path": "/6BF18oLINXIs1FZCZBAV1JOJx5h.png",
+            "name": "Star Media",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-04-27",
+            "episode_count": 8,
+            "id": 148845,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5ea168800b5fd6001d815711",
+            "air_date": "2020-04-27",
+            "episodes": [
+                {
+                    "air_date": "2020-04-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2237724,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2237752,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2237754,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2237755,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-30",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2237756,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-04",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2237757,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-05",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2237758,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-05",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2237759,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102411,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 148845,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

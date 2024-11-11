@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2014-08-28",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 61282,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2014-08-28",
+    "last_episode_to_air": {
+        "id": 1006380,
+        "name": "Pilot",
+        "overview": "Members of a girls’ competitive dance team are stricken with a strange, psychophysiological illness that manifests itself in violent fits and spasms and then begins spreading in the community through technology. Neurologist Logan Harlen returns to her hometown to investigate the cause. Fighting her own demons and the growing manipulation of a brother on death row, Logan develops an uneasy suspicion that the hysteria surrounding the girls might actually be linked to social media and her own tragic past.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2014-08-28",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 61282,
+        "still_path": null
+    },
+    "name": "Hysteria",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Hysteria",
+    "overview": "An investigative thriller about a haunted young doctor who is summoned back to her hometown to investigate an epidemic that may be linked to social media - and her own tragic past.",
+    "popularity": 1.924,
+    "poster_path": "/hxLLlTtf9FT9pLRMIT2Ca7bXjdH.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2014-08-28",
+            "episode_count": 1,
+            "id": 62517,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2014-08-28",
+            "episode_count": 1,
+            "id": 62508,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Pilot",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.8,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "5408bd3bc3a36812b700023e",
+            "air_date": "2014-08-28",
+            "episodes": [
+                {
+                    "air_date": "2014-08-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1006380,
+                    "name": "Pilot",
+                    "overview": "Members of a girls’ competitive dance team are stricken with a strange, psychophysiological illness that manifests itself in violent fits and spasms and then begins spreading in the community through technology. Neurologist Logan Harlen returns to her hometown to investigate the cause. Fighting her own demons and the growing manipulation of a brother on death row, Logan develops an uneasy suspicion that the hysteria surrounding the girls might actually be linked to social media and her own tragic past.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 61282,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Cassie Young",
+                            "credit_id": "64b7ed69d399e600eb76e29b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1256820,
+                            "known_for_department": "Acting",
+                            "name": "Jenessa Grant",
+                            "original_name": "Jenessa Grant",
+                            "popularity": 6.247,
+                            "profile_path": "/y2jN1L4V0nzlaT8RUHg9umIdI6J.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 62508,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

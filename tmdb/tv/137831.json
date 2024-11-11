@@ -1,0 +1,572 @@
+{
+    "adult": false,
+    "backdrop_path": "/hB9JLVFuaCStLaqNpBqZgpHpKSV.jpg",
+    "created_by": [
+        {
+            "id": 141690,
+            "credit_id": "6181b9d90752880044cfa063",
+            "name": "Ellie Beaumont",
+            "original_name": "Ellie Beaumont",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1523800,
+            "credit_id": "6181b9e312b10e00610f12bb",
+            "name": "Drew Proffitt",
+            "original_name": "Drew Proffitt",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-08-10",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.9now.com.au/after-the-verdict",
+    "id": 137831,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-09-14",
+    "last_episode_to_air": {
+        "id": 3872110,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "air_date": "2022-09-14",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 137831,
+        "still_path": "/4tefjrYw4WkqHky5WSB1s5Oj3zm.jpg"
+    },
+    "name": "After the Verdict",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 66,
+            "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+            "name": "Nine Network",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "After the Verdict",
+    "overview": "As they return to normal life, four very different Australians who have just finished jury duty on a high-profile murder trial begin to question their verdict and take matters into their own hands, investigating the murder themselves as they juggle the pressures and impacts on their personal lives.",
+    "popularity": 6.565,
+    "poster_path": "/eb1RD2AKCCAeoo2ckoF8U92oqva.jpg",
+    "production_companies": [
+        {
+            "id": 163728,
+            "logo_path": null,
+            "name": "Subtext Pictures",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-10",
+            "episode_count": 6,
+            "id": 218146,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eb1RD2AKCCAeoo2ckoF8U92oqva.jpg",
+            "season_number": 1,
+            "vote_average": 8.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Have they set a killer free?",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 10,
+    "season_data": {
+        "1": {
+            "_id": "6181b9a8ddd52d0026b1f7f4",
+            "air_date": "2022-08-10",
+            "episodes": [
+                {
+                    "air_date": "2022-08-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3319581,
+                    "name": "Episode 1",
+                    "overview": "After their verdict of 'not guilty', four jurors on a murder trial wonder if they made a terrible mistake. Have they let a killer walk free?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/kzUDGLCjKCdVh11prYMwfCRBtuk.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62ad84430d9f5a00531c0e98",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 141690,
+                            "known_for_department": "Writing",
+                            "name": "Ellie Beaumont",
+                            "original_name": "Ellie Beaumont",
+                            "popularity": 0.324,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62ad84476f31af03a65b2701",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1523800,
+                            "known_for_department": "Writing",
+                            "name": "Drew Proffitt",
+                            "original_name": "Drew Proffitt",
+                            "popularity": 0.068,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62f3d9fba24232007a6dda88",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1501094,
+                            "known_for_department": "Directing",
+                            "name": "Peter Salmon",
+                            "original_name": "Peter Salmon",
+                            "popularity": 0.417,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Trish",
+                            "credit_id": "62f3d81f813cb6007b35105c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1252834,
+                            "known_for_department": "Acting",
+                            "name": "Virginia Gay",
+                            "original_name": "Virginia Gay",
+                            "popularity": 2.997,
+                            "profile_path": "/d3J26kKKUBTnxJEO59KmQCMJmSn.jpg"
+                        },
+                        {
+                            "character": "Dom",
+                            "credit_id": "62f3d82bc5ada5008ac52ed0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 990513,
+                            "known_for_department": "Acting",
+                            "name": "Richard Brancatisano",
+                            "original_name": "Richard Brancatisano",
+                            "popularity": 2.643,
+                            "profile_path": "/7s5YaNL4o2UnISWkKOwBzTYUIr8.jpg"
+                        },
+                        {
+                            "character": "Eliza",
+                            "credit_id": "62f3d835b39e35008f76308c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2945925,
+                            "known_for_department": "Acting",
+                            "name": "Emma Diaz",
+                            "original_name": "Emma Diaz",
+                            "popularity": 0.359,
+                            "profile_path": "/ApQnD5TRP5onXNd7HzE4AjOrPPt.jpg"
+                        },
+                        {
+                            "character": "Paul",
+                            "credit_id": "62f3d8466f31af007a3f8bda",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 119818,
+                            "known_for_department": "Acting",
+                            "name": "Nicholas Brown",
+                            "original_name": "Nicholas Brown",
+                            "popularity": 0.927,
+                            "profile_path": "/v1FPnpfquoxth9OrW2P5IfDK4Uj.jpg"
+                        },
+                        {
+                            "character": "Belinda",
+                            "credit_id": "62f3d850c5ada5008ac52eda",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 123881,
+                            "known_for_department": "Acting",
+                            "name": "Raelee Hill",
+                            "original_name": "Raelee Hill",
+                            "popularity": 3.098,
+                            "profile_path": "/f39HoiFQYMR4mep7BmM6XHeiBIa.jpg"
+                        },
+                        {
+                            "character": "Detective Sarti",
+                            "credit_id": "62f3d8650b5fd6007f767cd8",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 520367,
+                            "known_for_department": "Acting",
+                            "name": "Hazem Shammas",
+                            "original_name": "Hazem Shammas",
+                            "popularity": 0.818,
+                            "profile_path": "/11vkJ1epsADyJn4Fu7QLv4tB4PC.jpg"
+                        },
+                        {
+                            "character": "Tamara",
+                            "credit_id": "62f3d873813cb600806e779e",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3615123,
+                            "known_for_department": "Acting",
+                            "name": "Vivienne Awosoga",
+                            "original_name": "Vivienne Awosoga",
+                            "popularity": 1.726,
+                            "profile_path": "/3oY52v2I2Mqohst9w2NpiVEtMzF.jpg"
+                        },
+                        {
+                            "character": "Anita Lang",
+                            "credit_id": "62f3d881813cb6007b351079",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1192653,
+                            "known_for_department": "Acting",
+                            "name": "Sonia Todd",
+                            "original_name": "Sonia Todd",
+                            "popularity": 1.626,
+                            "profile_path": "/usqjD1qKjVmKXB7ik1TfZyIm6IS.jpg"
+                        },
+                        {
+                            "character": "Vincent Lang",
+                            "credit_id": "62f3d88ec5ada5007d56c8b6",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1238148,
+                            "known_for_department": "Acting",
+                            "name": "Michael Beckley",
+                            "original_name": "Michael Beckley",
+                            "popularity": 0.589,
+                            "profile_path": "/vhjZRmWmudJny3JNbBKpoWDFutZ.jpg"
+                        },
+                        {
+                            "character": "Mandy",
+                            "credit_id": "62f3d899fea6e3009135c894",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658552,
+                            "known_for_department": "Acting",
+                            "name": "Randa Sayed",
+                            "original_name": "Randa Sayed",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Mia",
+                            "credit_id": "62f3d8a3880c92007f184c68",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658553,
+                            "known_for_department": "Acting",
+                            "name": "Holly Leonard",
+                            "original_name": "Holly Leonard",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jamie",
+                            "credit_id": "62f3d8ae6f31af00916d0df7",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658554,
+                            "known_for_department": "Acting",
+                            "name": "Hudson Fisher",
+                            "original_name": "Hudson Fisher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Geoff",
+                            "credit_id": "62f3d8c2a242320082f93c6b",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3073679,
+                            "known_for_department": "Acting",
+                            "name": "Josh Price",
+                            "original_name": "Josh Price",
+                            "popularity": 0.009,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Principal Carter",
+                            "credit_id": "62f3d8d1fea6e3007d07de11",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3059595,
+                            "known_for_department": "Acting",
+                            "name": "Annie Davis-McCubbin",
+                            "original_name": "Annie Davis-McCubbin",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Defence Barrister",
+                            "credit_id": "62f3d8e26f31af007a3f8bff",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 88369,
+                            "known_for_department": "Acting",
+                            "name": "Dina Gillespie",
+                            "original_name": "Dina Gillespie",
+                            "popularity": 2.017,
+                            "profile_path": "/3fkPmvqtKJanV5PnDBqi1BxaEfH.jpg"
+                        },
+                        {
+                            "character": "Reporter",
+                            "credit_id": "62f3d8f2db72c00091a4ec62",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658556,
+                            "known_for_department": "Acting",
+                            "name": "Elouise Eftos",
+                            "original_name": "Elouise Eftos",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Crown Prosecutor",
+                            "credit_id": "62f3d9030b5fd6007c5271ef",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3603240,
+                            "known_for_department": "Acting",
+                            "name": "Martin Ashley Jones",
+                            "original_name": "Martin Ashley Jones",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Juror No. 5",
+                            "credit_id": "62f3d917880c92007af0401b",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2829072,
+                            "known_for_department": "Acting",
+                            "name": "Lawrence Ola",
+                            "original_name": "Lawrence Ola",
+                            "popularity": 0.736,
+                            "profile_path": "/jg4ifgahNXsKWW9ztsmtAM4dn4A.jpg"
+                        },
+                        {
+                            "character": "Court Officer",
+                            "credit_id": "62f3d9261f748b0084885f2e",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658558,
+                            "known_for_department": "Acting",
+                            "name": "Suzy Devery",
+                            "original_name": "Suzy Devery",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Waiter",
+                            "credit_id": "62f3d936594c94007aa631f2",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3298035,
+                            "known_for_department": "Acting",
+                            "name": "Badaidilaga Maftuh-Flynn",
+                            "original_name": "Badaidilaga Maftuh-Flynn",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Detective Mills",
+                            "credit_id": "62f3d9456f31af00916d0e25",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658559,
+                            "known_for_department": "Acting",
+                            "name": "Brielle Flynn",
+                            "original_name": "Brielle Flynn",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Fighter",
+                            "credit_id": "62f3d953594c94007f47f615",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3658560,
+                            "known_for_department": "Acting",
+                            "name": "Neil Cummings",
+                            "original_name": "Neil Cummings",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Judge",
+                            "credit_id": "62f3d963fea6e3009135c8e9",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2193097,
+                            "known_for_department": "Acting",
+                            "name": "Keith Stribling",
+                            "original_name": "Keith Stribling",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3872105,
+                    "name": "Episode 2",
+                    "overview": "Clara sees accused killer Heidi in a new light when they are both targeted by a dangerous stalker. Daniel's secretive behaviour takes a deadly twist.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/1wSolTaMDcVdytgKMXhDNevojmD.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3872106,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/lQ2L5kJe8wG0wt7yPlTsxYLLP1F.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3872108,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/v8nAP2SXPZhVdZB5Eko9ubnsChN.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3872109,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/iAgKl52IQ36SupNNnMfEVHiBmH4.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-14",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3872110,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137831,
+                    "still_path": "/4tefjrYw4WkqHky5WSB1s5Oj3zm.jpg",
+                    "vote_average": 8.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 218146,
+            "poster_path": "/eb1RD2AKCCAeoo2ckoF8U92oqva.jpg",
+            "season_number": 1,
+            "vote_average": 8.3
+        }
+    }
+}

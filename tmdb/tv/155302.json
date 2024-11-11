@@ -1,0 +1,157 @@
+{
+    "adult": false,
+    "backdrop_path": "/i16tVXqK6OSuDnVUpZTdH5K22a6.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        47
+    ],
+    "first_air_date": "2022-01-09",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/the-killer-nanny-did-she-do-it",
+    "id": 155302,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-01-11",
+    "last_episode_to_air": {
+        "id": 3440222,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-01-11",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 155302,
+        "still_path": null
+    },
+    "name": "The Killer Nanny: Did She Do It?",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Killer Nanny: Did She Do It?",
+    "overview": "Series re-examining the evidence from British au pair Louise Woodward's murder trial 25 years ago. Includes unprecedented access to witnesses, the defence team, the prosecution and members of the jury who decided her fate.",
+    "popularity": 1.556,
+    "poster_path": "/exX1NaYFPq5X3KuW27g83MIljyD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-09",
+            "episode_count": 3,
+            "id": 239360,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/exX1NaYFPq5X3KuW27g83MIljyD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "61dbcf7fa199a600420e4cfc",
+            "air_date": "2022-01-09",
+            "episodes": [
+                {
+                    "air_date": "2022-01-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3440220,
+                    "name": "Episode 1",
+                    "overview": "With exclusive access to the prosecution team, the paramedic who treated Matthew and the investigating detective, we piece together why they believe Louise Woodward shook Matthew Eappen to death.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 155302,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3440221,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 155302,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-11",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3440222,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 155302,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 239360,
+            "poster_path": "/exX1NaYFPq5X3KuW27g83MIljyD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

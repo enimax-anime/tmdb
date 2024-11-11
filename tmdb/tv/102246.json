@@ -1,0 +1,213 @@
+{
+    "adult": false,
+    "backdrop_path": "/oRc5RoOcCExVuBfE7f0xaJmDlgW.jpg",
+    "created_by": [
+        {
+            "id": 1816597,
+            "credit_id": "5ea5849f3faba0001e471c90",
+            "name": "Rik Reinholdtsen",
+            "original_name": "Rik Reinholdtsen",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        37
+    ],
+    "first_air_date": "2020-04-20",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81032347",
+    "id": 102246,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-04-20",
+    "last_episode_to_air": {
+        "id": 2234244,
+        "name": "Comfort Food to High Cuisine",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-04-20",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 33,
+        "season_number": 1,
+        "show_id": 102246,
+        "still_path": "/y6yk6G06hrCkzBZpalvQgTNbDWj.jpg"
+    },
+    "name": "Cooked With Cannabis",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cooked With Cannabis",
+    "overview": "Cooking competition where the aim is to get the show's hosts high by infusing cannabis in their meals.",
+    "popularity": 4.53,
+    "poster_path": "/jyQ2DISRo2KjzJB8pQEGG4PCRlz.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-04-20",
+            "episode_count": 6,
+            "id": 148506,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jyQ2DISRo2KjzJB8pQEGG4PCRlz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.2,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "5e9d6e80f6fd18001de681eb",
+            "air_date": "2020-04-20",
+            "episodes": [
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2234236,
+                    "name": "Grilled Backyard BBQ",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/nI3aGufMBzTqYzdvfMp97uGF3N8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2234239,
+                    "name": "Global Eats",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 36,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/hmQQvaL48HPgxh6jUm60h1lApch.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2234241,
+                    "name": "\"I Do\" Cannabis",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/nJ5YHIRabRJZqODFVK5Jzuslbku.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2234242,
+                    "name": "Futurist Food",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/vEKiWZOdkhABzeTrJANktwyCIEt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2234243,
+                    "name": "High Holidays",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/vexwA4e4aGVS9iPL2o0hJndRqQi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2234244,
+                    "name": "Comfort Food to High Cuisine",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 102246,
+                    "still_path": "/y6yk6G06hrCkzBZpalvQgTNbDWj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 148506,
+            "poster_path": "/jyQ2DISRo2KjzJB8pQEGG4PCRlz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

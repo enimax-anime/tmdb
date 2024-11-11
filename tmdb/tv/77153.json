@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2017-11-23",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.travelchannel.com/shows/top-of-the-world",
+    "id": 77153,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-11-30",
+    "last_episode_to_air": {
+        "id": 1433474,
+        "name": "Alaska",
+        "overview": "From a mountain cabin in the middle of a glacier to one-of-a-kind crystal blue ice caves, the most unusual vantage points in Alaska's untamed wilderness are revealed.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-11-30",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 77153,
+        "still_path": null
+    },
+    "name": "Top of the World",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 209,
+            "logo_path": "/8SwN81R7P5vD5mhtOE0taw5mji4.png",
+            "name": "Travel Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Top of the World",
+    "overview": "Unique views and the stories behind them are highlighted at some of the most gorgeous and epic locations around the world. From unusual vantage points to once-in-a-lifetime panoramic views, each spot offers an immersive, thrilling experience.",
+    "popularity": 0.589,
+    "poster_path": "/lwbGOjNC5eTIHR1WHIwzc0NCpCb.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-11-23",
+            "episode_count": 2,
+            "id": 99435,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lwbGOjNC5eTIHR1WHIwzc0NCpCb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a85848d0e0a2652ab020119",
+            "air_date": "2017-11-23",
+            "episodes": [
+                {
+                    "air_date": "2017-11-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1433473,
+                    "name": "Hawaii",
+                    "overview": "From the top of the Aloha Tower to the bottom of Molokini Crater, the very best views on Hawaii's eight islands of paradise are explored.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 77153,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-30",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 1433474,
+                    "name": "Alaska",
+                    "overview": "From a mountain cabin in the middle of a glacier to one-of-a-kind crystal blue ice caves, the most unusual vantage points in Alaska's untamed wilderness are revealed.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 77153,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 99435,
+            "poster_path": "/lwbGOjNC5eTIHR1WHIwzc0NCpCb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/9B3EeKn22rWcCSaSbyZ9jkkZnam.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-01-07",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.channel5.com/show/new-york",
+    "id": 156300,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-01-21",
+    "last_episode_to_air": {
+        "id": 3468018,
+        "name": "World's Biggest City",
+        "overview": "New York City is home to the biggest of everything from seeded bagels to skyscrapers. Uptown, the Pierre, with 189 rooms, suites and luxury apartments and 600 staff, is one of the fanciest hotels.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-01-21",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 156300,
+        "still_path": "/9xN4UtRCNZ8RrjLthyGW8hRSk4v.jpg"
+    },
+    "name": "New York: The City That Never Sleeps",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 99,
+            "logo_path": "/bMuKs6xuhI0GHSsq4WWd9FsntUN.png",
+            "name": "Channel 5",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "New York: The City That Never Sleeps",
+    "overview": "Kim Cattrall narrates this documentary taking a look at the people, places and events that make up The Big Apple.",
+    "popularity": 1.715,
+    "poster_path": "/eHRYMsNQmd6RhrKm3vMtBRStQj9.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-01-07",
+            "episode_count": 3,
+            "id": 241387,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "61f00ec0d11e0e006c5e1aac",
+            "air_date": "2022-01-07",
+            "episodes": [
+                {
+                    "air_date": "2022-01-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3467998,
+                    "name": "World's Richest City",
+                    "overview": "The colourful array of people, places and events that make up the Big Apple. In the first episode of this landmark series, we explore the eye-watering wealth on show in the Big Apple and delve into the ways that the city's 8.5 million population like to spend it.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 156300,
+                    "still_path": "/dMrQrT9Br4wTNkcuKTf7Tqvw8SH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3468015,
+                    "name": "World's Busiest City",
+                    "overview": "The Big Apple contains a population of large wealth and there are many ways to spend it. Busy is what New York does. 24/7, crowds rush from Brooklyn to the Bronx and from Staten Island to SoHo. And with that rush comes vast networks of services that support the city.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 156300,
+                    "still_path": "/pyRdmbxLecNyPIiqG0urE7hyXp9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-21",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3468018,
+                    "name": "World's Biggest City",
+                    "overview": "New York City is home to the biggest of everything from seeded bagels to skyscrapers. Uptown, the Pierre, with 189 rooms, suites and luxury apartments and 600 staff, is one of the fanciest hotels.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 156300,
+                    "still_path": "/9xN4UtRCNZ8RrjLthyGW8hRSk4v.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 241387,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

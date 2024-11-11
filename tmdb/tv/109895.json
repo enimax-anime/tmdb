@@ -1,0 +1,343 @@
+{
+    "adult": false,
+    "backdrop_path": "/dRWTSUN5G7i4FMl7xYpJQgRubnh.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2020-09-06",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.rte.ie/tv/programmes/1161816-the-south-westerlies/",
+    "id": 109895,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-10-11",
+    "last_episode_to_air": {
+        "id": 2446544,
+        "name": "Windswept",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-10-11",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 109895,
+        "still_path": "/weNI0AXDrDurhpS4LHnfaKTwe5t.jpg"
+    },
+    "name": "The South Westerlies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 155,
+            "logo_path": "/2kjTvhfxtXLnHspCUZQ9cv9gToV.png",
+            "name": "RTÉ One",
+            "origin_country": "IE"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IE"
+    ],
+    "original_language": "en",
+    "original_name": "The South Westerlies",
+    "overview": "Environmental consultant Kate Ryan goes undercover in a small town to quell objections to a wind farm. But Kate has a complicated history with Carrigeen. Soon after arriving with her son, she runs into an ex-friend and an old flame and realizes her task won't be a breeze.",
+    "popularity": 2.135,
+    "poster_path": "/3scmuffObMQj7VohOy7yWJ1Zkyh.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-09-06",
+            "episode_count": 6,
+            "id": 162838,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3scmuffObMQj7VohOy7yWJ1Zkyh.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5f6087213f7e1d0034945f2a",
+            "air_date": "2020-09-06",
+            "episodes": [
+                {
+                    "air_date": "2020-09-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2428314,
+                    "name": "Little White Lie",
+                    "overview": "For single working mother Kate, tasked with going undercover to bring the wind farm project home, her eco-battle is compounded by the return of a crinkly-eyed surfer with a resemblance to her teenage son Conor.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/fEAgZHaprj7aK1x2c2Q9mFLINNC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Noreen",
+                            "credit_id": "65c80335a93d2501844c2e37",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 70685,
+                            "known_for_department": "Acting",
+                            "name": "Ger Ryan",
+                            "original_name": "Ger Ryan",
+                            "popularity": 1.758,
+                            "profile_path": "/4fHO7Ogf9SEkg0HfDUhEwQ30AW1.jpg"
+                        },
+                        {
+                            "character": "Callum",
+                            "credit_id": "65c803879451e701637aa696",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 201914,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Ryan",
+                            "original_name": "Kevin Ryan",
+                            "popularity": 0.674,
+                            "profile_path": "/rHb9s9LmUY0PaL6DD0btXaGu0yA.jpg"
+                        },
+                        {
+                            "character": "Big Mike",
+                            "credit_id": "65c8039654a09801630143e3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 29459,
+                            "known_for_department": "Acting",
+                            "name": "Patrick Bergin",
+                            "original_name": "Patrick Bergin",
+                            "popularity": 7.892,
+                            "profile_path": "/oLVUHx6pj1djR39L3gG9lZ4PdcJ.jpg"
+                        },
+                        {
+                            "character": "Sigrid",
+                            "credit_id": "65c803a69451e701847b6233",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4529563,
+                            "known_for_department": "Acting",
+                            "name": "Amalie Krogh",
+                            "original_name": "Amalie Krogh",
+                            "popularity": 0.021,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Morten",
+                            "credit_id": "65c803d7aaec71019b58b500",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 76553,
+                            "known_for_department": "Acting",
+                            "name": "Kyrre Haugen Sydness",
+                            "original_name": "Kyrre Haugen Sydness",
+                            "popularity": 2.421,
+                            "profile_path": "/6x0c1xQTvnpbd2hqXSk97rVokcZ.jpg"
+                        },
+                        {
+                            "character": "Arvid",
+                            "credit_id": "65c803e254a09801840222fe",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 107701,
+                            "known_for_department": "Acting",
+                            "name": "Ingar Helge Gimle",
+                            "original_name": "Ingar Helge Gimle",
+                            "popularity": 1.3,
+                            "profile_path": "/1wNiK1L4N8u4VN8YnejHo4Mj2uW.jpg"
+                        },
+                        {
+                            "character": "Teddy",
+                            "credit_id": "65c803ef98f1f10183d7b7df",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 83674,
+                            "known_for_department": "Acting",
+                            "name": "Stephen Lord",
+                            "original_name": "Stephen Lord",
+                            "popularity": 2.068,
+                            "profile_path": "/wnKNxMJUJwej8dPhn2KKmCtlrNL.jpg"
+                        },
+                        {
+                            "character": "Stefan",
+                            "credit_id": "65c80407b6cff10185a5de9d",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1529408,
+                            "known_for_department": "Acting",
+                            "name": "Julian M. Deuster",
+                            "original_name": "Julian M. Deuster",
+                            "popularity": 0.779,
+                            "profile_path": "/1u5D3wc0TL1HTrBDp5by7VwAay3.jpg"
+                        },
+                        {
+                            "character": "Danny",
+                            "credit_id": "65c80661a93d2501634b5a77",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1210794,
+                            "known_for_department": "Acting",
+                            "name": "Paddy C Courtney",
+                            "original_name": "Paddy C Courtney",
+                            "popularity": 0.603,
+                            "profile_path": "/9yCikXYXN5wThA5s9WAUcMOVWxT.jpg"
+                        },
+                        {
+                            "character": "Brenda",
+                            "credit_id": "65c8067754a098014900a0b9",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1428976,
+                            "known_for_department": "Acting",
+                            "name": "Tara Flynn",
+                            "original_name": "Tara Flynn",
+                            "popularity": 1.545,
+                            "profile_path": "/17gBs4aux2NcnMvf3DK5UKUFttn.jpg"
+                        },
+                        {
+                            "character": "Receptionist",
+                            "credit_id": "65c806bae4b576017d152464",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4529566,
+                            "known_for_department": "Acting",
+                            "name": "Morten Haugen",
+                            "original_name": "Morten Haugen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-09-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2428315,
+                    "name": "No Word of a Lie",
+                    "overview": "Kate attempts to change hearts and minds before a key Town Hall vote, while worrying about Conor’s growing friendship with Baz.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/zIfTFgCYOyslHJOzh5O9WXNHgLR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2446540,
+                    "name": "Surf's Up",
+                    "overview": "The surprise arrival of NorskVentus boss Sigrid puts further pressure on Kate, while a surfing accident forces her to reveal her Big Lie to Baz.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/lWGAIpOHiyEdGYgO1z6gWsiBXWV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2446541,
+                    "name": "Out in the Open",
+                    "overview": "Kate's mother Goldie arrives and pushes Kate to tell Conor about his father, but as Kate continues to prevaricate, a shocked Conor discovers the truth for himself.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/xGhQhRq20rVTXqFatuRgfNIGFMb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2446543,
+                    "name": "Home Truths",
+                    "overview": "Kate discovers who's behind an oil pipeline ear-marked for Carrigeen Bay, but at the town's end-of-summer BBQ, an unexpected accusation floors Kate entirely.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/aCKPJmnxmY5U4lZ1TckSsmkyiAb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-11",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2446544,
+                    "name": "Windswept",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 109895,
+                    "still_path": "/weNI0AXDrDurhpS4LHnfaKTwe5t.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 162838,
+            "poster_path": "/3scmuffObMQj7VohOy7yWJ1Zkyh.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

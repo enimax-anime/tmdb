@@ -1,0 +1,176 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        50,
+        120
+    ],
+    "first_air_date": "2017-11-20",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "",
+    "id": 86096,
+    "in_production": true,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2018-11-19",
+    "last_episode_to_air": {
+        "id": 1680368,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-11-19",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 86096,
+        "still_path": null
+    },
+    "name": "The Wall",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 537,
+            "logo_path": "/XQOHFLRIHe4qEsIG6pdiJIlPhT.png",
+            "name": "Canale 5",
+            "origin_country": "IT"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "The Wall",
+    "overview": "",
+    "popularity": 0.75,
+    "poster_path": "/p7TiiN1y0CXoNv5hvvUXr8FkEvf.jpg",
+    "production_companies": [
+        {
+            "id": 113774,
+            "logo_path": "/nSeqwmy9llGSEl3qFxj1zODzMm2.png",
+            "name": "EndemolShine Italy",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-15",
+            "episode_count": 4,
+            "id": 117344,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-11-20",
+            "episode_count": 1,
+            "id": 117342,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2018-11-19",
+            "episode_count": 1,
+            "id": 117343,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5c4718abc3a368477a86138c",
+            "air_date": "2017-11-20",
+            "episodes": [
+                {
+                    "air_date": "2017-11-20",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1680363,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 86096,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 117342,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5c471aabc3a3686634828586",
+            "air_date": "2018-11-19",
+            "episodes": [
+                {
+                    "air_date": "2018-11-19",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1680368,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 86096,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 117343,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

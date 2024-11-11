@@ -1,0 +1,840 @@
+{
+    "adult": false,
+    "backdrop_path": "/6mtckKQpbLughrBxztop4HY5XXM.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2024-03-12",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81614129",
+    "id": 245926,
+    "in_production": false,
+    "languages": [
+        "en",
+        "ja",
+        "ru",
+        "uk"
+    ],
+    "last_air_date": "2024-03-12",
+    "last_episode_to_air": {
+        "id": 5134407,
+        "overview": "Russia invades Georgia and Ukraine, putting Putin under intense scrutiny. While disinformation thrives, threats of nuclear war persist.",
+        "name": "We Are Not Dead Yet",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-03-12",
+        "episode_number": 9,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 72,
+        "season_number": 1,
+        "show_id": 245926,
+        "still_path": "/gesRIJ7rT3skFzKKcuOl9pdCaw4.jpg"
+    },
+    "name": "Turning Point: The Bomb and the Cold War",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Turning Point: The Bomb and the Cold War",
+    "overview": "With firsthand accounts and access to prominent figures around the world, this comprehensive docuseries explores the Cold War and its aftermath.",
+    "popularity": 30.184,
+    "poster_path": "/5XBYN5Sb0yBvvodwr8fJa7iyuo2.jpg",
+    "production_companies": [
+        {
+            "id": 17444,
+            "logo_path": null,
+            "name": "Luminant Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-03-12",
+            "episode_count": 9,
+            "id": 378224,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5XBYN5Sb0yBvvodwr8fJa7iyuo2.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "Ukrainian",
+            "iso_639_1": "uk",
+            "name": "Український"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.778,
+    "vote_count": 18,
+    "season_data": {
+        "1": {
+            "_id": "65c5a6b9dbcade017b6fbafe",
+            "air_date": "2024-03-12",
+            "episodes": [
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5134386,
+                    "name": "The Sun Came Up Tremendous",
+                    "overview": "During World War II, the US begins to work on a top-secret project that results in the atomic bombings on Japan — and a global conflict lasting decades.",
+                    "production_code": "",
+                    "runtime": 79,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/x5xwHKwDlmy8TUndwCRx6TU1w6m.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5ba2fb97442017dfad2b3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 120578,
+                            "known_for_department": "Acting",
+                            "name": "Franklin D. Roosevelt",
+                            "original_name": "Franklin D. Roosevelt",
+                            "popularity": 4.068,
+                            "profile_path": "/jUNpoeappi9cc29JqEZe25rTU6b.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5ba593009aa017e110d8c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1247141,
+                            "known_for_department": "Acting",
+                            "name": "Harry S. Truman",
+                            "original_name": "Harry S. Truman",
+                            "popularity": 1.456,
+                            "profile_path": "/n4SZGM76DQ2ENMCgtakK3KOrC2v.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5ba9be039f1014a02b7f5",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10279,
+                            "known_for_department": "Acting",
+                            "name": "Adolf Hitler",
+                            "original_name": "Adolf Hitler",
+                            "popularity": 4.691,
+                            "profile_path": "/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bac71e259a01634cc6b5",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1317625,
+                            "known_for_department": "Acting",
+                            "name": "Albert Einstein",
+                            "original_name": "Albert Einstein",
+                            "popularity": 3.654,
+                            "profile_path": "/d6jZbDseFCdkQhLbKck8RjqPMck.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5badde039f10164036a79",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 994271,
+                            "known_for_department": "Acting",
+                            "name": "Joseph Stalin",
+                            "original_name": "Иосиф Сталин",
+                            "popularity": 8.15,
+                            "profile_path": "/hrb1AMgA37rebCsPKK3lpJvclLi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5134399,
+                    "name": "Poisoning the Soil",
+                    "overview": "As communism takes off in Russia and China, Joseph Stalin begins his ruthless reign and the Soviet Union enters an era of terror.",
+                    "production_code": "",
+                    "runtime": 64,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/b9s1u4rIUqwcrK2cj0ti4WEgcVV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5134401,
+                    "name": "Institutional Insanity",
+                    "overview": "Preparing for war against the Soviet Union, the US starts to test thermonuclear weapons. The CIA forms and interferes with global politics.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/8dtzoScqpb346qtfrTiQZVM9mIg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5134402,
+                    "name": "The Wall",
+                    "overview": "The US and Soviet Union get caught in a nuclear arms race. A wall divides Berlin. John F. Kennedy looks for a peaceful solution after a crisis in Cuba.",
+                    "production_code": "",
+                    "runtime": 66,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/3eazdRmYDhFrrwp9BVV28plkm3x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5134403,
+                    "name": "War Games",
+                    "overview": "With both sides planning for the worst-case scenario, Ronald Reagan and Mikhail Gorbachev find common ground. Tragedy strikes after a nuclear disaster.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/vr7y21Y5SVYqiYWhbJiDcIUDrHH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5134404,
+                    "name": "Empire Is Untenable",
+                    "overview": "The USSR's grasp on Eastern Europe weakens as the Berlin Wall comes down and the Communist Party mounts a coup against a prominent Soviet Union leader.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/dbRwKMiL5T5TZSj3UdqGuMMU0vG.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65f5be353c3ab0017dd03c8e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1189929,
+                            "known_for_department": "Acting",
+                            "name": "Condoleezza Rice",
+                            "original_name": "Condoleezza Rice",
+                            "popularity": 4.768,
+                            "profile_path": "/66iXDVu5m64UfFMsBNyMK4BXY9d.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bf613c3ab0017dd03d42",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 230551,
+                            "known_for_department": "Acting",
+                            "name": "Mikhail Gorbachev",
+                            "original_name": "Mikhail Gorbachev",
+                            "popularity": 5.736,
+                            "profile_path": "/kiKZ3XR760LyBZ8YvNdZf6EFFzl.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5c02ce039f1017d0466cf",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 46432,
+                            "known_for_department": "Acting",
+                            "name": "George H. W. Bush",
+                            "original_name": "George H. W. Bush",
+                            "popularity": 3.403,
+                            "profile_path": "/skB35M0jMrXfnY8mshwSh8ShCf0.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f8266528723c0130b70a58",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18802,
+                            "known_for_department": "Acting",
+                            "name": "Ronald Reagan",
+                            "original_name": "Ronald Reagan",
+                            "popularity": 6.239,
+                            "profile_path": "/tuB7bNPABSP3MtPKpdttbz2OdSU.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f8269818b751017ef72fa3",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1040841,
+                            "known_for_department": "Acting",
+                            "name": "Pope John Paul II",
+                            "original_name": "Pope John Paul II",
+                            "popularity": 2.122,
+                            "profile_path": "/dQmMDHDU7O3iMkowtAjizD6xPoY.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f82742903c52016528b3c2",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 30790,
+                            "known_for_department": "Acting",
+                            "name": "Egon Krenz",
+                            "original_name": "Egon Krenz",
+                            "popularity": 2.091,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f8279d594c94017c3a1cee",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2606026,
+                            "known_for_department": "Acting",
+                            "name": "Günter Schabowski",
+                            "original_name": "Günter Schabowski",
+                            "popularity": 0.418,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5134405,
+                    "name": "The End of History",
+                    "overview": "A new Russian leader emerges, and the republics seek independence. As the Soviet Union dissolves, several powers sign a landmark treaty on nuclear arms.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/mlwzJYEvMhtiFn5tUbFcNeOVOV2.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc27156cc7014b611721",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1004584,
+                            "known_for_department": "Acting",
+                            "name": "Vladimir Putin",
+                            "original_name": "Vladimir Putin",
+                            "popularity": 6.254,
+                            "profile_path": "/2KAiDj7MtlhXWmdELym9wQuRJCa.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bcf4156cc701646185ee",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1123304,
+                            "known_for_department": "Acting",
+                            "name": "Boris Yeltsin",
+                            "original_name": "Борис Ельцин",
+                            "popularity": 1.964,
+                            "profile_path": "/40l5VHgltE2T0ncVOgnn6NHxLp7.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bd9dd4d509017dac0f30",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 116341,
+                            "known_for_department": "Acting",
+                            "name": "Bill Clinton",
+                            "original_name": "Bill Clinton",
+                            "popularity": 7.159,
+                            "profile_path": "/aOSAwUHkTYdcVrl5MdOzuGRluTm.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65f5be353c3ab0017dd03c8e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1189929,
+                            "known_for_department": "Acting",
+                            "name": "Condoleezza Rice",
+                            "original_name": "Condoleezza Rice",
+                            "popularity": 4.768,
+                            "profile_path": "/66iXDVu5m64UfFMsBNyMK4BXY9d.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bf293fe160017dc638b1",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081001,
+                            "known_for_department": "Acting",
+                            "name": "Helmut Kohl",
+                            "original_name": "Helmut Kohl",
+                            "popularity": 3.367,
+                            "profile_path": "/uRT8rVHBxnrfVI0VVi6IQpY1kSn.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bf613c3ab0017dd03d42",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 230551,
+                            "known_for_department": "Acting",
+                            "name": "Mikhail Gorbachev",
+                            "original_name": "Mikhail Gorbachev",
+                            "popularity": 5.736,
+                            "profile_path": "/kiKZ3XR760LyBZ8YvNdZf6EFFzl.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5c02ce039f1017d0466cf",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 46432,
+                            "known_for_department": "Acting",
+                            "name": "George H. W. Bush",
+                            "original_name": "George H. W. Bush",
+                            "popularity": 3.403,
+                            "profile_path": "/skB35M0jMrXfnY8mshwSh8ShCf0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5134406,
+                    "name": "Moscow Will Not Be Silent",
+                    "overview": "Russia struggles to find a national identity as Vladimir Putin comes to power. With the Cold War in the rearview, a war on terror begins.",
+                    "production_code": "",
+                    "runtime": 64,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/wxW106wuHocRthQFwxavRYDI6oS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc27156cc7014b611721",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1004584,
+                            "known_for_department": "Acting",
+                            "name": "Vladimir Putin",
+                            "original_name": "Vladimir Putin",
+                            "popularity": 6.254,
+                            "profile_path": "/2KAiDj7MtlhXWmdELym9wQuRJCa.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc7cd4a68b016628ce80",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 216674,
+                            "known_for_department": "Acting",
+                            "name": "Hillary Clinton",
+                            "original_name": "Hillary Clinton",
+                            "popularity": 4.906,
+                            "profile_path": "/67D6LJgwfbF0baKknUx6OPIoVlu.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bcf4156cc701646185ee",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1123304,
+                            "known_for_department": "Acting",
+                            "name": "Boris Yeltsin",
+                            "original_name": "Борис Ельцин",
+                            "popularity": 1.964,
+                            "profile_path": "/40l5VHgltE2T0ncVOgnn6NHxLp7.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bd3fd4a68b016628cefa",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 19011,
+                            "known_for_department": "Acting",
+                            "name": "George W. Bush",
+                            "original_name": "George W. Bush",
+                            "popularity": 4.151,
+                            "profile_path": "/6u9fUB5p0ugbMrPoQ5GF7baERiA.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bd9dd4d509017dac0f30",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 116341,
+                            "known_for_department": "Acting",
+                            "name": "Bill Clinton",
+                            "original_name": "Bill Clinton",
+                            "popularity": 7.159,
+                            "profile_path": "/aOSAwUHkTYdcVrl5MdOzuGRluTm.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65f5be123fe160017dc637af",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146687,
+                            "known_for_department": "Acting",
+                            "name": "Tony Blair",
+                            "original_name": "Tony Blair",
+                            "popularity": 2.624,
+                            "profile_path": "/8d2ImyiI2fNSFW365FHsSmsfDvW.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65f5be353c3ab0017dd03c8e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1189929,
+                            "known_for_department": "Acting",
+                            "name": "Condoleezza Rice",
+                            "original_name": "Condoleezza Rice",
+                            "popularity": 4.768,
+                            "profile_path": "/66iXDVu5m64UfFMsBNyMK4BXY9d.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65f5be923009aa017e110ffb",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3556655,
+                            "known_for_department": "Acting",
+                            "name": "Viktor Yushchenko",
+                            "original_name": "Viktor Yushchenko",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5beb93c3ab00164d02cc7",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1890110,
+                            "known_for_department": "Acting",
+                            "name": "Viktor Yanukovich",
+                            "original_name": "Viktor Yanukovich",
+                            "popularity": 0.308,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-03-12",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 5134407,
+                    "name": "We Are Not Dead Yet",
+                    "overview": "Russia invades Georgia and Ukraine, putting Putin under intense scrutiny. While disinformation thrives, threats of nuclear war persist.",
+                    "production_code": "",
+                    "runtime": 72,
+                    "season_number": 1,
+                    "show_id": 245926,
+                    "still_path": "/gesRIJ7rT3skFzKKcuOl9pdCaw4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "65c5a8032d531a0184c5ddd6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1102384,
+                            "known_for_department": "Production",
+                            "name": "Brian Knappenberger",
+                            "original_name": "Brian Knappenberger",
+                            "popularity": 3.331,
+                            "profile_path": "/vtF6lzSRBCF44v9ySPSA7OS0Vrq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65f051e47f054001878667fa",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 139459,
+                            "known_for_department": "Acting",
+                            "name": "Volodymyr Zelenskyy",
+                            "original_name": "Владимир Зеленский",
+                            "popularity": 6.648,
+                            "profile_path": "/jRFhTaLY4QOYPDQCunI3TfhJM7V.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc27156cc7014b611721",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1004584,
+                            "known_for_department": "Acting",
+                            "name": "Vladimir Putin",
+                            "original_name": "Vladimir Putin",
+                            "popularity": 6.254,
+                            "profile_path": "/2KAiDj7MtlhXWmdELym9wQuRJCa.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc333fe1600164c57c1a",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 66620,
+                            "known_for_department": "Acting",
+                            "name": "Angela Merkel",
+                            "original_name": "Angela Merkel",
+                            "popularity": 2.178,
+                            "profile_path": "/fjlqfSwhiRpwgsEtzJ8X004NpBw.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc7cd4a68b016628ce80",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 216674,
+                            "known_for_department": "Acting",
+                            "name": "Hillary Clinton",
+                            "original_name": "Hillary Clinton",
+                            "popularity": 4.906,
+                            "profile_path": "/67D6LJgwfbF0baKknUx6OPIoVlu.jpg"
+                        },
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "65f5bc840f2fbd0164c12d35",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 33663,
+                            "known_for_department": "Acting",
+                            "name": "Donald Trump",
+                            "original_name": "Donald Trump",
+                            "popularity": 14.258,
+                            "profile_path": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 378224,
+            "poster_path": "/5XBYN5Sb0yBvvodwr8fJa7iyuo2.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    }
+}

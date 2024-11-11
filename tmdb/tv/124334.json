@@ -1,0 +1,225 @@
+{
+    "adult": false,
+    "backdrop_path": "/2SgIDuk2qqaUpZIjjwfpE2M0Lab.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        38
+    ],
+    "first_air_date": "2021-05-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://cnncreativemarketing.com/project/soln/",
+    "id": 124334,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-06-06",
+    "last_episode_to_air": {
+        "id": 2909362,
+        "name": "Reinventing Late Night",
+        "overview": "Jimmy Fallon, Stephen Colbert and Trevor Noah follow in Leno, Letterman, and Stewart’s footsteps and new hosts James Corden, Seth Meyers, Amber Ruffin, and Desus + Mero confront Donald Trump – and COVID-19.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-06-06",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 38,
+        "season_number": 1,
+        "show_id": 124334,
+        "still_path": "/qBGMenOvw8owmFXsmNdxXLVnC3H.jpg"
+    },
+    "name": "The Story of Late Night",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 59,
+            "logo_path": "/2EIKV6SomKx8L52HoSViKyJO87m.png",
+            "name": "CNN",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Story of Late Night",
+    "overview": "A six-part docuseries that takes viewers on a journey through late-night television’s most memorable moments. Spanning a more than 60-year history of engaging with, adapting to and influencing our rapidly changing society, late-night television has grown into a thriving entertainment phenomenon and vitally important cultural institution.",
+    "popularity": 5.193,
+    "poster_path": "/jblpDO3u7xyP0arjCrQ8hDQWovK.jpg",
+    "production_companies": [
+        {
+            "id": 29605,
+            "logo_path": "/bSjv2Cinm8LoadffAngaQek4WLW.png",
+            "name": "CNN Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-02",
+            "episode_count": 6,
+            "id": 192561,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jblpDO3u7xyP0arjCrQ8hDQWovK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "6088199bcabfe40056131fda",
+            "air_date": "2021-05-02",
+            "episodes": [
+                {
+                    "air_date": "2021-05-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2909347,
+                    "name": "Inventing Late Night",
+                    "overview": "Steve Allen’s zany spontaneity turns “Tonight” into an unexpected hit, but it’s Jack Paar and Johnny Carson that transform late night into an enduring television staple.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/aJK7fRO4kAeRBnMNeK3FB1LRSXK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2909348,
+                    "name": "Carson: King of Late Night",
+                    "overview": "Johnny Carson deftly navigates the turbulent 1960s to elevate “The Tonight Show” and become the undisputed king of late night.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/iuy9MQW9pkquZwWi5vjnbNQCR4p.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2909350,
+                    "name": "Eyes on the Throne",
+                    "overview": "As the 1980s dawn, David Letterman reinvents late night for a new generation and endless speculation begins on who will be Johnny Carson’s eventual successor.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/aNUoK6Km19B7sUQJO80sYiWHMsf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2909352,
+                    "name": "Letterman V. Leno",
+                    "overview": "Carson’s 1992 retirement touches a nation – and touches off an epic late-night war between Jay Leno and David Letterman.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/4c2XJjacri5zTGM4UybJEfywMOE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-30",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2909358,
+                    "name": "Late Night Makes The News",
+                    "overview": "As the 2000s unfold, diverse voices like Chelsea Handler and George Lopez get their seat behind the late-night desk, while Jon Stewart and Stephen Colbert take the news into their own hilarious hands.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/pzV0h7DqJlbyvCpOaCCDts6PmTO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-06",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2909362,
+                    "name": "Reinventing Late Night",
+                    "overview": "Jimmy Fallon, Stephen Colbert and Trevor Noah follow in Leno, Letterman, and Stewart’s footsteps and new hosts James Corden, Seth Meyers, Amber Ruffin, and Desus + Mero confront Donald Trump – and COVID-19.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 124334,
+                    "still_path": "/qBGMenOvw8owmFXsmNdxXLVnC3H.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "66dbf5e97542731bcb342724",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2073292,
+                            "known_for_department": "Acting",
+                            "name": "Alexandria Ocasio-Cortez",
+                            "original_name": "Alexandria Ocasio-Cortez",
+                            "popularity": 2.72,
+                            "profile_path": "/zRCSdgQZQ1r4HODKi8VDu3oS8O8.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 192561,
+            "poster_path": "/jblpDO3u7xyP0arjCrQ8hDQWovK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

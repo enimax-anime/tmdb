@@ -1,0 +1,385 @@
+{
+    "adult": false,
+    "backdrop_path": "/hPCzkdQkICzxmgngjUe5IB6gcrP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2022-12-13",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/shows/sampled/",
+    "id": 215456,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2022-12-13",
+    "last_episode_to_air": {
+        "id": 4081771,
+        "name": "Born to Die in Berlin",
+        "overview": "Rapper GoldLink heads to Berlin for his first show in two years. Local journalist and creative Cloudy Zakrocki shows him an unexpected side to the city as they explore its culture of transformation.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-12-13",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 215456,
+        "still_path": "/9iNmLtUiqWahDBf2GO7J6Rzbjto.jpg"
+    },
+    "name": "Sampled",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4330,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Sampled",
+    "overview": "Sampled takes you on tour with world famous musicians as they explore a new city in the days leading up to their show. See the raw, exclusive and unfiltered side to these cities through their eyes, as they're guided by local artists and creatives.",
+    "popularity": 1.925,
+    "poster_path": "/f94Il1IDjCe29EyOF0j83x0ERy8.jpg",
+    "production_companies": [
+        {
+            "id": 6329,
+            "logo_path": "/inqnY5MWKZ2HnFR9xOUvfP7fwqk.png",
+            "name": "MTV Entertainment Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 26186,
+            "logo_path": "/vtNy80cTERKwGvh0JknduL7Srgf.png",
+            "name": "3 Ball Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-13",
+            "episode_count": 6,
+            "id": 318199,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f94Il1IDjCe29EyOF0j83x0ERy8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Travel like a rock star. Live like a local.",
+    "type": "Documentary",
+    "vote_average": 2,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6387f6bb229ae21581185725",
+            "air_date": "2022-12-13",
+            "episodes": [
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4081762,
+                    "name": "Anarchy in the UK",
+                    "overview": "Marc \"Loop Daddy\" Rebillet storms London with DJ and BBC host Carly Wilford. Champagne flows as they channel the rebellious energy that fuels this city as it re-emerges from years of lockdowns and political turmoil.",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/wPIzm2125USDRNHj46pTJoVXlSg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63986633a0f1a200873a405b",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3829046,
+                            "known_for_department": "Acting",
+                            "name": "Marc Rebillet",
+                            "original_name": "Marc Rebillet",
+                            "popularity": 1.731,
+                            "profile_path": "/vZ5TpdGQXIH1Ocfv9A2KiA8a2ys.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "639866ee79b3d4008adced0d",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3829049,
+                            "known_for_department": "Acting",
+                            "name": "Carly Wilford",
+                            "original_name": "Carly Wilford",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4081767,
+                    "name": "Amsterdammed",
+                    "overview": "Tinashe kicks off her European tour in Amsterdam, where she links up with local DJ and producer Cesqeaux. Together they explore the wild diversity and eclectic culture of his hometown, avoiding the stereotypical spots for a more real, raw experience.",
+                    "production_code": "",
+                    "runtime": 20,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/j5inSY8uNLyBJ1ez8Y2mLqkLXe6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6398676ea1a9ba00e2084181",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 206100,
+                            "known_for_department": "Acting",
+                            "name": "Tinashe",
+                            "original_name": "Tinashe",
+                            "popularity": 1.687,
+                            "profile_path": "/5v77984NLoSW91Gj1JCvsUyViJX.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "6398678bd05a0300f85af279",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3829050,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Tuparia",
+                            "original_name": "Daniel Tuparia",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4081768,
+                    "name": "Tokyo Calling",
+                    "overview": "Amidst her first international headline tour, Arlo Parks finds herself in the deep cultural waters of Tokyo. Guided by local DJ Sarasa, she's immersed in the blend of old and new that makes the city such a beautiful enigma.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/xMmGGJre7iUG0ud8EAJbGRbdnpY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "639869b9a1a9ba00e20842c2",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2860511,
+                            "known_for_department": "Acting",
+                            "name": "Arlo Parks",
+                            "original_name": "Arlo Parks",
+                            "popularity": 2.985,
+                            "profile_path": "/lQmFgJQjNGaIYcFjahr06wcb4XF.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63986a95d05a03007d5a5e56",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3829062,
+                            "known_for_department": "Acting",
+                            "name": "Sarasa",
+                            "original_name": "Sarasa",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4081769,
+                    "name": "Mi Gente",
+                    "overview": "Bas and the \"Dreamville\" crew stop for a long layover in Medellin, where prolific singer-songwriter Vince \"Vibarco\" Jimenez takes them on a deeply personal ride through the vibrant and colorful culture that has flourished in the post-narco era.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/qGyftrSB7PIMwOz5gwlsXGwSO9r.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63986b2ed05a030085cc5b3b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1561903,
+                            "known_for_department": "Acting",
+                            "name": "Abbas Hamad",
+                            "original_name": "Abbas Hamad",
+                            "popularity": 0.382,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63986b422cefc20084b64932",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3829068,
+                            "known_for_department": "Acting",
+                            "name": "Vince Jimenez",
+                            "original_name": "Vince Jimenez",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4081770,
+                    "name": "El Corrido de Monterrey",
+                    "overview": "EDM prodigy NGHTMRE meets up with long-time friend and fellow DJ, Americo Garcia, aka Boombox Cartel, in his hometown Monterrey. Together they set out on a taco-fueled 48 hours in one of Mexico's most underrated cities.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/lvwNiplUTfuGgqmlncbYjd8ND0C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6387f97dfb834600cb225c8f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3809405,
+                            "known_for_department": "Acting",
+                            "name": "Tyler Marenyi",
+                            "original_name": "Tyler Marenyi",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63987193d05a03007d5a61cd",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3829100,
+                            "known_for_department": "Acting",
+                            "name": "Americo Garcia",
+                            "original_name": "Americo Garcia",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-13",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4081771,
+                    "name": "Born to Die in Berlin",
+                    "overview": "Rapper GoldLink heads to Berlin for his first show in two years. Local journalist and creative Cloudy Zakrocki shows him an unexpected side to the city as they explore its culture of transformation.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 215456,
+                    "still_path": "/9iNmLtUiqWahDBf2GO7J6Rzbjto.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63986d338a88b200c4e337ca",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3829079,
+                            "known_for_department": "Acting",
+                            "name": "D'Anthony William Carlos",
+                            "original_name": "D'Anthony William Carlos",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63986efba1a9ba007dfa0ff5",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3829087,
+                            "known_for_department": "Acting",
+                            "name": "Cloudy Zackrocki",
+                            "original_name": "Cloudy Zackrocki",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 318199,
+            "poster_path": "/f94Il1IDjCe29EyOF0j83x0ERy8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

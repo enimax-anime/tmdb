@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        59
+    ],
+    "first_air_date": "2022-05-16",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0017frp",
+    "id": 202288,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-05-23",
+    "last_episode_to_air": {
+        "id": 3728872,
+        "name": "Going Big",
+        "overview": "In the concluding episode of the series, Jim encounters ever larger cosmic structures to reveal the latest breakthroughs in our understanding of the universe. For example, there's the heliosphere, a vast cloud of solar plasma that surrounds and protects the solar system. Its unique physics help us understand why life is possible. Larger still, Jim comes face to face with our galactic home the Milky Way, a monstrous structure sculpted by the gravitational forces of dark matter. Jim finds out from pioneering researcher Adrian Fabian about the black hole at its centre, whose strange behaviour includes emitting the lowest note that can be heard in the cosmos.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-05-23",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 59,
+        "season_number": 1,
+        "show_id": 202288,
+        "still_path": "/wQuCAFeAKgUpTbqes306Oscd4JX.jpg"
+    },
+    "name": "Secrets of Size: Atoms to Supergalaxies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 100,
+            "logo_path": "/AgsOSxGvfxIonhPgrfkWCmsOKfA.png",
+            "name": "BBC Four",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Secrets of Size: Atoms to Supergalaxies",
+    "overview": "In this mind-bending series, Jim Al-Khalili explores the vast range of size in the universe, from tiny atoms to gigantic, interconnected galaxies.",
+    "popularity": 0.742,
+    "poster_path": "/6in1aNxtiaJxcAy1e63q8X8fWHq.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-16",
+            "episode_count": 2,
+            "id": 294242,
+            "name": "Season 1",
+            "overview": "In this mind-bending series, Jim Al-Khalili explores the vast range of size in the universe, from tiny atoms to gigantic, interconnected galaxies.",
+            "poster_path": "/6in1aNxtiaJxcAy1e63q8X8fWHq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "62852d39f10a1a009daf9f01",
+            "air_date": "2022-05-16",
+            "episodes": [
+                {
+                    "air_date": "2022-05-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3728871,
+                    "name": "Going Small",
+                    "overview": "What would the universe look like if you were a billion times smaller or a billion times bigger? In this mind-bending series, Jim Al-Khalili will look at the universe across its vast range of size, ranging from the tiniest objects measuring just a few atoms, to vast structures consisting of hundreds of thousands of interconnected galaxies. Investigating these astonishing objects will reveal fundamental truths about our universe. At the end of each film, the audience will see the largest structures ever discovered in the universe and the smallest objects whose images scientists have managed to capture to date.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 202288,
+                    "still_path": "/yro20GRzWNyR8AIkNBxxVK6sZU0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-23",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3728872,
+                    "name": "Going Big",
+                    "overview": "In the concluding episode of the series, Jim encounters ever larger cosmic structures to reveal the latest breakthroughs in our understanding of the universe. For example, there's the heliosphere, a vast cloud of solar plasma that surrounds and protects the solar system. Its unique physics help us understand why life is possible. Larger still, Jim comes face to face with our galactic home the Milky Way, a monstrous structure sculpted by the gravitational forces of dark matter. Jim finds out from pioneering researcher Adrian Fabian about the black hole at its centre, whose strange behaviour includes emitting the lowest note that can be heard in the cosmos.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 202288,
+                    "still_path": "/wQuCAFeAKgUpTbqes306Oscd4JX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "In this mind-bending series, Jim Al-Khalili explores the vast range of size in the universe, from tiny atoms to gigantic, interconnected galaxies.",
+            "id": 294242,
+            "poster_path": "/6in1aNxtiaJxcAy1e63q8X8fWHq.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

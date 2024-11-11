@@ -1,0 +1,167 @@
+{
+    "adult": false,
+    "backdrop_path": "/nC4sNDh1JWSpfxYs2OKMpbBei1h.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-05-16",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m00053gc",
+    "id": 219506,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-06-05",
+    "last_episode_to_air": {
+        "id": 4202403,
+        "name": "Episode 4",
+        "overview": "As they enter the final leg of this unique 21-day experiment, have the daughters done enough to bridge an epic generation gap and bring them closer to their mums?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-06-05",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 1,
+        "show_id": 219506,
+        "still_path": null
+    },
+    "name": "21 Again",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "21 Again",
+    "overview": "Five daughters send their mums undercover as 21-year-olds. From dating to working to activism, the mums will be immersed in their world. Can the mums pull off being 21 Again?",
+    "popularity": 1.646,
+    "poster_path": "/apzfTjl8pozxxE3tQEzgi6hv7k.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-05-16",
+            "episode_count": 4,
+            "id": 326859,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/apzfTjl8pozxxE3tQEzgi6hv7k.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "63d8e8afc15b5500843ccd1f",
+            "air_date": "2019-05-16",
+            "episodes": [
+                {
+                    "air_date": "2019-05-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4202396,
+                    "name": "Episode 1",
+                    "overview": "Five daughters send their mums undercover as 21-year-olds. From dating to working to activism, the mums will be immersed in their world. Can the mums pull off being 21 Again?",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 219506,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4202401,
+                    "name": "Episode 2",
+                    "overview": "In the second phase of the experiment, the girls pack their undercover mums off to work.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 219506,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4202402,
+                    "name": "Episode 3",
+                    "overview": "In the third phase of the experiment, the girls push their mums out of their comfort zone to challenge their ability to accept the differences in people that Generation Z celebrate",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 219506,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-05",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 4202403,
+                    "name": "Episode 4",
+                    "overview": "As they enter the final leg of this unique 21-day experiment, have the daughters done enough to bridge an epic generation gap and bring them closer to their mums?",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 219506,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 326859,
+            "poster_path": "/apzfTjl8pozxxE3tQEzgi6hv7k.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

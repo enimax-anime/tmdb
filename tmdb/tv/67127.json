@@ -1,0 +1,215 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-07-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 67127,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-08-14",
+    "last_episode_to_air": {
+        "id": 3586229,
+        "name": "The New Normal",
+        "overview": "Exploring the concept of what society considers normal when it comes to sex and gender.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-08-14",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 67127,
+        "still_path": null
+    },
+    "name": "Original Sin: Sex",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Original Sin: Sex",
+    "overview": "The sexual revolution is alive and thriving. National Geographic Channel examines a once-taboo subject that is now impacting every aspect of society, from pop culture and science to politics and social interaction. The six-part series explores how sex is increasingly permeating contemporary cultures around the world, shaping lives by becoming more visible via the Internet, advertising, education and the media. Archival footage, animation, interviews and re-creations help uncover surprising ways sex impacts humanity and how societal conditions have changed over the past 50 years.",
+    "popularity": 9.224,
+    "poster_path": "/b0bzMGW63zzumeb3GmNBkls2x4j.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "TR",
+            "name": "Turkey"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-10",
+            "episode_count": 6,
+            "id": 78548,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.2,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "578bbdbb9251417aca0099f0",
+            "air_date": "2016-07-10",
+            "episodes": [
+                {
+                    "air_date": "2016-07-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3586222,
+                    "name": "Hi-Tech Sex",
+                    "overview": "Learning about the technologies revolutionizing people's relationship with sex.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-07-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1206447,
+                    "name": "Government in the Bedroom",
+                    "overview": "Lawmakers try to regulate humanity's most intimate behavior.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-07-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1217313,
+                    "name": "Sex Ed Wars",
+                    "overview": "Explore the controversial and shocking history of sex education.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-07-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3586227,
+                    "name": "Sex Scandals",
+                    "overview": "Exploring the phenomenon of political sex scandals and how they captivate public interest.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self (archive footage)",
+                            "credit_id": "64af2e108a0e9b00c6cdb0ba",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3685021,
+                            "known_for_department": "Acting",
+                            "name": "Larry Craig",
+                            "original_name": "Larry Craig",
+                            "popularity": 0.6,
+                            "profile_path": "/ofO8UIoDAngT9HJNwcZMxkiBkm8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-08-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3586228,
+                    "name": "Sex in Advertising",
+                    "overview": "Exploring the progression of sexualized images in advertising and how they impact culture.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-08-14",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3586229,
+                    "name": "The New Normal",
+                    "overview": "Exploring the concept of what society considers normal when it comes to sex and gender.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67127,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 78548,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

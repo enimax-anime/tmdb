@@ -1,0 +1,541 @@
+{
+    "adult": false,
+    "backdrop_path": "/u77gG8vAVuMH5hjzW8NVF3C2nPo.jpg",
+    "created_by": [
+        {
+            "id": 151783,
+            "credit_id": "64c7ccc863e6fb00e12bdd08",
+            "name": "Rhys Thomas",
+            "original_name": "Rhys Thomas",
+            "gender": 2,
+            "profile_path": "/joF4nC6kd48h6YfvpCbo8e867eC.jpg"
+        }
+    ],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2022-02-06",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p0bh0ftr",
+    "id": 157188,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-12-03",
+    "last_episode_to_air": {
+        "id": 5194540,
+        "name": "Coronation",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-12-03",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 157188,
+        "still_path": null
+    },
+    "name": "Dodger",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 15,
+            "logo_path": "/9O6hVu6gePt7097QdqKxxSF9Suh.png",
+            "name": "CBBC",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Dodger",
+    "overview": "Dodger follows the exploits of the infamous pickpocket, The Artful Dodger, and Fagin's gang as they find ingenious ways to survive the grim and exploitative conditions of early Victorian London in the 1830s.",
+    "popularity": 5.801,
+    "poster_path": "/MCKeKnxttu8tAZ08nqTpeGR3ZJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": null,
+            "episode_count": 4,
+            "id": 321000,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-02-06",
+            "episode_count": 10,
+            "id": 243046,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/MCKeKnxttu8tAZ08nqTpeGR3ZJ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-11-27",
+            "episode_count": 4,
+            "id": 382330,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "62013350cf4b8b00e0b80846",
+            "air_date": "2022-02-06",
+            "episodes": [
+                {
+                    "air_date": "2022-02-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3492036,
+                    "name": "Runaways",
+                    "overview": "Twelve-year-old orphan Jack Dawkins escapes a mill owner’s clutches. With the help of new friend Charley, they make it to London, where they first meet Fagin’s infamous gang.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/56zGOa2W4BtWMkCxfG1IaJCAkGN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Queen Victoria",
+                            "credit_id": "62143b7f0929f60069ae59e8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1731959,
+                            "known_for_department": "Acting",
+                            "name": "Tanya Reynolds",
+                            "original_name": "Tanya Reynolds",
+                            "popularity": 15.788,
+                            "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3492037,
+                    "name": "Waxworks",
+                    "overview": "Gang member Tom returns to find his bed taken by the new boy, while a dangerous money-making opportunity arises at the unveiling of Madame Tussaud’s Queen Victoria waxwork.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/bZVvcew9SRe9PZwW5lRtuj2tsZz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Sally",
+                            "credit_id": "62143b6a0929f60043a48262",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3102394,
+                            "known_for_department": "Acting",
+                            "name": "Sabrina Sandhu",
+                            "original_name": "Sabrina Sandhu",
+                            "popularity": 0.003,
+                            "profile_path": "/2uFYhRTZ0EEpIQJLHdunRwF5hDT.jpg"
+                        },
+                        {
+                            "character": "Queen Victoria",
+                            "credit_id": "62143b7f0929f60069ae59e8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1731959,
+                            "known_for_department": "Acting",
+                            "name": "Tanya Reynolds",
+                            "original_name": "Tanya Reynolds",
+                            "popularity": 15.788,
+                            "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+                        },
+                        {
+                            "character": "Otis",
+                            "credit_id": "647606fadd25890120060370",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2840940,
+                            "known_for_department": "Sound",
+                            "name": "Travis Jones",
+                            "original_name": "Travis Jones",
+                            "popularity": 0.001,
+                            "profile_path": "/40WmVubPLb35PFokUKKq5RRZhaZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3492038,
+                    "name": "Imposter",
+                    "overview": "A new scam is afoot as Dodger disguises himself as a posh lost boy in order to get in with a well-to-do family - the question is, will Dodger’s conscience get the best of him?",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/1hwHeY1Odj2p1s6VFyIzqxORPuI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3492039,
+                    "name": "Mudlarks",
+                    "overview": "Charley falls into the hands of the riverside-dwelling ‘mudlarks’ and is sent on a dangerous mission by the truly terrifying Lucifer.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/8G88QaiyA9NpGOaoPBYCADrBXuD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Lucifer",
+                            "credit_id": "63ff33b9cf62cd009d19a261",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 83701,
+                            "known_for_department": "Acting",
+                            "name": "Alex Kingston",
+                            "original_name": "Alex Kingston",
+                            "popularity": 12.887,
+                            "profile_path": "/ql1s3xla8hkYQl3dQNjENes9WHM.jpg"
+                        },
+                        {
+                            "character": "Henry Fox Talbot",
+                            "credit_id": "66692b81f4e3558fb0aa14b2",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1010912,
+                            "known_for_department": "Acting",
+                            "name": "Tim Downie",
+                            "original_name": "Tim Downie",
+                            "popularity": 10.416,
+                            "profile_path": "/xKf9s2T4NP4B8YLsgZSQYcWSVx6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3492040,
+                    "name": "Phantom",
+                    "overview": "Fagin’s gang fight to save Tang’s life, Dodger scores a leading role at a haunted theatre, whilst Polly strikes a questionable deal with the enemy.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/dmpeGv14jRYUSe3IKU1S4Dd2dXX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kemble Charle",
+                            "credit_id": "63d003078dbc3300c61d885f",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2281601,
+                            "known_for_department": "Acting",
+                            "name": "Clive Carter",
+                            "original_name": "Clive Carter",
+                            "popularity": 0.01,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-13",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3492041,
+                    "name": "Mummy",
+                    "overview": "Dodger encounters a ‘mummy unrolling’ - a posh craze in Victorian times - and reckons it’s too good an opportunity to be missed - think of all the pockets to be picked!",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/cMo6GxJsXHQD0dgdNBtMJGOgfmx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-13",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3492042,
+                    "name": "Nancy",
+                    "overview": "Dodger and the gang return to the lair to find that they have had a break in. As they creep in expecting the worst, the gang are relieved to discover it’s long-term gang member Nancy.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/ibSDl43LG4q7luryNQutthCaH4c.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-13",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3492043,
+                    "name": "Carnival",
+                    "overview": "Rossini’s Carnival is in town. It’s a grubby, cheap affair run with an iron fist by Mr. and Madame Rossini. With the intention of picking some distracted pockets the gang and Nancy are there amongst the coconut shies and jugglers.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/klqG9MBUigmKrm0oSCoJudZootu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-13",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3492044,
+                    "name": "Dosh",
+                    "overview": "Fagin has a new venture printing fake bank notes with a stolen money machine, which leads to a shocking betrayal – could this finally mean the gallows?",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/5YbUtLM4QNGNxkxTIYXE9gePRBk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-13",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 3604045,
+                    "name": "Revenge",
+                    "overview": "As the police close in, the end-game unfolds, culminating in an unexpected reunion, two fateful betrayals, a dramatic demise - and a gang member cast adrift…",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 157188,
+                    "still_path": "/4h8W2xCKkhYVaviRFY3Kw9lK2Ld.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Queen Victoria",
+                            "credit_id": "62143b7f0929f60069ae59e8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1731959,
+                            "known_for_department": "Acting",
+                            "name": "Tanya Reynolds",
+                            "original_name": "Tanya Reynolds",
+                            "popularity": 15.788,
+                            "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+                        },
+                        {
+                            "character": "Prince Albert",
+                            "credit_id": "624332242cde9800865df549",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3091617,
+                            "known_for_department": "Acting",
+                            "name": "Aron von Andrian",
+                            "original_name": "Aron von Andrian",
+                            "popularity": 1.949,
+                            "profile_path": "/zK7lumC8gfsldg9rtLS42RzxJ4u.jpg"
+                        },
+                        {
+                            "character": "Farmer Grundles",
+                            "credit_id": "6243323a223a8b009424503f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 7321,
+                            "known_for_department": "Acting",
+                            "name": "John Thomson",
+                            "original_name": "John Thomson",
+                            "popularity": 4.867,
+                            "profile_path": "/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+                        },
+                        {
+                            "character": "Mrs Grundles",
+                            "credit_id": "62433249dfe31d005bc9bf8d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 85070,
+                            "known_for_department": "Acting",
+                            "name": "Lorraine Bruce",
+                            "original_name": "Lorraine Bruce",
+                            "popularity": 2.141,
+                            "profile_path": "/6qTQ9IId6gHbQeYNYmXsAJejrXe.jpg"
+                        },
+                        {
+                            "character": "Henry Fox Talbot",
+                            "credit_id": "66692b81f4e3558fb0aa14b2",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1010912,
+                            "known_for_department": "Acting",
+                            "name": "Tim Downie",
+                            "original_name": "Tim Downie",
+                            "popularity": 10.416,
+                            "profile_path": "/xKf9s2T4NP4B8YLsgZSQYcWSVx6.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 243046,
+            "poster_path": "/MCKeKnxttu8tAZ08nqTpeGR3ZJ.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "65e7cc94a6c1040187e8ae4e",
+            "air_date": "2022-11-27",
+            "episodes": [
+                {
+                    "air_date": "2022-11-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5194537,
+                    "name": "Train",
+                    "overview": "London's police are on alert; Dodger has returned. Reunited with his old mates, Fagin's gang try their boldest plan yet - a daring train robbery.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 157188,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5194538,
+                    "name": "Christmas",
+                    "overview": "On Christmas Eve Dodger attempts a kind-hearted deed for an old friend but has to break into 10 Downing Street. As he gets trapped there, the gang try to steal 200 geese.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 157188,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5194539,
+                    "name": "Bad Egg",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 157188,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5194540,
+                    "name": "Coronation",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 157188,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 382330,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

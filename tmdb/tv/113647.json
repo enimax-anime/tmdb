@@ -1,0 +1,175 @@
+{
+    "adult": false,
+    "backdrop_path": "/7NMPfpcNTmYNlntTJMZOq9IimfO.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2020-12-09",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81004466",
+    "id": 113647,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-12-09",
+    "last_episode_to_air": {
+        "id": 2551421,
+        "name": "Heart & Soul",
+        "overview": "After falling in love with the heart, Dr. Devi Shetty takes the next step to become a cardiac surgeon. Then a visit with Mother Teresa changes his life.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2020-12-09",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 53,
+        "season_number": 1,
+        "show_id": 113647,
+        "still_path": "/lkw6nqBaM0GxXwwmNt5DVM9KqJN.jpg"
+    },
+    "name": "The Surgeon's Cut",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Surgeon's Cut",
+    "overview": "They're philosophers, storytellers and pioneers in their fields. Four surgeons reflect on their lives and professions in this inspiring docuseries.",
+    "popularity": 4.893,
+    "poster_path": "/55m3YlPRpRiZ6owpDXy8iJyjUG9.jpg",
+    "production_companies": [
+        {
+            "id": 113381,
+            "logo_path": "/wuLsHAoN6X46X8sLL4RGfrHHSHg.png",
+            "name": "BBC Studios Science Unit",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-09",
+            "episode_count": 4,
+            "id": 169951,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/37d0osDeoOpPuGp1EM1hKHZgsp3.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.68,
+    "vote_count": 50,
+    "season_data": {
+        "1": {
+            "_id": "5fbcfac335c30a0041548627",
+            "air_date": "2020-12-09",
+            "episodes": [
+                {
+                    "air_date": "2020-12-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2527318,
+                    "name": "Saving Life Before Birth",
+                    "overview": "An innovative, compassionate fetal medicine specialist, Dr. Kypros Nicolaides guides his patients through emotionally fraught pregnancy complications.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 113647,
+                    "still_path": "/9SYLQCS9ymuCAx7znGCdWIGTJTT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2551418,
+                    "name": "Sacred Brain",
+                    "overview": "Opening the skull is sacred. Dr. Alfredo Quiñones-Hinojosa narrates his journey, steeped in metaphor, from migrant farmworker to premier neurosurgeon.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 113647,
+                    "still_path": "/9jOIwthZDN816MfhKA7VkUoKhdR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2551420,
+                    "name": "Living Donor",
+                    "overview": "Shaped by horror films, feminism and an intellectually rigorous family, Dr. Nancy Ascher makes history as the first woman to perform a liver transplant.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 113647,
+                    "still_path": "/xwA8PGtce9CPrH9rSxHNtecu80v.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-09",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2551421,
+                    "name": "Heart & Soul",
+                    "overview": "After falling in love with the heart, Dr. Devi Shetty takes the next step to become a cardiac surgeon. Then a visit with Mother Teresa changes his life.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 113647,
+                    "still_path": "/lkw6nqBaM0GxXwwmNt5DVM9KqJN.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 169951,
+            "poster_path": "/37d0osDeoOpPuGp1EM1hKHZgsp3.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

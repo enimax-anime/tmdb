@@ -1,0 +1,713 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-06-30",
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://abc.go.com/shows/greatest-hits",
+    "id": 66937,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-08-04",
+    "last_episode_to_air": {
+        "id": 1211949,
+        "name": "Live Finale: 1980-2005",
+        "overview": "The Season 1 finale covers 1980-2005 and features Celine Dion (\"My Heart  Will Go On\"), Richard Marx (\"Don't Mean Nothing\"), Colin Hay (\"Down  Under\"), Adam Lambert (George Michael's \"Faith\") and Nelly (\"Ride Wit  Me\" and \"Hot in Herre\"). Also: a Whitney Houston tribute by Ariana  Grande; a hip-hop tribute by Flo Rida; collaborations by Sheryl Crow and  Kelsea Ballerini (\"All I Wanna Do\"), and Smash Mouth and Hunter Hayes  (\"All Star\").",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-08-04",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 66937,
+        "still_path": null
+    },
+    "name": "Greatest Hits",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2,
+            "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+            "name": "ABC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Greatest Hits",
+    "overview": "A music series featuring Hit-Makers of the 1980s, 1990s and 2000s with each episode highlighting a five-year period celebrating the biggest hits from that time. Each week, iconic music artists, as well as today's music chart-toppers, take the stage and perform the songs that defined the 1980s, 1990s and 2000s.",
+    "popularity": 5.128,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 18883,
+            "logo_path": null,
+            "name": "AEG Ehrlich Ventures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-06-30",
+            "episode_count": 6,
+            "id": 78140,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/aYA96NbV88wGa3YzTVWIG1xceP3.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5775fa53c3a368381a0001df",
+            "air_date": "2016-06-30",
+            "episodes": [
+                {
+                    "air_date": "2016-06-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1202843,
+                    "name": "1980-1985",
+                    "overview": "Chart toppers from 1980-1985 including performances by Pitbull, REO Speedwagon, Ray Parker, Jr., Jason Derulo, Kenny Loggins, Kim Carnes, Rick Springfield and Kool &amp; The Gang. Some of the greatest hits from the early '80s are showcased, including a duet with REO Speedwagon and Pitbull, and a special tribute to Michael Jackson performed by Jason Derulo.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "579d01df9251411217002d3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1142858,
+                            "known_for_department": "Directing",
+                            "name": "Leon Knoles",
+                            "original_name": "Leon Knoles",
+                            "popularity": 0.804,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "579cd742c3a368387000025e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1009740,
+                            "known_for_department": "Acting",
+                            "name": "Pitbull",
+                            "original_name": "Pitbull",
+                            "popularity": 4.008,
+                            "profile_path": "/zc5QAIekRKZ3shR3CdAQTmd1qLg.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd758c3a36837fa00025c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 192700,
+                            "known_for_department": "Acting",
+                            "name": "Ray Parker, Jr.",
+                            "original_name": "Ray Parker, Jr.",
+                            "popularity": 3.403,
+                            "profile_path": "/dkXMNlTeOJhxX7Y2oqWvNywP5FW.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd761c3a36828300005ac",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1452124,
+                            "known_for_department": "Acting",
+                            "name": "Jason Derulo",
+                            "original_name": "Jason Derulo",
+                            "popularity": 3.154,
+                            "profile_path": "/1RrnhKclqogqvRiaWZtip8HnKmM.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd76c92514106c8000252",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 172365,
+                            "known_for_department": "Acting",
+                            "name": "Kenny Loggins",
+                            "original_name": "Kenny Loggins",
+                            "popularity": 3.388,
+                            "profile_path": "/rd3pqnhJI2n1wDr3EP19V90412v.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd7759251417a080005ca",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1243844,
+                            "known_for_department": "Acting",
+                            "name": "Kim Carnes",
+                            "original_name": "Kim Carnes",
+                            "popularity": 1.254,
+                            "profile_path": "/zrMxB07aqqEiviZQmb6oQjnSRIe.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd77fc3a36837ea000265",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146572,
+                            "known_for_department": "Acting",
+                            "name": "Rick Springfield",
+                            "original_name": "Rick Springfield",
+                            "popularity": 6.767,
+                            "profile_path": "/rQeUcfwR1M8n51mRROeYLHHY7Gc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-07-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1204716,
+                    "name": "1995-2000",
+                    "overview": "The second half of the 1990s launched huge careers for the biggest names in pop, rap, hip-hop and rock music. This episode celebrates the greatest hits of the musical era from 1995-2000 with never-before-seen collaborations with Backstreet Boys &amp; Meghan Trainor, Coolio &amp; CeeLo Green, Jewel &amp; Tori Kelly, LL COOL J &amp; Wiz Khalifa and an unforgettable acoustic performance by Hanson.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "579d01df9251411217002d3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1142858,
+                            "known_for_department": "Directing",
+                            "name": "Leon Knoles",
+                            "original_name": "Leon Knoles",
+                            "popularity": 0.804,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "579cd7c7c3a36828300005d3",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1452128,
+                            "known_for_department": "Acting",
+                            "name": "Meghan Trainor",
+                            "original_name": "Meghan Trainor",
+                            "popularity": 2.986,
+                            "profile_path": "/1qf8FpC55eZGhVSW5a1aCJrJ6p5.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd7d0925141069c000280",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35549,
+                            "known_for_department": "Acting",
+                            "name": "Coolio",
+                            "original_name": "Coolio",
+                            "popularity": 2.923,
+                            "profile_path": "/2RXxdCB68Haao2O9Fq8NCRpFkFm.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd7d8c3a36837b200028c",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 458843,
+                            "known_for_department": "Acting",
+                            "name": "Cee Lo Green",
+                            "original_name": "Cee Lo Green",
+                            "popularity": 2.608,
+                            "profile_path": "/5ixrYpXoaHliLNDjak00kbhnmkl.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd7e3c3a36837fa000285",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 51860,
+                            "known_for_department": "Acting",
+                            "name": "Jewel",
+                            "original_name": "Jewel",
+                            "popularity": 1.961,
+                            "profile_path": "/2sNP5Jt83H1nKDCQwpv0I4eeMbA.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd7edc3a36837ea00028b",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1540615,
+                            "known_for_department": "Acting",
+                            "name": "Tori Kelly",
+                            "original_name": "Tori Kelly",
+                            "popularity": 3.379,
+                            "profile_path": "/jNKEWJf4FMac3yCK6jsM6TfFJG5.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd80892514106c8000287",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 36424,
+                            "known_for_department": "Acting",
+                            "name": "LL Cool J",
+                            "original_name": "LL Cool J",
+                            "popularity": 17.383,
+                            "profile_path": "/dpOHjasRJz7rk9CVutd6L9WnWTc.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd811c3a36837b200029c",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1025375,
+                            "known_for_department": "Acting",
+                            "name": "Wiz Khalifa",
+                            "original_name": "Wiz Khalifa",
+                            "popularity": 4.192,
+                            "profile_path": "/d8RHCg06AHAyX4F89pDLiCMOktb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-07-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1208812,
+                    "name": "1985 - 1990",
+                    "overview": "The summer party rages on into the musical era from 1985 -1990 with explosive performances by Bret Michaels, Kenny Loggins, Miguel, Wilson Phillips, Grace Potter and unforgettable collaborations with Chicago &amp; Aloe Blacc and Foreigner &amp; Fun's Nate Ruess. Music video vixen Tawny Kitaen makes a special appearance, as we take a look back at her memorable performance in White Snake's \"Here I Go Again\" music video.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "579d01df9251411217002d3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1142858,
+                            "known_for_department": "Directing",
+                            "name": "Leon Knoles",
+                            "original_name": "Leon Knoles",
+                            "popularity": 0.804,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "579cd76c92514106c8000252",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 172365,
+                            "known_for_department": "Acting",
+                            "name": "Kenny Loggins",
+                            "original_name": "Kenny Loggins",
+                            "popularity": 3.388,
+                            "profile_path": "/rd3pqnhJI2n1wDr3EP19V90412v.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd8b29251411b3600783c",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 18694,
+                            "known_for_department": "Acting",
+                            "name": "Bret Michaels",
+                            "original_name": "Bret Michaels",
+                            "popularity": 2.551,
+                            "profile_path": "/egofzwiLFJ9eoB2qLBRf92jsDz5.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd8ce925141063a000320",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1095260,
+                            "known_for_department": "Acting",
+                            "name": "Miguel",
+                            "original_name": "Miguel",
+                            "popularity": 0.039,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd8f9925141066e000335",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1057418,
+                            "known_for_department": "Acting",
+                            "name": "Grace Potter",
+                            "original_name": "Grace Potter",
+                            "popularity": 1.233,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd9139251411217002190",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1036174,
+                            "known_for_department": "Acting",
+                            "name": "Aloe Blacc",
+                            "original_name": "Aloe Blacc",
+                            "popularity": 2.948,
+                            "profile_path": "/omrVWsEh237RREqYCAZhoSSAInX.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd927c3a36855d200859e",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 931154,
+                            "known_for_department": "Acting",
+                            "name": "Nate Ruess",
+                            "original_name": "Nate Ruess",
+                            "popularity": 1.294,
+                            "profile_path": "/8JxgLCEeso1Bhvhbyxs73pmA0dO.jpg"
+                        },
+                        {
+                            "character": "Self - Foreigner",
+                            "credit_id": "5f15cedf3852020039d396ab",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 99277,
+                            "known_for_department": "Acting",
+                            "name": "Mick Jones",
+                            "original_name": "Mick Jones",
+                            "popularity": 0.598,
+                            "profile_path": "/9OiTjbpeLkrwWE5fvxmPrukqYv5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-07-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1208813,
+                    "name": "1990-1995",
+                    "overview": "The early 1990s produced iconic artists from a variety of genres that continue to hold their popularity today. The greatest hits from the 1990-1995 musical era are celebrated with timeless performances by Boyz II Men, En Vogue, Montell Jordan and Seal, including a duet featuring Bonnie Raitt and Andra Day performing an enthralling collaboration of their hit songs \"Love Sneaking Up On You\" and \"Rise Up.\" The episode also features Alessia Cara performing U2's \"One\" and Little Big Town performing Oasis' \"Wonderwall.\" Special appearances include Kim Fields and Victoria Rowell, as they reminisce about appearing in Boyz II Men's \"On Bended Knee\" music video.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "579d01df9251411217002d3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1142858,
+                            "known_for_department": "Directing",
+                            "name": "Leon Knoles",
+                            "original_name": "Leon Knoles",
+                            "popularity": 0.804,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "579cd96f925141069c000304",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 154214,
+                            "known_for_department": "Acting",
+                            "name": "Montell Jordan",
+                            "original_name": "Montell Jordan",
+                            "popularity": 1.555,
+                            "profile_path": "/nNBJqDsEAlJkLm1oth5UNoe7Pdy.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "579cd977c3a36837b200030d",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 131666,
+                            "known_for_department": "Acting",
+                            "name": "Seal",
+                            "original_name": "Seal",
+                            "popularity": 8.863,
+                            "profile_path": "/mc5nlZMOVz8FkuQ1v1y5WVZ7pto.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "579cd982925141069c000308",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 82270,
+                            "known_for_department": "Acting",
+                            "name": "Bonnie Raitt",
+                            "original_name": "Bonnie Raitt",
+                            "popularity": 4.073,
+                            "profile_path": "/lN2PD7LGsltMmZj03DpaVrd7gYJ.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "579cd990c3a36837ea00030f",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1658802,
+                            "known_for_department": "Acting",
+                            "name": "Andra Day",
+                            "original_name": "Andra Day",
+                            "popularity": 2.995,
+                            "profile_path": "/y0UZlV2tG3Gu1mmJm2Jhb9FWr4e.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "579cd99dc3a36828b1000626",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1658803,
+                            "known_for_department": "Acting",
+                            "name": "Alessia Cara",
+                            "original_name": "Alessia Cara",
+                            "popularity": 2.18,
+                            "profile_path": "/odWabHiA2DjYGGtlxhLwuHzmdOw.jpg"
+                        },
+                        {
+                            "character": "[En Vogue]",
+                            "credit_id": "64211ee268929c00bf13887e",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214167,
+                            "known_for_department": "Acting",
+                            "name": "Rhona Bennett",
+                            "original_name": "Rhona Bennett",
+                            "popularity": 2.148,
+                            "profile_path": "/gXklLHId6ojN4Z8rsAmnWNLgeQO.jpg"
+                        },
+                        {
+                            "character": "[En Vogue]",
+                            "credit_id": "64211efb5346610113079c9b",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1213361,
+                            "known_for_department": "Acting",
+                            "name": "Terry Ellis",
+                            "original_name": "Terry Ellis",
+                            "popularity": 2.514,
+                            "profile_path": "/kPHYmQbTeO26txSK6Rtg9mKRI8E.jpg"
+                        },
+                        {
+                            "character": "[En Vogue]",
+                            "credit_id": "64211f0808cf87007f389e9d",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1212699,
+                            "known_for_department": "Acting",
+                            "name": "Cindy Herron",
+                            "original_name": "Cindy Herron",
+                            "popularity": 1.553,
+                            "profile_path": "/sNnmUTJwB4uNl8UExyudMYlAkwK.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-07-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1210618,
+                    "name": "2000-2005",
+                    "overview": "The celebration continues with the greatest hits that kicked off the new millennium from 2000-2005. The episode features an attitude-charged tribute to Destiny's Child by Fifth Harmony and epic performances by Kelsea Ballerini and Little Big Town. Music fans can also expect to see extraordinary duets by Mario &amp; Zendaya, Lee Ann Womack &amp; Rachel Platten and Pat Monahan &amp; Kenny Loggins.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "579d01df9251411217002d3c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1142858,
+                            "known_for_department": "Directing",
+                            "name": "Leon Knoles",
+                            "original_name": "Leon Knoles",
+                            "popularity": 0.804,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Host",
+                            "credit_id": "579cda4592514106c800035d",
+                            "order": 0,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1658804,
+                            "known_for_department": "Acting",
+                            "name": "Kelsea Ballerini",
+                            "original_name": "Kelsea Ballerini",
+                            "popularity": 1.796,
+                            "profile_path": "/c7oIbaPIixaoglyRpR3qhggFDJ.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cd76c92514106c8000252",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 172365,
+                            "known_for_department": "Acting",
+                            "name": "Kenny Loggins",
+                            "original_name": "Kenny Loggins",
+                            "popularity": 3.388,
+                            "profile_path": "/rd3pqnhJI2n1wDr3EP19V90412v.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cda6a925141120b002357",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1216017,
+                            "known_for_department": "Acting",
+                            "name": "Lee Ann Womack",
+                            "original_name": "Lee Ann Womack",
+                            "popularity": 3.382,
+                            "profile_path": "/v0VPH7FnEF5kJNFA9JpJ6Ysz6y3.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cda73c3a36837b2000361",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1658805,
+                            "known_for_department": "Acting",
+                            "name": "Rachel Platten",
+                            "original_name": "Rachel Platten",
+                            "popularity": 1.02,
+                            "profile_path": "/kfyMnQC5kPCIEHtYEQSAFainuL8.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "579cda7c92514112170021fa",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 224335,
+                            "known_for_department": "Acting",
+                            "name": "Pat Monahan",
+                            "original_name": "Pat Monahan",
+                            "popularity": 4.488,
+                            "profile_path": "/9r7ee7UfwbbH8TbCIRgDWw85Qgv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-08-04",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1211949,
+                    "name": "Live Finale: 1980-2005",
+                    "overview": "The Season 1 finale covers 1980-2005 and features Celine Dion (\"My Heart  Will Go On\"), Richard Marx (\"Don't Mean Nothing\"), Colin Hay (\"Down  Under\"), Adam Lambert (George Michael's \"Faith\") and Nelly (\"Ride Wit  Me\" and \"Hot in Herre\"). Also: a Whitney Houston tribute by Ariana  Grande; a hip-hop tribute by Flo Rida; collaborations by Sheryl Crow and  Kelsea Ballerini (\"All I Wanna Do\"), and Smash Mouth and Hunter Hayes  (\"All Star\").",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66937,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 78140,
+            "poster_path": "/aYA96NbV88wGa3YzTVWIG1xceP3.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

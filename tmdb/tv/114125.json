@@ -1,0 +1,218 @@
+{
+    "adult": false,
+    "backdrop_path": "/x7DnPhPoUUGOuBUdPlLRhp5m68q.jpg",
+    "created_by": [
+        {
+            "id": 1651747,
+            "credit_id": "5fe8bca7b77d4b003ce6c15c",
+            "name": "Patrick DeLuca",
+            "original_name": "Patrick DeLuca",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2912505,
+            "credit_id": "5fe8bcb3df857c003f36eafd",
+            "name": "Emilie Firn",
+            "original_name": "Emilie Firn",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2912507,
+            "credit_id": "5fe8bcc2c9054f003e3a73b0",
+            "name": "Aaron Pope",
+            "original_name": "Aaron Pope",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2020-12-20",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 114125,
+    "in_production": true,
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "last_air_date": "2021-01-03",
+    "last_episode_to_air": {
+        "id": 2591397,
+        "name": "The Curse of West Virginia",
+        "overview": "Sam arrives in West Virginia to study the curse of the Mothman, but things go awry once he uncovers a web of disasters and dirty politics.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-01-03",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 114125,
+        "still_path": "/yD5OKqbnpuhPyClEdPHzCkKbtCu.jpg"
+    },
+    "name": "Atlas Of Cursed Places",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Atlas Of Cursed Places",
+    "overview": "Author and adventurer Sam Sheridan travels the globe in search of the most cursed places on Earth. Entrenching himself in macabre modern day culture, Sam explores the region's haunting history and fascinating folklore, employs cutting-edge science to illuminate the dangers of the curse, and paints a new and revealing portrait of a doomed place and the people who live there in the process.",
+    "popularity": 1.836,
+    "poster_path": "/lkHLo1CfQYqZDouj7C0aKg34vUI.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-20",
+            "episode_count": 5,
+            "id": 170927,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lkHLo1CfQYqZDouj7C0aKg34vUI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 4.2,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5fc8a082383df2003e569672",
+            "air_date": "2020-12-20",
+            "episodes": [
+                {
+                    "air_date": "2020-12-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2541351,
+                    "name": "The Curse of the Bermuda Triangle",
+                    "overview": "Sam dives deep to get to the bottom of the curse of the Bermuda Triangle, a stretch of ocean where people disappear without explanation. Or do they?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 114125,
+                    "still_path": "/6mqS1tlz4WdvZcFRaRw4XQvUfev.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2591394,
+                    "name": "The Curse of Vlad the Impaler",
+                    "overview": "Sam investigates the curse of Vlad Tepes, a 15th century eastern European ruler whose curse upon his Romanian homeland has lasted for six centuries.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 114125,
+                    "still_path": "/iNISe4YyzFDdu8GBDP3UkRN88bW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2591395,
+                    "name": "The Curse of the Bayou",
+                    "overview": "Louisiana locals blame everything from hurricanes to high crime rates on a 100-year-old curse invoked by hoodoo priestess Aunt Julia Brown.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 114125,
+                    "still_path": "/pH2LmiqHWjd6UUrT3KnwL9bi9Gq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2591396,
+                    "name": "The Curse of Atlantis",
+                    "overview": "Sam investigates the utopian city, Atlantis, that Plato says was cursed by the gods and swallowed up into the sea 12,000 years ago.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 114125,
+                    "still_path": "/uuOBPylG3j9nYPf1VgmZLEd0jLs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-03",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 2591397,
+                    "name": "The Curse of West Virginia",
+                    "overview": "Sam arrives in West Virginia to study the curse of the Mothman, but things go awry once he uncovers a web of disasters and dirty politics.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 114125,
+                    "still_path": "/yD5OKqbnpuhPyClEdPHzCkKbtCu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 170927,
+            "poster_path": "/lkHLo1CfQYqZDouj7C0aKg34vUI.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

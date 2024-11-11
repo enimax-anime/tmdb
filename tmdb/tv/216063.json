@@ -1,0 +1,326 @@
+{
+    "adult": false,
+    "backdrop_path": "/rRWayyQorp8CBgqP5yeMLp1SeGu.jpg",
+    "created_by": [
+        {
+            "id": 2474674,
+            "credit_id": "63ac919e79a1c300a027c394",
+            "name": "Pierre-Luc Miville",
+            "original_name": "Pierre-Luc Miville",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2022-12-07",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://ici.tou.tv/vidanges",
+    "id": 216063,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2023-02-22",
+    "last_episode_to_air": {
+        "id": 4105007,
+        "name": "Episode 12",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-02-22",
+        "episode_number": 12,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 11,
+        "season_number": 1,
+        "show_id": 216063,
+        "still_path": "/a4imqOkTf1LIqVrT782JLPPdad0.jpg"
+    },
+    "name": "Vidanges",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1312,
+            "logo_path": "/gnz7VENDBQfKeaJWDdT4f8O0bpG.png",
+            "name": "ICI TOU.TV",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "fr",
+    "original_name": "Vidanges",
+    "overview": "",
+    "popularity": 1.773,
+    "poster_path": "/tD823MYRstw1ibUKHkM0qoBSjxr.jpg",
+    "production_companies": [
+        {
+            "id": 126102,
+            "logo_path": "/ffnPTGcVXHfkcWBHRPOZTb9jUMi.png",
+            "name": "KOZE",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-07",
+            "episode_count": 12,
+            "id": 319535,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jaafqI4Im0rhxjrGqU2tj9RMMCC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6393747fba480200bb01234b",
+            "air_date": "2022-12-07",
+            "episodes": [
+                {
+                    "air_date": "2022-12-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4096601,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/b8JP2BT7z3fvzve7Upp3RLKKb5q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4104983,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/8ISd9h8s9vCIojluVrTZ9jDzJAH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4104985,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/iAVrH605CTEDioR5Fu2JlG9jmrl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4104989,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 12,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/uRBlW14DkHyZmdx49dY7bqYvNCs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4104990,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/Ad8LwEdbfRIszO2PTuHV6abKPcP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4104991,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/2X5cxphVyyq4zPjVnMvQp5OX57C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-18",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4104993,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/wT3hHCHai2DeHb30QEY3EbUgN41.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-01-25",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4104996,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/pPxawX48j3vSvyCoUMgCIMtZ046.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-01",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4104999,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 8,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/dEg1aNZEqQYu4oM6ltMajSKe7pX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-08",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4105002,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/6KN09EadEI9DkwyrBV6XIgjifp5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-15",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 4105005,
+                    "name": "Episode 11",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/nVYko52rjDLmk75c68ELGVppkKo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-22",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 4105007,
+                    "name": "Episode 12",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 216063,
+                    "still_path": "/a4imqOkTf1LIqVrT782JLPPdad0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 319535,
+            "poster_path": "/jaafqI4Im0rhxjrGqU2tj9RMMCC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

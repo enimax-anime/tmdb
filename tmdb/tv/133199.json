@@ -1,0 +1,200 @@
+{
+    "adult": false,
+    "backdrop_path": "/wKFuJkBEjvBoS8MqRTU8ICqBGTA.jpg",
+    "created_by": [
+        {
+            "id": 3228076,
+            "credit_id": "613a1b97d7107e008e2d50c6",
+            "name": "Denise DiIanni",
+            "original_name": "Denise DiIanni",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-09-01",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.pbs.org/wgbh/future-of-work/",
+    "id": 133199,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-09-15",
+    "last_episode_to_air": {
+        "id": 3204667,
+        "name": "Changing Work, Changing Workers",
+        "overview": "Companies rethink the need to even have offices, or how to redesign places of work. The traditional work shift - 9-5, 5 days a week – is losing relevance. Many companies are adopting the remote work models, spawned by the pandemic, as their new normal. The sense of precariousness and fear increases for many. Workers are demoralized, lonely, frightened and don’t know how to prepare for the future. Does the nation need new policies of Guaranteed Basic Income, (UBI) or a drastic rethinking of the social safety nets? Are we facing a post-work era, or an increased inequity in how we make our livings?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-09-15",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 133199,
+        "still_path": null
+    },
+    "name": "Future of Work",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Future of Work",
+    "overview": "Explore monumental changes in the workplace and the long-term impact on workers, employers, educators and communities. Employment is part of the American Dream. Will the future provide opportunities for jobs that sustain families and the nation?",
+    "popularity": 0.854,
+    "poster_path": "/eq2uJlBv0e96SQ7BYFWQHAufd5w.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-09-01",
+            "episode_count": 3,
+            "id": 210167,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "613a13d1d7107e008e2d3f36",
+            "air_date": "2021-09-01",
+            "episodes": [
+                {
+                    "air_date": "2021-09-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3204661,
+                    "name": "The New Industrial Revolution",
+                    "overview": "In addition to illuminating the ongoing drivers for disruptions to the world of work – AI, robotics, platform technology, globalization, labor practices -- the pandemic has been a driver of change. Unemployment flipped from lowest in 50 years to highest in a century.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 133199,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "613a18215800c40043934bec",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1349476,
+                            "known_for_department": "Directing",
+                            "name": "Graham Townsley",
+                            "original_name": "Graham Townsley",
+                            "popularity": 0.378,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3204662,
+                    "name": "Futureproof",
+                    "overview": "Frontline and service workers have borne the health consequences of the pandemic, increasing racial and economic disparities. Certain robotic and AI applications are accelerating as the value of human workers is further questioned. Determining the likely areas of job growth and training needs is difficult. Post-secondary education has become more virtual and its costs, more controversial.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 133199,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "613a1849d7107e008e2d486a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3228065,
+                            "known_for_department": "Production",
+                            "name": "Kelly Thomson",
+                            "original_name": "Kelly Thomson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "613a18e966a0d3002a8cc4f0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1247191,
+                            "known_for_department": "Writing",
+                            "name": "Llewellyn M. Smith",
+                            "original_name": "Llewellyn M. Smith",
+                            "popularity": 0.755,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-15",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3204667,
+                    "name": "Changing Work, Changing Workers",
+                    "overview": "Companies rethink the need to even have offices, or how to redesign places of work. The traditional work shift - 9-5, 5 days a week – is losing relevance. Many companies are adopting the remote work models, spawned by the pandemic, as their new normal. The sense of precariousness and fear increases for many. Workers are demoralized, lonely, frightened and don’t know how to prepare for the future. Does the nation need new policies of Guaranteed Basic Income, (UBI) or a drastic rethinking of the social safety nets? Are we facing a post-work era, or an increased inequity in how we make our livings?",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 133199,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "613a1987d7107e008e2d4b49",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1255019,
+                            "known_for_department": "Production",
+                            "name": "Laurens Grant",
+                            "original_name": "Laurens Grant",
+                            "popularity": 1.278,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 210167,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

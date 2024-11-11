@@ -1,0 +1,348 @@
+{
+    "adult": false,
+    "backdrop_path": "/Aq60i4dbAykwpfzsCTbQ9g1Xtsa.jpg",
+    "created_by": [
+        {
+            "id": 1651747,
+            "credit_id": "5c50ec4792514105c15d943e",
+            "name": "Patrick DeLuca",
+            "original_name": "Patrick DeLuca",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2017-09-15",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tlc.com/tv-shows/evil-things-on-tlc/",
+    "id": 73929,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-12-23",
+    "last_episode_to_air": {
+        "id": 1689184,
+        "name": "The Antique & The Box",
+        "overview": "A woman learns that sometimes a tag sale deal comes with a different kind of price to pay. A podcast host brings a known haunted object into his home and faces the consequences.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-12-23",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 73929,
+        "still_path": null
+    },
+    "name": "Evil Things",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 84,
+            "logo_path": "/6GRfZSrYh9D6C88n9kWlyrySB2l.png",
+            "name": "TLC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Evil Things",
+    "overview": "Revealing the horrifying stories of people who barely survived terrifying paranormal activity caused by possessed or cursed objects. Each twister mystery exposes the sinister secrets hiding within the most innocent items.",
+    "popularity": 2.821,
+    "poster_path": "/sPcwz3GqFJJgmF4udul5iCYYilj.jpg",
+    "production_companies": [
+        {
+            "id": 79361,
+            "logo_path": "/i9k5Ey1B6Cv0Sdbs1G6q8CBQgPH.png",
+            "name": "Painless Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-15",
+            "episode_count": 10,
+            "id": 92813,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/x5jiHCS1p2YWEavraJha9k4h971.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "59bc087a9251411e4200249b",
+            "air_date": "2017-09-15",
+            "episodes": [
+                {
+                    "air_date": "2017-09-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1366786,
+                    "name": "Christmas Gift & Stolen Time",
+                    "overview": "A camping trip turns terrifying for the new owner of a used camcorder. A man's estranged father's only possession becomes a violent token of their lost time.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/5NBsZOFm6FLyQZvVOrM5eOqdYi9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Mother",
+                            "credit_id": "5affbce80e0a26302f002e70",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2045698,
+                            "known_for_department": "Acting",
+                            "name": "Katherine McKalip",
+                            "original_name": "Katherine McKalip",
+                            "popularity": 0.125,
+                            "profile_path": "/mlHqvyA0uh0uF978IzXWaj2nAvN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-09-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1370418,
+                    "name": "The Room & The Nanny",
+                    "overview": "A young couple moves into their eerie new home to discover that something more than just old toys have been left behind. A terrified family's life seems to literally shatter after they hire a new nanny.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/5asNhrUJ5Ibf3Ca0UDVm7b5krww.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kim",
+                            "credit_id": "5b0265e69251410986016715",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1651739,
+                            "known_for_department": "Acting",
+                            "name": "Jennifer Schoch",
+                            "original_name": "Jennifer Schoch",
+                            "popularity": 1.113,
+                            "profile_path": "/2wxUCmyAxT519qcYZnJYSNgc4bd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-09-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1370419,
+                    "name": "Evil Eye & The Attic",
+                    "overview": "A student inherits horrific visions after surviving a deadly tragedy. A secretive husband unleashes dangerous paranormal forces when he obsesses over the shocking footage found on the mysterious videotapes concealed in his attic.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/wb7xcn63ylSpzVf5txADgcK7v4Q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dr. Benjamin",
+                            "credit_id": "5c0311fbc3a36864760bab86",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1185039,
+                            "known_for_department": "Acting",
+                            "name": "Angela Nicholas",
+                            "original_name": "Angela Nicholas",
+                            "popularity": 7.125,
+                            "profile_path": "/pxtfXd3Ll1ehPEd6nCF3P6lvKIy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1370420,
+                    "name": "The Mask & The Visitor",
+                    "overview": "A woman's childhood good luck charm may be connected to new paranormal terror. Horrific things happen when an uninvited party guest offers an ominous warning.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/dVt7Y3r8nzQFDLKcmHSrRK6zkJC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-13",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1376090,
+                    "name": "Agatha & The Honeymoon",
+                    "overview": "A home full of creepy dolls becomes a house of horrors. Demonic forces disrupt a frightened couple's honeymoon.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/gpNBATkOb67n9TNOW3ALp9vLKtb.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-20",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1376091,
+                    "name": "The Ring & Time Capsule",
+                    "overview": "A single mother's wedding engagement turns terrifying when her daughter starts exhibiting strange behavior. Digging up a mysterious time capsule unearths forgotten horrors from the past.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/dNL083jSfaB45BKgb9lP4EjNa8U.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-27",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1376092,
+                    "name": "The Wardrobe & The Interview",
+                    "overview": "A terrifying surprise awaits the new owners of an antique cabinet. A desperate man uncovers horrifying secrets hidden in the basement of an abandoned church.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/u8rCC9MRWk4R3fsYFOgxz2OOUts.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Casey",
+                            "credit_id": "60eca134b7a154007383d5cc",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2491651,
+                            "known_for_department": "Acting",
+                            "name": "Aidan Bertola",
+                            "original_name": "Aidan Bertola",
+                            "popularity": 1.455,
+                            "profile_path": "/xMXATWE4X3geHyVCE3vqTB6KcPz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-12-09",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1376093,
+                    "name": "Wrong Number & The Dybbuk Box",
+                    "overview": "Terror comes calling when a woman renovates an old roadhouse diner; a podcast host intentionally brings America's most famous haunted object into his home.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": "/eD2p7NrybmLtM3lEydhI7VEjbze.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-12-16",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1689183,
+                    "name": "The Phone & The Projector",
+                    "overview": "A woman renovates and reopens a diner in her hometown but the project stirs up more than nostalgic memories. A young man discovers an old projector reel in an abandoned church and unknowingly uncovers an alarming secret.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-12-23",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 1689184,
+                    "name": "The Antique & The Box",
+                    "overview": "A woman learns that sometimes a tag sale deal comes with a different kind of price to pay. A podcast host brings a known haunted object into his home and faces the consequences.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 73929,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 92813,
+            "poster_path": "/x5jiHCS1p2YWEavraJha9k4h971.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        }
+    }
+}

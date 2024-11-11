@@ -1,0 +1,189 @@
+{
+    "adult": false,
+    "backdrop_path": "/oyYukJ6wbxUoctu6tg7fdYhLoOF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2020-02-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.oxygen.com/the-witnesses",
+    "id": 99207,
+    "in_production": true,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "last_air_date": "2020-02-29",
+    "last_episode_to_air": {
+        "id": 3535877,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-02-29",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 99207,
+        "still_path": null
+    },
+    "name": "The Witnesses",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 132,
+            "logo_path": "/acDtMnoo5byrtFLEJa6J5BYfgBW.png",
+            "name": "Oxygen",
+            "origin_country": "US"
+        },
+        {
+            "id": 285,
+            "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+            "name": "Canal+",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Witnesses",
+    "overview": "The two-night investigative special follows the stories of four former Jehovah’s Witnesses, as they recount details of the sexual abuse they endured during their time within the organization.",
+    "popularity": 0.747,
+    "poster_path": "/9wLohXiP3EbKyUZCaOLfu1ks6Pz.jpg",
+    "production_companies": [
+        {
+            "id": 67241,
+            "logo_path": "/efSx93M44EkLwWJZsxrPx8IPA5I.png",
+            "name": "Oxygen Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-08",
+            "episode_count": 4,
+            "id": 143022,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5e403f306dea3a001544d8b0",
+            "air_date": "2020-02-08",
+            "episodes": [
+                {
+                    "air_date": "2020-02-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2158760,
+                    "name": "Part 1",
+                    "overview": "The two-night investigative special follows the stories of four former Jehovah’s Witnesses, as they recount details of the sexual abuse they endured during their time within the organization.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 99207,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2158761,
+                    "name": "Part 2",
+                    "overview": "The two-night investigative special follows the stories of four former Jehovah’s Witnesses, as they recount details of the sexual abuse they endured during their time within the organization.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 99207,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3535876,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 99207,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-29",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3535877,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 99207,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 143022,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

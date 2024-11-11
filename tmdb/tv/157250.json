@@ -1,0 +1,409 @@
+{
+    "adult": false,
+    "backdrop_path": "/svP4eefvwUzrawOfB1Kk09mjp44.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2015-03-01",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 157250,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-04-02",
+    "last_episode_to_air": {
+        "id": 3494138,
+        "name": "History",
+        "overview": "An eliminated mentor returns with a pop quiz in history.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-04-02",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 2,
+        "show_id": 157250,
+        "still_path": null
+    },
+    "name": "All-Star Academy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 143,
+            "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+            "name": "Food Network",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "All-Star Academy",
+    "overview": "Together, Alex Guarnaschelli, Bobby Flay, Michael Symon and Curtis Stone make up one of the fiercest foursomes in culinary competitions. In this series, they will battle it out in the kitchen, as mentor versus mentor with teams of shining home cooks.",
+    "popularity": 1.394,
+    "poster_path": "/29eJCJU8FEz6WAzkqOWrgtFJXNC.jpg",
+    "production_companies": [
+        {
+            "id": 80546,
+            "logo_path": "/v3LljktOnzgjktlgYN8iIfa56Fh.png",
+            "name": "Critical Content",
+            "origin_country": "US"
+        },
+        {
+            "id": 46087,
+            "logo_path": null,
+            "name": "Relativity Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-01",
+            "episode_count": 8,
+            "id": 243153,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/29eJCJU8FEz6WAzkqOWrgtFJXNC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2016-02-13",
+            "episode_count": 8,
+            "id": 243154,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/kZDRDT2aM9O5On9SJWYdMgf8OMK.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62027fede004a600df674edd",
+            "air_date": "2015-03-01",
+            "episodes": [
+                {
+                    "air_date": "2015-03-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3494122,
+                    "name": "Choosing Teams",
+                    "overview": "Ten cooks from around the country are about to embark a culinary adventure.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3494123,
+                    "name": "Mentors' Choice",
+                    "overview": "The eight remaining home cooks must reinvent famous food pairings.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3494124,
+                    "name": "Battle of the Mentors",
+                    "overview": "Friends Bobby Flay and Michael Symon try to take each other's teams down.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3494125,
+                    "name": "Frenemies",
+                    "overview": "For the first time the mentors join forces to achieve victory.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3494127,
+                    "name": "Second Chances",
+                    "overview": "Five home cooks remain as the mentors battle head-to-head.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-04-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3494128,
+                    "name": "The Blind Taste Test",
+                    "overview": "Food Network star Robert Irvine steps in to fill the mentors' shoes.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-04-12",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3494129,
+                    "name": "Win and You're In",
+                    "overview": "The four remaining home cooks face off in three tough challenges.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-04-19",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3494130,
+                    "name": "The Finale",
+                    "overview": "Three home cooks remain, with one chance to win the grand prize of $50,000!",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 243153,
+            "poster_path": "/29eJCJU8FEz6WAzkqOWrgtFJXNC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "62027ffc2b9320001b4751a0",
+            "air_date": "2016-02-13",
+            "episodes": [
+                {
+                    "air_date": "2016-02-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3494131,
+                    "name": "First Day of School",
+                    "overview": "Nine home cooks enter the kitchen and meet their All-Star mentors.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-02-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3494132,
+                    "name": "Geography",
+                    "overview": "The home cooks face a geography test and dip into popular world cuisines.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-02-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3494133,
+                    "name": "Art",
+                    "overview": "The home cooks face off in an art-themed dessert challenges.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3494134,
+                    "name": "Math",
+                    "overview": "It's a numbers game as the home cooks get divided into groups of three.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-12",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3494135,
+                    "name": "Snack Time",
+                    "overview": "The mentors compete for the chance to win the return of an eliminated cook.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-19",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3494136,
+                    "name": "Science",
+                    "overview": "Cooks dissect iconic dishes and use the ingredients in a new way.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-26",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3494137,
+                    "name": "Literature",
+                    "overview": "The remaining cooks face three rounds of literature-themed competition.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-04-02",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3494138,
+                    "name": "History",
+                    "overview": "An eliminated mentor returns with a pop quiz in history.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 157250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 243154,
+            "poster_path": "/kZDRDT2aM9O5On9SJWYdMgf8OMK.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "adult": false,
+    "backdrop_path": "/zrGcvWpbJv36I6hazmt4iYqToxU.jpg",
+    "created_by": [
+        {
+            "id": 2952730,
+            "credit_id": "66ad76ce9a0ee3924652125b",
+            "name": "Michal Aviram",
+            "original_name": "Michal Aviram",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2022-09-02",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 156315,
+    "in_production": true,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "last_air_date": "2022-10-02",
+    "last_episode_to_air": {
+        "id": 3904611,
+        "name": "Blackout",
+        "overview": "A dramatic hostage situation unfolds as the world watches, and Maria and Oren must prevent the worst from happening....",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-02",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 1,
+        "show_id": 156315,
+        "still_path": "/lsw2s8BbRjH6d8zZrrnLoU0FisV.jpg"
+    },
+    "name": "Munich Games",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1431,
+            "logo_path": "/dVBHOr0nYCx9GSNesTVb1TT52Xj.png",
+            "name": "Sky One",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Munich Games",
+    "overview": "50 years after the Munich Massacre, Munich is hosting a soccer game between an Israeli and a German football club. When things start to fall apart, it seems history might be repeating all over again.",
+    "popularity": 4.388,
+    "poster_path": "/a5YoYR5OJ5tDS2FggwEgo2DsHl8.jpg",
+    "production_companies": [
+        {
+            "id": 36616,
+            "logo_path": "/ujmuIln4o5ZK08NvI7GmSuV0jj6.png",
+            "name": "Amusement Park Films",
+            "origin_country": "DE"
+        },
+        {
+            "id": 1081,
+            "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+            "name": "CBS Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 135346,
+            "logo_path": "/hIwjhVdOOQ1fpdebwOuDQD7bnw0.png",
+            "name": "Sky Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-02",
+            "episode_count": 6,
+            "id": 241417,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/a5YoYR5OJ5tDS2FggwEgo2DsHl8.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.1,
+    "vote_count": 12,
+    "season_data": {
+        "1": {
+            "_id": "61f059e5cedac4004356dab4",
+            "air_date": "2022-09-02",
+            "episodes": [
+                {
+                    "air_date": "2022-09-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3468635,
+                    "name": "The Threat",
+                    "overview": "A Mossad agent joins forces with a German police officer after uncovering evidence of a possible attack. Contains scenes of a sexual nature.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/lzjySp7Lsen26pL20qbaaEVZomv.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "645dbba488b1480136fede6c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 145391,
+                            "known_for_department": "Acting",
+                            "name": "Ferhat Gündoğdu",
+                            "original_name": "Ferhat Gündoğdu",
+                            "popularity": 0.272,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3904602,
+                    "name": "Munich Games",
+                    "overview": "The Israeli team arrive, escalating the situation, and the investigation yields a first lead on who could be behind the leak of sensitive information.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/6E7HoEUzCnbZlVlWRcvdlD9qlGv.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3904603,
+                    "name": "Payday",
+                    "overview": "Jackie Igelski, the owner of the Israeli football club, is blackmailed and the case's main suspect escapes from LKA's watch. Strong language/mature themes.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/lmBlIglcj9Odt4ycIqtmUk7y70S.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3904604,
+                    "name": "Crossing Lines",
+                    "overview": "With Kresnik still not found, it looks like the game will be cancelled. Meanwhile, Maria's affair with her informant is exposed.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/eLJ2UjOKpnAbYcfT3DuYBPyTMIl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3904606,
+                    "name": "The Match",
+                    "overview": "As the game begins, Maria discovers that something's not right. The race against time begins, and her worst fears are about to come true...",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/vDywclh8Ip3vnXIfZiQwbWNIJWD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-02",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3904611,
+                    "name": "Blackout",
+                    "overview": "A dramatic hostage situation unfolds as the world watches, and Maria and Oren must prevent the worst from happening....",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 156315,
+                    "still_path": "/lsw2s8BbRjH6d8zZrrnLoU0FisV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 241417,
+            "poster_path": "/a5YoYR5OJ5tDS2FggwEgo2DsHl8.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    }
+}

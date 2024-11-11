@@ -1,0 +1,341 @@
+{
+    "adult": false,
+    "backdrop_path": "/fBw2R7N3ky8cWZj9XxUCRNKAHVr.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2015-03-01",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.cnn.com/shows/finding-jesus",
+    "id": 62752,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-04-09",
+    "last_episode_to_air": {
+        "id": 1463966,
+        "name": "Doubting Thomas",
+        "overview": "An examination of Thomas' story outside the New Testament, in particular the Christian traditions connecting him with India.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-04-09",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 62752,
+        "still_path": null
+    },
+    "name": "Finding Jesus: Faith. Fact. Forgery",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 59,
+            "logo_path": "/2EIKV6SomKx8L52HoSViKyJO87m.png",
+            "name": "CNN",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Finding Jesus: Faith. Fact. Forgery",
+    "overview": "A new insights into the historical Jesus, utilizing the latest scientific techniques and archaeological research.",
+    "popularity": 3.447,
+    "poster_path": "/oEca9pjSJPgxtPL4risYB9R26RM.jpg",
+    "production_companies": [
+        {
+            "id": 46077,
+            "logo_path": "/7d5nLhfl5dWSDa79L5sV8qn3RBg.png",
+            "name": "Nutopia",
+            "origin_country": "GB"
+        },
+        {
+            "id": 113618,
+            "logo_path": "/yvv5stkMzsYElS7o54285edjzoZ.png",
+            "name": "Paperny Entertainment",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-03-01",
+            "episode_count": 6,
+            "id": 67013,
+            "name": "Season 1",
+            "overview": "The value and authenticity of six objects which could shed new light on Jesus are investigated: the Shroud of Turin, relics venerated as part of the True Cross, the Gospel of Judas, relics believed to be of John the Baptist, and the Gospel of Mary.",
+            "poster_path": "/i22fXgyw2ulI6GfIbwrlxzKQKn0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-03-05",
+            "episode_count": 6,
+            "id": 101805,
+            "name": "Season 2",
+            "overview": "In the second season, six new artifacts and locations which shed new light on Jesus and the key characters in his life are investigated: a First Century Jewish house that could be Jesus’ childhood home, the long lost sarcophagus of Herod the Great, the inscription on an ancient stone that proves the existence of Pontius Pilate, and holy relics believed to connect us to the lives of Saints Peter, Thomas and Lazarus.",
+            "poster_path": "/fzlvgkvxZoTTyc5meU34YP4xnHO.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 4.4,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "555fc0d6c3a3683b52002ab7",
+            "air_date": "2015-03-01",
+            "episodes": [
+                {
+                    "air_date": "2015-03-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1066090,
+                    "name": "The Shroud of Turin",
+                    "overview": "Is an ancient linen cloth bearing the image of a crucified man the very shroud that Joseph wrapped Jesus in?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/dgenOIQEha9bMSHc1ntJ81v9gXn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1463955,
+                    "name": "John the Baptist",
+                    "overview": "Who was the real John the Baptist? An investigation of a relic believed to be a bone from his finger uncovers proof of John's powerful legacy.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/y5vlb4UWud6APCPynx8KNkoZHxh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1463956,
+                    "name": "Judas",
+                    "overview": "Does an ancient codex discovered in an Egyptian burial cave answer the great Biblical question of why Judas betrayed Jesus?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/7LK1eUQZDCJBhEikOB0C10Q7I0G.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1463957,
+                    "name": "Secret Brother of Jesus",
+                    "overview": "The discovery of an extraordinary 2000 year-old burial box brings to light the remarkable story of Jesus' brother James.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/oFpcMRQp5Rk0B3Tbf4yAn8NPVSg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1463958,
+                    "name": "The True Cross",
+                    "overview": "Are pieces of the cross Jesus died on still in existence today? The incredible legend of the True Cross is investigated.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/4L3JJZdza5QL5UcE30ePc5jNqhr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-04-05",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1463959,
+                    "name": "Mary Magdalene",
+                    "overview": "Could ancient texts preserved in the sands of Egypt shed light on the nature of Mary's relationship with Jesus?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 62752,
+                    "still_path": "/gOZMgCGJqHuni0lEVVHuz4twl6h.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "The value and authenticity of six objects which could shed new light on Jesus are investigated: the Shroud of Turin, relics venerated as part of the True Cross, the Gospel of Judas, relics believed to be of John the Baptist, and the Gospel of Mary.",
+            "id": 67013,
+            "poster_path": "/i22fXgyw2ulI6GfIbwrlxzKQKn0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5ac228d7c3a368443f05cde2",
+            "air_date": "2017-03-05",
+            "episodes": [
+                {
+                    "air_date": "2017-03-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1463961,
+                    "name": "The Pilate Stone",
+                    "overview": "The archaeological investigation zeroes in on crucial artifacts that connect to Pontius Pilate -- the inscription on the Stone that proves his existence, as well as the recent discovery of Herod the Great's Jerusalem Palace, which historians believe is where Pilate tried Jesus.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1463962,
+                    "name": "Raising Lazarus",
+                    "overview": "Investigating the Orthodox tradition connecting Lazarus and his relics with the Mediterranean island of Cyprus. It explains one of Jesus' greatest miracles - the raising of a man four days dead and goes on to explore the consequences for both Jesus and his friend.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1463963,
+                    "name": "The Childhood Home of Jesus",
+                    "overview": "Unpacking the archaeology of the first century house believed to be the childhood home of Jesus. It explores what is known about Jesus' early life and depicts his formative relationship with his mother Mary.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1463964,
+                    "name": "The Tomb of King Herod",
+                    "overview": "The 'Tomb of King Herod' was a huge news story when it was unearthed by Israeli archaeologist Ehud Netzer in 2007. But does it really belong to the King?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-04-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1463965,
+                    "name": "The Bones of St. Peter",
+                    "overview": "Explores the history of St Peter's relics, including those rediscovered under St Peter's Basilica in the 1940s. It traces the story of Peter through the Gospels, his life changing encounter with the risen Jesus, his own mission into later life and his death at the hands of the Romans.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": "/flI2AjULkEeehRC33B7uaaP8jpm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-04-09",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1463966,
+                    "name": "Doubting Thomas",
+                    "overview": "An examination of Thomas' story outside the New Testament, in particular the Christian traditions connecting him with India.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 62752,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "In the second season, six new artifacts and locations which shed new light on Jesus and the key characters in his life are investigated: a First Century Jewish house that could be Jesus’ childhood home, the long lost sarcophagus of Herod the Great, the inscription on an ancient stone that proves the existence of Pontius Pilate, and holy relics believed to connect us to the lives of Saints Peter, Thomas and Lazarus.",
+            "id": 101805,
+            "poster_path": "/fzlvgkvxZoTTyc5meU34YP4xnHO.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

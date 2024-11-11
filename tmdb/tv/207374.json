@@ -1,0 +1,480 @@
+{
+    "adult": false,
+    "backdrop_path": "/wfgE9ARuU3JNGoNH4tc9X6V4EMv.jpg",
+    "created_by": [
+        {
+            "id": 1960542,
+            "credit_id": "62ea5daa25cd85005d005395",
+            "name": "Kacie Anning",
+            "original_name": "Kacie Anning",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        35
+    ],
+    "first_air_date": "2023-03-16",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0B8NKMDLT",
+    "id": 207374,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-03-16",
+    "last_episode_to_air": {
+        "id": 4245242,
+        "name": "The Tribe Has Spoken",
+        "overview": "When Amelia volunteers as a sacrificial lamb for the greater good of the class, Zoe must decide if their friendship is over forever.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2023-03-16",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 207374,
+        "still_path": "/fOMkvI2fiudzoPJlAbK7BwH7Tah.jpg"
+    },
+    "name": "Class of '07",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Class of '07",
+    "overview": "When an apocalyptic tidal wave hits during the ten-year reunion of an all-girls high school, a group of women must find a way to survive on the island peak of their high school campus.",
+    "popularity": 12.374,
+    "poster_path": "/cA678fpae4Qz1IWoWh8lRQ5F1DM.jpg",
+    "production_companies": [
+        {
+            "id": 29506,
+            "logo_path": "/6006n0zLX6EqGkOO1JIIbkeLDTp.png",
+            "name": "Matchbox Pictures",
+            "origin_country": "AU"
+        },
+        {
+            "id": 208283,
+            "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+            "name": "Amazon Studios",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-03-16",
+            "episode_count": 8,
+            "id": 303284,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nl8UGByv5fiduCnUXJe2R1MpQLt.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.763,
+    "vote_count": 38,
+    "season_data": {
+        "1": {
+            "_id": "62ea5d7e6d9fe8005eed90d1",
+            "air_date": "2023-03-16",
+            "episodes": [
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3868727,
+                    "name": "Bird Shit",
+                    "overview": "After getting dumped on national television, Zoe goes into hiding by living off-grid until strange weather events lead her to seek out higher ground at her old school where Zoe stumbles upon her own ten year high school reunion in full swing.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/z2sFFTLF3SKnIteR4qvE5BTdmjd.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4245236,
+                    "name": "Pancake Rage",
+                    "overview": "Realising they are stuck at Ridge Heights for the foreseeable future, the classmates scramble for a plan to survive.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/1NRv72luvLMXiYuBnwztUSVnG0n.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4245237,
+                    "name": "Dumb Dumbs",
+                    "overview": "Under mean girl Saskia’s newly instated reign, Zoe struggles with Sandy’s disappearance while Genevieve begins a relentless search.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/iF05vGgfK4U9NE0fSGv7EXXU7Ex.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4245238,
+                    "name": "Soul-Crushing-Cycle",
+                    "overview": "The women begin to power the school under Saskia’s increasingly ruthless leadership, while Zoe hunts for a new best friend to take Amelia’s place.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/mZvyE96u4rChXu4dPqrZ1M3Tg0C.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4245239,
+                    "name": "The People vs Saskia",
+                    "overview": "Genevieve brings Saskia to trial for her mean girl crimes, while Zoe finds herself in a tight spot when Amelia agrees to defend Saskia.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/dwyYwjrC6MJ4jHUxpldUk3ReH1Z.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4245240,
+                    "name": "Utopia",
+                    "overview": "Shuttered in with food poisoning during a torrential storm, the class begins healing their teenage wounds.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/yG8O3pyWEaBzoPKAxWEmL330q0M.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4245241,
+                    "name": "Party Like It's 1999",
+                    "overview": "In the aftermath of Sandy’s vengeful return, Zoe must stop Amelia from leading the class into a hedonistic end-of-life party.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/1hatDf12fxDDUPaudHWMVuJAsSs.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4245242,
+                    "name": "The Tribe Has Spoken",
+                    "overview": "When Amelia volunteers as a sacrificial lamb for the greater good of the class, Zoe must decide if their friendship is over forever.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 207374,
+                    "still_path": "/fOMkvI2fiudzoPJlAbK7BwH7Tah.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63f4edfca67254008204e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63f4ee0c6f97460081aa6f64",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1960542,
+                            "known_for_department": "Directing",
+                            "name": "Kacie Anning",
+                            "original_name": "Kacie Anning",
+                            "popularity": 0.117,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 303284,
+            "poster_path": "/nl8UGByv5fiduCnUXJe2R1MpQLt.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

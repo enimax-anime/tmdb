@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-07-14",
+    "genres": [],
+    "homepage": "",
+    "id": 204103,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2016-07-14",
+    "last_episode_to_air": {
+        "id": 3785790,
+        "name": "Pilot",
+        "overview": "Each episode tells the story of a teen trying to make a difference with issues that include poverty, the environment, and helping military families. Nickelodeon star Sydney Park hosts the series, which lists Nick Cannon and Morgan Spurlock among its executive producers.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-07-14",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204103,
+        "still_path": null
+    },
+    "name": "The Halo Effect",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Halo Effect",
+    "overview": "HALO -- Helping and Leading Others -- is Nickelodeon's pro-social initiative intended to encourage young people to help improve their communities. This monthly series profiles young activists who are not only making positive changes but also inspiring others to do the same.",
+    "popularity": 0.006,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-07-14",
+            "episode_count": 1,
+            "id": 297476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62a988c135d1bc4f95cb22ca",
+            "air_date": "2016-07-14",
+            "episodes": [
+                {
+                    "air_date": "2016-07-14",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3785790,
+                    "name": "Pilot",
+                    "overview": "Each episode tells the story of a teen trying to make a difference with issues that include poverty, the environment, and helping military families. Nickelodeon star Sydney Park hosts the series, which lists Nick Cannon and Morgan Spurlock among its executive producers.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204103,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297476,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": "/vbk8OiqWMBnBuQzGHzGl8wTfJr4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2022-08-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 208064,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-08-18",
+    "last_episode_to_air": {
+        "id": 3902601,
+        "name": "Case Closed",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-08-18",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 208064,
+        "still_path": null
+    },
+    "name": "The Diana Investigations",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4883,
+            "logo_path": "/iKvdFk5lpbvs4g0vd6yVUcV36i3.png",
+            "name": "discovery+",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Diana Investigations",
+    "overview": "Twenty-five years ago, a fatal car accident took the life of the beloved Princess Diana of Wales, devastating the world. In the decades following her death, conspiracy theories and accusations have swirled - who was to blame? How did this happen?\n\nOver the course of four gripping parts, THE DIANA INVESTIGATIONS offers a new look into the tragedy that has shocked the world for decades. For the first time, hear exclusively from the key figures who investigated the beloved Princess' death as they provide new insight and reveal never-before-heard details.",
+    "popularity": 3.797,
+    "poster_path": "/56MTYEkO15MCAKfpyWEwMrFLzRq.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-08-18",
+            "episode_count": 4,
+            "id": 304545,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ioWMICDZAFZxQ8GFGDQFZb9Dt8c.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "62f7bda2724de10082f5007d",
+            "air_date": "2022-08-18",
+            "episodes": [
+                {
+                    "air_date": "2022-08-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3890821,
+                    "name": "The Crash",
+                    "overview": "No plot available at this moment.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 208064,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3902599,
+                    "name": "It Was No Accident",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 208064,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3902600,
+                    "name": "Conspiracy to Murder",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 208064,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-18",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3902601,
+                    "name": "Case Closed",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 208064,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 304545,
+            "poster_path": "/ioWMICDZAFZxQ8GFGDQFZb9Dt8c.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,799 @@
+{
+    "adult": false,
+    "backdrop_path": "/2uZqqD8Nwavgkkyx3Cb413KjNee.jpg",
+    "created_by": [
+        {
+            "id": 3227871,
+            "credit_id": "6139dea2e323f3008c4c1a04",
+            "name": "Alan Saucedo",
+            "original_name": "Alan Saucedo",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-09-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://viaplay.se/serier/tva-systrar",
+    "id": 131050,
+    "in_production": false,
+    "languages": [
+        "sv"
+    ],
+    "last_air_date": "2021-09-05",
+    "last_episode_to_air": {
+        "id": 3184511,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-09-05",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 131050,
+        "still_path": "/beUPHRyK9BTqpnN6jRCq7pzRSQ4.jpg"
+    },
+    "name": "Two Sisters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1585,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Två systrar",
+    "overview": "Sisters Alicia and Vanessa are best friends, but they begin to distance themselves in search of their identity in the adult world. Based on the triology of Amanda Schulman and Hannah Widell.",
+    "popularity": 4.223,
+    "poster_path": "/AbC4kdSnxVIxCj4MIv3BG0Tp8mJ.jpg",
+    "production_companies": [
+        {
+            "id": 5746,
+            "logo_path": "/sWgSj9muRStENKBoIoaDK6OZmDu.png",
+            "name": "Yellow Bird",
+            "origin_country": "SE"
+        },
+        {
+            "id": 108472,
+            "logo_path": "/tFVfsfRFv8sGpX6SvoDvw2nGoeO.png",
+            "name": "Viaplay Group",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-05",
+            "episode_count": 8,
+            "id": 205632,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2mWfnjQIo9Zz4JuSXitUkLfH4vL.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "611576bcb686b9005dbe7c74",
+            "air_date": "2021-09-05",
+            "episodes": [
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3124935,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/gxBL536lGfDDOKvNAJ95xk4uNv0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Sofie",
+                            "credit_id": "671c09bfa4ac8a432c5c4f80",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1431128,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Winberg",
+                            "original_name": "Caroline Winberg",
+                            "popularity": 4.193,
+                            "profile_path": "/hrFMtUv5pQVqq1rsepMVvqDqj27.jpg"
+                        },
+                        {
+                            "character": "Bargäst",
+                            "credit_id": "671c09f6e833d92ef06023c5",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2259926,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Schulman",
+                            "original_name": "Amanda Schulman",
+                            "popularity": 0.504,
+                            "profile_path": "/2ciV69hvsaowueSzPLHybF79rdW.jpg"
+                        },
+                        {
+                            "character": "Bargäst",
+                            "credit_id": "671c0a0c9ff681d9e0a41a4a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3039613,
+                            "known_for_department": "Acting",
+                            "name": "Hannah Widell",
+                            "original_name": "Hannah Widell",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3184505,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/4U7jjEq7OVWatUG4UmZxoqv4is0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Lojsan",
+                            "credit_id": "671c0a5ae833d92ef0602454",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 225093,
+                            "known_for_department": "Acting",
+                            "name": "Happy Jankell",
+                            "original_name": "Happy Jankell",
+                            "popularity": 1.396,
+                            "profile_path": "/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+                        },
+                        {
+                            "character": "Lucas",
+                            "credit_id": "671c0a7ee833d92ef060247b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1673468,
+                            "known_for_department": "Acting",
+                            "name": "Julius Fleischanderl",
+                            "original_name": "Julius Fleischanderl",
+                            "popularity": 12.853,
+                            "profile_path": "/3BykjMeoMw8lyJEhTDSH1WSwSq9.jpg"
+                        },
+                        {
+                            "character": "Titti",
+                            "credit_id": "671c0a889ff681d9e0a41ab2",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 928745,
+                            "known_for_department": "Acting",
+                            "name": "Leonore Ekstrand",
+                            "original_name": "Leonore Ekstrand",
+                            "popularity": 0.657,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Klas",
+                            "credit_id": "671c0aa6769107d77b47c659",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 92429,
+                            "known_for_department": "Acting",
+                            "name": "Jens Hultén",
+                            "original_name": "Jens Hultén",
+                            "popularity": 7.174,
+                            "profile_path": "/nurAPPCIWHwNtRGB29QNfAnQFux.jpg"
+                        },
+                        {
+                            "character": "Servitör",
+                            "credit_id": "671c0ac5769107d77b47c671",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3069180,
+                            "known_for_department": "Acting",
+                            "name": "Carl-Petter Eriksson",
+                            "original_name": "Carl-Petter Eriksson",
+                            "popularity": 0.039,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3184506,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/iPDj6PeXHT6bKcvNh4kH8WOgF4x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Sofie",
+                            "credit_id": "671c09bfa4ac8a432c5c4f80",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1431128,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Winberg",
+                            "original_name": "Caroline Winberg",
+                            "popularity": 4.193,
+                            "profile_path": "/hrFMtUv5pQVqq1rsepMVvqDqj27.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3184507,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/afO9URq6LiM40xPn2PlutN2RjjG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Lojsan",
+                            "credit_id": "671c0a5ae833d92ef0602454",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 225093,
+                            "known_for_department": "Acting",
+                            "name": "Happy Jankell",
+                            "original_name": "Happy Jankell",
+                            "popularity": 1.396,
+                            "profile_path": "/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+                        },
+                        {
+                            "character": "Lucas",
+                            "credit_id": "671c0a7ee833d92ef060247b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1673468,
+                            "known_for_department": "Acting",
+                            "name": "Julius Fleischanderl",
+                            "original_name": "Julius Fleischanderl",
+                            "popularity": 12.853,
+                            "profile_path": "/3BykjMeoMw8lyJEhTDSH1WSwSq9.jpg"
+                        },
+                        {
+                            "character": "Möhippatjej",
+                            "credit_id": "671c0b929ff681d9e0a41aec",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5022218,
+                            "known_for_department": "Acting",
+                            "name": "Stina Schedin",
+                            "original_name": "Stina Schedin",
+                            "popularity": 0.366,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3184508,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/gWerpMXI6SzgCR68AowNfpFeZqG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Sofie",
+                            "credit_id": "671c09bfa4ac8a432c5c4f80",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1431128,
+                            "known_for_department": "Acting",
+                            "name": "Caroline Winberg",
+                            "original_name": "Caroline Winberg",
+                            "popularity": 4.193,
+                            "profile_path": "/hrFMtUv5pQVqq1rsepMVvqDqj27.jpg"
+                        },
+                        {
+                            "character": "Lucas",
+                            "credit_id": "671c0a7ee833d92ef060247b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1673468,
+                            "known_for_department": "Acting",
+                            "name": "Julius Fleischanderl",
+                            "original_name": "Julius Fleischanderl",
+                            "popularity": 12.853,
+                            "profile_path": "/3BykjMeoMw8lyJEhTDSH1WSwSq9.jpg"
+                        },
+                        {
+                            "character": "Titti",
+                            "credit_id": "671c0a889ff681d9e0a41ab2",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 928745,
+                            "known_for_department": "Acting",
+                            "name": "Leonore Ekstrand",
+                            "original_name": "Leonore Ekstrand",
+                            "popularity": 0.657,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3184509,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 20,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/343KM6mHDekmBrpWYCoYNjJBwOb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Lucas",
+                            "credit_id": "671c0a7ee833d92ef060247b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1673468,
+                            "known_for_department": "Acting",
+                            "name": "Julius Fleischanderl",
+                            "original_name": "Julius Fleischanderl",
+                            "popularity": 12.853,
+                            "profile_path": "/3BykjMeoMw8lyJEhTDSH1WSwSq9.jpg"
+                        },
+                        {
+                            "character": "Klas",
+                            "credit_id": "671c0aa6769107d77b47c659",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 92429,
+                            "known_for_department": "Acting",
+                            "name": "Jens Hultén",
+                            "original_name": "Jens Hultén",
+                            "popularity": 7.174,
+                            "profile_path": "/nurAPPCIWHwNtRGB29QNfAnQFux.jpg"
+                        },
+                        {
+                            "character": "Susanne",
+                            "credit_id": "671c0c686e4210780f790bd8",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 136758,
+                            "known_for_department": "Acting",
+                            "name": "Lia Boysen",
+                            "original_name": "Lia Boysen",
+                            "popularity": 8.737,
+                            "profile_path": "/ku3Ybsshm5gh1Xym9kkPUEUP2oS.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3184510,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/jFuZYXCe5tYPkqaZ2CzOACSozqs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Jack",
+                            "credit_id": "671c09af27bd57d91f62a909",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2031975,
+                            "known_for_department": "Acting",
+                            "name": "Pablo Leiva Wenger",
+                            "original_name": "Pablo Leiva Wenger",
+                            "popularity": 0.675,
+                            "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+                        },
+                        {
+                            "character": "Lojsan",
+                            "credit_id": "671c0a5ae833d92ef0602454",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 225093,
+                            "known_for_department": "Acting",
+                            "name": "Happy Jankell",
+                            "original_name": "Happy Jankell",
+                            "popularity": 1.396,
+                            "profile_path": "/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+                        },
+                        {
+                            "character": "Möhippatjej",
+                            "credit_id": "671c0b929ff681d9e0a41aec",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5022218,
+                            "known_for_department": "Acting",
+                            "name": "Stina Schedin",
+                            "original_name": "Stina Schedin",
+                            "popularity": 0.366,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Möhippetjej",
+                            "credit_id": "671c0cce1ea33928297d3f94",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2898656,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Lindblom",
+                            "original_name": "Amanda Lindblom",
+                            "popularity": 0.001,
+                            "profile_path": "/vBQ0EAHTFINunKGGn7JaUuGOjPj.jpg"
+                        },
+                        {
+                            "character": "Butiksbiträde",
+                            "credit_id": "671c0d396e4210780f790c57",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5022248,
+                            "known_for_department": "Acting",
+                            "name": "Linn Eriksson",
+                            "original_name": "Linn Eriksson",
+                            "popularity": 0.348,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Strippa",
+                            "credit_id": "671c0d4da4ac8a432c5c4fb7",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5022249,
+                            "known_for_department": "Acting",
+                            "name": "Robin Peters",
+                            "original_name": "Robin Peters",
+                            "popularity": 0.348,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-05",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3184511,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 131050,
+                    "still_path": "/beUPHRyK9BTqpnN6jRCq7pzRSQ4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Donna",
+                            "credit_id": "671c09a4e833d92ef06023a1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3222984,
+                            "known_for_department": "Acting",
+                            "name": "Helmon Solomon",
+                            "original_name": "Helmon Solomon",
+                            "popularity": 0.936,
+                            "profile_path": "/eBsXsgfcvxfn6qxkmkcxoUb8Dvu.jpg"
+                        },
+                        {
+                            "character": "Lojsan",
+                            "credit_id": "671c0a5ae833d92ef0602454",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 225093,
+                            "known_for_department": "Acting",
+                            "name": "Happy Jankell",
+                            "original_name": "Happy Jankell",
+                            "popularity": 1.396,
+                            "profile_path": "/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+                        },
+                        {
+                            "character": "Lucas",
+                            "credit_id": "671c0a7ee833d92ef060247b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1673468,
+                            "known_for_department": "Acting",
+                            "name": "Julius Fleischanderl",
+                            "original_name": "Julius Fleischanderl",
+                            "popularity": 12.853,
+                            "profile_path": "/3BykjMeoMw8lyJEhTDSH1WSwSq9.jpg"
+                        },
+                        {
+                            "character": "Titti",
+                            "credit_id": "671c0a889ff681d9e0a41ab2",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 928745,
+                            "known_for_department": "Acting",
+                            "name": "Leonore Ekstrand",
+                            "original_name": "Leonore Ekstrand",
+                            "popularity": 0.657,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Klas",
+                            "credit_id": "671c0aa6769107d77b47c659",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 92429,
+                            "known_for_department": "Acting",
+                            "name": "Jens Hultén",
+                            "original_name": "Jens Hultén",
+                            "popularity": 7.174,
+                            "profile_path": "/nurAPPCIWHwNtRGB29QNfAnQFux.jpg"
+                        },
+                        {
+                            "character": "Susanne",
+                            "credit_id": "671c0c686e4210780f790bd8",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 136758,
+                            "known_for_department": "Acting",
+                            "name": "Lia Boysen",
+                            "original_name": "Lia Boysen",
+                            "popularity": 8.737,
+                            "profile_path": "/ku3Ybsshm5gh1Xym9kkPUEUP2oS.jpg"
+                        },
+                        {
+                            "character": "AA-ledare",
+                            "credit_id": "671c0e1f27bd57d91f62aa5b",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 50935,
+                            "known_for_department": "Acting",
+                            "name": "Björn Andrésen",
+                            "original_name": "Björn Andrésen",
+                            "popularity": 15.887,
+                            "profile_path": "/x3uO4FVbpLLjyyEf7xErhYo5FU.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 205632,
+            "poster_path": "/2mWfnjQIo9Zz4JuSXitUkLfH4vL.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

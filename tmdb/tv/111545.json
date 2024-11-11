@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        46
+    ],
+    "first_air_date": "2020-09-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/the-write-offs",
+    "id": 111545,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-09-22",
+    "last_episode_to_air": {
+        "id": 2479251,
+        "name": "Episode 2",
+        "overview": "The group are set a pantomime challenge and face one last test as they compete in a spelling bee. After 16 weeks of intensive learning, have they improved their literacy levels?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-09-22",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 111545,
+        "still_path": null
+    },
+    "name": "The Write Offs",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Write Offs",
+    "overview": "Sandi Toksvig hosts this look at Britain's low adult literacy rates, as a group of adults overcome the one thing that's always held them back and lift the stigma around illiteracy",
+    "popularity": 0.999,
+    "poster_path": "/7SG0BmYTsLR94hnYle899EWsFem.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-09-22",
+            "episode_count": 2,
+            "id": 165774,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5f87ca00a1c59d003410e9d0",
+            "air_date": "2020-09-22",
+            "episodes": [
+                {
+                    "air_date": "2020-09-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2464875,
+                    "name": "Episode 1",
+                    "overview": "The group meet each other for the first time and are set their first two challenges: a travel-based task to assess their reading skills and a cookery task set by host Sandi's good friend Prue Leith",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 111545,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-22",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 2479251,
+                    "name": "Episode 2",
+                    "overview": "The group are set a pantomime challenge and face one last test as they compete in a spelling bee. After 16 weeks of intensive learning, have they improved their literacy levels?",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 111545,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 165774,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

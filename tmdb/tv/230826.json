@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": "/upiZwlLvGlEiMtbGjONgyfRyNuI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2023-07-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.aetv.com/shows/secrets-of-miss-america",
+    "id": 230826,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-07-31",
+    "last_episode_to_air": {
+        "id": 4636476,
+        "name": "Under Pressure",
+        "overview": "With recent tragedies in the pageant community, the issue of mental health in the Miss America competition has been brought into sharper focus. The modern-day Miss Americas are expected to face the judgements of the past while carrying the weight of current expectations.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-07-31",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 230826,
+        "still_path": null
+    },
+    "name": "Secrets of Miss America",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 129,
+            "logo_path": "/ptSTdU4GPNJ1M8UVEOtA0KgtuNk.png",
+            "name": "A&E",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Secrets of Miss America",
+    "overview": "Delves into the shocking scandals from the oldest beauty pageant of America, now struggling to remain relevant to a new generation whose views on beauty and sexual politics have drastically changed.",
+    "popularity": 0.906,
+    "poster_path": "/vhaqFNKKuWaDYwz2MVgZZnEWgyz.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2023-07-10",
+            "episode_count": 4,
+            "id": 349192,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "64b61f0778570e013a93009f",
+            "air_date": "2023-07-10",
+            "episodes": [
+                {
+                    "air_date": "2023-07-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4587850,
+                    "name": "Dirty Tricks",
+                    "overview": "The Miss America Organization is rocked to its core when a whistle-blower leaks shocking emails involving the entire Board of Directors.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 230826,
+                    "still_path": "/gViolxXjeaZe9llIUyuZ6Kbq7Wr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4588700,
+                    "name": "Bye Bye Bikini",
+                    "overview": "Since the 1960s, the swimsuit has been a thorn in the pageant's side, but a thorn that kept millions of viewers tuning in year after year. In 2018 the pageant took the drastic decision to ban the swimsuit round from the competition, causing a divide between modernizers and traditionalists which ends in an all-out war that has the potential to bring end Miss America.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 230826,
+                    "still_path": "/dVZAugHlyX0cL2SHrdjpYXk28mR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4588702,
+                    "name": "For All America",
+                    "overview": "The Miss America Organization today claims to be open to women of all races, backgrounds and body shapes, and 2019 saw women of color win a clean sweep of top beauty pageants for the first time. But there has never been a Latina winner, and the experiences of African American women competing in Miss America have been fraught with challenges. Has the pageant's racist past really gone away?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 230826,
+                    "still_path": "/bmBPRhXTk1SzNE0mKbFCDgoUKk7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4636476,
+                    "name": "Under Pressure",
+                    "overview": "With recent tragedies in the pageant community, the issue of mental health in the Miss America competition has been brought into sharper focus. The modern-day Miss Americas are expected to face the judgements of the past while carrying the weight of current expectations.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 230826,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 349192,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

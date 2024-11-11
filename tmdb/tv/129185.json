@@ -1,0 +1,601 @@
+{
+    "adult": false,
+    "backdrop_path": "/q4hIYx6pOjG9OwljzLbo6eJulSF.jpg",
+    "created_by": [
+        {
+            "id": 229519,
+            "credit_id": "60efff30dcf87506a918e3d6",
+            "name": "Thom Fitzgerald",
+            "original_name": "Thom Fitzgerald",
+            "gender": 2,
+            "profile_path": "/sIFIDPir6Ts406wjrnyVmEKgOpx.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-04-30",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 129185,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-06-18",
+    "last_episode_to_air": {
+        "id": 3076349,
+        "name": "Daddy Issues",
+        "overview": "The cam boy develops an emotional attachment to an older customer.",
+        "vote_average": 1,
+        "vote_count": 1,
+        "air_date": "2021-06-18",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 129185,
+        "still_path": null
+    },
+    "name": "Cam Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 61,
+            "logo_path": "/qn73AHcFFKBvVCN5lbSs7XW1C4k.png",
+            "name": "OUTtv",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Cam Boy",
+    "overview": "When Aston finds himself left to his own devices with bills to pay while his boyfriend is in New York, he turns to camming to make ends meet.",
+    "popularity": 4.491,
+    "poster_path": "/8XR9fq5sUv9XcgPvomERmJh42GY.jpg",
+    "production_companies": [
+        {
+            "id": 741,
+            "logo_path": null,
+            "name": "Emotion Pictures",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-30",
+            "episode_count": 6,
+            "id": 202398,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8XR9fq5sUv9XcgPvomERmJh42GY.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "60effefca579f90046c34140",
+            "air_date": "2021-04-30",
+            "episodes": [
+                {
+                    "air_date": "2021-04-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3076315,
+                    "name": "Get Naked",
+                    "overview": "An out of work Broadway chorus boy retreats to his late mother's house in Nova Scotia during a global pandemic. To make ends meet he considers turning to online sex work as a cam model.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": "/oSBJm8UtdFLf5XnXdyJwT2a471q.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Greta",
+                            "credit_id": "60f001ccf3e0df002ce8bea8",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2114230,
+                            "known_for_department": "Acting",
+                            "name": "Sharleen Kalayil",
+                            "original_name": "Sharleen Kalayil",
+                            "popularity": 0.925,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Joshua",
+                            "credit_id": "60f0020cab1bc7007416ba2c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158565,
+                            "known_for_department": "Acting",
+                            "name": "Joshua Mood",
+                            "original_name": "Joshua Mood",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tyler",
+                            "credit_id": "60f0021587e63e0074422af0",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158566,
+                            "known_for_department": "Acting",
+                            "name": "Tyler Riordon",
+                            "original_name": "Tyler Riordon",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Reilly",
+                            "credit_id": "60f001c30f21c6004689d064",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158560,
+                            "known_for_department": "Acting",
+                            "name": "Julien Galipeau",
+                            "original_name": "Julien Galipeau",
+                            "popularity": 0.636,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Scott",
+                            "credit_id": "60f001dcdcf8750080360951",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158561,
+                            "known_for_department": "Acting",
+                            "name": "Scott Bleu",
+                            "original_name": "Scott Bleu",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Wegman",
+                            "credit_id": "60f001b587e63e002dbae5ed",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82769,
+                            "known_for_department": "Acting",
+                            "name": "Craig Chester",
+                            "original_name": "Craig Chester",
+                            "popularity": 1.218,
+                            "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3076345,
+                    "name": "Take My Webcam Virginity",
+                    "overview": "Aspiring cam boy Aston shows his butt online, with unintended consequences.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": "/rQpmXhYukYpIwHyEHfjK4dO5txf.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Tilda",
+                            "credit_id": "60f00241706e560045c5ac88",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18345,
+                            "known_for_department": "Acting",
+                            "name": "Brenda Fricker",
+                            "original_name": "Brenda Fricker",
+                            "popularity": 6.499,
+                            "profile_path": "/xLRPygF2BfqFvLAtoGAl1V8T6bZ.jpg"
+                        },
+                        {
+                            "character": "Tyler",
+                            "credit_id": "60f0021587e63e0074422af0",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158566,
+                            "known_for_department": "Acting",
+                            "name": "Tyler Riordon",
+                            "original_name": "Tyler Riordon",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jackson",
+                            "credit_id": "60f0024c0f21c6005f553a55",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2328483,
+                            "known_for_department": "Acting",
+                            "name": "Zack Currie",
+                            "original_name": "Zack Currie",
+                            "popularity": 0.062,
+                            "profile_path": "/aiGG6OKF5xjOT1qrKu8J4qoTCc1.jpg"
+                        },
+                        {
+                            "character": "Reilly",
+                            "credit_id": "60f001c30f21c6004689d064",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158560,
+                            "known_for_department": "Acting",
+                            "name": "Julien Galipeau",
+                            "original_name": "Julien Galipeau",
+                            "popularity": 0.636,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Wegman",
+                            "credit_id": "60f001b587e63e002dbae5ed",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82769,
+                            "known_for_department": "Acting",
+                            "name": "Craig Chester",
+                            "original_name": "Craig Chester",
+                            "popularity": 1.218,
+                            "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+                        },
+                        {
+                            "character": "Garnet",
+                            "credit_id": "60f00282cf1afd005efbe6ff",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158569,
+                            "known_for_department": "Acting",
+                            "name": "David Light",
+                            "original_name": "David Light",
+                            "popularity": 0.722,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3076346,
+                    "name": "4.5 Out of 5",
+                    "overview": "Aston performs his first full cam sex show, complete with costumes, props, and his classical theatre training.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": "/6j7NUaulKHobvC6swenWRk90Ulj.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jackson",
+                            "credit_id": "60f0024c0f21c6005f553a55",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2328483,
+                            "known_for_department": "Acting",
+                            "name": "Zack Currie",
+                            "original_name": "Zack Currie",
+                            "popularity": 0.062,
+                            "profile_path": "/aiGG6OKF5xjOT1qrKu8J4qoTCc1.jpg"
+                        },
+                        {
+                            "character": "Amber",
+                            "credit_id": "60f0031fab1bc7005e3a3f86",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 961828,
+                            "known_for_department": "Acting",
+                            "name": "Loretta Yu",
+                            "original_name": "Loretta Yu",
+                            "popularity": 2.037,
+                            "profile_path": "/jNxcBt1La0HEGRlaMYq9pfnW4Iu.jpg"
+                        },
+                        {
+                            "character": "Reilly",
+                            "credit_id": "60f001c30f21c6004689d064",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158560,
+                            "known_for_department": "Acting",
+                            "name": "Julien Galipeau",
+                            "original_name": "Julien Galipeau",
+                            "popularity": 0.636,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Wegman",
+                            "credit_id": "60f001b587e63e002dbae5ed",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82769,
+                            "known_for_department": "Acting",
+                            "name": "Craig Chester",
+                            "original_name": "Craig Chester",
+                            "popularity": 1.218,
+                            "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+                        },
+                        {
+                            "character": "Garnet",
+                            "credit_id": "60f00282cf1afd005efbe6ff",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158569,
+                            "known_for_department": "Acting",
+                            "name": "David Light",
+                            "original_name": "David Light",
+                            "popularity": 0.722,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-06-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3076347,
+                    "name": "Booty Shaker",
+                    "overview": "Ashton tries out a new sex toy in his cam show.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Scott",
+                            "credit_id": "60f001dcdcf8750080360951",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158561,
+                            "known_for_department": "Acting",
+                            "name": "Scott Bleu",
+                            "original_name": "Scott Bleu",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Garnet",
+                            "credit_id": "60f00282cf1afd005efbe6ff",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158569,
+                            "known_for_department": "Acting",
+                            "name": "David Light",
+                            "original_name": "David Light",
+                            "popularity": 0.722,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-06-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3076348,
+                    "name": "Sloppy Beaver",
+                    "overview": "The cam boy rebuffs a lonely teenage customer. A family member discovers that he's camming.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Reilly",
+                            "credit_id": "60f001c30f21c6004689d064",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158560,
+                            "known_for_department": "Acting",
+                            "name": "Julien Galipeau",
+                            "original_name": "Julien Galipeau",
+                            "popularity": 0.636,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Billy",
+                            "credit_id": "60f0041e0f21c6002ac323f0",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2434692,
+                            "known_for_department": "Acting",
+                            "name": "Joey Beni",
+                            "original_name": "Joey Beni",
+                            "popularity": 0.812,
+                            "profile_path": "/i2k4xHJGlghoDpM44ZbNIjZWYHR.jpg"
+                        },
+                        {
+                            "character": "Noah",
+                            "credit_id": "60f0042ca44d09005ed247e4",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1872286,
+                            "known_for_department": "Acting",
+                            "name": "Jordan Poole",
+                            "original_name": "Jordan Poole",
+                            "popularity": 1.443,
+                            "profile_path": "/t0ZDti0AIOqqTd3uFQEpLp4Fwj0.jpg"
+                        },
+                        {
+                            "character": "Simon Emmanuel",
+                            "credit_id": "60f004405aba320046a8c35f",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158594,
+                            "known_for_department": "Acting",
+                            "name": "Teo Ferguson",
+                            "original_name": "Teo Ferguson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Garnet",
+                            "credit_id": "60f00282cf1afd005efbe6ff",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158569,
+                            "known_for_department": "Acting",
+                            "name": "David Light",
+                            "original_name": "David Light",
+                            "popularity": 0.722,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Dad",
+                            "credit_id": "60f00449706e56005d5d0438",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 76528,
+                            "known_for_department": "Acting",
+                            "name": "Tony Nappo",
+                            "original_name": "Tony Nappo",
+                            "popularity": 2.847,
+                            "profile_path": "/eRcYYtMvLmypURncfQqVA43BZYD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-06-18",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3076349,
+                    "name": "Daddy Issues",
+                    "overview": "The cam boy develops an emotional attachment to an older customer.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 129185,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Wegman",
+                            "credit_id": "60f001b587e63e002dbae5ed",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82769,
+                            "known_for_department": "Acting",
+                            "name": "Craig Chester",
+                            "original_name": "Craig Chester",
+                            "popularity": 1.218,
+                            "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+                        },
+                        {
+                            "character": "Garnet",
+                            "credit_id": "60f00282cf1afd005efbe6ff",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158569,
+                            "known_for_department": "Acting",
+                            "name": "David Light",
+                            "original_name": "David Light",
+                            "popularity": 0.722,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Dad",
+                            "credit_id": "60f00449706e56005d5d0438",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 76528,
+                            "known_for_department": "Acting",
+                            "name": "Tony Nappo",
+                            "original_name": "Tony Nappo",
+                            "popularity": 2.847,
+                            "profile_path": "/eRcYYtMvLmypURncfQqVA43BZYD.jpg"
+                        },
+                        {
+                            "character": "Husband",
+                            "credit_id": "60f00479a579f9002f0dd81c",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3158596,
+                            "known_for_department": "Acting",
+                            "name": "Eugene Sampang",
+                            "original_name": "Eugene Sampang",
+                            "popularity": 0.486,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 202398,
+            "poster_path": "/8XR9fq5sUv9XcgPvomERmJh42GY.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        }
+    }
+}

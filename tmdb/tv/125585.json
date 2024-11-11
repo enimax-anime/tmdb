@@ -1,0 +1,144 @@
+{
+    "adult": false,
+    "backdrop_path": "/cO7QsdrFbFqg7mH0zWB1QxuzCxy.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-05-14",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.britbox.co.uk/programme/Secrets_of_the_Krays_56695",
+    "id": 125585,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-05-14",
+    "last_episode_to_air": {
+        "id": 2951128,
+        "name": "Fall",
+        "overview": "Despite their power, the Krays made dangerous enemies that threatened their reign.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-14",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 125585,
+        "still_path": "/bGuncs6BHLEDGf048LKP11RCsnZ.jpg"
+    },
+    "name": "Secrets of the Krays",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4025,
+            "logo_path": "/n8YeTJow7qmgfjgoQ51Xi2MQezB.png",
+            "name": "BritBox",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Secrets of the Krays",
+    "overview": "The incredible story of the Krays. Packed with revelations & fresh insights from their friends, relatives & fellow gangsters, it's the definitive account of their brutal reign over 60s London.",
+    "popularity": 1.305,
+    "poster_path": "/qFE7TIsbqZauUIWZgYAk4AVlmyk.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-05-14",
+            "episode_count": 3,
+            "id": 195247,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qFE7TIsbqZauUIWZgYAk4AVlmyk.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "609f62390143250029913920",
+            "air_date": "2021-05-14",
+            "episodes": [
+                {
+                    "air_date": "2021-05-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2951121,
+                    "name": "Rise",
+                    "overview": "How did Britain's most notorious criminals rise to fame?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 125585,
+                    "still_path": "/i7JDnZvvHYfj7Qb5TFqVEe5qxm2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2951125,
+                    "name": "Fear and Fame",
+                    "overview": "Explore how the twins became increasingly famous and feared.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 125585,
+                    "still_path": "/z2wAKZ7FTHE9axXKlLICIHCvfQl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-14",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2951128,
+                    "name": "Fall",
+                    "overview": "Despite their power, the Krays made dangerous enemies that threatened their reign.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 125585,
+                    "still_path": "/bGuncs6BHLEDGf048LKP11RCsnZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 195247,
+            "poster_path": "/qFE7TIsbqZauUIWZgYAk4AVlmyk.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

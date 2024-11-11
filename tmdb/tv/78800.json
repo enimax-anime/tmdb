@@ -1,0 +1,155 @@
+{
+    "adult": false,
+    "backdrop_path": "/8CDBml8qDoESxRePUfdkKhLGTXL.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2018-04-14",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 78800,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-04-28",
+    "last_episode_to_air": {
+        "id": 1471629,
+        "name": "Hungry for Justice",
+        "overview": "Breezy and Jon come across dogs being starved to death and want those responsible to pay for their actions.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-04-28",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 78800,
+        "still_path": "/s9VsmUkUGTZe7wJ8CDopWlrg19G.jpg"
+    },
+    "name": "Animal PD",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1043,
+            "logo_path": "/esXeePrsUGpF6mGQXs3jImz9QoN.png",
+            "name": "Nat Geo Wild",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Animal PD",
+    "overview": "Follow Laurie Hood, founder of Alaqua Animal Refuge, and Breezy Adkinson, a Walton County Sheriff’s Office investigator, as they investigate anonymous tips of animal cruelty, execute raids and rescues, and build cases to bring their owners to justice.",
+    "popularity": 0.825,
+    "poster_path": "/u3sv0sM5vWBKDH3iGDeUgMi0v3m.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-04-14",
+            "episode_count": 3,
+            "id": 102497,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/q2p6Wz4QsLsmwiD6P1mcfbUQQoX.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5ad36dfa0e0a266c3102b578",
+            "air_date": "2018-04-14",
+            "episodes": [
+                {
+                    "air_date": "2018-04-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1471625,
+                    "name": "Unchained and Dangerous",
+                    "overview": "In Florida, animal cruelty is a felony and officers fight to defend the defenseless.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 78800,
+                    "still_path": "/zzdSrNvJZJhTm6CKiqMVCSRDGyC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1471628,
+                    "name": "Bad to the Bone",
+                    "overview": "The team investigates a suspected puppy mill, and everyone helps with an unusual rescue.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 78800,
+                    "still_path": "/ebeRfLqXcxmbppthqt3W0YbR7Th.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-28",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1471629,
+                    "name": "Hungry for Justice",
+                    "overview": "Breezy and Jon come across dogs being starved to death and want those responsible to pay for their actions.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 78800,
+                    "still_path": "/s9VsmUkUGTZe7wJ8CDopWlrg19G.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 102497,
+            "poster_path": "/q2p6Wz4QsLsmwiD6P1mcfbUQQoX.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

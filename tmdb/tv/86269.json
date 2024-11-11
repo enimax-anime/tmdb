@@ -1,0 +1,803 @@
+{
+    "adult": false,
+    "backdrop_path": "/y7y1cOMSzIV8C0XIqfp2Blh99SW.jpg",
+    "created_by": [
+        {
+            "id": 78438,
+            "credit_id": "61dd6def945c200093bab9e1",
+            "name": "Chris Prynoski",
+            "original_name": "Chris Prynoski",
+            "gender": 2,
+            "profile_path": "/m9a3hcH5zV5IvoCiYsuiWfY8Hir.jpg"
+        },
+        {
+            "id": 1336491,
+            "credit_id": "61dd6dffe24b93001c326200",
+            "name": "Austin Reading",
+            "original_name": "Austin Reading",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-02-27",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.syfy.com/aliennewsdesk",
+    "id": 86269,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-05-15",
+    "last_episode_to_air": {
+        "id": 1716620,
+        "name": "The Ultimate Shape-Shifter Shaft",
+        "overview": "Drexx and Tuva reckon with the galaxy's ultimate shame: getting rebooted.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2019-05-15",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 86269,
+        "still_path": "/rQeFLtab2KDvGAmCmrI4aTHfMMa.jpg"
+    },
+    "name": "Alien News Desk",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 77,
+            "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+            "name": "Syfy",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Alien News Desk",
+    "overview": "This weekly, half-hour topical animated series set in an extraterrestrial newsroom covers up-to-the-minute news and commentary about the universe’s most baffling species - the inscrutable Humans of Planet Earth.",
+    "popularity": 4.636,
+    "poster_path": "/zxEOa5gRHHlqpMA7EAOsiop2jBS.jpg",
+    "production_companies": [
+        {
+            "id": 30452,
+            "logo_path": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+            "name": "Bento Box Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1756,
+            "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+            "name": "Broadway Video",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-27",
+            "episode_count": 12,
+            "id": 117769,
+            "name": "Season 1",
+            "overview": "Drexx and Tuva grapple with love, money and Earth's most complex creatures: humans.",
+            "poster_path": "/lCVJrCZ5VBQQ8rHVV8QkMY4xezd.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "News",
+    "vote_average": 3.8,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "5c4fbc520e0a264965d90a70",
+            "air_date": "2019-02-27",
+            "episodes": [
+                {
+                    "air_date": "2019-02-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1688167,
+                    "name": "Ungrateful Wads of Protein",
+                    "overview": "Drexx and Tuva probe the Royal Family, fried chicken, and human arrogance totems, aka “Oscars.”",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/l3KKsfsuklrDzZ88Y1tUuspFs1L.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd66f868b1ea008dc9d723",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 78438,
+                            "known_for_department": "Production",
+                            "name": "Chris Prynoski",
+                            "original_name": "Chris Prynoski",
+                            "popularity": 4.028,
+                            "profile_path": "/m9a3hcH5zV5IvoCiYsuiWfY8Hir.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6710c525c400677653e8",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1336491,
+                            "known_for_department": "Directing",
+                            "name": "Austin Reading",
+                            "original_name": "Austin Reading",
+                            "popularity": 0.561,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6881b0040a008e8d7fd0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1400632,
+                            "known_for_department": "Writing",
+                            "name": "Sam West",
+                            "original_name": "Sam West",
+                            "popularity": 1.138,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1716610,
+                    "name": "Inane Utterings of a Brainwashed People",
+                    "overview": "Shocking reports on floating prisons, anti-poor fabrics, and a barbaric act known as ventriloquism.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/bGetijcsglHiGg5Ja5fhrgPDtSf.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd679de24b93006682b121",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3373433,
+                            "known_for_department": "Acting",
+                            "name": "Scott Gairdner",
+                            "original_name": "Scott Gairdner",
+                            "popularity": 0.065,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "61dd67bb258823004242f84d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1750936,
+                            "known_for_department": "Acting",
+                            "name": "Ben Rodgers",
+                            "original_name": "Ben Rodgers",
+                            "popularity": 0.75,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "61dd67c8b0040a0041ea09de",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3373433,
+                            "known_for_department": "Acting",
+                            "name": "Scott Gairdner",
+                            "original_name": "Scott Gairdner",
+                            "popularity": 0.065,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1716611,
+                    "name": "Udder Madness",
+                    "overview": "Meet some special vehicles called “Indycars” and the grotesque pseudo-humans called “bodybuilders.”",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/w6qvUWrrpxVTtTg88bNUjdDCnEr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd680ccb30840098cf1f56",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141524,
+                            "known_for_department": "Writing",
+                            "name": "Dennis McNicholas",
+                            "original_name": "Dennis McNicholas",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1716612,
+                    "name": "Simultaneous Vortex Exit",
+                    "overview": "Drexx joins the gig economy, Tuva fights robot appropriation, and Stonehenge kicks ass.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/wXz7KlP0a3VywD5JHeR4s9uehbJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6881b0040a008e8d7fd0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1400632,
+                            "known_for_department": "Writing",
+                            "name": "Sam West",
+                            "original_name": "Sam West",
+                            "popularity": 1.138,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "61dd686768b1ea0066939afa",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1012049,
+                            "known_for_department": "Acting",
+                            "name": "Todd Tetreault",
+                            "original_name": "Todd Tetreault",
+                            "popularity": 3.303,
+                            "profile_path": "/uHqHaQ9krgcoTpyRWRY9tGwb0ti.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1716613,
+                    "name": "A Big Moldy Space Orange",
+                    "overview": "Drexx and Tuva grapple with love, the Supreme Court, and a very wordy segment name.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/hxteI7FhWfLtePs5ekknOYUQZYG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd679de24b93006682b121",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3373433,
+                            "known_for_department": "Acting",
+                            "name": "Scott Gairdner",
+                            "original_name": "Scott Gairdner",
+                            "popularity": 0.065,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1716614,
+                    "name": "A Very Norffy Gronksmas",
+                    "overview": "Where is Barack Obama? Who is The Spoiler? And what's the deal with Drake?",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/bcyeNVwn97aGSNOqlI9tcxIuGIz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6881b0040a008e8d7fd0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1400632,
+                            "known_for_department": "Writing",
+                            "name": "Sam West",
+                            "original_name": "Sam West",
+                            "popularity": 1.138,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1716615,
+                    "name": "Corrupt, Bloviating Narcissists",
+                    "overview": "Drexx and Tuva visit the kingdom of The Masters. Then, a handy guide on how to probe yourself.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/iAb0TU4ayDJYByEIjLA6fxNRtvo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6a23b0040a00660fb2f1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377817,
+                            "known_for_department": "Writing",
+                            "name": "Josh Patten",
+                            "original_name": "Josh Patten",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1716616,
+                    "name": "A Wasteland of Rehashed Dreck",
+                    "overview": "What is 4/20 and why does it make humans giggle? Plus, a joyous celebration of Tax Day.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/mg0cvTXQiUsgsloVH3qMUBRl6vi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6ab8a35c8e001d506c86",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377823,
+                            "known_for_department": "Writing",
+                            "name": "Lauren Moser",
+                            "original_name": "Lauren Moser",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Groova Zandoid",
+                            "credit_id": "61dd6ae7e24b93001c325eb6",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2964566,
+                            "known_for_department": "Acting",
+                            "name": "Elise Marie Dubois",
+                            "original_name": "Elise Marie Dubois",
+                            "popularity": 0.125,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-04-24",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1716617,
+                    "name": "Cumbersome Dongles",
+                    "overview": "The wall, the welfare queen, and a chef (Chris Parnell) cooks up the garbage humans call “food.”",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/gKrC78L85yIpN3ahtc4BaiyYYic.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6a23b0040a00660fb2f1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377817,
+                            "known_for_department": "Writing",
+                            "name": "Josh Patten",
+                            "original_name": "Josh Patten",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6ab8a35c8e001d506c86",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377823,
+                            "known_for_department": "Writing",
+                            "name": "Lauren Moser",
+                            "original_name": "Lauren Moser",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "61dd6b9eb0040a008e8d8348",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51382,
+                            "known_for_department": "Acting",
+                            "name": "Chris Parnell",
+                            "original_name": "Chris Parnell",
+                            "popularity": 5.827,
+                            "profile_path": "/8K1s949E2dwBnj9NlMX0m640HQp.jpg"
+                        },
+                        {
+                            "character": "Groova Zandoid",
+                            "credit_id": "61dd6ae7e24b93001c325eb6",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2964566,
+                            "known_for_department": "Acting",
+                            "name": "Elise Marie Dubois",
+                            "original_name": "Elise Marie Dubois",
+                            "popularity": 0.125,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-05-01",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 1716618,
+                    "name": "Bloated Acquisition Piles",
+                    "overview": "Get your safe words ready for a sexy report on corporate mergers. Plus, meet Drexx's pal Lord Xenu.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/1Izr7Ot1PW6snsWvieFOJZUiBCm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd679de24b93006682b121",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3373433,
+                            "known_for_department": "Acting",
+                            "name": "Scott Gairdner",
+                            "original_name": "Scott Gairdner",
+                            "popularity": 0.065,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-08",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 1716619,
+                    "name": "Princes of Mange",
+                    "overview": "Humanity's biggest threats: spidered-men, twins, and the vengeful gods known as “mascots.”",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/uGUYdcCFCmkrJVlSXYq4NJJAlTO.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "61dd674ee24b93008d471fff",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377803,
+                            "known_for_department": "Directing",
+                            "name": "Jeannette Moreno King",
+                            "original_name": "Jeannette Moreno King",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd6ab8a35c8e001d506c86",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3377823,
+                            "known_for_department": "Writing",
+                            "name": "Lauren Moser",
+                            "original_name": "Lauren Moser",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-15",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 1716620,
+                    "name": "The Ultimate Shape-Shifter Shaft",
+                    "overview": "Drexx and Tuva reckon with the galaxy's ultimate shame: getting rebooted.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 86269,
+                    "still_path": "/rQeFLtab2KDvGAmCmrI4aTHfMMa.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "61dd680ccb30840098cf1f56",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 141524,
+                            "known_for_department": "Writing",
+                            "name": "Dennis McNicholas",
+                            "original_name": "Dennis McNicholas",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6613ee415437f501847e2b09",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3843609,
+                            "known_for_department": "Art",
+                            "name": "Lauren Andrews",
+                            "original_name": "Lauren Andrews",
+                            "popularity": 0.447,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Groova Zandoid",
+                            "credit_id": "61dd6ae7e24b93001c325eb6",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2964566,
+                            "known_for_department": "Acting",
+                            "name": "Elise Marie Dubois",
+                            "original_name": "Elise Marie Dubois",
+                            "popularity": 0.125,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "Drexx and Tuva grapple with love, money and Earth's most complex creatures: humans.",
+            "id": 117769,
+            "poster_path": "/lCVJrCZ5VBQQ8rHVV8QkMY4xezd.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    }
+}

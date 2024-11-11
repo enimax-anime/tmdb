@@ -1,0 +1,604 @@
+{
+    "adult": false,
+    "backdrop_path": "/gOdSJuc7i55g0lT9twOdE88SylK.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-03-27",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.citytv.com/toronto/shows/the-wedding-planners/",
+    "id": 102154,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-05-08",
+    "last_episode_to_air": {
+        "id": 2231701,
+        "name": "The Perfect Wedding",
+        "overview": "Creating the perfect wedding for her former best friend and her former boyfriend leaves Hannah feeling lonely. James embraces a fashion business opportunity while Paige confronts their mother's legacy.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-05-08",
+        "episode_number": 7,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 102154,
+        "still_path": null
+    },
+    "name": "The Wedding Planners",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 92,
+            "logo_path": "/38EhAHYoNzRDFCXAUdF4PEH9Kfl.png",
+            "name": "Citytv",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "The Wedding Planners",
+    "overview": "Follow the Clarkson Family siblings through their complicated personal relationships and drama-filled work days as professional Wedding Planners.",
+    "popularity": 3.803,
+    "poster_path": "/3Mfi3GmpucqQN5GLmKyNgpVB0AH.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-03-27",
+            "episode_count": 7,
+            "id": 148299,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3Mfi3GmpucqQN5GLmKyNgpVB0AH.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Every wedding begins with family.",
+    "type": "Scripted",
+    "vote_average": 4,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5e9a9eb2d18fb9001d8e4535",
+            "air_date": "2020-03-27",
+            "episodes": [
+                {
+                    "air_date": "2020-03-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2231695,
+                    "name": "One Funeral, Two Weddings",
+                    "overview": "Paige, James and Hannah Clarkson come together after their beloved mother suddenly passes away. Honouring her legacy while being true to themselves, they wrestle with managing her business: planning elegant, personal weddings.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": "/8j18q1IRMJW7n1OGh4rAuqGH1Nh.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f7449f81967570037986476",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1182311,
+                            "known_for_department": "Directing",
+                            "name": "Justin G. Dyck",
+                            "original_name": "Justin G. Dyck",
+                            "popularity": 2.5,
+                            "profile_path": "/duJJXmdxmAk67tVEi5MEE0KcQLt.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744a0835039800369eb35b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1620179,
+                            "known_for_department": "Writing",
+                            "name": "Neale Kimmel",
+                            "original_name": "Neale Kimmel",
+                            "popularity": 1.336,
+                            "profile_path": "/u3dUPofu16jxqxuDtTjOa1mzhAX.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Charles",
+                            "credit_id": "5f802d29d8e15a0039de1188",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2060364,
+                            "known_for_department": "Acting",
+                            "name": "Andrew Bushell",
+                            "original_name": "Andrew Bushell",
+                            "popularity": 4.879,
+                            "profile_path": "/x6gvG1kvBep1z8RBYCUWpDTVyly.jpg"
+                        },
+                        {
+                            "character": "Danielle",
+                            "credit_id": "5fda32bb1d3143003dbddc47",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1785654,
+                            "known_for_department": "Acting",
+                            "name": "Samantha Brown",
+                            "original_name": "Samantha Brown",
+                            "popularity": 57.747,
+                            "profile_path": "/s8shUKGCNBCxnKeGHwV3wP0HpIS.jpg"
+                        },
+                        {
+                            "character": "Pastor Evan",
+                            "credit_id": "64c2e5319590e300c8d1deae",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2231696,
+                    "name": "The Big Italian Wedding",
+                    "overview": "The Big Italian Wedding. James and Hannah back a bride and groom caught between their own wedding vision and family traditions. Paige runs point at the Hartbridge Bridal Show, scrambling for new business.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": "/fVffSn5iQhAnQFyaVC6gHC9gHJ2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f744a8b156cc70036485d56",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2797683,
+                            "known_for_department": "Directing",
+                            "name": "Amy Force",
+                            "original_name": "Amy Force",
+                            "popularity": 0.932,
+                            "profile_path": "/rx4OBU31CpZPxySFX3x0DtWK6QQ.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744aa821621b00332c5087",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1521833,
+                            "known_for_department": "Writing",
+                            "name": "Luciano Casimiri",
+                            "original_name": "Luciano Casimiri",
+                            "popularity": 0.013,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Anna",
+                            "credit_id": "5fda32ff1d3143003cbec0d7",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1860387,
+                            "known_for_department": "Acting",
+                            "name": "Laura Cilevitz",
+                            "original_name": "Laura Cilevitz",
+                            "popularity": 2.075,
+                            "profile_path": "/fx4zzV95H8OgxXrVyJuLTfmExaF.jpg"
+                        },
+                        {
+                            "character": "Pastor Evan",
+                            "credit_id": "64c2e5319590e300c8d1deae",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        },
+                        {
+                            "character": "Jimmy",
+                            "credit_id": "64d5b4dc021cee013b72ed59",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1226195,
+                            "known_for_department": "Acting",
+                            "name": "Rob Stewart",
+                            "original_name": "Rob Stewart",
+                            "popularity": 18.215,
+                            "profile_path": "/kzCmiU4CgIOHQNCsjWPa3s3qEir.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2231697,
+                    "name": "Champagne Dreams, Beer Budget",
+                    "overview": "Champagne Dreams. Already unrealistic about costs, couple Lauren and Leo struggle further when their beloved dog is in crisis. Paige realizes her family's wedding planning business has gone to the dogs.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": "/kXXsybUOk2mSunEIu2ABoWAi1xA.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f744b8591b53000378ba402",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1911937,
+                            "known_for_department": "Directing",
+                            "name": "Marco Deufemia",
+                            "original_name": "Marco Deufemia",
+                            "popularity": 2.212,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744b9ad40d4c00386762c2",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2481591,
+                            "known_for_department": "Writing",
+                            "name": "Paula Tiberius",
+                            "original_name": "Paula Tiberius",
+                            "popularity": 0.168,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Leo",
+                            "credit_id": "619adfe070b444002ca4dd63",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1725093,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Malik",
+                            "original_name": "Daniel Malik",
+                            "popularity": 3.56,
+                            "profile_path": "/wcZ8ubxahGsTHtT6EfxWqkAEPD5.jpg"
+                        },
+                        {
+                            "character": "Pastor Evan",
+                            "credit_id": "64c2e5319590e300c8d1deae",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2231698,
+                    "name": "Wedding of Champions",
+                    "overview": "James creates a fun, retro-themed wedding - at a roller skating rink - while Hannah runs interference on the four parents. Paige battles the competition for a celebrity sports wedding.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": "/j5LzBGSsJMaovfom43VjIIGjXvE.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f7449f81967570037986476",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1182311,
+                            "known_for_department": "Directing",
+                            "name": "Justin G. Dyck",
+                            "original_name": "Justin G. Dyck",
+                            "popularity": 2.5,
+                            "profile_path": "/duJJXmdxmAk67tVEi5MEE0KcQLt.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744a0835039800369eb35b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1620179,
+                            "known_for_department": "Writing",
+                            "name": "Neale Kimmel",
+                            "original_name": "Neale Kimmel",
+                            "popularity": 1.336,
+                            "profile_path": "/u3dUPofu16jxqxuDtTjOa1mzhAX.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-04-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2231699,
+                    "name": "Sweet Home Wedding",
+                    "overview": "Needing more 'country' in her wedding, a bride leans on her cousin, Hannah, James and Paige for help. The siblings' father also visits, opening up old wounds. Hannah dresses up for a first date.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f744b8591b53000378ba402",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1911937,
+                            "known_for_department": "Directing",
+                            "name": "Marco Deufemia",
+                            "original_name": "Marco Deufemia",
+                            "popularity": 2.212,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744b9ad40d4c00386762c2",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2481591,
+                            "known_for_department": "Writing",
+                            "name": "Paula Tiberius",
+                            "original_name": "Paula Tiberius",
+                            "popularity": 0.168,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "William",
+                            "credit_id": "64a70b6e9652200100111d9b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1381537,
+                            "known_for_department": "Acting",
+                            "name": "Marcus Rosner",
+                            "original_name": "Marcus Rosner",
+                            "popularity": 20.987,
+                            "profile_path": "/2DQHSgA6LgR7ZTJpIEApT3TXCQx.jpg"
+                        },
+                        {
+                            "character": "Pastor Evan",
+                            "credit_id": "64c2e5319590e300c8d1deae",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        },
+                        {
+                            "character": "Jimmy",
+                            "credit_id": "64d5b4dc021cee013b72ed59",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1226195,
+                            "known_for_department": "Acting",
+                            "name": "Rob Stewart",
+                            "original_name": "Rob Stewart",
+                            "popularity": 18.215,
+                            "profile_path": "/kzCmiU4CgIOHQNCsjWPa3s3qEir.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2231700,
+                    "name": "A June Wedding",
+                    "overview": "When an online romance blooms into true love, Paige, James and Hannah back two dancers learning to make room for each other in their busy lives. A visit from Paige's estranged mother-in-law runs amok.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f744a8b156cc70036485d56",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2797683,
+                            "known_for_department": "Directing",
+                            "name": "Amy Force",
+                            "original_name": "Amy Force",
+                            "popularity": 0.932,
+                            "profile_path": "/rx4OBU31CpZPxySFX3x0DtWK6QQ.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744aa821621b00332c5087",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1521833,
+                            "known_for_department": "Writing",
+                            "name": "Luciano Casimiri",
+                            "original_name": "Luciano Casimiri",
+                            "popularity": 0.013,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Marcy",
+                            "credit_id": "600c5bde0cd446003ddde69d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1656972,
+                            "known_for_department": "Acting",
+                            "name": "Kym Johnson",
+                            "original_name": "Kym Johnson",
+                            "popularity": 0.691,
+                            "profile_path": "/jtcQsS6QMpf6c2OOn9zOuGbBchE.jpg"
+                        },
+                        {
+                            "character": "Tyler",
+                            "credit_id": "6088411ccabfe4003feba33b",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1226626,
+                            "known_for_department": "Acting",
+                            "name": "Christian Vincent",
+                            "original_name": "Christian Vincent",
+                            "popularity": 4.676,
+                            "profile_path": "/1KlbXU9SrL40nX4GPeJV1vJysNW.jpg"
+                        },
+                        {
+                            "character": "Pastor Evan Miller",
+                            "credit_id": "64c2e5873520e800addde61d",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-08",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 2231701,
+                    "name": "The Perfect Wedding",
+                    "overview": "Creating the perfect wedding for her former best friend and her former boyfriend leaves Hannah feeling lonely. James embraces a fashion business opportunity while Paige confronts their mother's legacy.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102154,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f744a8b156cc70036485d56",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2797683,
+                            "known_for_department": "Directing",
+                            "name": "Amy Force",
+                            "original_name": "Amy Force",
+                            "popularity": 0.932,
+                            "profile_path": "/rx4OBU31CpZPxySFX3x0DtWK6QQ.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f744a0835039800369eb35b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1620179,
+                            "known_for_department": "Writing",
+                            "name": "Neale Kimmel",
+                            "original_name": "Neale Kimmel",
+                            "popularity": 1.336,
+                            "profile_path": "/u3dUPofu16jxqxuDtTjOa1mzhAX.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Pastor Evan Miller",
+                            "credit_id": "64c2e5873520e800addde61d",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5921,
+                            "known_for_department": "Acting",
+                            "name": "Martin Roach",
+                            "original_name": "Martin Roach",
+                            "popularity": 5.97,
+                            "profile_path": "/tTyxAqRDIhyfqRQjM2Opeo42ESc.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 148299,
+            "poster_path": "/3Mfi3GmpucqQN5GLmKyNgpVB0AH.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    }
+}

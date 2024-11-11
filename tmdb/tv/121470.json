@@ -1,0 +1,752 @@
+{
+    "adult": false,
+    "backdrop_path": "/aU24jCcUHkf28w1HZWUBrZxr0zj.jpg",
+    "created_by": [
+        {
+            "id": 1511385,
+            "credit_id": "60590d0fa294f000283a7146",
+            "name": "Madeline Whitby",
+            "original_name": "Madeline Whitby",
+            "gender": 0,
+            "profile_path": "/iS3lfJpa37dEjIeFrmJETDR5J7t.jpg"
+        },
+        {
+            "id": 2549705,
+            "credit_id": "60590d09ab1bc7005453e061",
+            "name": "Monica Sherer",
+            "original_name": "Monica Sherer",
+            "gender": 0,
+            "profile_path": "/yBl4Ae50ge8TRmeNTQEx7wgUQU8.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2021-03-20",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.nick.com/shows/drama-club",
+    "id": 121470,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2021-05-22",
+    "last_episode_to_air": {
+        "id": 2942042,
+        "name": "The Show Might Go On",
+        "overview": "The drama club’s performance of Minnesota: The Musical is finally ready to hit the stage, but just about everything that can go wrong, does.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-22",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 121470,
+        "still_path": "/kXSE3TjhN0fwr6rmVtcQGAm3GfO.jpg"
+    },
+    "name": "Drama Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 13,
+            "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+            "name": "Nickelodeon",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Drama Club",
+    "overview": "This mockumentary-style comedy series follows a group of middle schoolers as they shine a light on the inner workings of their school’s overlooked drama club.",
+    "popularity": 6.067,
+    "poster_path": "/spFZBnQN7pA8gcCHoW1kNC7HYWE.jpg",
+    "production_companies": [
+        {
+            "id": 30086,
+            "logo_path": "/74ufhzObVRahcRCbNKRVyxy3BXZ.png",
+            "name": "AwesomenessTV",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-20",
+            "episode_count": 10,
+            "id": 187302,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/spFZBnQN7pA8gcCHoW1kNC7HYWE.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.4,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "6058d74822931a003d81a65d",
+            "air_date": "2021-03-20",
+            "episodes": [
+                {
+                    "air_date": "2021-03-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2816086,
+                    "name": "Drama in the Drama Club",
+                    "overview": "Mack is excited to take over as student director of the Drama Club, and earn the new school principal's support. When the club's choreographer goes down with an injury, the Drama Club is forced to turn to a rival on the football team for help.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/iMhrIijsUhn9gjhe2UtW7fEgZMJ.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "60590e15eec4f3003e8b4f92",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1227506,
+                            "known_for_department": "Directing",
+                            "name": "Nancy Hower",
+                            "original_name": "Nancy Hower",
+                            "popularity": 4.264,
+                            "profile_path": "/9AEzql8jShTlilYKnYFHPJw0Eju.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60590e226e3deb0054ea8c2c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2549705,
+                            "known_for_department": "Acting",
+                            "name": "Monica Sherer",
+                            "original_name": "Monica Sherer",
+                            "popularity": 0.666,
+                            "profile_path": "/yBl4Ae50ge8TRmeNTQEx7wgUQU8.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60590e28eec4f3006b9b04cd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1511385,
+                            "known_for_department": "Acting",
+                            "name": "Madeline Whitby",
+                            "original_name": "Madeline Whitby",
+                            "popularity": 1.052,
+                            "profile_path": "/iS3lfJpa37dEjIeFrmJETDR5J7t.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Kurtis Edward Edwards",
+                            "credit_id": "629d45d565e0a2550a27b821",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2373501,
+                            "known_for_department": "Acting",
+                            "name": "Reyn Doi",
+                            "original_name": "Reyn Doi",
+                            "popularity": 2.811,
+                            "profile_path": "/tEjsr6mcothuc7b6yEGJ6OEZUHf.jpg"
+                        },
+                        {
+                            "character": "Meegan",
+                            "credit_id": "629d46d15507e93227a36560",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3025393,
+                            "known_for_department": "Acting",
+                            "name": "Dallas Oliver",
+                            "original_name": "Dallas Oliver",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Fenton",
+                            "credit_id": "629d46f31e9225009cf44b84",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577762,
+                            "known_for_department": "Acting",
+                            "name": "Brady Amaya",
+                            "original_name": "Brady Amaya",
+                            "popularity": 0.087,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Principal Shoemaker",
+                            "credit_id": "629d47229661fc00aadeae68",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1417685,
+                            "known_for_department": "Crew",
+                            "name": "Gregory J. Barnett",
+                            "original_name": "Gregory J. Barnett",
+                            "popularity": 2.826,
+                            "profile_path": "/97Gns4ZXSHaVcpMwJSUjH3etjCx.jpg"
+                        },
+                        {
+                            "character": "Oliver (voice)",
+                            "credit_id": "629d473f12197e0052fec167",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577763,
+                            "known_for_department": "Acting",
+                            "name": "Graham Edmonds",
+                            "original_name": "Graham Edmonds",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Football Player",
+                            "credit_id": "629d47cc65e0a255086d330a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577764,
+                            "known_for_department": "Acting",
+                            "name": "Blake Johnston",
+                            "original_name": "Blake Johnston",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Clyde Sniffet",
+                            "credit_id": "629d44fdfed597005181f240",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1286525,
+                            "known_for_department": "Acting",
+                            "name": "John Milhiser",
+                            "original_name": "John Milhiser",
+                            "popularity": 2.138,
+                            "profile_path": "/7pTGXgSMQU3Y0F4BQ3lgPIiinqt.jpg"
+                        },
+                        {
+                            "character": "Gertie",
+                            "credit_id": "629d4576992fe600a6053e42",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577761,
+                            "known_for_department": "Acting",
+                            "name": "Neska Rose",
+                            "original_name": "Neska Rose",
+                            "popularity": 0.441,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Principal Gibbins",
+                            "credit_id": "629d46007e12f01212931b15",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1039796,
+                            "known_for_department": "Acting",
+                            "name": "Ithamar Enriquez",
+                            "original_name": "Ithamar Enriquez",
+                            "popularity": 2.262,
+                            "profile_path": "/eWNfRWi4ltFZYCS26XqDMBXcueq.jpg"
+                        },
+                        {
+                            "character": "Coach Cobbler",
+                            "credit_id": "629d469a5507e93227a3642a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 162883,
+                            "known_for_department": "Acting",
+                            "name": "Marcus Folmar",
+                            "original_name": "Marcus Folmar",
+                            "popularity": 2.122,
+                            "profile_path": "/bIchppQwSUgOH6OiVH19tliYjAs.jpg"
+                        },
+                        {
+                            "character": "Assistant Coach",
+                            "credit_id": "629d4760d2147c0066e68802",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 222080,
+                            "known_for_department": "Acting",
+                            "name": "Bryan Kreutz",
+                            "original_name": "Bryan Kreutz",
+                            "popularity": 1.055,
+                            "profile_path": "/mmnZ0NapazAgzmQpJYgi9MMJ6UF.jpg"
+                        },
+                        {
+                            "character": "Drama Club Member",
+                            "credit_id": "629d47efd71fb474df1eeadc",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577765,
+                            "known_for_department": "Acting",
+                            "name": "Dalya Karam",
+                            "original_name": "Dalya Karam",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Drama Club Member",
+                            "credit_id": "629d49b2caa5081aef801f27",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3577769,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Unvert",
+                            "original_name": "Jackson Unvert",
+                            "popularity": 0.003,
+                            "profile_path": "/vNEnu91AeTANVwrBb7k9yn644zC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2816386,
+                    "name": "Build a Bench",
+                    "overview": "Bench gets a Drama Club style makeover to help him adjust to the group, but they accidentally create a theatrical nightmare when he takes it too far.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/eZIJ02J9G03L4MH0C8eXG1zMcLD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "60590e226e3deb0054ea8c2c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2549705,
+                            "known_for_department": "Acting",
+                            "name": "Monica Sherer",
+                            "original_name": "Monica Sherer",
+                            "popularity": 0.666,
+                            "profile_path": "/yBl4Ae50ge8TRmeNTQEx7wgUQU8.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63ad322279a1c3008297830a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1744787,
+                            "known_for_department": "Directing",
+                            "name": "Bennet Silverman",
+                            "original_name": "Bennet Silverman",
+                            "popularity": 0.088,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Story Editor",
+                            "department": "Writing",
+                            "credit_id": "63ad328f5ad76b00e6f7865f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2390678,
+                            "known_for_department": "Writing",
+                            "name": "Richard Carl",
+                            "original_name": "Richard Carl",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63ad32b75ad76b00cf4112cb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1355768,
+                            "known_for_department": "Writing",
+                            "name": "Eric Falconer",
+                            "original_name": "Eric Falconer",
+                            "popularity": 2.269,
+                            "profile_path": "/7vLs2OpKSTekfL1ORBNxQwcqOAO.jpg"
+                        },
+                        {
+                            "job": "Executive Story Editor",
+                            "department": "Writing",
+                            "credit_id": "63ad32d257530e008dc9899f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2390679,
+                            "known_for_department": "Writing",
+                            "name": "Ian McLees",
+                            "original_name": "Ian McLees",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Clyde Sniffet",
+                            "credit_id": "629d44fdfed597005181f240",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1286525,
+                            "known_for_department": "Acting",
+                            "name": "John Milhiser",
+                            "original_name": "John Milhiser",
+                            "popularity": 2.138,
+                            "profile_path": "/7pTGXgSMQU3Y0F4BQ3lgPIiinqt.jpg"
+                        },
+                        {
+                            "character": "Gertie",
+                            "credit_id": "629d4576992fe600a6053e42",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577761,
+                            "known_for_department": "Acting",
+                            "name": "Neska Rose",
+                            "original_name": "Neska Rose",
+                            "popularity": 0.441,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Principal Gibbins",
+                            "credit_id": "629d46007e12f01212931b15",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1039796,
+                            "known_for_department": "Acting",
+                            "name": "Ithamar Enriquez",
+                            "original_name": "Ithamar Enriquez",
+                            "popularity": 2.262,
+                            "profile_path": "/eWNfRWi4ltFZYCS26XqDMBXcueq.jpg"
+                        },
+                        {
+                            "character": "Coach Cobbler",
+                            "credit_id": "629d469a5507e93227a3642a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 162883,
+                            "known_for_department": "Acting",
+                            "name": "Marcus Folmar",
+                            "original_name": "Marcus Folmar",
+                            "popularity": 2.122,
+                            "profile_path": "/bIchppQwSUgOH6OiVH19tliYjAs.jpg"
+                        },
+                        {
+                            "character": "Nurse",
+                            "credit_id": "629d4926dc1cb40e48ec8dfb",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2306593,
+                            "known_for_department": "Acting",
+                            "name": "Alycia Cooper",
+                            "original_name": "Alycia Cooper",
+                            "popularity": 0.914,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Assistant Coach",
+                            "credit_id": "629d4760d2147c0066e68802",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 222080,
+                            "known_for_department": "Acting",
+                            "name": "Bryan Kreutz",
+                            "original_name": "Bryan Kreutz",
+                            "popularity": 1.055,
+                            "profile_path": "/mmnZ0NapazAgzmQpJYgi9MMJ6UF.jpg"
+                        },
+                        {
+                            "character": "Drama Club Member",
+                            "credit_id": "629d47efd71fb474df1eeadc",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3577765,
+                            "known_for_department": "Acting",
+                            "name": "Dalya Karam",
+                            "original_name": "Dalya Karam",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Drama Club Member",
+                            "credit_id": "629d4997e4c9eb0051f3d4a6",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2279512,
+                            "known_for_department": "Acting",
+                            "name": "Adam Ruiz",
+                            "original_name": "Adam Ruiz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Drama Club Member",
+                            "credit_id": "629d49b2caa5081aef801f27",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3577769,
+                            "known_for_department": "Acting",
+                            "name": "Jackson Unvert",
+                            "original_name": "Jackson Unvert",
+                            "popularity": 0.003,
+                            "profile_path": "/vNEnu91AeTANVwrBb7k9yn644zC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2816387,
+                    "name": "Phoneless in Tookus",
+                    "overview": "When Darcy takes everyone's cellphones because they are too distracted to rehearse, the drama club faces new challenges; Bench and Skip visit the scariest place in the school: the library.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/n7iSLJpDJF1jEEwN8Pcj8nlOnFo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Colin",
+                            "credit_id": "63ad6b207ef3811f60856b42",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2557619,
+                            "known_for_department": "Acting",
+                            "name": "Pilot Bunch",
+                            "original_name": "Pilot Bunch",
+                            "popularity": 0.654,
+                            "profile_path": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2816388,
+                    "name": "Luck Be a Poncho Tonight",
+                    "overview": "After a string of bad luck, Mack decides to wear her lucky poncho to turn things around, but causes a rift between her and Oliver.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/tVrJtUL7XUg6gMGPCMUAoSQdivN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2905491,
+                    "name": "15 Sniffets of Fame",
+                    "overview": "The drama club attempts to make a viral video to boost ticket sales for the show.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/b0WuilHn0AKaWz31DlrA5bzwaDN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2905492,
+                    "name": "S.A.D.",
+                    "overview": "Darcy is excited to go to the school dance this year, but Mack is determined to avoid it at all costs after an embarrassing incident at the last one.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/qkXxGvovQkYufsEJyxYILYl1ll1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Colin",
+                            "credit_id": "63ad6b207ef3811f60856b42",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2557619,
+                            "known_for_department": "Acting",
+                            "name": "Pilot Bunch",
+                            "original_name": "Pilot Bunch",
+                            "popularity": 0.654,
+                            "profile_path": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2905493,
+                    "name": "Slumber Games",
+                    "overview": "Slumber Games: The Drama Club participates in an all school game of capture the flag in order to earn some respect, but when Bench says he is going to play for the football team instead, they are worried about their chances.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/6C6zKwovQDULkbPyLperx6BH2RP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-15",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2942040,
+                    "name": "Phantom of Farth Hall",
+                    "overview": "Phantom of Farth Auditorium: When things start to go missing from the theater, the drama club investigates who might be behind it, including possibly a ghost!",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/pB17hA5jYHiTWBcoECJs9DrmrAr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-22",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2942041,
+                    "name": "Stress Rehearsal",
+                    "overview": "The club has trouble getting through the final dress rehearsal before Bench drops some big news.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/kXSE3TjhN0fwr6rmVtcQGAm3GfO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Colin",
+                            "credit_id": "63ad6b207ef3811f60856b42",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2557619,
+                            "known_for_department": "Acting",
+                            "name": "Pilot Bunch",
+                            "original_name": "Pilot Bunch",
+                            "popularity": 0.654,
+                            "profile_path": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-22",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2942042,
+                    "name": "The Show Might Go On",
+                    "overview": "The drama club’s performance of Minnesota: The Musical is finally ready to hit the stage, but just about everything that can go wrong, does.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 121470,
+                    "still_path": "/kXSE3TjhN0fwr6rmVtcQGAm3GfO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Colin",
+                            "credit_id": "63ad6b207ef3811f60856b42",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2557619,
+                            "known_for_department": "Acting",
+                            "name": "Pilot Bunch",
+                            "original_name": "Pilot Bunch",
+                            "popularity": 0.654,
+                            "profile_path": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 187302,
+            "poster_path": "/spFZBnQN7pA8gcCHoW1kNC7HYWE.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30,
+        22
+    ],
+    "first_air_date": "1994-09-05",
+    "genres": [
+        {
+            "id": 10763,
+            "name": "News"
+        }
+    ],
+    "homepage": "http://extratv.warnerbros.com/",
+    "id": 5129,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-12-20",
+    "last_episode_to_air": {
+        "id": 4680378,
+        "name": "Episode 91",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-12-20",
+        "episode_number": 91,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 28,
+        "show_id": 5129,
+        "still_path": null
+    },
+    "name": "Extra",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 184,
+            "logo_path": null,
+            "name": "Syndication",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 54,
+    "number_of_seasons": 7,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Extra",
+    "overview": "Extra is an American entertainment television news program covering events and celebrities which debuted on September 5, 1994 in syndication. It was initially produced at Victory Studios in Glendale, California by Telepictures Productions in association with Warner Bros. Television Distribution. From 1995-2003 it was distributed by Time-Telepictures Television a joint merger between Time Magazine and Telepictures. Extra also had a spinoff show called Celebrity Justice, which ran for only three seasons from 2002–2005. Extra is one of two Warner Bros. Television shows to be syndicated to NBCUniversal television stations, the other being The Ellen DeGeneres Show. Extra is also one of two WBTV entertainment programs, the other being TMZ on TV.",
+    "popularity": 12.146,
+    "poster_path": "/7N2cJicxK8kss71bLLrq5HA4IB5.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1994-09-05",
+            "episode_count": 1,
+            "id": 14981,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2003-09-16",
+            "episode_count": 47,
+            "id": 14980,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 10,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2007-03-30",
+            "episode_count": 2,
+            "id": 14982,
+            "name": "Season 13",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 13,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 2,
+            "id": 61499,
+            "name": "Season 20",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 20,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 354171,
+            "name": "Season 25",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 25,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 354172,
+            "name": "Season 27",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 27,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 1,
+            "id": 354173,
+            "name": "Season 28",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 28,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "News",
+    "vote_average": 2.1,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "52577dde760ee36aaa5afe61",
+            "air_date": "1994-09-05",
+            "episodes": [
+                {
+                    "air_date": "1994-09-05",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 352623,
+                    "name": "Pilot episode",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 5129,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 14981,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        },
+        "3": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        },
+        "4": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        },
+        "5": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        },
+        "6": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        },
+        "7": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        }
+    }
+}

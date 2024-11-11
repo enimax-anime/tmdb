@@ -1,0 +1,172 @@
+{
+    "adult": false,
+    "backdrop_path": "/ueA2uGVzyaJHUg36FeTmu4OTdyU.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-10-13",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/nl/title/81087300?preventIntent=true",
+    "id": 210818,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-10-13",
+    "last_episode_to_air": {
+        "id": 4003315,
+        "name": "Episode 3",
+        "overview": "Sue visits a love motel in Sao Paulo before heading to higher altitudes in La Paz, Bolivia, where strong emotions surface after a mind-altering trip.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-13",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 38,
+        "season_number": 1,
+        "show_id": 210818,
+        "still_path": null
+    },
+    "name": "Sue Perkins: Perfectly Legal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Sue Perkins: Perfectly Legal",
+    "overview": "There are bizarre, very unusual and extremely shocking activities that, despite the risk and associated dangers, are just legal in South American countries. Sue Perkins is eager to take advantage of this, and enjoys experiencing these adventurous yet dangerous challenges. In this way she hopes to defy and hopefully cover up her middle age.",
+    "popularity": 2.732,
+    "poster_path": "/14uhQZJzUTvw79wX5DIgRKqNiMA.jpg",
+    "production_companies": [
+        {
+            "id": 64640,
+            "logo_path": "/kIAlzk0v7PzLbFywQmQNt5H32s1.png",
+            "name": "Rumpus Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-13",
+            "episode_count": 3,
+            "id": 309756,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 2.8,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "632d87d155937b008e5409fb",
+            "air_date": "2022-10-13",
+            "episodes": [
+                {
+                    "air_date": "2022-10-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3970128,
+                    "name": "Episode 1",
+                    "overview": "Locals and comedians guide Sue through Colombia and Mexico as she tests a bulletproof vest, rows through rapids and braves a fireworks festival.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "643bb4f54d679104f3d78258",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1178871,
+                            "known_for_department": "Directing",
+                            "name": "Chris Cottam",
+                            "original_name": "Chris Cottam",
+                            "popularity": 1.151,
+                            "profile_path": "/8zeVrISbvgz5YD7OAWTBMBSTwhF.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4003313,
+                    "name": "Episode 2",
+                    "overview": "After experiencing lucha libre and meeting a bone cleaner in Mexico, Sue soars over the beaches of Brazil and performs a rap song at a favela funk ball.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-13",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4003315,
+                    "name": "Episode 3",
+                    "overview": "Sue visits a love motel in Sao Paulo before heading to higher altitudes in La Paz, Bolivia, where strong emotions surface after a mind-altering trip.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 1,
+                    "show_id": 210818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 309756,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

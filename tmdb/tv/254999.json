@@ -1,0 +1,150 @@
+{
+    "adult": false,
+    "backdrop_path": "/r2J6rmCwe63wm8Ie1BP1yBz1kgt.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-05-21",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.max.com/shows/hell-on-earth-the-veronica-case/6c91c6f1-e7e7-4bb1-87e5-85a9e0883a60",
+    "id": 254999,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-05-21",
+    "last_episode_to_air": {
+        "id": 5362872,
+        "name": "#PardonMariCarmen",
+        "overview": "Mari Carmen faces legal consequences, sparking a nationwide debate. Later, supporters and activists use social media to push for a full pardon.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-05-21",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 254999,
+        "still_path": "/eGokMDMGYjvoWSFwmh2p77NIjMk.jpg"
+    },
+    "name": "Hell on Earth: The Verónica Case",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6783,
+            "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+            "name": "Max",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "La mano en el fuego",
+    "overview": "This chilling docuseries chronicles the aftermath of the 1998 rape of 13-year-old Verónica Rodríguez García – and her mother's quest for justice.",
+    "popularity": 6.971,
+    "poster_path": "/b8B9XH7o8NpbQq1yu33O1WY0X7h.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2024-05-21",
+            "episode_count": 3,
+            "id": 394869,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "664c6b2f73cdb44bbf302812",
+            "air_date": "2024-05-21",
+            "episodes": [
+                {
+                    "air_date": "2024-05-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5362004,
+                    "name": "Why Don't They Believe Me?",
+                    "overview": "In 1998, 13-year-old Verónica survives a violent assault, but she and her mother face backlash in their fight for justice.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 254999,
+                    "still_path": "/aD61MZQCMd4clpCJOvAECukFhe2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5362871,
+                    "name": "Can't Anyone Go Crazy?",
+                    "overview": "2005. When Pincelito is released from prison, Mari Carmen becomes determined to silence her daughter's rapist.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 254999,
+                    "still_path": "/3gRUrapgBNWE9lfMwXs7g0POFpF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-21",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 5362872,
+                    "name": "#PardonMariCarmen",
+                    "overview": "Mari Carmen faces legal consequences, sparking a nationwide debate. Later, supporters and activists use social media to push for a full pardon.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 254999,
+                    "still_path": "/eGokMDMGYjvoWSFwmh2p77NIjMk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 394869,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

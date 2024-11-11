@@ -1,0 +1,246 @@
+{
+    "adult": false,
+    "backdrop_path": "/ryXGxOwXERciXyXJPnsy0AqIGCy.jpg",
+    "created_by": [
+        {
+            "id": 2386,
+            "credit_id": "630078db6e0d720083a39f84",
+            "name": "Brannon Braga",
+            "original_name": "Brannon Braga",
+            "gender": 2,
+            "profile_path": "/e2lvaxWUG5dcbl36BEi4po6M0YB.jpg"
+        },
+        {
+            "id": 52139,
+            "credit_id": "630078d8839d93007e4bf5a5",
+            "name": "Seth MacFarlane",
+            "original_name": "Seth MacFarlane",
+            "gender": 2,
+            "profile_path": "/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+        },
+        {
+            "id": 1218795,
+            "credit_id": "630078de1c6aa7007ffc377c",
+            "name": "Bill Nye",
+            "original_name": "Bill Nye",
+            "gender": 2,
+            "profile_path": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-08-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 206763,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-08-25",
+    "last_episode_to_air": {
+        "id": 3880115,
+        "name": "Ring of Fire",
+        "overview": "The mother of all catastrophes unleashes earthquakes, tsunamis and volcanic eruptions on the same day, wreaking havoc across five continents. Bill explains why Earth is so dangerous and how destructive forces make life possible on the planet.",
+        "vote_average": 6,
+        "vote_count": 1,
+        "air_date": "2022-08-25",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 206763,
+        "still_path": "/2YM2Yt3rHOk3tR0kT2qBtN1kiC.jpg"
+    },
+    "name": "The End Is Nye",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The End Is Nye",
+    "overview": "Explore the myths and realities of both natural and unnatural threats, from viruses to volcanoes, asteroids to authoritarianism, and climate change to chemical warfare.",
+    "popularity": 4.796,
+    "poster_path": "/s5tVRFsUpQawA73pybqfHspxBAX.jpg",
+    "production_companies": [
+        {
+            "id": 8789,
+            "logo_path": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+            "name": "Fuzzy Door Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 7938,
+            "logo_path": "/8I52qpy2Dp48gD9Jf6W1D6E7Imo.png",
+            "name": "UCP",
+            "origin_country": "US"
+        },
+        {
+            "id": 95243,
+            "logo_path": "/oiMAvljl1t6RrlHa8KcTQShs1Uh.png",
+            "name": "Universal Television Alternative Studio",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-25",
+            "episode_count": 6,
+            "id": 302293,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/s5tVRFsUpQawA73pybqfHspxBAX.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "When the world ends, his job begins.",
+    "type": "Documentary",
+    "vote_average": 6.6,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "62df21d523bcf400558a7afb",
+            "air_date": "2022-08-25",
+            "episodes": [
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3852238,
+                    "name": "Hydra Storm",
+                    "overview": "Five monstrous hurricanes attack Earth and drown the planet. Bill explores the anatomy of a storm to show the steps that can be taken to survive, slow down and even prevent deadly hurricanes.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/jSR4MMZUDsbiVpQEinpdgBaMOLg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3880111,
+                    "name": "The Volcano Paradox",
+                    "overview": "The largest supervolcano eruption in modern history threatens to ignite the globe. Bill explores the origin of volcanoes, how to survive their wrath and even ways to harness their boundless underground energy.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/uVOExSP7gr1t08bFSKC6pfl6tTE.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3880112,
+                    "name": "Forever Blackout",
+                    "overview": "A powerful solar flare plunges civilization into darkness and chaos. Bill exposes the fragility of the electrical world and investigates how to be better protected.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/fWN2sjvRBIYGGofV5ewhO5hivLj.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3880113,
+                    "name": "Midnight at Noon",
+                    "overview": "Rising temperatures and worsening droughts cause apocalyptic dust storms that endanger the world's food supply. Bill goes back in time to the 1930s Dust Bowl and demonstrates how to avoid repeating that dark chapter of history.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/lP9vNibmiINaRWUEwSnW7kwnuPu.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3880114,
+                    "name": "One Million Seconds",
+                    "overview": "Time runs out for humanity when comets slam into Earth. Bill ventures to the outer reaches of the solar system to reveal where comets formed billions of years ago, demonstrating how to detect and deflect them before disaster strikes.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/nVJHz173hhoSeUsfYM7kfyPJSmo.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3880115,
+                    "name": "Ring of Fire",
+                    "overview": "The mother of all catastrophes unleashes earthquakes, tsunamis and volcanic eruptions on the same day, wreaking havoc across five continents. Bill explains why Earth is so dangerous and how destructive forces make life possible on the planet.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206763,
+                    "still_path": "/2YM2Yt3rHOk3tR0kT2qBtN1kiC.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 302293,
+            "poster_path": "/s5tVRFsUpQawA73pybqfHspxBAX.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    }
+}

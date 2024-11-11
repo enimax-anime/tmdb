@@ -1,0 +1,418 @@
+{
+    "adult": false,
+    "backdrop_path": "/b6B4HHS573pahLmBv8qKtx6SXr7.jpg",
+    "created_by": [
+        {
+            "id": 1494070,
+            "credit_id": "60dddb05d0b434002aaf8023",
+            "name": "Cécile Ducrocq",
+            "original_name": "Cécile Ducrocq",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2021-09-07",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.ocs.fr/programme/psloperaxxxw0179283",
+    "id": 128481,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2022-10-11",
+    "last_episode_to_air": {
+        "id": 3956945,
+        "name": "Episode 8",
+        "overview": "Backed by the younger generation, Flora and Aurore continue their crusade against their dance director, and write a manifesto to be signed.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-11",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 49,
+        "season_number": 2,
+        "show_id": 128481,
+        "still_path": "/qHKy1Foh6fTfPE7fOSokiyyM9HQ.jpg"
+    },
+    "name": "L'Opéra",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1899,
+            "logo_path": "/hqYpZX7DKht3HTXbdi5SSCNEPxF.png",
+            "name": "OCS Max",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "L'Opéra",
+    "overview": "Set in the shrine of French dance, the Garnier Opera house, L'Opera follows three characters whose dreams clash with reality, whose ambitions collide with expectations, and whose purity faces corruption.",
+    "popularity": 6.608,
+    "poster_path": "/tzhyShMeSL9HFX7bN7s73xZIcNR.jpg",
+    "production_companies": [
+        {
+            "id": 45949,
+            "logo_path": null,
+            "name": "Victoria Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 15433,
+            "logo_path": "/9nnaDAbuHwbikxAV1t1BC2Z60GC.png",
+            "name": "Orange Studio",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-07",
+            "episode_count": 8,
+            "id": 200988,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pVqbm9mmSPBYh7fQoZbF56rFsG8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-09-20",
+            "episode_count": 8,
+            "id": 308766,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/khgsSNvWwK1r4P2eT3obmpftemR.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "60dddaf8d95420007ea4511c",
+            "air_date": "2021-09-07",
+            "episodes": [
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3052048,
+                    "name": "Episode 1",
+                    "overview": "Sébastien, the new Director of Dance at the Paris Opera, threatens to fire Zoe, which shocks her to her core.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/rXNLBI6gjULGTTyNS0V82jN3pXp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3201563,
+                    "name": "Episode 2",
+                    "overview": "Zoe receives some advice from lawyer Maître Delva; Sébastien must convince a frustrated dancer to stay at the Opera, while managing the whims of a choreographer.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/4yPviNdCpPB4pqBOiJaMebArHa6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3201564,
+                    "name": "Episode 3",
+                    "overview": "After the official announcement of her dismissal, a strike call was launched in support of Zoe. Flora supports the movement, but when called to replace striking dancers, she cannot refuse this opportunity to go on stage.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/zUbznp7CTLrKHVhPvAOcKEoE8VK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3201565,
+                    "name": "Episode 4",
+                    "overview": "When several dancers are stricken with food poisoning, Sébastien takes advantage of the situation and offers Zoe the lead role in Swan Lake, being certain that she will be forced to refuse. However, Zoe takes up the challenge.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/oZE0H8OTQ8OaOGkuQHefx9yfkf0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3201566,
+                    "name": "Episode 5",
+                    "overview": "Jonas prepares to go on stage for the last time to say goodbye; the company receives a visit from the Bolshoi.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/b3e8WlwPoxY3jP9dyG4kUdmoJEe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3201567,
+                    "name": "Episode 6",
+                    "overview": "As the days tick down until Zoe will be forced to leave the Opera, she holds out hope that her departure is temporary.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/xxw6qSjbboEOsmJ6JaSpkde91Xx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3201568,
+                    "name": "Episode 7",
+                    "overview": "Zoe leaves the Opera and awaits the outcome of her legal battle; Sébastien begins to feel the pressure as the preparation for the ballet escapes him.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/mvWvEBUkaoLEmpfai9htLrS53tk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-09-07",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3201569,
+                    "name": "Episode 8",
+                    "overview": "Flora is searched by the police and is found to be carrying drugs; Zoe makes an unexpected sacrifice.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 128481,
+                    "still_path": "/nhdRjGaNM9nqsmJLPLjPyJ6cNjN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 200988,
+            "poster_path": "/pVqbm9mmSPBYh7fQoZbF56rFsG8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6323229733ad8f007a9f33c6",
+            "air_date": "2022-09-20",
+            "episodes": [
+                {
+                    "air_date": "2022-09-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3956928,
+                    "name": "Episode 1",
+                    "overview": "A new season is beginning at the Opera. Zoe is the prima ballerina, Flora is part of the corps de ballet and the position of the dance director remains vacant. In addition, the company welcomes ballet mistress Diane Taillandier.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/gnRvxfxMHpQD8htabeMCIMzVTlv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3956933,
+                    "name": "Episode 2",
+                    "overview": "The race to Varna is on. Six candidates will be selected and trained by Diane to represent the Opera de Paris in Bulgaria. Zoe works at a crazy pace imposed by Diane, but unfortunately a serious injury sends her to the hospital.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/sotDunjtwpkhGR3t2hsi752c0WA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3956936,
+                    "name": "Episode 3",
+                    "overview": "The Varna selection is only a few days away. Flora's only goal is to be noticed by Diane. In the hospital, a distraught Zoe refuses to speak, and her doctor is very sceptical about the future of her professional career.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/g62IEEizTJOWypM5u2w4awr1QtV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3956937,
+                    "name": "Episode 4",
+                    "overview": "In a physiotherapy centre, Zoe works hard on her comeback. Eager to return, she ignores the doctors' advice and pushes herself too hard. At the opera, Flora and the other candidates are struggling with the strenuous training.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/78fr2rEfgvf8fFiWPEqmZYmh6Ey.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3956940,
+                    "name": "Episode 5",
+                    "overview": "Diane and her champions, along with dozens of candidates from around the world, have come to Varna hoping to win a medal. The opera dancers are surprised to run into their ex-director, who trains a young dancer from his company.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/z7ixtKxmUj6wI4W97fLlo5lqvu4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-04",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3956941,
+                    "name": "Episode 6",
+                    "overview": "Zoe is back at the opera, where she continues her physiotherapy sessions under Diane's supervision. The ballet mistress plans for her protégée's great comeback, but there's a problem.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/5KSYDU7Oaw7mnE0GEgHl7K7TpSb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-11",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3956943,
+                    "name": "Episode 7",
+                    "overview": "Flora and Aurore are ready for revolution. They break the law of silence and tell Nadia Menour, the opera's director, about Diane's abusive techniques. Zoe, however, steers clear as she remains loyal to Diane.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/m36SH4comP8fx8uDH90VRNE1Y18.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-11",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3956945,
+                    "name": "Episode 8",
+                    "overview": "Backed by the younger generation, Flora and Aurore continue their crusade against their dance director, and write a manifesto to be signed.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 2,
+                    "show_id": 128481,
+                    "still_path": "/qHKy1Foh6fTfPE7fOSokiyyM9HQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 308766,
+            "poster_path": "/khgsSNvWwK1r4P2eT3obmpftemR.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

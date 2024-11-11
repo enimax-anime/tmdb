@@ -1,0 +1,344 @@
+{
+    "adult": false,
+    "backdrop_path": "/hEAY9Vq8d6E1Ymc0aPFLMdq8XvY.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2020-05-27",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.cbs.com/shows/game-on/",
+    "id": 104240,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-07-15",
+    "last_episode_to_air": {
+        "id": 2362891,
+        "name": "Kevin Nealon & Terrell Owens",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-07-15",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 104240,
+        "still_path": null
+    },
+    "name": "Game On!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 16,
+            "logo_path": "/wWA5mILSAyahtdNQh1WiADi6PRI.png",
+            "name": "CBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Game On!",
+    "overview": "Two teams of three with a rotating roster of stars compete in over-the-top physical challenges, absurd trivia and epic field competitions. Each week, one team will be crowned the winner, while the losing team must “take the L” in an embarrassing punishment.",
+    "popularity": 3.489,
+    "poster_path": "/5hj9QQ88diCCsDEuEVeX7hfLkp0.jpg",
+    "production_companies": [
+        {
+            "id": 79155,
+            "logo_path": null,
+            "name": "CPL Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 211069,
+            "logo_path": "/lNSXnoZxWcqSFbjI62A7aRGZOPa.png",
+            "name": "Fulwell 73 Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-05-27",
+            "episode_count": 8,
+            "id": 152437,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/5hj9QQ88diCCsDEuEVeX7hfLkp0.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 9,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5ed417cbc4f552001fbcfb04",
+            "air_date": "2020-05-27",
+            "episodes": [
+                {
+                    "air_date": "2020-05-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2291519,
+                    "name": "Gabriel Iglesias & J.R. Smith",
+                    "overview": "Keegan-Michael Key hosts, as Team Gronk with comedians Bobby Lee and guest Gabriel Iglesias compete against Team Venus with comedian Ian Karmel and guest pro basketball player J.R. Smith",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Team Gronk Panelist",
+                            "credit_id": "5ed419d021c4ca0020e5c7c9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 86498,
+                            "known_for_department": "Acting",
+                            "name": "Gabriel Iglesias",
+                            "original_name": "Gabriel Iglesias",
+                            "popularity": 6.055,
+                            "profile_path": "/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg"
+                        },
+                        {
+                            "character": "Self - Team Venus Panelist",
+                            "credit_id": "5ed419e8aaec71001f6ed433",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2661801,
+                            "known_for_department": "Acting",
+                            "name": "J.R. Smith",
+                            "original_name": "J.R. Smith",
+                            "popularity": 0.445,
+                            "profile_path": "/9j4eTUWy06gKgmKhxHZetlrGuaJ.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5ed41cecaaec71001f6edba2",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35549,
+                            "known_for_department": "Acting",
+                            "name": "Coolio",
+                            "original_name": "Coolio",
+                            "popularity": 2.923,
+                            "profile_path": "/2RXxdCB68Haao2O9Fq8NCRpFkFm.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5ed41dd1c4f552001fbd046b",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 60560,
+                            "known_for_department": "Acting",
+                            "name": "Macy Gray",
+                            "original_name": "Macy Gray",
+                            "popularity": 3.569,
+                            "profile_path": "/p65H5JEEbBvcKsBt2FVDFOlZj3O.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5ed41eb5c4f552001ebcf56f",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2661819,
+                            "known_for_department": "Acting",
+                            "name": "Martins Licis",
+                            "original_name": "Martins Licis",
+                            "popularity": 0.006,
+                            "profile_path": "/gWvrlkhXkh0V2HQGhO6mX3qnsXn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-06-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2291522,
+                    "name": "Demi Lovato & Ronda Rousey",
+                    "overview": "GRAMMY nominated singer Demi Lovato joins Team Venus, and former UFC champion wrestler Ronda Rousey joins Team Gronk as they compete in a game of human bowling, race to climb a sailing mast the fastest and take to the skies in an air combat challenge.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Team Venus Pannelist",
+                            "credit_id": "5ed907fbe4b576002039a9be",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 3,
+                            "id": 85138,
+                            "known_for_department": "Acting",
+                            "name": "Demi Lovato",
+                            "original_name": "Demi Lovato",
+                            "popularity": 11.16,
+                            "profile_path": "/1OKtaKJpBKRQZ2vKwOwLbUaxRrJ.jpg"
+                        },
+                        {
+                            "character": "Self - Team Gronk Pannelist",
+                            "credit_id": "5ed908123a9937001f56cb77",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 997887,
+                            "known_for_department": "Acting",
+                            "name": "Ronda Rousey",
+                            "original_name": "Ronda Rousey",
+                            "popularity": 7.13,
+                            "profile_path": "/f9NN8hOU3qJaVZwMxqygZCIVjmv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-06-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2291523,
+                    "name": "James Corden & Landon Donovan",
+                    "overview": "James Corden, host of THE LATE LATE SHOW, joins Team Gronk, and soccer superstar Landon Donovan joins Team Venus, as they perform a half-time dance with the Laker Girls, take a leap of faith across sky-high platforms and soar through the air while competing in a game of alley-oop",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2291524,
+                    "name": "Nicole Beyer & David Ortiz",
+                    "overview": "Comedian Nicole Byer joins Team Gronk and former MLB All-Star David \"Big Papi\" Ortiz joins Team Venus as they compete in a life-sized game of human foosball, attempt to master rhythmic gymnastics and go head to head in a unique baseball drill.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2320585,
+                    "name": "Tony Hale & Bobby Moynihan",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2320586,
+                    "name": "Becky Lynch & Joel McHale",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2320587,
+                    "name": "Tiki Barber & Ken Jeong",
+                    "overview": "Former NFL star Tiki Barber and comedian Ken Jeong guest in a variety of outrageous challenges as part of Team Gronk (Rob Gronkowski) and Team Venus (Williams).",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-15",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2362891,
+                    "name": "Kevin Nealon & Terrell Owens",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 104240,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 152437,
+            "poster_path": "/5hj9QQ88diCCsDEuEVeX7hfLkp0.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        }
+    }
+}

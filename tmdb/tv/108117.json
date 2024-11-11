@@ -1,0 +1,283 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2020-01-05",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 108117,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-01-27",
+    "last_episode_to_air": {
+        "id": 2400013,
+        "name": "Overtime Overkill",
+        "overview": "Catherine Marlow’s ambition to travel the world meant working the occasional weekend, but her dedication is her downfall when she’s killed in the office on her day off.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-01-27",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 108117,
+        "still_path": null
+    },
+    "name": "Vengeance: Killer Coworkers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 181,
+            "logo_path": "/5Gjx3BpBh0NRagEeuqPd0NFGRIz.png",
+            "name": "HLN",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Vengeance: Killer Coworkers",
+    "overview": "Vengeance is an HLN Original Series about revenge, betrayal and murder. In the new season, Killer Coworkers, follow 10 true-life mysteries through all of the twists and turns that lead to arrests, verdicts and justice.",
+    "popularity": 0.483,
+    "poster_path": "/2PpAkG2YPmRlnyemerIPdlI5nN3.jpg",
+    "production_companies": [
+        {
+            "id": 14543,
+            "logo_path": "/hWXgQp3uFsPPKTvxGoZhrzAEg2X.png",
+            "name": "Sky Vision Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-05",
+            "episode_count": 10,
+            "id": 160176,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5f42821041a5610034cc2871",
+            "air_date": "2020-01-05",
+            "episodes": [
+                {
+                    "air_date": "2020-01-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2400004,
+                    "name": "Killing Spree",
+                    "overview": "A string of murders targeting a pizza chain and its employees leads to a nationwide manhunt for a killer hell-bent on revenge.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2400005,
+                    "name": "Obsession at the Office",
+                    "overview": "When a lovers’ spat ends up in the hospital parking lot, a biochemist’s obsession with a coworker and her murderous means are exposed.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2400006,
+                    "name": "Murdered Boss",
+                    "overview": "Celebrity real estate broker Linda Stein served New York’s elite, but when she’s found dead in her apartment, investigators are faced with a slew of powerful potential suspects.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2400007,
+                    "name": "Deadly Ambition",
+                    "overview": "A shooting at the University of Alabama Huntsville leaves three professors dead and the community questioning how they missed a murderer in their midst.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2400008,
+                    "name": "Poisonous Affair",
+                    "overview": "When cancer researcher Dr. George Blumenschein ends up admitted at his own Texas hospital, is a toxic work environment to blame?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-19",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2400009,
+                    "name": "Monster Under The Bed",
+                    "overview": "When three hotel workers don’t turn up for their shift, a bizarre series of discoveries reveals a twisted workplace love triangle.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-26",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2400010,
+                    "name": "Lies, Cameras & Lingerie",
+                    "overview": "When the entrepreneurial spirit turns two best friends into mortal enemies, one woman in Florida goes on the run.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-26",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2400011,
+                    "name": "Bloodshed In The Barn",
+                    "overview": "Not long after taking a new job, a beloved horse-trainer is found brutally murdered in a rural stable, and a small seaside town in Northern England must find the killer.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-27",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2400012,
+                    "name": "Body In The Bathtub",
+                    "overview": "Fresno mattress factory manager James Blanco worked to provide the American Dream for his employees, but when he’s gunned down in the shower, investigators must find out if he was betrayed by a disgruntled worker.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-27",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2400013,
+                    "name": "Overtime Overkill",
+                    "overview": "Catherine Marlow’s ambition to travel the world meant working the occasional weekend, but her dedication is her downfall when she’s killed in the office on her day off.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 108117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 160176,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

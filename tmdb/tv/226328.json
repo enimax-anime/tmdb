@@ -1,0 +1,356 @@
+{
+    "adult": false,
+    "backdrop_path": "/8BVaOwVApHGJi2xsTUUcgtYd8CG.jpg",
+    "created_by": [
+        {
+            "id": 1914151,
+            "credit_id": "6506fbb242d8a5011bd6e29d",
+            "name": "James Bluemel",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        62
+    ],
+    "first_air_date": "2023-05-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p0ff7cg0",
+    "id": 226328,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-19",
+    "last_episode_to_air": {
+        "id": 4433228,
+        "name": "Who Wants to Live Like That?",
+        "overview": "There have been many false dawns in the conflict, but finally the desire for change propels the possibility of peace for the next generation.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-19",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 66,
+        "season_number": 1,
+        "show_id": 226328,
+        "still_path": "/6jkluLT5Pry2ZwKFxoey62NwQkR.jpg"
+    },
+    "name": "Once Upon a Time in Northern Ireland",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/6kl5tMuct7u3ej5myL4c9QQVSW1.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Once Upon a Time in Northern Ireland",
+    "overview": "Twenty-five years on from a peace agreement being reached, Once Upon a Time in Northern Ireland shares intimate, unheard testimonies from all sides of the conflict.",
+    "popularity": 4.416,
+    "poster_path": "/cC2ZzXvZOrgoYD8tR59d836rKN6.jpg",
+    "production_companies": [
+        {
+            "id": 48439,
+            "logo_path": "/xRTA0PpuVnbiISBefJ5BKCzmslc.png",
+            "name": "KEO Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 200278,
+            "logo_path": null,
+            "name": "Walk on Air Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-05-22",
+            "episode_count": 5,
+            "id": 340579,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cC2ZzXvZOrgoYD8tR59d836rKN6.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "645da295aafebd0102bc029d",
+            "air_date": "2023-05-22",
+            "episodes": [
+                {
+                    "air_date": "2023-05-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4431409,
+                    "name": "It Wasn't Like a Movie Anymore",
+                    "overview": "A time of relative peace in Northern Ireland escalates to full-blown conflict. When tensions between Protestants and Catholics explode, the British Army is deployed.",
+                    "production_code": "",
+                    "runtime": 75,
+                    "season_number": 1,
+                    "show_id": 226328,
+                    "still_path": "/y0WIfS44a69ccgbP6QFPjljhyvK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64a59d81158c85013946a93c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4148370,
+                            "known_for_department": "Directing",
+                            "name": "Sian Mcilwaine",
+                            "original_name": "Sian Mcilwaine",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645feafda672540143666a37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1914151,
+                            "known_for_department": "Directing",
+                            "name": "James Bluemel",
+                            "original_name": "James Bluemel",
+                            "popularity": 2.523,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-05-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4433225,
+                    "name": "Do Paramilitaries Lie Awake at Night?",
+                    "overview": "A deeply segregated society emerges as the violence escalates, the British Army beds down and paramilitary groups police many working-class areas.",
+                    "production_code": "",
+                    "runtime": 62,
+                    "season_number": 1,
+                    "show_id": 226328,
+                    "still_path": "/dtmZlooFxwNY6RDDAheAChbKQmA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64a59d81158c85013946a93c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4148370,
+                            "known_for_department": "Directing",
+                            "name": "Sian Mcilwaine",
+                            "original_name": "Sian Mcilwaine",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645feafda672540143666a37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1914151,
+                            "known_for_department": "Directing",
+                            "name": "James Bluemel",
+                            "original_name": "James Bluemel",
+                            "popularity": 2.523,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4433226,
+                    "name": "So Many Broken Hearts",
+                    "overview": "The impact of the hunger strikes is seen through the eyes of three women. Tit for tat killings, car bombs, and assassinations are now part of everyday life in Northern Ireland.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 226328,
+                    "still_path": "/1vKKY1xyFs9R6BDIxvTxPW7aECr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64a59d81158c85013946a93c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4148370,
+                            "known_for_department": "Directing",
+                            "name": "Sian Mcilwaine",
+                            "original_name": "Sian Mcilwaine",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645feafda672540143666a37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1914151,
+                            "known_for_department": "Directing",
+                            "name": "James Bluemel",
+                            "original_name": "James Bluemel",
+                            "popularity": 2.523,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4433227,
+                    "name": "Loose Talk Costs Lives",
+                    "overview": "Tensions rise as the police and army infiltrate paramilitary organisations to gain intelligence. No one can be trusted as fear and suspicion run rife.",
+                    "production_code": "",
+                    "runtime": 62,
+                    "season_number": 1,
+                    "show_id": 226328,
+                    "still_path": "/pHdKLpgW21lhiehnA1zm9YCyej8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64a59d81158c85013946a93c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4148370,
+                            "known_for_department": "Directing",
+                            "name": "Sian Mcilwaine",
+                            "original_name": "Sian Mcilwaine",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645feafda672540143666a37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1914151,
+                            "known_for_department": "Directing",
+                            "name": "James Bluemel",
+                            "original_name": "James Bluemel",
+                            "popularity": 2.523,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-19",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 4433228,
+                    "name": "Who Wants to Live Like That?",
+                    "overview": "There have been many false dawns in the conflict, but finally the desire for change propels the possibility of peace for the next generation.",
+                    "production_code": "",
+                    "runtime": 66,
+                    "season_number": 1,
+                    "show_id": 226328,
+                    "still_path": "/6jkluLT5Pry2ZwKFxoey62NwQkR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64a59d81158c85013946a93c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4148370,
+                            "known_for_department": "Directing",
+                            "name": "Sian Mcilwaine",
+                            "original_name": "Sian Mcilwaine",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645feafda672540143666a37",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1914151,
+                            "known_for_department": "Directing",
+                            "name": "James Bluemel",
+                            "original_name": "James Bluemel",
+                            "popularity": 2.523,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "646bf456c3514c2b0bf37c52",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2924333,
+                            "known_for_department": "Editing",
+                            "name": "Simon Sykes",
+                            "original_name": "Simon Sykes",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 340579,
+            "poster_path": "/cC2ZzXvZOrgoYD8tR59d836rKN6.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

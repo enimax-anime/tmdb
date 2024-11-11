@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/qu4B7njBM1b5fWHagetl33Dg8LH.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2017-07-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 72869,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-08-15",
+    "last_episode_to_air": {
+        "id": 1350426,
+        "name": "Robin Hood",
+        "overview": "Cortez and Crystal recite their record of violence before starting a fight on the school bus.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-08-15",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 72869,
+        "still_path": null
+    },
+    "name": "Last Chance High",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Last Chance High",
+    "overview": "A dedicated staff hopes to change the lives of at-risk students at a therapeutic academy in Chicago in this docuseries.",
+    "popularity": 0.172,
+    "poster_path": "/iFODRli9SBwSuu011AcI6tftPjh.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-07-18",
+            "episode_count": 2,
+            "id": 90530,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iFODRli9SBwSuu011AcI6tftPjh.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 1,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "596c5abfc3a3684c7300ef40",
+            "air_date": "2017-07-18",
+            "episodes": [
+                {
+                    "air_date": "2017-07-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1338043,
+                    "name": "Bad Boy School",
+                    "overview": "In the series premiere, the doors open at Chicago's last therapeutic school, where staff struggle to maintain order. Cortez and Crystal recite their record of violence before starting a fight on the school bus.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 72869,
+                    "still_path": "/z1YQUFoCuMzcERxJHtC6toFIUs7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-08-15",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 1350426,
+                    "name": "Robin Hood",
+                    "overview": "Cortez and Crystal recite their record of violence before starting a fight on the school bus.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 72869,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 90530,
+            "poster_path": "/iFODRli9SBwSuu011AcI6tftPjh.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

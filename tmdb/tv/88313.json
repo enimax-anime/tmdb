@@ -1,0 +1,249 @@
+{
+    "adult": false,
+    "backdrop_path": "/w2qVxZyggd2lcKuOh93W03YqhWc.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-02-24",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 88313,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-04-14",
+    "last_episode_to_air": {
+        "id": 2202243,
+        "name": "Llama Land",
+        "overview": "Evan ventures into the Andean cloud forest to check out the llamas of Machu Picchu. While in Peru, he examines spectacled bear and a spitting vicuna, and takes on one of his biggest challenges yet, trying to save an eagle's eye.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-04-14",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 88313,
+        "still_path": null
+    },
+    "name": "Evan Goes Wild",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 91,
+            "logo_path": "/m3KrDu1g96YByhH0wp4OvyghgsG.png",
+            "name": "Animal Planet",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Evan Goes Wild",
+    "overview": "Dr. Evan Antin travels around the world to chase after his wildlife bucket list. From swimming with whales in Tahiti to wrestling crocs in the Yucatan, he brings his passion for wildlife to each adventure and lends a helping hand to animals in need.",
+    "popularity": 1.175,
+    "poster_path": "/avgT9i0OF97T3ApzBSB8mZ43lrh.jpg",
+    "production_companies": [
+        {
+            "id": 152510,
+            "logo_path": null,
+            "name": "Industrial Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-02-24",
+            "episode_count": 8,
+            "id": 121989,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5cadbe1ec3a36812a419e277",
+            "air_date": "2019-02-24",
+            "episodes": [
+                {
+                    "air_date": "2019-02-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1755270,
+                    "name": "Sharks and Recreation",
+                    "overview": "Evan heads to the Tahitian Island of Mo'orea to fulfill his lifelong dream of swimming with humpback whales. There, he also helps collect DNA samples from lemon sharks and rescues and cares for an abandoned litter of kittens.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2202237,
+                    "name": "Baby Bearcat Rescue",
+                    "overview": "Teeming with wildlife, the island of Palawan is one of Evan's favorite places to visit. On his journey through the last frontier in the Philippines, he rescues orphaned baby bearcats, encounters pythons and crocodiles, and wrestles a water monitor.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2202238,
+                    "name": "Nepalese Elephant Adventure",
+                    "overview": "Evan heads to Nepal to work with one of nature's most majestic creatures, the Asiatic elephant. There, he also helps a man who uses his motorcycle to rescue stray cows and learns how vultures dine out.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2202239,
+                    "name": "You Had Me at Rhino",
+                    "overview": "It's Evan's first visit to Kenya, and he's spending it at the alluring Ol Jogi Wildlife Conservancy. Evan comes face to face with baboons, cheetahs, and giraffes, but will he survive a heart-stopping encounter with an Eastern Black Rhino?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2202240,
+                    "name": "Slender Loris Chorus",
+                    "overview": "Evan celebrates his birthday by trekking to Sri Lanka in search of one of the coolest mammals on the planet, the slender loris. He also meets a very special three-legged elephant, a rare tree pit viper, and works with two orphaned thick-tailed pangolins.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-31",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2202241,
+                    "name": "Walking with Jaguars",
+                    "overview": "Evan is super excited to meet a baby jaguar in the heart of the Yucatan in Mexico. There, he also treats a beautiful jaguar with a mysterious mass, wrangles a crocodile to tend to its injuries and tries to catch wild flamingoes to tag them for research.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2202242,
+                    "name": "Monkeys of the Amazon",
+                    "overview": "Evan heads to the Amazon Rainforest in Peru excited to help release a family of Howler Monkeys back into the wild. Later, Evan nurses an injured baby Spider monkey who has fallen from a tree and examines a Tapir and a short-eared dog.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-14",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2202243,
+                    "name": "Llama Land",
+                    "overview": "Evan ventures into the Andean cloud forest to check out the llamas of Machu Picchu. While in Peru, he examines spectacled bear and a spitting vicuna, and takes on one of his biggest challenges yet, trying to save an eagle's eye.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 88313,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 121989,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

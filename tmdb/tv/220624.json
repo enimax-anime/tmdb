@@ -1,0 +1,123 @@
+{
+    "adult": false,
+    "backdrop_path": "/4obvRPyDVpaYUcWbQrGorVpbGcK.jpg",
+    "created_by": [
+        {
+            "id": 1534768,
+            "credit_id": "641a892d688cd0008fd1c641",
+            "name": "Jamie McLaughlin",
+            "original_name": "Jamie McLaughlin",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1951096,
+            "credit_id": "641a8922a3e4ba00a1064ca5",
+            "name": "Boyce Bugliari",
+            "original_name": "Boyce Bugliari",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2018-08-12",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://disneynow.com/shows/coop-cami-ask-the-world",
+    "id": 220624,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2018-08-12",
+    "last_episode_to_air": {
+        "id": 4239960,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-08-12",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 220624,
+        "still_path": null
+    },
+    "name": "Coop and Cami Ask the World",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "da",
+    "original_name": "Coop and Cami Ask the World",
+    "overview": "Two middle-school siblings make nearly all of their decisions by crowdsourcing opinions from the millions of followers of Cooper's online channel, Would You Wrather?",
+    "popularity": 1.191,
+    "poster_path": "/pR4v8lvuP6gvEp2nf9kcBQUDNZA.jpg",
+    "production_companies": [
+        {
+            "id": 3812,
+            "logo_path": "/aIIbOefJ6Ah3pQBmfS8y8K9mj46.png",
+            "name": "It's a Laugh Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-08-12",
+            "episode_count": 1,
+            "id": 329294,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "63ef603ccddbbc00d5e4e41d",
+            "air_date": "2018-08-12",
+            "episodes": [
+                {
+                    "air_date": "2018-08-12",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 4239960,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220624,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 329294,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

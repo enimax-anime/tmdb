@@ -1,0 +1,388 @@
+{
+    "adult": false,
+    "backdrop_path": "/3VJ32gkyBarf458etTfmRxmg6Oo.jpg",
+    "created_by": [
+        {
+            "id": 2272963,
+            "credit_id": "669181b79bb18ae9dbc0fcfe",
+            "name": "Malik Nejer",
+            "original_name": "Malik Nejer",
+            "gender": 2,
+            "profile_path": "/sl10kBjsnZaKlhD8TXaKjZb0czO.jpg"
+        },
+        {
+            "id": 2495500,
+            "credit_id": "669181db2263da7cccace834",
+            "name": "Abdulaziz Almuzaini",
+            "original_name": "Abdulaziz Almuzaini",
+            "gender": 2,
+            "profile_path": "/pwAJx4NL8QU9mZJWflPjTja2XK6.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-07-01",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "http://myrkott.com",
+    "id": 128240,
+    "in_production": true,
+    "languages": [
+        "ar"
+    ],
+    "last_air_date": "2023-03-02",
+    "last_episode_to_air": {
+        "id": 4269021,
+        "name": "The Limits of Honor",
+        "overview": "When the daughter of a late billionaire — and former Masameer resident —returns to the county, the men fight for her hand in a cutthroat competition.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-02",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 19,
+        "season_number": 2,
+        "show_id": 128240,
+        "still_path": "/jV7amlPjnLAlsWVvSJjMGINuTz0.jpg"
+    },
+    "name": "Masameer County",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "SA"
+    ],
+    "original_language": "ar",
+    "original_name": "محافظة مسامير",
+    "overview": "A humorous view of a changing Saudi Arabia, as the Masameer gang venture into a global media war, a long-standing tribal feud, and a health craze gone too far.",
+    "popularity": 11.269,
+    "poster_path": "/xgmvdo5lfdyXiGlMZ2edLPgkY2n.jpg",
+    "production_companies": [
+        {
+            "id": 127140,
+            "logo_path": "/jdZNkFjadd1CqnHK43oexVefWRm.png",
+            "name": "myrkott™",
+            "origin_country": "SA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SA",
+            "name": "Saudi Arabia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-07-01",
+            "episode_count": 8,
+            "id": 200472,
+            "name": "Season 1",
+            "overview": "A humorous view on a changing Saudi, this season includes stories about a global media war, a long-standing tribal feud and a health craze gone too far.",
+            "poster_path": "/agN4oC2CzdrcI5qBIfljw7VlAwy.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        },
+        {
+            "air_date": "2023-03-02",
+            "episode_count": 6,
+            "id": 329254,
+            "name": "Season 2",
+            "overview": "Offering a humorous view of a changing Saudi, this season includes a risky 24-hour mission, a shocking elevator ride and a rocket launch gone rogue.",
+            "poster_path": "/A41XBQQU2VqW7huyRXJvNfdtHly.jpg",
+            "season_number": 2,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.2,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "60d88db4a1c59d0074d4067b",
+            "air_date": "2021-07-01",
+            "episodes": [
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3046751,
+                    "name": "Ice Cream",
+                    "overview": "Bandar's midnight snack craving leads him to an unexpected adventure.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/lQWzHXIPdWMJZkQbiSUiZ8rn2VE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3051415,
+                    "name": "Washingtonia",
+                    "overview": "Two men fighting for polar opposite causes suffer from an existential crisis after public interest dwindles in what they're advocating for.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/7jLgLB2nu6D9AjvqhwCkVlj7B9k.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3051416,
+                    "name": "Lapis",
+                    "overview": "Saltooh takes a job as a deliveryman for a local bakery that soon lands him on the wrong side of the law.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/nu8ysWRgUVv7HmaNMkSsDkhq8Z4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3051418,
+                    "name": "Pimple",
+                    "overview": "A pimple on Saltooh's back leaves him publicly exposed, while Fahad struggles to hospitalize his sick mother.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/woCuoMXvmDzXVd0Q08hYU4gAS1q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3051420,
+                    "name": "The Plumber",
+                    "overview": "A confrontation between Muneer and his archnemesis turns into a global media war.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/z7r3Iav3Cwwz8pqv6RdFTqEVcUy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3051421,
+                    "name": "Latrine of Secrets",
+                    "overview": "Juffair and Mane accidentally reignite a five-hundred-year-old tribal feud.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/59KVDOWd2YwYfNTnqeN4kENsHvC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3051422,
+                    "name": "Minor Occultation",
+                    "overview": "To escape the troubles of the outside world, Trad, Saltooh and Saad decide to isolate themselves at home for a couple of days.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/j9xFULGlaTa6I9NdV062eKv4iXW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3051423,
+                    "name": "Shilajit",
+                    "overview": "Saad's growing obsession with healthy food spirals out of control, leading to unexpected consequences.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 128240,
+                    "still_path": "/dOYssI70G4zKcj8cZ6sDnJtayEk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "A humorous view on a changing Saudi, this season includes stories about a global media war, a long-standing tribal feud and a health craze gone too far.",
+            "id": 200472,
+            "poster_path": "/agN4oC2CzdrcI5qBIfljw7VlAwy.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        },
+        "2": {
+            "_id": "63eec78a5cc11d008611ad3b",
+            "air_date": "2023-03-02",
+            "episodes": [
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4239336,
+                    "name": "Service Dog",
+                    "overview": "Trad goes the extra mile to enter a cosplay competition. Troubles at work overwhelm Adel.",
+                    "production_code": "",
+                    "runtime": 38,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/w1Xct3eCxCiq1Iq1O73XZYaqjna.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4269016,
+                    "name": "Elevator Pitch",
+                    "overview": "Stuck in a claustrophobic elevator, a panicked group of juicy characters decide to confess and repent — before it's too late.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/2qm7aEZZEBZeOk2JntesnfFFowt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4269017,
+                    "name": "Clearance",
+                    "overview": "When a copy of a banned book goes missing, a librarian has 24 hours to find it — or face dire consequences.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/lIEPIK4k9yWsC4AND8go8IpIUdw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4269019,
+                    "name": "Outer Space Toilet",
+                    "overview": "As the county prepares for its first-ever rocket launch, an astronaut takes a trip down memory lane, and a wrong turn lands Bandar in a surprising place.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/NyGFG9tFO4iwbhRhKPSJPEz0SY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4269020,
+                    "name": "Wholesome Content",
+                    "overview": "To clear their slates after posting an indecent TikTok video, Saltooh and Trad are forced to perform in an educational play.",
+                    "production_code": "",
+                    "runtime": 12,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/kzodvev5RKHJqTOSSQ17DtcUNX3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4269021,
+                    "name": "The Limits of Honor",
+                    "overview": "When the daughter of a late billionaire — and former Masameer resident —returns to the county, the men fight for her hand in a cutthroat competition.",
+                    "production_code": "",
+                    "runtime": 19,
+                    "season_number": 2,
+                    "show_id": 128240,
+                    "still_path": "/jV7amlPjnLAlsWVvSJjMGINuTz0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "Offering a humorous view of a changing Saudi, this season includes a risky 24-hour mission, a shocking elevator ride and a rocket launch gone rogue.",
+            "id": 329254,
+            "poster_path": "/A41XBQQU2VqW7huyRXJvNfdtHly.jpg",
+            "season_number": 2,
+            "vote_average": 8
+        }
+    }
+}

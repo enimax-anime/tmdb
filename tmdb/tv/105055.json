@@ -1,0 +1,197 @@
+{
+    "adult": false,
+    "backdrop_path": "/zjwVqXdiJQoTyGrD1oJovPBC07H.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-06-22",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 105055,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-07-27",
+    "last_episode_to_air": {
+        "id": 2331582,
+        "name": "Cold Ocean Killer",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-07-27",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 105055,
+        "still_path": "/oIgEoZPn4F9BBrrdMSnejkwLL9w.jpg"
+    },
+    "name": "Gathering Storm",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1825,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic Channel",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Gathering Storm",
+    "overview": "First-hand accounts of the planet's fiercest storms.",
+    "popularity": 2.064,
+    "poster_path": "/32cIpW1edwHJBcgU1j7Az8RNxr8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-06-22",
+            "episode_count": 6,
+            "id": 154091,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jD3h1f4SL2h6kUR7qd0i05POFQB.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5eed0f190f1e580036b5fdfd",
+            "air_date": "2020-06-22",
+            "episodes": [
+                {
+                    "air_date": "2020-06-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2314547,
+                    "name": "Hurricane Dorian",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/x9aMdUP4Gp1FgbJscu2duJjYyci.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2314545,
+                    "name": "Hurricane Humberto",
+                    "overview": "The devastation caused after a category 3 hurricane formed in the warm seas of the Atlantic strikes Bermuda is captured by 1000 cameras.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/aitSXEHSnlV2tTRPOTVJV1PVKO8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2326893,
+                    "name": "Super Typhoon Terror",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/48nI0pxZ3vL7IyYzOAXXFLvmwRT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2331579,
+                    "name": "Gulf Storms",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/4ZStJQf8V5bgUsAyIe6IEjy3mBV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2331581,
+                    "name": "Typhoon Alley",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/a0tngV9nobc6KQSGBcRMFG6ZZhh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-07-27",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2331582,
+                    "name": "Cold Ocean Killer",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 105055,
+                    "still_path": "/oIgEoZPn4F9BBrrdMSnejkwLL9w.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 154091,
+            "poster_path": "/jD3h1f4SL2h6kUR7qd0i05POFQB.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

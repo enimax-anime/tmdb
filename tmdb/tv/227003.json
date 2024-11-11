@@ -1,0 +1,260 @@
+{
+    "adult": false,
+    "backdrop_path": "/uo7nlRQ6GPICeP6dXPUy5zVvCwV.jpg",
+    "created_by": [
+        {
+            "id": 2466997,
+            "credit_id": "646bbdf933a3760101fbf2f2",
+            "name": "Johnnie Ingram",
+            "original_name": "Johnnie Ingram",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3929674,
+            "credit_id": "646bbdf52bcf6700fe61a2dd",
+            "name": "Stephen Warren",
+            "original_name": "Stephen Warren",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-06-15",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 227003,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-29",
+    "last_episode_to_air": {
+        "id": 4463167,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-29",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 227003,
+        "still_path": null
+    },
+    "name": "Swiping America",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6783,
+            "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+            "name": "Max",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Swiping America",
+    "overview": "Follow a group of diverse singles from New York City on an introspective, eight-city dating app journey, as they explore personal issues around sex, relationships, love and connection.",
+    "popularity": 3.872,
+    "poster_path": "/sxxDJEQFAfvNLpiiCQyRvAvCPAm.jpg",
+    "production_companies": [
+        {
+            "id": 83966,
+            "logo_path": "/q2BuooxLm16EvWcUY4CMJo3PSNo.png",
+            "name": "The Intellectual Property Corporation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-15",
+            "episode_count": 8,
+            "id": 341945,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/sxxDJEQFAfvNLpiiCQyRvAvCPAm.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "4 New Yorkers. 8 cities. 140 dates.",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "646bbd2c54a09800feac4add",
+            "air_date": "2023-06-15",
+            "episodes": [
+                {
+                    "air_date": "2023-06-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4463160,
+                    "name": "Asheville",
+                    "overview": "Tired of the New York City dating scene, singles Ashleigh, Kesun, Kris, and Reagan put their fate and dating app profiles in the hands of a film crew as they arrive in Asheville for the first of an eight-stop journey to find love.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/8iUSZoLamsMnWQ1DoMp2txvydfG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4463161,
+                    "name": "Miami",
+                    "overview": "While Miami brings the heat for Kris and Kesun, Ash makes a tough decision, and Reagan struggles to share a highly personal detail in her dates.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/uqyWrE1KaPtfuUBkyzOhuzqxPPu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4463162,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/6g4lTfyhXFnnVg5Vdlug6en97Ma.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4463163,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/oir6Pf8AMfuBqOEMGNUnnIkCsMs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4463164,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/dZWs5MxoO2OzpZbRMxmuk1RbzOx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-22",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4463165,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/1vPhhaVjbYOugvPmWoG3ftXnnsR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4463166,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": "/o7aAUY0N7dQnNDwITPV0w0bYuif.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4463167,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 227003,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 341945,
+            "poster_path": "/sxxDJEQFAfvNLpiiCQyRvAvCPAm.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "adult": false,
+    "backdrop_path": "/12fOuEftL85CUBFMucBhbcbIFCG.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-08-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 261625,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-08-29",
+    "last_episode_to_air": {
+        "id": 5531624,
+        "name": "Leading the Irish",
+        "overview": "Decisions are made on who will lead the team as they prepare for the start of the season.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-08-29",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 261625,
+        "still_path": null
+    },
+    "name": "Here Come the Irish",
+    "next_episode_to_air": {
+        "id": 5531625,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-12-05",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 261625,
+        "still_path": null
+    },
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Here Come the Irish",
+    "overview": "Documents life on and off the field of the legendary University of Notre Dame Fighting Irish football team through exclusive behind-the-scenes footage and interviews with those closest to the program.",
+    "popularity": 5.043,
+    "poster_path": "/mYuBzdnMhDxqrIjnKrSVorS9LQ7.jpg",
+    "production_companies": [
+        {
+            "id": 167763,
+            "logo_path": null,
+            "name": "Fighting Irish Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-08-29",
+            "episode_count": 7,
+            "id": 406526,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "66bdcf4fbbaa8b70294032d2",
+            "air_date": "2024-08-29",
+            "episodes": [
+                {
+                    "air_date": "2024-08-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5531623,
+                    "name": "Choose Hard",
+                    "overview": "Marcus Freeman sets the tone for the spring season, while a new QB gets accustomed to Notre Dame.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-08-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5531624,
+                    "name": "Leading the Irish",
+                    "overview": "Decisions are made on who will lead the team as they prepare for the start of the season.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-12-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5531625,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-12-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5531626,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-12-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5531627,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-12-19",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5531628,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2025-01-16",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 5531629,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 261625,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66bdd1319ec961dc1dc3879b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4887168,
+                            "known_for_department": "Production",
+                            "name": "Jon Asher",
+                            "original_name": "Jon Asher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 406526,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

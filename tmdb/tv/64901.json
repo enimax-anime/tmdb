@@ -1,0 +1,381 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1212670,
+            "credit_id": "568cdffdc3a36860e9031c22",
+            "name": "Gary Pearson",
+            "original_name": "Gary Pearson",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1234256,
+            "credit_id": "568ce0069251412e5202fada",
+            "name": "Dan Redican",
+            "original_name": "Dan Redican",
+            "gender": 2,
+            "profile_path": "/zrCJQAXzO1lVDtNOlW6rA1OhObO.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2015-01-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://citytv.com/toronto/shows/sunnyside/",
+    "id": 64901,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-11-01",
+    "last_episode_to_air": {
+        "id": 1155087,
+        "name": "The Rapture",
+        "overview": "The rapture zaps worthy people up to heaven, but plenty are still left behind.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-11-01",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 64901,
+        "still_path": null
+    },
+    "name": "Sunnyside",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 92,
+            "logo_path": "/38EhAHYoNzRDFCXAUdF4PEH9Kfl.png",
+            "name": "Citytv",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Sunnyside",
+    "overview": "Welcome to Sunnyside, the not-so-typical neighbourhood where anything can happen, and almost always does.\n\nFrom hipsters and yoga moms to meth addicts and romantic crooks, Sunnyside is a quirky neighbourhood in transition, where residents aren’t always what they seem and surprises lurk around every slightly dingy corner. Book clubs and coffee shops are just steps away from speakeasies and an underground baby-fighting ring. Plus, this odd little world has just a touch of magic in it, including an occult store that can alter reality, a superhero shopping cart that comes to the rescue, and a mysterious manhole that can answer residents’ burning questions.\n\nLife might have a dark side, but we never lose sight of the Sunnyside.",
+    "popularity": 0.725,
+    "poster_path": "/77dJlpt0fAJZnRhVTkSrsk9jpmh.jpg",
+    "production_companies": [
+        {
+            "id": 11517,
+            "logo_path": "/7tT0PqNjEalEwE1GkjxU32SlOW6.png",
+            "name": "Buffalo Gal Pictures",
+            "origin_country": "CA"
+        },
+        {
+            "id": 71691,
+            "logo_path": "/zcBQUIQvamE3OBps7HLWMoZEyWv.png",
+            "name": "Counterfeit Pictures",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-01-08",
+            "episode_count": 13,
+            "id": 73196,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "568683f6c3a36860e901f2bb",
+            "air_date": "2015-01-08",
+            "episodes": [
+                {
+                    "air_date": "2015-01-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1151846,
+                    "name": "The Top Hat",
+                    "overview": "When a magical top hat blows into Sunnyside, it turns Billy the Bum's luck around. Paranormal Activity affects a couple's love life.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Rookie Kerri / Meth Georgette",
+                            "credit_id": "6104250c23d278005dbce5fe",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1208563,
+                            "known_for_department": "Acting",
+                            "name": "Alice Moran",
+                            "original_name": "Alice Moran",
+                            "popularity": 0.844,
+                            "profile_path": "/2SC0PXReDx8ciNX7FQenWq2gP1m.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2015-01-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1155076,
+                    "name": "Ponies",
+                    "overview": "A new Alternate Reality store opens in Sunnyside.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Rookie Kerri, Rega, Kayla, Sarah",
+                            "credit_id": "610425266517d6004684eef9",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1208563,
+                            "known_for_department": "Acting",
+                            "name": "Alice Moran",
+                            "original_name": "Alice Moran",
+                            "popularity": 0.844,
+                            "profile_path": "/2SC0PXReDx8ciNX7FQenWq2gP1m.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2015-01-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1155077,
+                    "name": "Baxter",
+                    "overview": "Viola suspects her dog, Baxter, is cheating on her. Quennel suffers from an acute case of smartphone withdrawal. Rookie Kerri finds it hard to run a RIDE program once Peter falls madly in love with her.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-01-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1155078,
+                    "name": "Australia",
+                    "overview": "When the moon explodes life in Sunnyside goes on as usual, until moon debris starts to fall to earth.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-02-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1155079,
+                    "name": "Chain Gang",
+                    "overview": "Prisoners are transferred to the new Sunnyside super jail despite the fact that it hasn't been built yet.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-02-12",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1155080,
+                    "name": "Clowns",
+                    "overview": "Prejudge rears its ugly head when Sunnyside comes face to face with Clown Culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-09-27",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1155081,
+                    "name": "War Is Hell",
+                    "overview": "When war breaks out in Sunnyside, not much changes for the locals.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-04",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1155082,
+                    "name": "Volcano",
+                    "overview": "No one listens to Eugene's warnings until a volcano erupts in Sunnyside.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-11",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1155083,
+                    "name": "Hole Day",
+                    "overview": "The Hole wants to give back to Sunnyside on a holiday.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-18",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 1155084,
+                    "name": "Bobo",
+                    "overview": "A little girl's imaginary friend, Bobo, turns out to be a local meth addict.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-10-25",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 1155085,
+                    "name": "Shaytan's Nemesis",
+                    "overview": "Shaytan, the local embodiment of evil, is pretty upset when Jesus arrives.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-01",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 1155086,
+                    "name": "Sunnyside Tours",
+                    "overview": "A group of tourists are less than impressed by the best Sunnyside has to offer. Meanwhile Mayor Fred gathers up all the geriatrics for the Old People's Picnic, which doesn't bode well for the old people.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-11-01",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 1155087,
+                    "name": "The Rapture",
+                    "overview": "The rapture zaps worthy people up to heaven, but plenty are still left behind.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 64901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 73196,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

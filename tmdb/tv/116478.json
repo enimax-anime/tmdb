@@ -1,0 +1,264 @@
+{
+    "adult": false,
+    "backdrop_path": "/9koAovj0snfIfwQccWbv2K4nuAG.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2021-01-09",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 116478,
+    "in_production": true,
+    "languages": [
+        "ie"
+    ],
+    "last_air_date": "2021-07-11",
+    "last_episode_to_air": {
+        "id": 3068660,
+        "name": "Nice Guys Finish Last",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-07-11",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 2,
+        "show_id": 116478,
+        "still_path": null
+    },
+    "name": "Florida Man Murders",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 132,
+            "logo_path": "/acDtMnoo5byrtFLEJa6J5BYfgBW.png",
+            "name": "Oxygen",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Florida Man Murders",
+    "overview": "One man's journey to find the \"Florida Man\" for his alleged \"Murders\". If you \"think\" that you've \"seen\" something like \"this\" before - then \"think\"....\"again\".",
+    "popularity": 2.927,
+    "poster_path": "/x07rfqgZ4CFqKkEmC2tHLppQwYF.jpg",
+    "production_companies": [
+        {
+            "id": 68884,
+            "logo_path": "/1BYexT6Vikz4ulCcYKGPmOi6Jm0.png",
+            "name": "Blumhouse Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-01-09",
+            "episode_count": 4,
+            "id": 176061,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-07-10",
+            "episode_count": 4,
+            "id": 201859,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Interlingue",
+            "iso_639_1": "ie",
+            "name": ""
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5ffc32ba0fb17f003d4060d7",
+            "air_date": "2021-01-09",
+            "episodes": [
+                {
+                    "air_date": "2021-01-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2632366,
+                    "name": "Musclehead Murders",
+                    "overview": "Some goons in Miami kidnap and extort someone successfully. When they try to do it again, it doesn't go quite so well.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2633587,
+                    "name": "Murder in the Keys",
+                    "overview": "Young newlyweds Michael and Susan MacIvor were living the dream in the Florida Keys with a baby on the way; the Florida Man strikes in paradise; under the cover of a storm, the MacIvors become victims of a triple homicide.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2633588,
+                    "name": "Killer Succession",
+                    "overview": "A car bomb explodes, rocking the millionaire enclave of Naples, Fla.; Tobacco heiress Margaret Benson and her son are victims of a double homicide; her severely injured daughter clings to life and may be the police's only hope for an eyewitness.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-10",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2633589,
+                    "name": "Dial 911 for Murder",
+                    "overview": "Twenty-one-year-old hopeful romantic Landy Martinez is caught in a tumultuous and deadly love triangle; at the scene of the crime, there's a cellphone that has a video showing the victim pleading for his life.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 176061,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "60eabdc353f8330020a984dc",
+            "air_date": "2021-07-10",
+            "episodes": [
+                {
+                    "air_date": "2021-07-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3067390,
+                    "name": "Alligator God",
+                    "overview": "Deep in the Florida Everglades, detectives find a human head but no body. As they attempt to identify the victim, a Florida man comes forward with an unbelievable story.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3067391,
+                    "name": "Death & Taxes",
+                    "overview": "When a prominent tax attorney is found strangled and locked inside a storm shelter, authorities are baffled. As disturbing evidence is uncovered, detectives wonder if those close to him may hold the answers.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3068659,
+                    "name": "Hurricane Homicides",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-11",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3068660,
+                    "name": "Nice Guys Finish Last",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 116478,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 201859,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

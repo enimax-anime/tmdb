@@ -1,0 +1,295 @@
+{
+    "adult": false,
+    "backdrop_path": "/5aWfVhP0lZFVkY2oFqSQRJVGE9l.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "first_air_date": "2020-12-03",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "",
+    "id": 126284,
+    "in_production": true,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "last_air_date": "2021-02-04",
+    "last_episode_to_air": {
+        "id": 5045291,
+        "name": "Episode 10",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-02-04",
+        "episode_number": 10,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 126284,
+        "still_path": null
+    },
+    "name": "Kinderwood",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 188,
+            "logo_path": "/jQmuRRuydB4XPm6yTv6Src7LPZa.png",
+            "name": "Noggin",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Kinderwood",
+    "overview": "",
+    "popularity": 1.205,
+    "poster_path": "/eKxNMGD4P4A0XHCSPCndb4YZdS.jpg",
+    "production_companies": [
+        {
+            "id": 4152,
+            "logo_path": "/8G3bKbfSreYlfPnEPFPuJn8tOOX.png",
+            "name": "Titmouse",
+            "origin_country": "US"
+        },
+        {
+            "id": 5371,
+            "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+            "name": "Nickelodeon Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-12-03",
+            "episode_count": 10,
+            "id": 196741,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "60abdd543d355700403b3893",
+            "air_date": "2020-12-03",
+            "episodes": [
+                {
+                    "air_date": "2020-12-03",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2974206,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 8,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5045283,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5045284,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5045285,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5045286,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5045287,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5045288,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-21",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5045289,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-28",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 5045290,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-04",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 5045291,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126284,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 196741,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

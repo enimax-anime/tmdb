@@ -1,0 +1,538 @@
+{
+    "adult": false,
+    "backdrop_path": "/o6GbGPOddhwjjMuFyToAFq2FcjB.jpg",
+    "created_by": [
+        {
+            "id": 111588,
+            "credit_id": "626f99626f53e100510a0827",
+            "name": "J Blakeson",
+            "gender": 2,
+            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+        }
+    ],
+    "episode_run_time": [
+        55
+    ],
+    "first_air_date": "2023-11-08",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/culprits/4fsTnV3a0sNI",
+    "id": 201076,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-11-08",
+    "last_episode_to_air": {
+        "id": 4793339,
+        "name": "A Forest",
+        "overview": "Joe tries to maneuver Dianne into a trap, and the fate of his family hangs in the balance.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2023-11-08",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 1,
+        "show_id": 201076,
+        "still_path": "/9Nt5npLvUpQhBTxgAn3HxrxnGJ1.jpg"
+    },
+    "name": "Culprits",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/uzKjVDmQ1WRMvGBb7UNRE0wTn1H.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Culprits",
+    "overview": "Family man Joe Petrus is living the American dream with his fiancé and step-kids. However, unbeknownst to them, Joe was involved in a mysterious crime three years ago and now his dangerous past is about to catch up with him. When a killer starts targeting the crew behind the crime, Joe realizes it's only a matter of time before his family is targeted. He returns to London to track down his old gang and find out who is coming after them.",
+    "popularity": 32.229,
+    "poster_path": "/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg",
+    "production_companies": [
+        {
+            "id": 175449,
+            "logo_path": null,
+            "name": "Character 7",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-08",
+            "episode_count": 8,
+            "id": 292151,
+            "name": "Season 1",
+            "overview": "A darkly funny, whip-smart series about the aftermath of a heist. The crew have gone their separate ways, but someone is coming after them one by one.",
+            "poster_path": "/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "They did a bad thing.",
+    "type": "Miniseries",
+    "vote_average": 6.45,
+    "vote_count": 20,
+    "season_data": {
+        "1": {
+            "_id": "626f98d1903c52188360da9c",
+            "air_date": "2023-11-08",
+            "episodes": [
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3700271,
+                    "name": "Change of Use",
+                    "overview": "Joe is living the dream but is hiding a dangerous secret and his past is about to catch up with him.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/mGzyJcCRWe7iUY6YEtDyUyJiqyS.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f675ea84c7109301d8da",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f67b53866e00c5b2e62b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "6557f73822931a01398dd93d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 964652,
+                            "known_for_department": "Camera",
+                            "name": "Philipp Blaubach",
+                            "original_name": "Philipp Blaubach",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4793333,
+                    "name": "Angler Fish",
+                    "overview": "While Joe's lies spiral in the present, a flashback reveals a shocking new member of The Culprits.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/7cIktT2h90V7REyew0gKOKQ0shr.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f675ea84c7109301d8da",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f67b53866e00c5b2e62b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4793334,
+                    "name": "Pflegedienstleitung",
+                    "overview": "Specialist has an unexpected visitor and Joe embarks on a mission to neutralize the looming threat.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/kUlCJdbTGidSYfzdxctaq0zpOtM.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f675ea84c7109301d8da",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f67b53866e00c5b2e62b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4793335,
+                    "name": "Circles in a Circle",
+                    "overview": "After an uneasy reunion, Joe and Officer travel to France to find the killer before he finds them.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/7gS5BHbXKa4bCtsEchQplnDCWyK.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f675ea84c7109301d8da",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f77f0816c70137ea02dc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1816587,
+                            "known_for_department": "Writing",
+                            "name": "Alex Straker",
+                            "original_name": "Alex Straker",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4793336,
+                    "name": "Let Us Sit Bent, and Talk Straight",
+                    "overview": "The killer closes in on the Culprits and his motives become clearer. But who is he working for?",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/i7lamwtUfUAGFX53LhMva9WuKFz.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f78db5400214d116f74e",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2250182,
+                            "known_for_department": "Directing",
+                            "name": "Claire Oakley",
+                            "original_name": "Claire Oakley",
+                            "popularity": 0.6,
+                            "profile_path": "/ybKyGmQD3gyhQWHPUW6nG4motFi.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f7bfca0e17011d1776a7",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2348264,
+                            "known_for_department": "Directing",
+                            "name": "Nadia Latif",
+                            "original_name": "Nadia Latif",
+                            "popularity": 0.6,
+                            "profile_path": "/kJOO4ojuCVNFoUNPpT5XMFQUeec.jpg"
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "6557f7fab5400214d06f2284",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1790173,
+                            "known_for_department": "Camera",
+                            "name": "Anna Valdez Hanks",
+                            "original_name": "Anna Valdez Hanks",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4793337,
+                    "name": "Vessels",
+                    "overview": "The Culprits make a shocking discovery, and a trap set for the killer takes a dark turn.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/bzI9b3DJ2Ph5HzPXqa4kLSh6CPj.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f78db5400214d116f74e",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2250182,
+                            "known_for_department": "Directing",
+                            "name": "Claire Oakley",
+                            "original_name": "Claire Oakley",
+                            "popularity": 0.6,
+                            "profile_path": "/ybKyGmQD3gyhQWHPUW6nG4motFi.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f7ccd051d900c6f08e21",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2115447,
+                            "known_for_department": "Writing",
+                            "name": "Rose Lewenstein",
+                            "original_name": "Rose Lewenstein",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "6557f7fab5400214d06f2284",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1790173,
+                            "known_for_department": "Camera",
+                            "name": "Anna Valdez Hanks",
+                            "original_name": "Anna Valdez Hanks",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4793338,
+                    "name": "This Is Our Exit",
+                    "overview": "The Culprits are outnumbered, and a horrified Joe is presented with an impossible decision.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/egRbsLuVKTQGyM39fgFVATG0jGb.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f78db5400214d116f74e",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2250182,
+                            "known_for_department": "Directing",
+                            "name": "Claire Oakley",
+                            "original_name": "Claire Oakley",
+                            "popularity": 0.6,
+                            "profile_path": "/ybKyGmQD3gyhQWHPUW6nG4motFi.jpg"
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "6557f7fab5400214d06f2284",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1790173,
+                            "known_for_department": "Camera",
+                            "name": "Anna Valdez Hanks",
+                            "original_name": "Anna Valdez Hanks",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f868d4fe0401398304dc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 992396,
+                            "known_for_department": "Writing",
+                            "name": "James McCarthy",
+                            "original_name": "James McCarthy",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4793339,
+                    "name": "A Forest",
+                    "overview": "Joe tries to maneuver Dianne into a trap, and the fate of his family hangs in the balance.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 201076,
+                    "still_path": "/9Nt5npLvUpQhBTxgAn3HxrxnGJ1.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6557f675ea84c7109301d8da",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6557f67b53866e00c5b2e62b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 111588,
+                            "known_for_department": "Directing",
+                            "name": "J Blakeson",
+                            "original_name": "J Blakeson",
+                            "popularity": 2.061,
+                            "profile_path": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg"
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "6557f73822931a01398dd93d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 964652,
+                            "known_for_department": "Camera",
+                            "name": "Philipp Blaubach",
+                            "original_name": "Philipp Blaubach",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "A darkly funny, whip-smart series about the aftermath of a heist. The crew have gone their separate ways, but someone is coming after them one by one.",
+            "id": 292151,
+            "poster_path": "/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ZxgppS59ChNsyOLE8s3RKG1P7G.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-08-19",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 208565,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-09-09",
+    "last_episode_to_air": {
+        "id": 3927439,
+        "name": "Yorkshire with Andi Oliver",
+        "overview": "Yorkshire with Andi Oliver",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-09-09",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 208565,
+        "still_path": null
+    },
+    "name": "Hobby Man",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Hobby Man",
+    "overview": "Alex Brooker takes some of his celeb mates round the country to have a go at some of Britain's favourite pastimes",
+    "popularity": 1.319,
+    "poster_path": "/w0AINlwa1dwg0NRKLY3hks1OQxS.jpg",
+    "production_companies": [
+        {
+            "id": 5778,
+            "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+            "name": "Channel 4 Television",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-19",
+            "episode_count": 4,
+            "id": 305413,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6300e41ddfe31d0092044077",
+            "air_date": "2022-08-19",
+            "episodes": [
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3906164,
+                    "name": "Edinburgh with Scarlett Moffatt",
+                    "overview": "Scarlett Moffatt and Alex have a crack at chess, home-brewing and a spot of birdwatching.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 208565,
+                    "still_path": "/a3r7ueaAwqRpRYBVEr8ETvMQtiC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Herself",
+                            "credit_id": "63015a6167e0f700821d04c9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1941807,
+                            "known_for_department": "Acting",
+                            "name": "Scarlett Moffatt",
+                            "original_name": "Scarlett Moffatt",
+                            "popularity": 0.577,
+                            "profile_path": "/kuf8U6wqpvfLcxZJXpBMPEIYjVP.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3906167,
+                    "name": "South Wales with Joe WIlkinson",
+                    "overview": "Joe and Alex discover a love for knitting, master fly-fishing and go on a photography walk.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 208565,
+                    "still_path": "/4x3JYBANbcv5P4zhgKUHRQpghGy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "63015a6d9653f6007a10d4b3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1526636,
+                            "known_for_department": "Acting",
+                            "name": "Joe Wilkinson",
+                            "original_name": "Joe Wilkinson",
+                            "popularity": 3.434,
+                            "profile_path": "/4Ti7DUnXyvjmnejzSzj1EbdiMIm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3927435,
+                    "name": "Wiltshire, Berkshire and London with Joe Thomas",
+                    "overview": "Wiltshire, Berkshire and London with Joe Thomas",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 208565,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-09",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3927439,
+                    "name": "Yorkshire with Andi Oliver",
+                    "overview": "Yorkshire with Andi Oliver",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 208565,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 305413,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

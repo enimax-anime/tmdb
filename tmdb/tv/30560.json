@@ -1,0 +1,299 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "1981-04-26",
+    "genres": [],
+    "homepage": "",
+    "id": 30560,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "1981-06-10",
+    "last_episode_to_air": {
+        "id": 743080,
+        "name": "Winners",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1981-06-10",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 30560,
+        "still_path": null
+    },
+    "name": "American Dream",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2,
+            "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+            "name": "ABC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 7,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Dream",
+    "overview": "Telling the story of humble beginnings and delving into each entrepreneur's journey. These ambitious individuals made their vision a reality and give hope that the dream is still possible.",
+    "popularity": 2.946,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1981-04-26",
+            "episode_count": 7,
+            "id": 42094,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5258985f760ee346615c463a",
+            "air_date": "1981-04-26",
+            "episodes": [
+                {
+                    "air_date": "1981-04-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 743076,
+                    "name": "Pilot",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "1981-04-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 743077,
+                    "name": "Crossing Patterns",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Writing",
+                            "job": "Writer",
+                            "credit_id": "5258985f760ee346615c4665",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 57536,
+                            "known_for_department": "Writing",
+                            "name": "William Blinn",
+                            "original_name": "William Blinn",
+                            "popularity": 0.743,
+                            "profile_path": null
+                        },
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "5258985f760ee346615c4675",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 33722,
+                            "known_for_department": "Acting",
+                            "name": "Ray Danton",
+                            "original_name": "Ray Danton",
+                            "popularity": 2.096,
+                            "profile_path": "/m6AbhBmKtBIBxYoB48l7M3PNAp2.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "1981-05-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 743078,
+                    "name": "Casey's Romance",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Writing",
+                            "job": "Writer",
+                            "credit_id": "5258985f760ee346615c4665",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 57536,
+                            "known_for_department": "Writing",
+                            "name": "William Blinn",
+                            "original_name": "William Blinn",
+                            "popularity": 0.743,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "1981-06-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 743079,
+                    "name": "The Robbery",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Directing",
+                            "job": "Director",
+                            "credit_id": "5258985f760ee346615c46ab",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 96983,
+                            "known_for_department": "Directing",
+                            "name": "Jerry Thorpe",
+                            "original_name": "Jerry Thorpe",
+                            "popularity": 1.336,
+                            "profile_path": "/40RuKXEpWtMrQMXzV5KH9X8fQiq.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Paula",
+                            "credit_id": "66555c7822c5d29c72dfd0a4",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4740200,
+                            "known_for_department": "Acting",
+                            "name": "Helen Rubio",
+                            "original_name": "Helen Rubio",
+                            "popularity": 0.266,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "1981-06-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 743080,
+                    "name": "Winners",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 743081,
+                    "name": "A Blessing from Berlowitz",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 743082,
+                    "name": "The Bottom Line",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 30560,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "department": "Writing",
+                            "job": "Writer",
+                            "credit_id": "5258985f760ee346615c46ea",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 168201,
+                            "known_for_department": "Writing",
+                            "name": "Peter Lefcourt",
+                            "original_name": "Peter Lefcourt",
+                            "popularity": 0.288,
+                            "profile_path": "/h5MYb6iCJaJm1gJxz3jCFmD5H03.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 42094,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

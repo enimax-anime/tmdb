@@ -1,0 +1,339 @@
+{
+    "adult": false,
+    "backdrop_path": "/zvrqD5tDrQAQbnxucwhPbroEqPs.jpg",
+    "created_by": [
+        {
+            "id": 2714411,
+            "credit_id": "622aa06eeda4b7001829b1c5",
+            "name": "Craig Orr",
+            "original_name": "Craig Orr",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3460815,
+            "credit_id": "622aa056770700001bb2726c",
+            "name": "Kerry Taylor",
+            "original_name": "Kerry Taylor",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2021-04-07",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://viacomstudiosuk.com/true-life-crime-uk/",
+    "id": 123364,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-08-17",
+    "last_episode_to_air": {
+        "id": 4046141,
+        "name": "Body On The Beach: What Happened To Blessing?",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-08-17",
+        "episode_number": 7,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 123364,
+        "still_path": null
+    },
+    "name": "True Life Crime: UK",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 488,
+            "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+            "name": "MTV",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "True Life Crime: UK",
+    "overview": "True Life Crime UK investigates the most harrowing true crime mysteries rocking headlines and social feeds. The victims were young; the crimes against them were shocking and haunting questions remain.",
+    "popularity": 0.68,
+    "poster_path": "/2E3HHDBdEQJ94PYfgPjKw1EpqeM.jpg",
+    "production_companies": [
+        {
+            "id": 177200,
+            "logo_path": "/6gOEKQP41YSSzdLgL67FHhuXGdG.png",
+            "name": "VIS",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-07",
+            "episode_count": 4,
+            "id": 190662,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2E3HHDBdEQJ94PYfgPjKw1EpqeM.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-24",
+            "episode_count": 7,
+            "id": 234474,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.2,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "607846da4d0e8d005a379e1f",
+            "air_date": "2021-04-07",
+            "episodes": [
+                {
+                    "air_date": "2021-04-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2875902,
+                    "name": "Jayden Parkinson: Runaway Or Foul Play?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2880087,
+                    "name": "Kirsty Maxwell: Hen Night Horror",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2880088,
+                    "name": "Champion Ganda: Random Attack or Marked for Murder?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-28",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2880089,
+                    "name": "James Brindley: Mindless Murder or Calculated Killing",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 190662,
+            "poster_path": "/2E3HHDBdEQJ94PYfgPjKw1EpqeM.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "61ae1b22263462005e95d10c",
+            "air_date": "2021-11-24",
+            "episodes": [
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3380232,
+                    "name": "Georgina Gharsallah: Missing or Murdered?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3380233,
+                    "name": "Alex Davies: Chance Encounter or Groomed for Murder?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3380234,
+                    "name": "Ellie Gould: Stranger Danger or Fatal Femicide?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3406917,
+                    "name": "Conner Marshall: Random Attack or Deadly Row?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3406918,
+                    "name": "Tavis Spencer Aitkens: Marked for Murder or Random Revenge?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3406919,
+                    "name": "Jodie Wilkinson: Targeted Murder or Chance Killing?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-17",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 4046141,
+                    "name": "Body On The Beach: What Happened To Blessing?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 123364,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 234474,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

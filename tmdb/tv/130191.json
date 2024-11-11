@@ -1,0 +1,170 @@
+{
+    "adult": false,
+    "backdrop_path": "/5VoydtGf1AUpEdKNpM13NP6ueXF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2021-03-30",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.discoveryplus.com/show/american-cartel",
+    "id": 130191,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-30",
+    "last_episode_to_air": {
+        "id": 3359223,
+        "name": "The Devil Next Door",
+        "overview": "The search for a cop killer reveals a nationwide web of drugs and violence.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-03-30",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 130191,
+        "still_path": "/uz41WPByJxY6KaxER1O86s7PlkZ.jpg"
+    },
+    "name": "American Cartel",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4353,
+            "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+            "name": "discovery+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Cartel",
+    "overview": "In the quiet town of Burbank, the murder of a police officer sparks an unprecedented manhunt and reveals clues that a local street gang might be connected to Mexico's most dangerous drug cartels.",
+    "popularity": 0.529,
+    "poster_path": "/wSw0phaq5SvkxTszYFmzvrWbSfl.jpg",
+    "production_companies": [
+        {
+            "id": 166583,
+            "logo_path": "/xbWlE3LfTmchDqUKEbMNvLXU9kO.png",
+            "name": "Breaklight Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 166584,
+            "logo_path": "/99ZAHa8sSeVvC9aMKEFVBDBBCW3.png",
+            "name": "The Content Group",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-30",
+            "episode_count": 3,
+            "id": 204161,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gYa3mUvHCPaDJkBABarNJrHznfv.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "610440ea4f33ad005db5c549",
+            "air_date": "2021-03-30",
+            "episodes": [
+                {
+                    "air_date": "2021-03-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3099237,
+                    "name": "Shots Fired",
+                    "overview": "A police officer's murder exposes a street gang with possible links to Mexico's deadly drug cartels.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 130191,
+                    "still_path": "/wtSLhO0V0f5qfVY5AM7Aku8fp40.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3359221,
+                    "name": "The Ghost",
+                    "overview": "Police realize the Vineland Boyz gang is more cunning than anyone imagined.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 130191,
+                    "still_path": "/6TjZq3FD73vX8NECzzxW06tEVui.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-30",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3359223,
+                    "name": "The Devil Next Door",
+                    "overview": "The search for a cop killer reveals a nationwide web of drugs and violence.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 130191,
+                    "still_path": "/uz41WPByJxY6KaxER1O86s7PlkZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 204161,
+            "poster_path": "/gYa3mUvHCPaDJkBABarNJrHznfv.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "adult": false,
+    "backdrop_path": "/794MHBK908sCiBtMrX5DHWfrHXy.jpg",
+    "created_by": [
+        {
+            "id": 24265,
+            "credit_id": "638e60bf1f98d100c01fcb6d",
+            "name": "Bill Bailey",
+            "original_name": "Bill Bailey",
+            "gender": 2,
+            "profile_path": "/nEFCqUk4DtNRMmwJ04HJTcmCEt4.jpg"
+        },
+        {
+            "id": 3002878,
+            "credit_id": "638e60cb1a3248009f1197df",
+            "name": "Sam Ornbo",
+            "original_name": "Sam Ornbo",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 3223372,
+            "credit_id": "638e60a6c2b9df0084867521",
+            "name": "Simon Gilchrist",
+            "original_name": "Simon Gilchrist",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3816958,
+            "credit_id": "638e60b21d314300ba1f9612",
+            "name": "Meea Atkin",
+            "original_name": "Meea Atkin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2021-11-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 202818,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-10-08",
+    "last_episode_to_air": {
+        "id": 3996727,
+        "name": "A Family Massacre",
+        "overview": "When a father is confronted by police in a custody dispute, he kills nine of his children.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-08",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 202818,
+        "still_path": null
+    },
+    "name": "Deadliest Mums & Dads",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Deadliest Mums & Dads",
+    "overview": "British true crime documentary series highlighting the cases of infamous parents and the shocking stories of how they murdered their own children.",
+    "popularity": 4.172,
+    "poster_path": "/zvLMyRrIuPnWX8a4yjGeu3XdqsC.jpg",
+    "production_companies": [
+        {
+            "id": 72302,
+            "logo_path": "/a5QC88ssABQVb8AOZBwgEATFtOQ.png",
+            "name": "Crackit Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 117710,
+            "logo_path": null,
+            "name": "Discovery Networks Europe",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-04-02",
+            "episode_count": 1,
+            "id": 401640,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-27",
+            "episode_count": 8,
+            "id": 295069,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-09-10",
+            "episode_count": 5,
+            "id": 310068,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "628ef146e0ec5100508df96f",
+            "air_date": "2021-11-27",
+            "episodes": [
+                {
+                    "air_date": "2021-11-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3743437,
+                    "name": "The Honour Killing",
+                    "overview": "When missing teenager Shafilea Ahmed's dismembered and decomposed remains are found in Cumbria, her parents seem devastated. Years later, police unravel the truth: of abuse, family honour and murder.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3822610,
+                    "name": "The Killer Stepdad",
+                    "overview": "When Lesley Ford and four of her children disappear from a Cornish village, her husband claims they left him without a trace. But police are suspicious.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3822611,
+                    "name": "The Tragedy of Ayesha Ali",
+                    "overview": "When the body of 8-year-old Ayesha Ali is found at her east London home, investigators eventually uncover a complex web of lies, manipulation and abuse.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3822612,
+                    "name": "A Father's Revenge",
+                    "overview": "A case which began when a mother received a phone call from her ex-husband saying he'd just murdered their three young daughters. She gives her first in-depth TV interview about her loss.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3822613,
+                    "name": "A Father's Fury",
+                    "overview": "Five-year-old, Sir Ameir Stackhouse is killed on Father's Day at his home in Milwaukee, Wisconsin. Initially blamed on an accidental fall, the autopsy later reveals the brutal truth of the killing.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-23",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3822614,
+                    "name": "Who Killed Precious Doe?",
+                    "overview": "Police in Kansas City make a horrifying discovery in a local wasteland: the body of a young child. When she's finally identified, it leads to a shocking truth.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-30",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3822615,
+                    "name": "A Merciless Mother",
+                    "overview": "In 2007, Neal Williams is slashed to death with a samurai sword at his California home and his two young sons are suffocated in their beds. Shockingly, the perpetrator is Neal's wife, Manling.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-14",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3822617,
+                    "name": "A Father's Deception",
+                    "overview": "When young Bianca Jones disappears in Detroit her father claims she was abducted during a carjacking. But painstaking work by detectives exposes holes in his story.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 295069,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "63300a8b7719d7007f6b9b89",
+            "air_date": "2022-09-10",
+            "episodes": [
+                {
+                    "air_date": "2022-09-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3973391,
+                    "name": "Lured to Their Death",
+                    "overview": "An abusive and vengeful father lures his young sons to his house. Little do they know that he's planning a devastating act of revenge.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3973392,
+                    "name": "The Poisoning of Garnett Spears",
+                    "overview": "A 5-year-old's death in hospital seems to be a tragedy, but doctors soon suspect his mother is involved. When police investigate they discover the horrific truth.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3973393,
+                    "name": "Murder in Suburbia",
+                    "overview": "When a father gets into financial difficulty and is charged with fraud, he can’t see a way forward. Facing jail time, he makes a horrifying decision.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3985044,
+                    "name": "A Fathers Night of Revenge",
+                    "overview": "The shocking story of a double murder carried out in revenge after Chrissie Chambers leaves her partner – and the brave young girl who escaped.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-08",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3996727,
+                    "name": "A Family Massacre",
+                    "overview": "When a father is confronted by police in a custody dispute, he kills nine of his children.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 202818,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 310068,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

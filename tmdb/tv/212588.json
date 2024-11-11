@@ -1,0 +1,270 @@
+{
+    "adult": false,
+    "backdrop_path": "/lOM5ho8qmqQh0F6cn1DxGB61RvR.jpg",
+    "created_by": [
+        {
+            "id": 2242040,
+            "credit_id": "6515a3cecadb6b02bc0be091",
+            "name": "Yoann Legave",
+            "original_name": "Yoann Legave",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2242041,
+            "credit_id": "6515a3d7a199a6011b21a33f",
+            "name": "Jean-Yves Arnaud",
+            "original_name": "Jean-Yves Arnaud",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-03-01",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81461530",
+    "id": 212588,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2024-03-01",
+    "last_episode_to_air": {
+        "id": 5149958,
+        "name": "Namaste, asshole",
+        "overview": "A hazardous train ride brings the Arago family saga to an explosive conclusion. Yet when old lies are covered up with new ones, the rot still lingers.",
+        "vote_average": 7.8,
+        "vote_count": 5,
+        "air_date": "2024-03-01",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 212588,
+        "still_path": "/lwWnadMR5pLVmCqaMmVcpG4lyhB.jpg"
+    },
+    "name": "Furies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Furies",
+    "overview": "Seeking to avenge her father's death, a young woman becomes entangled in the web of the Fury, peacekeeper of the Paris criminal underworld.",
+    "popularity": 47.968,
+    "poster_path": "/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+    "production_companies": [
+        {
+            "id": 149425,
+            "logo_path": null,
+            "name": "Daïmôn Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 3286,
+            "logo_path": "/kMwaZKoh6b5JouZ9mZrLN8YvaWf.png",
+            "name": "Empreinte Digitale",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-03-01",
+            "episode_count": 8,
+            "id": 313038,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 93,
+    "season_data": {
+        "1": {
+            "_id": "634e9a0b13a320007c1ee0c4",
+            "air_date": "2024-03-01",
+            "episodes": [
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4013540,
+                    "name": "I work for her",
+                    "overview": "As she vows to avenge her family after her birthday ends in bloodshed, Lyna edges closer to the one person she holds responsible: the Fury.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/mZBzfuPKWJ41Ko1dJGKoEAoq7nx.jpg",
+                    "vote_average": 9,
+                    "vote_count": 12,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5149951,
+                    "name": "Broken heart > Bullet in the head",
+                    "overview": "With a police officer hot on her tail, Lyna's first mission sees her go deep undercover in Mama's bordello where a simple task turns very complicated.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/ylB9LIQ8ooctA2E6geTy3H6yBkq.jpg",
+                    "vote_average": 8,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5149952,
+                    "name": "I'd never have bet on you",
+                    "overview": "The Fury races to retrieve a missing safe ahead of the Writing Ceremony. Dynamics shift as Lyna grapples with disturbing news about her parents.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/7C88wD4Ma1O2qtqjZ4BILVEyvbe.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5149954,
+                    "name": "The Fury is like scabies",
+                    "overview": "As Parques' ambitions come to the fore, the Fury turns to Fehim for support. Not knowing whom she can trust, Lyna looks for her own form of back-up.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/vbCemHYSDSsg23Fknl2OJqLKf2J.jpg",
+                    "vote_average": 7.2,
+                    "vote_count": 6,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5149955,
+                    "name": "Hello, my love",
+                    "overview": "A prison visit results in a major encounter for Lyna, but her search for answers leaves a trail of destruction in its wake.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/8EOn1dEQs5X7IgGawgzpacVC5Ia.jpg",
+                    "vote_average": 7.8,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5149956,
+                    "name": "Nature abhors a vacuum",
+                    "overview": "Lyna tries to predict the masked attacker's next move but patience is wearing thin. Her desperation leads to a last ditch attempt to restore order.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/Ov8kow0vCq1IBhYxN0YGZKdn88.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5149957,
+                    "name": "Where are the knives?",
+                    "overview": "In the creeping shadows of a hostile forest, an unlikely alliance is formed as common enemies circle close, poised to swoop in for the kill.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/ApaHzA0wuM2oURrYkfoNpcIyNhY.jpg",
+                    "vote_average": 7.2,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-03-01",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 5149958,
+                    "name": "Namaste, asshole",
+                    "overview": "A hazardous train ride brings the Arago family saga to an explosive conclusion. Yet when old lies are covered up with new ones, the rot still lingers.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 212588,
+                    "still_path": "/lwWnadMR5pLVmCqaMmVcpG4lyhB.jpg",
+                    "vote_average": 7.8,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 313038,
+            "poster_path": "/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+            "season_number": 1,
+            "vote_average": 7.7
+        }
+    }
+}

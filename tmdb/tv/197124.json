@@ -1,0 +1,697 @@
+{
+    "adult": false,
+    "backdrop_path": "/pjEmBroEnTSbUMSA0Z3D98XD7q7.jpg",
+    "created_by": [
+        {
+            "id": 1423226,
+            "credit_id": "660356f93520e8017edb1222",
+            "name": "Jim Hecht",
+            "original_name": "Jim Hecht",
+            "gender": 2,
+            "profile_path": "/dry3sZ96LIaFV5VUP48knnlvwm0.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-05-16",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.5067l9fz7usyhgjfbzy6ib0na",
+    "id": 197124,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-06-13",
+    "last_episode_to_air": {
+        "id": 5133401,
+        "name": "The Pirate",
+        "overview": "Bert works hard to prove his loyalty. Gwen inspires a grand gesture. Huey's legacy lives on.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2024-06-13",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 197124,
+        "still_path": "/rBfDiOT11bswsJ8RSlDl7SZcbjr.jpg"
+    },
+    "name": "The Big Cigar",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Big Cigar",
+    "overview": "Black Panther Party co-founder Huey P. Newton enlists an unlikely ally—Hollywood producer Bert Schneider—to elude an FBI manhunt and escape to Cuba.",
+    "popularity": 21.958,
+    "poster_path": "/2p40gebB8gr7FqZtjCczdcMHltv.jpg",
+    "production_companies": [
+        {
+            "id": 1957,
+            "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+            "name": "Warner Bros. Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 173035,
+            "logo_path": "/tNky2GBy0sWaG4StgWn8oGegZaY.png",
+            "name": "Epic",
+            "origin_country": "US"
+        },
+        {
+            "id": 224567,
+            "logo_path": null,
+            "name": "Folding Chair Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 171125,
+            "logo_path": null,
+            "name": "Jim Hecht Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-05-15",
+            "episode_count": 6,
+            "id": 286801,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/2p40gebB8gr7FqZtjCczdcMHltv.jpg",
+            "season_number": 1,
+            "vote_average": 8.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Lights. Camera. Revolution.",
+    "type": "Miniseries",
+    "vote_average": 5.6,
+    "vote_count": 16,
+    "season_data": {
+        "1": {
+            "_id": "624f52c224f2ce0068458811",
+            "air_date": "2024-05-15",
+            "episodes": [
+                {
+                    "air_date": "2024-05-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3651509,
+                    "name": "Panther/Producer",
+                    "overview": "On the heels of his overturned conviction, Huey P. Newton reignites a revolution and meets an unexpected donor.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/rQS9Osovgq5LIE7WBW1Ry7z8epS.jpg",
+                    "vote_average": 9,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "624f5338b76cbb124cd64a2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1896,
+                            "known_for_department": "Acting",
+                            "name": "Don Cheadle",
+                            "original_name": "Don Cheadle",
+                            "popularity": 11.358,
+                            "profile_path": "/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "624f5342e263bb13bd8f2e18",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1896,
+                            "known_for_department": "Acting",
+                            "name": "Don Cheadle",
+                            "original_name": "Don Cheadle",
+                            "popularity": 11.358,
+                            "profile_path": "/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3c89451e70184bd564a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1423226,
+                            "known_for_department": "Writing",
+                            "name": "Jim Hecht",
+                            "original_name": "Jim Hecht",
+                            "popularity": 1.694,
+                            "profile_path": "/dry3sZ96LIaFV5VUP48knnlvwm0.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "66478e9fb7cbc32fbaf63f23",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 551520,
+                            "known_for_department": "Camera",
+                            "name": "Suki Medencevic",
+                            "original_name": "Suki Medencevic",
+                            "popularity": 0.659,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9d3bee91ee64025c3f7",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 23827,
+                            "known_for_department": "Editing",
+                            "name": "Avril Beukes",
+                            "original_name": "Avril Beukes",
+                            "popularity": 0.833,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9d8ee8cab60d7786c7a",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2171641,
+                            "known_for_department": "Editing",
+                            "name": "Rebecca Valente",
+                            "original_name": "Rebecca Valente",
+                            "popularity": 0.271,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9f43d1fe9df616304d7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2024364,
+                            "known_for_department": "Editing",
+                            "name": "J.P. \"Brendan\" Bernardo",
+                            "original_name": "J.P. \"Brendan\" Bernardo",
+                            "popularity": 0.154,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-16",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3651510,
+                    "name": "The Cuban",
+                    "overview": "Huey and Bert's bold plan falls into place. Huey attempts to move the Black Panther Party away from armed confrontation.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/dWGHtDirOV1rtLeIyEuuAbjDgDM.jpg",
+                    "vote_average": 9,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "624f5338b76cbb124cd64a2f",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1896,
+                            "known_for_department": "Acting",
+                            "name": "Don Cheadle",
+                            "original_name": "Don Cheadle",
+                            "popularity": 11.358,
+                            "profile_path": "/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "624f5342e263bb13bd8f2e18",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1896,
+                            "known_for_department": "Acting",
+                            "name": "Don Cheadle",
+                            "original_name": "Don Cheadle",
+                            "popularity": 11.358,
+                            "profile_path": "/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3c89451e70184bd564a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1423226,
+                            "known_for_department": "Writing",
+                            "name": "Jim Hecht",
+                            "original_name": "Jim Hecht",
+                            "popularity": 1.694,
+                            "profile_path": "/dry3sZ96LIaFV5VUP48knnlvwm0.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3ed9451e70184bd565b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1217558,
+                            "known_for_department": "Writing",
+                            "name": "Janine Sherman Barrois",
+                            "original_name": "Janine Sherman Barrois",
+                            "popularity": 6.313,
+                            "profile_path": "/jfpUs55GMBbOzVHfLeO58p2zCVZ.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "66478e9fb7cbc32fbaf63f23",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 551520,
+                            "known_for_department": "Camera",
+                            "name": "Suki Medencevic",
+                            "original_name": "Suki Medencevic",
+                            "popularity": 0.659,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9d3bee91ee64025c3f7",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 23827,
+                            "known_for_department": "Editing",
+                            "name": "Avril Beukes",
+                            "original_name": "Avril Beukes",
+                            "popularity": 0.833,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9d8ee8cab60d7786c7a",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2171641,
+                            "known_for_department": "Editing",
+                            "name": "Rebecca Valente",
+                            "original_name": "Rebecca Valente",
+                            "popularity": 0.271,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5133398,
+                    "name": "Guns & Matzah",
+                    "overview": "Huey and Eldridge stand divided. Bert and Steve clash over Huey. The road to Cuba becomes increasingly treacherous.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/n19vliot1TtU8Fy4vEE0pcpiAjf.jpg",
+                    "vote_average": 9,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3de9451e70163bd0698",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1217933,
+                            "known_for_department": "Writing",
+                            "name": "Laurence Andries",
+                            "original_name": "Laurence Andries",
+                            "popularity": 3.965,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c4199451e70184bd568a",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1359342,
+                            "known_for_department": "Writing",
+                            "name": "Gwendolyn M. Parker",
+                            "original_name": "Gwendolyn M. Parker",
+                            "popularity": 0.672,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "667c225b03775a44bd557a7b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146864,
+                            "known_for_department": "Directing",
+                            "name": "Damon Thomas",
+                            "original_name": "Damon Thomas",
+                            "popularity": 0.78,
+                            "profile_path": "/2H0iGzmiPYbvdfze9zefDdizOUo.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "667c22b8991068ed4639b16d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 90690,
+                            "known_for_department": "Camera",
+                            "name": "Mirosław Baszak",
+                            "original_name": "Mirosław Baszak",
+                            "popularity": 0.949,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "667c22bc25b893ff6caa7037",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4450131,
+                            "known_for_department": "Editing",
+                            "name": "Kyle Bond",
+                            "original_name": "Kyle Bond",
+                            "popularity": 0.176,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-05-30",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5133399,
+                    "name": "What Are Friends For?",
+                    "overview": "A chaotic confrontation leads to a change of plans. Huey and Bobby's differences come to light. Agent Clark pulls out all the stops.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/uSrGYhJUQjQWOyuV3Y6PUsZ1Q9a.jpg",
+                    "vote_average": 9,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3c89451e70184bd564a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1423226,
+                            "known_for_department": "Writing",
+                            "name": "Jim Hecht",
+                            "original_name": "Jim Hecht",
+                            "popularity": 1.694,
+                            "profile_path": "/dry3sZ96LIaFV5VUP48knnlvwm0.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3ed9451e70184bd565b",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1217558,
+                            "known_for_department": "Writing",
+                            "name": "Janine Sherman Barrois",
+                            "original_name": "Janine Sherman Barrois",
+                            "popularity": 6.313,
+                            "profile_path": "/jfpUs55GMBbOzVHfLeO58p2zCVZ.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "667c225b03775a44bd557a7b",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146864,
+                            "known_for_department": "Directing",
+                            "name": "Damon Thomas",
+                            "original_name": "Damon Thomas",
+                            "popularity": 0.78,
+                            "profile_path": "/2H0iGzmiPYbvdfze9zefDdizOUo.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "667c22b8991068ed4639b16d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 90690,
+                            "known_for_department": "Camera",
+                            "name": "Mirosław Baszak",
+                            "original_name": "Mirosław Baszak",
+                            "popularity": 0.949,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "667c22bc25b893ff6caa7037",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4450131,
+                            "known_for_department": "Editing",
+                            "name": "Kyle Bond",
+                            "original_name": "Kyle Bond",
+                            "popularity": 0.176,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-06-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5133400,
+                    "name": "Lost Paradise",
+                    "overview": "Clark puts pressure on the Mexican government. Tragedy strikes Bert. Huey receives life-changing news—and hits another roadblock.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/quYSF3gDfjck5xFKBv48XK9y1EP.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3de9451e70163bd0698",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1217933,
+                            "known_for_department": "Writing",
+                            "name": "Laurence Andries",
+                            "original_name": "Laurence Andries",
+                            "popularity": 3.965,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3e3021cee019cc38230",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3754916,
+                            "known_for_department": "Writing",
+                            "name": "Valerie C. Woods",
+                            "original_name": "Valerie C. Woods",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "66473bc0cfb6275ad14c467d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4525062,
+                            "known_for_department": "Writing",
+                            "name": "Ameer Hasan",
+                            "original_name": "Ameer Hasan",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9f43d1fe9df616304d7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2024364,
+                            "known_for_department": "Editing",
+                            "name": "J.P. \"Brendan\" Bernardo",
+                            "original_name": "J.P. \"Brendan\" Bernardo",
+                            "popularity": 0.154,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "667c22684ebeab58db557ab1",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1860132,
+                            "known_for_department": "Directing",
+                            "name": "Tiffany Johnson",
+                            "original_name": "Tiffany Johnson",
+                            "popularity": 0.045,
+                            "profile_path": "/esbvWew0PCO5IXjx4eQgWANQHtC.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "667c227f073740443fd23166",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1058981,
+                            "known_for_department": "Camera",
+                            "name": "Carmen Cabana",
+                            "original_name": "Carmen Cabana",
+                            "popularity": 0.706,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-06-13",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5133401,
+                    "name": "The Pirate",
+                    "overview": "Bert works hard to prove his loyalty. Gwen inspires a grand gesture. Huey's legacy lives on.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 197124,
+                    "still_path": "/rBfDiOT11bswsJ8RSlDl7SZcbjr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3c89451e70184bd564a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1423226,
+                            "known_for_department": "Writing",
+                            "name": "Jim Hecht",
+                            "original_name": "Jim Hecht",
+                            "popularity": 1.694,
+                            "profile_path": "/dry3sZ96LIaFV5VUP48knnlvwm0.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "65c4c3cc194186016275be06",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1478977,
+                            "known_for_department": "Production",
+                            "name": "Joshuah Bearman",
+                            "original_name": "Joshuah Bearman",
+                            "popularity": 0.77,
+                            "profile_path": "/5tBuGEeRZDBECPZ3EnALSza6UUs.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6647a9f43d1fe9df616304d7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2024364,
+                            "known_for_department": "Editing",
+                            "name": "J.P. \"Brendan\" Bernardo",
+                            "original_name": "J.P. \"Brendan\" Bernardo",
+                            "popularity": 0.154,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "667c22684ebeab58db557ab1",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1860132,
+                            "known_for_department": "Directing",
+                            "name": "Tiffany Johnson",
+                            "original_name": "Tiffany Johnson",
+                            "popularity": 0.045,
+                            "profile_path": "/esbvWew0PCO5IXjx4eQgWANQHtC.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "667c227f073740443fd23166",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1058981,
+                            "known_for_department": "Camera",
+                            "name": "Carmen Cabana",
+                            "original_name": "Carmen Cabana",
+                            "popularity": 0.706,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 286801,
+            "poster_path": "/2p40gebB8gr7FqZtjCczdcMHltv.jpg",
+            "season_number": 1,
+            "vote_average": 8.7
+        }
+    }
+}

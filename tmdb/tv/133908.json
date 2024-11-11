@@ -1,0 +1,675 @@
+{
+    "adult": false,
+    "backdrop_path": "/cSQlquml7Vx21EH3fGOLIFAPKj6.jpg",
+    "created_by": [
+        {
+            "id": 1457095,
+            "credit_id": "6144fb91aaf897002a08f44f",
+            "name": "Julie Puckrin",
+            "original_name": "Julie Puckrin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-07-10",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://gem.cbc.ca/media/skymed",
+    "id": 133908,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2023-11-26",
+    "last_episode_to_air": {
+        "id": 4895735,
+        "name": "Out with a Bang",
+        "overview": "",
+        "vote_average": 6.7,
+        "vote_count": 3,
+        "air_date": "2023-11-26",
+        "episode_number": 9,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 2,
+        "show_id": 133908,
+        "still_path": "/cgiYFYn62AtRHqKxw5GRV7bvgtR.jpg"
+    },
+    "name": "SkyMed",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 23,
+            "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+            "name": "CBC Television",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "SkyMed",
+    "overview": "Life, death and drama at 20,000 feet. The series weaves together intense character journeys and high-stakes medical rescues, as we follow the triumphs, heartbreaks and tribulations of budding nurses and pilots flying air ambulances in remote Northern Canada. They’re all in over their heads, and on their own, with no one to rely on but each other.",
+    "popularity": 21.915,
+    "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+    "production_companies": [
+        {
+            "id": 125240,
+            "logo_path": null,
+            "name": "Piazza Entertainment",
+            "origin_country": "CA"
+        },
+        {
+            "id": 63576,
+            "logo_path": "/4qMMMs4smEdD2fjoLLSSleRjG9J.png",
+            "name": "Eagle Vision",
+            "origin_country": "CA"
+        },
+        {
+            "id": 1081,
+            "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+            "name": "CBS Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-09",
+            "episode_count": 9,
+            "id": 211431,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3kJF6rPEBYGAXNwBObI4n2kdIyp.jpg",
+            "season_number": 1,
+            "vote_average": 6.5
+        },
+        {
+            "air_date": "2023-10-01",
+            "episode_count": 9,
+            "id": 356956,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+            "season_number": 2,
+            "vote_average": 6.6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 65,
+    "season_data": {
+        "1": {
+            "_id": "6144fbaddaf57c004363845d",
+            "air_date": "2022-07-09",
+            "episodes": [
+                {
+                    "air_date": "2022-07-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3224689,
+                    "name": "Pilots and Nurses and Bears, Oh My",
+                    "overview": "Nurse-out-of-water Hayley joins the fast-paced team of nurses and pilots at SkyMed, flying air ambulances and saving lives in rugged Northern Manitoba.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/6Mn1S61VbLVcGQJKGdY0b8a6tWS.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6144fc0e048638002ce396a5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1318219,
+                            "known_for_department": "Directing",
+                            "name": "Steven A. Adelson",
+                            "original_name": "Steven A. Adelson",
+                            "popularity": 0.682,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62cd0b619566581bbec120f6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1457095,
+                            "known_for_department": "Writing",
+                            "name": "Julie Puckrin",
+                            "original_name": "Julie Puckrin",
+                            "popularity": 0.448,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3789949,
+                    "name": "Line Indoc",
+                    "overview": "Going flight line, Lexi locks horns with Bodie, while Crystal tries to get to the bottom of what Jeremy’s been smuggling – and how it’s connected to Wheezer’s crash.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/jCNjxXTeBrJsowPk2nK7z3hdfc6.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6144fc0e048638002ce396a5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1318219,
+                            "known_for_department": "Directing",
+                            "name": "Steven A. Adelson",
+                            "original_name": "Steven A. Adelson",
+                            "popularity": 0.682,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62cd0b619566581bbec120f6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1457095,
+                            "known_for_department": "Writing",
+                            "name": "Julie Puckrin",
+                            "original_name": "Julie Puckrin",
+                            "popularity": 0.448,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "DOC",
+                            "credit_id": "63d000d71b157d00a2dd9ec4",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 33051,
+                            "known_for_department": "Acting",
+                            "name": "John B. Lowe",
+                            "original_name": "John B. Lowe",
+                            "popularity": 7.296,
+                            "profile_path": "/j2Ra0REYuP9Ipdx6nG7tkukyycG.jpg"
+                        },
+                        {
+                            "character": "Evan",
+                            "credit_id": "63e9aff8a2e6020081fba892",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3800854,
+                            "known_for_department": "Acting",
+                            "name": "Brandon McEwan",
+                            "original_name": "Brandon McEwan",
+                            "popularity": 1.312,
+                            "profile_path": "/tzVXF1mUupK93YXCLSBxGJ3O17O.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-07-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3789950,
+                    "name": "The Kids Are Alright",
+                    "overview": "Bodie struggles to deal with Madison’s pregnancy, while Crystal wrestles with her past, and what it means for her future",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/iLfPclCnAOWT6IKeFes3FNb2znx.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3789951,
+                    "name": "Where There's Smoke",
+                    "overview": "The investigation into Wheezer's crash puts Lexi in the hot seat. But when a wildfire threatens Crystal's community, will she cross the line to save a patient's life?",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/76AKAgTvCMRB0ib8HROrgrTnxl.jpg",
+                    "vote_average": 6,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Malcolm",
+                            "credit_id": "65ec592dd7cd060162d61cd3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261370,
+                            "known_for_department": "Acting",
+                            "name": "Meegwun Fairbrother",
+                            "original_name": "Meegwun Fairbrother",
+                            "popularity": 1.893,
+                            "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3794972,
+                    "name": "Bushwhacked",
+                    "overview": "Survival Training for the SkyMed crew takes a dangerous turn as simmering resentments boil over. Meanwhile, Crystal struggles with an unexpected hit-and-run patient with high-stakes consequences.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/peGqgbY2jNfLv0hUfcjHweIVLKO.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-14",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3794973,
+                    "name": "Girls Just Wanna Have Fun",
+                    "overview": "Hayley seeks distraction from her own health concerns by throwing Emma a bachelorette party. But when a patient takes an unexpected turn, Hayley will be forced to face her fears.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/pcnq6i1KJjVD3MbY6bnSuxFfNGl.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Malcolm",
+                            "credit_id": "65ec592dd7cd060162d61cd3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261370,
+                            "known_for_department": "Acting",
+                            "name": "Meegwun Fairbrother",
+                            "original_name": "Meegwun Fairbrother",
+                            "popularity": 1.893,
+                            "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3794974,
+                    "name": "Daj Mi Buzi",
+                    "overview": "Nowak stretches himself too thin - with drastic consequences. Meanwhile, Bodie struggles with an unexpected truth about his mother, while Crystal wrestles with a shocking threat to her community.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/itxfZzBcjOa2PP7rwKAepKn5RSn.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Malcolm",
+                            "credit_id": "65ec592dd7cd060162d61cd3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261370,
+                            "known_for_department": "Acting",
+                            "name": "Meegwun Fairbrother",
+                            "original_name": "Meegwun Fairbrother",
+                            "popularity": 1.893,
+                            "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3794975,
+                    "name": "Frozen",
+                    "overview": "A blizzard traps each of the team members with the person they least want to be stuck with in dire circumstances. As the temperature drops, emotions boil over.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/beM1AwwqC6d22csbRA91ca7csQS.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Stunt Double",
+                            "department": "Crew",
+                            "credit_id": "6577b5ee9451e70fec801257",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2729890,
+                            "known_for_department": "Crew",
+                            "name": "Amy Szoke",
+                            "original_name": "Amy Szoke",
+                            "popularity": 2.138,
+                            "profile_path": "/9T21RtecKtlgwXqmYixBDvJEiIh.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Hayden",
+                            "credit_id": "66343e27ad59b501226d8ccd",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4515249,
+                            "known_for_department": "Acting",
+                            "name": "Kowen Cadorath",
+                            "original_name": "Kowen Cadorath",
+                            "popularity": 0.101,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-04",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 3794976,
+                    "name": "Leave It All on the Ice",
+                    "overview": "Hayley struggles to make a life-altering decision, while Bodie reels from his son's premature birth. Crystal must deal with the consequences of Jeremy's actions once and for all.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 133908,
+                    "still_path": "/f25eRSF0PBp48sZEtZh1Bsq1YER.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Stunt Double",
+                            "department": "Crew",
+                            "credit_id": "6577b5ee9451e70fec801257",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2729890,
+                            "known_for_department": "Crew",
+                            "name": "Amy Szoke",
+                            "original_name": "Amy Szoke",
+                            "popularity": 2.138,
+                            "profile_path": "/9T21RtecKtlgwXqmYixBDvJEiIh.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Malcolm",
+                            "credit_id": "65ec592dd7cd060162d61cd3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261370,
+                            "known_for_department": "Acting",
+                            "name": "Meegwun Fairbrother",
+                            "original_name": "Meegwun Fairbrother",
+                            "popularity": 1.893,
+                            "profile_path": "/npbmcqKhPNg1Ml0D2Ng3FGhTI6Z.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 211431,
+            "poster_path": "/3kJF6rPEBYGAXNwBObI4n2kdIyp.jpg",
+            "season_number": 1,
+            "vote_average": 6.5
+        },
+        "2": {
+            "_id": "65046779ffc9de0ee20af2b7",
+            "air_date": "2023-10-01",
+            "episodes": [
+                {
+                    "air_date": "2023-10-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4732955,
+                    "name": "Return to Base",
+                    "overview": "SkyMed expands its medevac service into new territory, throwing everyone into disarray as familiar faces return – and intriguing new flight crew arrive.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/o77CzbDtkK0PZskke4hCo7qZakt.jpg",
+                    "vote_average": 6.333,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4748612,
+                    "name": "Spun Out",
+                    "overview": "As the SkyMed crew wait for their fallen team member to wake up, Crystal starts to find her feet as a medical student, and a secret from the past threatens Nowak and Tristan’s relationship.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/yiL8cHvISPzg2TEtwm5mkL0O8V5.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-15",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4754664,
+                    "name": "Things That Matter Most",
+                    "overview": "The SkyMed team must rally despite personal differences and challenges to search for a missing medevac with four flight crew members aboard.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/8WThkJv1TQ3M9Sc9XXkZrHYT6FB.jpg",
+                    "vote_average": 6,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "653526638cfcc700c83dfe7a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4333474,
+                            "known_for_department": "Directing",
+                            "name": "Sorcha Vasey",
+                            "original_name": "Sorcha Vasey",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4789170,
+                    "name": "Turbulence",
+                    "overview": "As Chopper returns to flying medevacs, the truth about what happened in Selection Camp finally comes out. Lexi’s dream promotion takes an unnerving turn.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/kyeQiIZR1d7Bhsioo2jUjA8FCBZ.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4808259,
+                    "name": "Code Silver",
+                    "overview": "Shortages force the SkyMed flight nurses to staff the Thompson ER overnight, but a volatile patient throws the hospital into chaos.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/vmsgRM1m6D4aIjcURYN7psfxi1m.jpg",
+                    "vote_average": 6.333,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "65476ad42866fa0138a75a2d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4358600,
+                            "known_for_department": "Writing",
+                            "name": "Karolyn Carnie",
+                            "original_name": "Karolyn Carnie",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-05",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4895732,
+                    "name": "Little Lies",
+                    "overview": "A fun night on the town creates unexpected consequences.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/955ClqnPk0IwW7FtMfGLYlDz9jA.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-12",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4895733,
+                    "name": "Old Wounds",
+                    "overview": "A sick patient hits close to home, leaving Crystal reeling.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/gXfjVHZjthK3cxhf06baLgcLesd.jpg",
+                    "vote_average": 6.3,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-19",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4895734,
+                    "name": "Before Sunrise, After Sunset",
+                    "overview": "As the SkyMed team members face an inquiry into a patient fatality, Hayley struggles to piece together blurry memories of what caused her relapse.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/lFp6y2AwX8o1p9T8t9vuOaQg2cR.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-26",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 4895735,
+                    "name": "Out with a Bang",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 133908,
+                    "still_path": "/cgiYFYn62AtRHqKxw5GRV7bvgtR.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 356956,
+            "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+            "season_number": 2,
+            "vote_average": 6.6
+        }
+    }
+}

@@ -1,0 +1,662 @@
+{
+    "adult": false,
+    "backdrop_path": "/qhbrSIGrWdES4pNUJyYaAxs5PGu.jpg",
+    "created_by": [
+        {
+            "id": 1755315,
+            "credit_id": "5a3f09da0e0a264fd2001482",
+            "name": "Laurent Burtin",
+            "original_name": "Laurent Burtin",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1947233,
+            "credit_id": "5a3f09ee0e0a264fd20014a2",
+            "name": "Nathalie Suhard",
+            "original_name": "Nathalie Suhard",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1947234,
+            "credit_id": "5a3f0a009251411fc1017dbf",
+            "name": "Jacques Bastier",
+            "original_name": "Jacques Bastier",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "first_air_date": "2016-03-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 75894,
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2017-11-16",
+    "last_episode_to_air": {
+        "id": 1409101,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-11-16",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 2,
+        "show_id": 75894,
+        "still_path": null
+    },
+    "name": "Lebowitz vs Lebowitz",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 361,
+            "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+            "name": "France 2",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Lebowitz contre Lebowitz",
+    "overview": "Paule is a brilliant 50-year-old lawyer who has dedicated her life to the firm she created with her ex-husband, Simon Lebowitz. Her life changes the day she discovers that Simon has secretly remarried with Irene, a partner of 20 years younger than she had recruited herself. And when Simon died suddenly of a heart attack, Paule and Irene found themselves inevitably bound to lead the Lebowitz cabinet. Two big rivals. A proper chignon crepe to get their share of Simon's legacy.",
+    "popularity": 5.674,
+    "poster_path": "/fqTHg03mNYGaAtjmfG80IA2sW49.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-03-02",
+            "episode_count": 8,
+            "id": 96947,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-10-19",
+            "episode_count": 8,
+            "id": 96950,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a3f05f50e0a264fd20010b6",
+            "air_date": "2016-03-02",
+            "episodes": [
+                {
+                    "air_date": "2016-03-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1409072,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1409073,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1409074,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Léo Drouet",
+                            "credit_id": "5d8a4b1d172d7f00174ebb79",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1758915,
+                            "known_for_department": "Acting",
+                            "name": "Antoine Tomé",
+                            "original_name": "Antoine Tomé",
+                            "popularity": 1.709,
+                            "profile_path": "/rsq0RJEr1KNT659XhMcgTV1eNjn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-03-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1409075,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1409076,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1409077,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Maître Avril",
+                            "credit_id": "63a62355724de100a7d6937c",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1606874,
+                            "known_for_department": "Acting",
+                            "name": "Claire Morin",
+                            "original_name": "Claire Morin",
+                            "popularity": 0.766,
+                            "profile_path": "/ipCBKW8TFmIZgP7xgMNTNXcE7r1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-03-23",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1409083,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-03-23",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1409085,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 96947,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5a3f0c900e0a264f390017ed",
+            "air_date": "2017-10-19",
+            "episodes": [
+                {
+                    "air_date": "2017-10-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1409094,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Corinne",
+                            "credit_id": "62eb164f40d0fe005cc21417",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2835586,
+                            "known_for_department": "Acting",
+                            "name": "Juliette Delacroix",
+                            "original_name": "Juliette Delacroix",
+                            "popularity": 0.741,
+                            "profile_path": "/nMZFoUOBcr4bxGqEZWdHQggqAnW.jpg"
+                        },
+                        {
+                            "character": "Maître Avril",
+                            "credit_id": "63a62355724de100a7d6937c",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1606874,
+                            "known_for_department": "Acting",
+                            "name": "Claire Morin",
+                            "original_name": "Claire Morin",
+                            "popularity": 0.766,
+                            "profile_path": "/ipCBKW8TFmIZgP7xgMNTNXcE7r1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1409095,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1409096,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1409097,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "639e2c0d223e2000923388a6",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1131751,
+                            "known_for_department": "Directing",
+                            "name": "Christophe Barraud",
+                            "original_name": "Christophe Barraud",
+                            "popularity": 0.284,
+                            "profile_path": "/lb3zXhKKmOUKllazapLXITxEYXt.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Farida",
+                            "credit_id": "61afe2e16dea3a0060ab01ad",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1674684,
+                            "known_for_department": "Acting",
+                            "name": "Donia Eden",
+                            "original_name": "Donia Eden",
+                            "popularity": 1.665,
+                            "profile_path": "/mhmnLinGtDLFDRKEwQOMStEN2gv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-11-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1409098,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julien Ocelot",
+                            "credit_id": "630f36a91511aa007ba28a1f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2368646,
+                            "known_for_department": "Acting",
+                            "name": "Gaël Giraudeau",
+                            "original_name": "Gaël Giraudeau",
+                            "popularity": 1.112,
+                            "profile_path": "/5xc0QrMy555773VImMEYtMebeXo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-11-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1409099,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julien Ocelot",
+                            "credit_id": "630f36a91511aa007ba28a1f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2368646,
+                            "known_for_department": "Acting",
+                            "name": "Gaël Giraudeau",
+                            "original_name": "Gaël Giraudeau",
+                            "popularity": 1.112,
+                            "profile_path": "/5xc0QrMy555773VImMEYtMebeXo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-11-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1409100,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julien Ocelot",
+                            "credit_id": "630f36a91511aa007ba28a1f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2368646,
+                            "known_for_department": "Acting",
+                            "name": "Gaël Giraudeau",
+                            "original_name": "Gaël Giraudeau",
+                            "popularity": 1.112,
+                            "profile_path": "/5xc0QrMy555773VImMEYtMebeXo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-11-16",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1409101,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 2,
+                    "show_id": 75894,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julien Ocelot",
+                            "credit_id": "630f36a91511aa007ba28a1f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2368646,
+                            "known_for_department": "Acting",
+                            "name": "Gaël Giraudeau",
+                            "original_name": "Gaël Giraudeau",
+                            "popularity": 1.112,
+                            "profile_path": "/5xc0QrMy555773VImMEYtMebeXo.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 96950,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

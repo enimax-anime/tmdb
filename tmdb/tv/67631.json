@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1761900,
+            "credit_id": "58aadc34c3a3686efe0029f6",
+            "name": "Andy Wolton",
+            "original_name": "Andy Wolton",
+            "gender": 2,
+            "profile_path": "/eOXsFA2F04ljxA4KDHztZ5BGOOM.jpg"
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2016-08-29",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b07tczch",
+    "id": 67631,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-08-29",
+    "last_episode_to_air": {
+        "id": 1218769,
+        "name": "Pilot",
+        "overview": "Tess tries to improve Charlie's popularity by gate-crashing his classmate's 8th birthday party, while back at home, Toby has to deal with Alisha's sudden interest in religion.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-08-29",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 67631,
+        "still_path": null
+    },
+    "name": "The Coopers vs The Rest",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Coopers vs The Rest",
+    "overview": "The Cooper family share a small house, and absolutely no DNA. Mum Tess wanted to save as many kids as she could from the sort of childhood she had. So, along with her husband Toby, she now divides just about enough money and nowhere near enough time between their three adopted children Frankie, Alisha and Charlie.",
+    "popularity": 3.22,
+    "poster_path": "/cAav0OKJ2L4k2qidRCnDtxGDUJx.jpg",
+    "production_companies": [
+        {
+            "id": 80893,
+            "logo_path": "/hFzOkuR4FoZE1U1hvuojMp4Qfxa.png",
+            "name": "BBC Studios",
+            "origin_country": "GB"
+        },
+        {
+            "id": 44332,
+            "logo_path": null,
+            "name": "BBC Comedy",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-08-29",
+            "episode_count": 1,
+            "id": 79715,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/cAav0OKJ2L4k2qidRCnDtxGDUJx.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Pilot",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "57c63b2592514138d80017a9",
+            "air_date": "2016-08-29",
+            "episodes": [
+                {
+                    "air_date": "2016-08-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1218769,
+                    "name": "Pilot",
+                    "overview": "Tess tries to improve Charlie's popularity by gate-crashing his classmate's 8th birthday party, while back at home, Toby has to deal with Alisha's sudden interest in religion.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 67631,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 79715,
+            "poster_path": "/cAav0OKJ2L4k2qidRCnDtxGDUJx.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

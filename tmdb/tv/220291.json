@@ -1,0 +1,193 @@
+{
+    "adult": false,
+    "backdrop_path": "/7cXPGN2e1JB4o9NmTiSCHvN9cBv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        41
+    ],
+    "first_air_date": "2023-02-28",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.discoveryplus.com/gb/show/operation-lost-boy",
+    "id": 220291,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2023-03-21",
+    "last_episode_to_air": {
+        "id": 4298821,
+        "name": "Hollywood",
+        "overview": "The police and FBI plan a raid against a house in Hollywood.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-21",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 220291,
+        "still_path": null
+    },
+    "name": "Operation Lost Boy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4462,
+            "logo_path": "/iKvdFk5lpbvs4g0vd6yVUcV36i3.png",
+            "name": "Discovery+",
+            "origin_country": "SE"
+        },
+        {
+            "id": 4883,
+            "logo_path": "/iKvdFk5lpbvs4g0vd6yVUcV36i3.png",
+            "name": "discovery+",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Operasjon Lost Boy",
+    "overview": "15-year-old Martin calls the police in Bergen, Norway. That phone call leads to an international investigation that exposes a large network of child predators. Explore the shocking details of this disturbing case.",
+    "popularity": 2.313,
+    "poster_path": "/wFzcsssn6vdeS7tf97nbYiTR01N.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-02-28",
+            "episode_count": 5,
+            "id": 328653,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eHACGnQdfehWFCvSets4PeVAMyH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 4,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "63e9132c6c8492008dc405c9",
+            "air_date": "2023-02-28",
+            "episodes": [
+                {
+                    "air_date": "2023-02-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4229492,
+                    "name": "He Was My Age",
+                    "overview": "The police in Bergen receive a call about an unpleasant incident in Torget. The investigation takes Norwegian police around the world in search of evidence.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 220291,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4252467,
+                    "name": "Fragments",
+                    "overview": "The investigation into the Norwegian policeman who is suspected of gross abuse is progressing slowly. A breakthrough points to an address in Milan. Italian police must be persuaded to take action.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 220291,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4267608,
+                    "name": "The Blue Room",
+                    "overview": "Evidence takes the police to Romania, where several victims are identified.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 220291,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4286199,
+                    "name": "Wolf In Sheep's Clothing",
+                    "overview": "The investigations in Italy and Romania provide many answers.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 220291,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4298821,
+                    "name": "Hollywood",
+                    "overview": "The police and FBI plan a raid against a house in Hollywood.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 220291,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 328653,
+            "poster_path": "/eHACGnQdfehWFCvSets4PeVAMyH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,650 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 2098876,
+            "credit_id": "620c452b075288001b077cb8",
+            "name": "Liam Williams",
+            "original_name": "Liam Williams",
+            "gender": 0,
+            "profile_path": "/6C9rTlIFIZQ9PHDxkEqhx13KfL2.jpg"
+        },
+        {
+            "id": 3960846,
+            "credit_id": "64fdfc3cfa404600abada3e7",
+            "name": "Olly Cambridge",
+            "original_name": "Olly Cambridge",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        15
+    ],
+    "first_air_date": "2017-02-11",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p06l2nvb",
+    "id": 100882,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-01-24",
+    "last_episode_to_air": {
+        "id": 3828139,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-01-24",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 100882,
+        "still_path": null
+    },
+    "name": "Pls Like",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Pls Like",
+    "overview": "A mockumentary about a struggling comedian entering an online talent contest to find the next big vlogger.",
+    "popularity": 2.671,
+    "poster_path": "/47o5j077J6w5XAN4etVmCoMRja7.jpg",
+    "production_companies": [
+        {
+            "id": 5340,
+            "logo_path": "/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png",
+            "name": "Left Bank Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-02-11",
+            "episode_count": 6,
+            "id": 145905,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jitvuX3BaOwgSZvHpupYpGK9PS.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2018-09-25",
+            "episode_count": 6,
+            "id": 145906,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/44BZZ6BvXqbc5CmxLNEq3p9LTXc.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-01-23",
+            "episode_count": 6,
+            "id": 300247,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.25,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5e78d689d18b240013821390",
+            "air_date": "2017-02-11",
+            "episodes": [
+                {
+                    "air_date": "2017-02-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2199561,
+                    "name": "How to Become a Superstar Vlogger",
+                    "overview": "A search for the next megastar vlogger finds an unlikely victor in struggling comedian, Liam, who must undertake a series of challenges in order to win a £10,000 prize. First up, he has to create a 'welcome' video for his channel.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Musical",
+                            "department": "Writing",
+                            "credit_id": "64fdfa7efa40460139d6f354",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264239,
+                            "known_for_department": "Writing",
+                            "name": "Marc Robert Robillard",
+                            "original_name": "Marc Robert Robillard",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Musical",
+                            "department": "Writing",
+                            "credit_id": "64fdfa9d2dffd8011defffb4",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4132652,
+                            "known_for_department": "Acting",
+                            "name": "Jay Cabrera",
+                            "original_name": "Jay Cabrera",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Millipede",
+                            "credit_id": "64fdfacf4557a000aef93d87",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2540694,
+                            "known_for_department": "Acting",
+                            "name": "Emma Sidi",
+                            "original_name": "Emma Sidi",
+                            "popularity": 2.101,
+                            "profile_path": "/9eCqMZbLum1UBFiwSQzAGvcgr3Q.jpg"
+                        },
+                        {
+                            "character": "Charlie South",
+                            "credit_id": "64fdfae34557a0013acd407c",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2021396,
+                            "known_for_department": "Acting",
+                            "name": "Jon Pointing",
+                            "original_name": "Jon Pointing",
+                            "popularity": 2.58,
+                            "profile_path": "/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+                        },
+                        {
+                            "character": "YouTuber",
+                            "credit_id": "64fdfafd6a222700e0f1084f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264242,
+                            "known_for_department": "Acting",
+                            "name": "Edward Richards",
+                            "original_name": "Edward Richards",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Competition Vlogger",
+                            "credit_id": "64fdfb20ffc9de0ee3c4b1e1",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1503076,
+                            "known_for_department": "Acting",
+                            "name": "Anjana Vasan",
+                            "original_name": "Anjana Vasan",
+                            "popularity": 3.901,
+                            "profile_path": "/oqWebEzfessB14RODngE1s0LIoY.jpg"
+                        },
+                        {
+                            "character": "Competition Vlogger",
+                            "credit_id": "64fdfb35efea7a00c395797e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264244,
+                            "known_for_department": "Acting",
+                            "name": "Libby Carradice",
+                            "original_name": "Libby Carradice",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Competition Vlogger",
+                            "credit_id": "64fdfb4ee0ca7f00cbe9841c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264246,
+                            "known_for_department": "Acting",
+                            "name": "Verity Richards",
+                            "original_name": "Verity Richards",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Competition Vlogger",
+                            "credit_id": "64fdfb5edb4ed6104307fd08",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264247,
+                            "known_for_department": "Acting",
+                            "name": "Isabelle Keenan",
+                            "original_name": "Isabelle Keenan",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Competition Vlogger",
+                            "credit_id": "64fdfb6bdb4ed61032a63788",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4264248,
+                            "known_for_department": "Acting",
+                            "name": "Bobby Archer",
+                            "original_name": "Bobby Archer",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-02-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2199602,
+                    "name": "Health & Beauty",
+                    "overview": "This week Liam enters the world of fashion and beauty vlogging. To teach Liam about doing promo videos, Millipede and fellow beauty vlogger, Chloe Sass, give him a makeover (and a very bad rash).",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Chloe Sass",
+                            "credit_id": "64fdfbac2dffd8010013da5e",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1627501,
+                            "known_for_department": "Acting",
+                            "name": "Lolly Adefope",
+                            "original_name": "Lolly Adefope",
+                            "popularity": 5.898,
+                            "profile_path": "/qPS57Mw1vjydSSfSYoMw8u81waI.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-02-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2199603,
+                    "name": "Music",
+                    "overview": "For his third challenge Liam has to create a viral music video. Charlie South introduces him to international grime star, 'Bombzy'. And Liam's unusual music tastes cause some strange behaviour from Millipede.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Bombzy",
+                            "credit_id": "64fdfbd82dffd8011df0000c",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1470911,
+                            "known_for_department": "Acting",
+                            "name": "Jamie Demetriou",
+                            "original_name": "Jamie Demetriou",
+                            "popularity": 2.851,
+                            "profile_path": "/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-03-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2199604,
+                    "name": "Health & Fitness",
+                    "overview": "Liam has to create a fitness vlog. For inspiration he meets kale-obsessed youtuber Polly Sprong.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Polly Sprong",
+                            "credit_id": "64fdfbf04557a0013acd40b0",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1616784,
+                            "known_for_department": "Acting",
+                            "name": "Ellie White",
+                            "original_name": "Ellie White",
+                            "popularity": 4.649,
+                            "profile_path": "/kIc4g1MsL4RZsNtaBFgkQMN96Ul.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-03-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2199605,
+                    "name": "Technology",
+                    "overview": "For Liam's next challenge he has to become a brand ambassador for a tech company.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-18",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2199606,
+                    "name": "Humour",
+                    "overview": "Liam has to make a prank video for his final challenge, but both him and Millipede are depressed.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 145905,
+            "poster_path": "/jitvuX3BaOwgSZvHpupYpGK9PS.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5e78d78dd18b24001581b6f1",
+            "air_date": "2018-09-25",
+            "episodes": [
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2199607,
+                    "name": "The Hosts",
+                    "overview": "Liam covers The Likeys, a new awards ceremony promoting positivity in the vlogosphere, hosted by Millipede and a new mystery star vlogger.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2199608,
+                    "name": "Social Change",
+                    "overview": "Liam reviews the Likey award for Social Change. DumpGhost is accused of racism.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2199609,
+                    "name": "Most Views",
+                    "overview": "Liam examines the \"Most Views\" category for the upcoming Likeys.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2199610,
+                    "name": "Kids",
+                    "overview": "Liam looks into the Kids category ahead of the Likeys.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2199611,
+                    "name": "Self Care",
+                    "overview": "Liam explored the Self Care category ahead of the Likeys.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-09-25",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2199614,
+                    "name": "The Likeys",
+                    "overview": "It's the day of The Likeys. While preparations continue, DumpGhost's supporters are threatening radical action.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 145906,
+            "poster_path": "/44BZZ6BvXqbc5CmxLNEq3p9LTXc.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "62c9834e4b9bae00502d0d57",
+            "air_date": "2021-01-23",
+            "episodes": [
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3828134,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3828135,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3828136,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3828137,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3828138,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-24",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3828139,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 100882,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 300247,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

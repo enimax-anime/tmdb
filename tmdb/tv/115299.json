@@ -1,0 +1,242 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 59913,
+            "credit_id": "5fe71cb7e74146003f3743bb",
+            "name": "Sandro Petraglia",
+            "original_name": "Sandro Petraglia",
+            "gender": 2,
+            "profile_path": "/8tuoU9MPFBfxIJ5N01RWLKpxaGX.jpg"
+        },
+        {
+            "id": 1145626,
+            "credit_id": "5fe71cdb66565a003bd88659",
+            "name": "Giulio Calvani",
+            "original_name": "Giulio Calvani",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        100
+    ],
+    "first_air_date": "2004-09-17",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 115299,
+    "in_production": true,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2004-10-22",
+    "last_episode_to_air": {
+        "id": 2588578,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2004-10-22",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 100,
+        "season_number": 1,
+        "show_id": 115299,
+        "still_path": null
+    },
+    "name": "La Omicidi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 533,
+            "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+            "name": "Rai 1",
+            "origin_country": "IT"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "fr",
+    "original_name": "La Omicidi",
+    "overview": "",
+    "popularity": 1.203,
+    "poster_path": "/wz7vzLi8DHT4C9x78hH5T4WCSMc.jpg",
+    "production_companies": [
+        {
+            "id": 79023,
+            "logo_path": null,
+            "name": "Immagine e Cinema",
+            "origin_country": "IT"
+        },
+        {
+            "id": 1583,
+            "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+            "name": "RAI",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2004-09-17",
+            "episode_count": 6,
+            "id": 173613,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wz7vzLi8DHT4C9x78hH5T4WCSMc.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5fe718bc4539d0003da130ae",
+            "air_date": "2004-09-17",
+            "episodes": [
+                {
+                    "air_date": "2004-09-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2588566,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2004-09-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2588569,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2004-10-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2588570,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2004-10-08",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2588571,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2004-10-15",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2588573,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2004-10-22",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2588578,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 115299,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 173613,
+            "poster_path": "/wz7vzLi8DHT4C9x78hH5T4WCSMc.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

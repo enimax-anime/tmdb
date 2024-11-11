@@ -1,0 +1,164 @@
+{
+    "adult": false,
+    "backdrop_path": "/jhKSfkPf9PgR1rZH8QH8aBJzlV4.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        88
+    ],
+    "first_air_date": "2022-03-01",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 158496,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-03-01",
+    "last_episode_to_air": {
+        "id": 3533231,
+        "name": "Episode 3",
+        "overview": "A love affair seems to be at the heart of a young woman's death in the nearby town of Eguilles, but is it connected to the discovery of an older woman's body in a vineyard kilometers away?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-03-01",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 88,
+        "season_number": 1,
+        "show_id": 158496,
+        "still_path": "/ytKY7y8DJIegCOOywwXf8wsuTg5.jpg"
+    },
+    "name": "Murder in Provence",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4025,
+            "logo_path": "/n8YeTJow7qmgfjgoQ51Xi2MQezB.png",
+            "name": "BritBox",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Murder in Provence",
+    "overview": "Antoine Verlaque, Investigating Judge in Aix-en-Provence, and romantic partner Marine Bonnet as they investigate the murders, mysteries and dark underbelly of their idyllic home.",
+    "popularity": 7.092,
+    "poster_path": "/1ruqUtcuL18Y1gyxO1gUMh1r4FD.jpg",
+    "production_companies": [
+        {
+            "id": 116893,
+            "logo_path": null,
+            "name": "Monumental Television",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-03-01",
+            "episode_count": 3,
+            "id": 245568,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 13,
+    "season_data": {
+        "1": {
+            "_id": "62181e4b8d2f8d006a6d308f",
+            "air_date": "2022-03-01",
+            "episodes": [
+                {
+                    "air_date": "2022-03-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3524870,
+                    "name": "Episode 1",
+                    "overview": "Antoine and Marine put their weekend getaway plans on hold when there's a murder at the local university.",
+                    "production_code": "",
+                    "runtime": 88,
+                    "season_number": 1,
+                    "show_id": 158496,
+                    "still_path": "/6Dr8hQDh6FvbLcnkHpueBHMffeK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3533230,
+                    "name": "Episode 2",
+                    "overview": "Marine helps Antoine and Helene investigate the death of an aristocrat, found dead in his crumbling chateau. But, just when the team think they've got their suspects nailed, another body is found.",
+                    "production_code": "",
+                    "runtime": 88,
+                    "season_number": 1,
+                    "show_id": 158496,
+                    "still_path": "/384LeTyRuuwkHBQw5v2Ur0kU32x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-01",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3533231,
+                    "name": "Episode 3",
+                    "overview": "A love affair seems to be at the heart of a young woman's death in the nearby town of Eguilles, but is it connected to the discovery of an older woman's body in a vineyard kilometers away?",
+                    "production_code": "",
+                    "runtime": 88,
+                    "season_number": 1,
+                    "show_id": 158496,
+                    "still_path": "/ytKY7y8DJIegCOOywwXf8wsuTg5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 245568,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

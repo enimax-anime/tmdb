@@ -1,0 +1,247 @@
+{
+    "adult": false,
+    "backdrop_path": "/xUzO0lCyXtI3OGx95G1bZhPgEyv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-09-13",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 210192,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-11-02",
+    "last_episode_to_air": {
+        "id": 4036370,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-11-02",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 210192,
+        "still_path": null
+    },
+    "name": "Comedy Night with Rick Mercer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 23,
+            "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+            "name": "CBC Television",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Comedy Night with Rick Mercer",
+    "overview": "Presented by legendary comedy icon and TV personality, Rick Mercer, featuring an incredible lineup of Canadian comedians, including stand-up performances from Rick Mercer himself. The series will also feature never-before-seen conversations between Mercer and some of today’s most impressive Canadian comedy talent.",
+    "popularity": 0.327,
+    "poster_path": "/kZcSVG70RnhdSJkWLFRYD0gONl6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-09-13",
+            "episode_count": 4,
+            "id": 308573,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-10-12",
+            "episode_count": 4,
+            "id": 314074,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "63216efee78687007f2c13b4",
+            "air_date": "2022-09-13",
+            "episodes": [
+                {
+                    "air_date": "2022-09-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3953232,
+                    "name": "Featuring Sophie Buddle",
+                    "overview": "Legendary TV host Rick Mercer is joined by Canadian comics Sophie Buddle, Kyle Brownrigg, Dave Merheje, and Jean Paul.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 210192,
+                    "still_path": "/htHst6epPFZQD9E1tkNOdDutp5f.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3965777,
+                    "name": "Featuring DeAnne Smith",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 210192,
+                    "still_path": "/pl9DSKVaCpAOSY0wFtClbkm8y1a.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3979146,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-04",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3988569,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 308573,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6358ee35665408008196e53a",
+            "air_date": "2022-10-12",
+            "episodes": [
+                {
+                    "air_date": "2022-10-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4025612,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4025630,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4025631,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-02",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 4036370,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 210192,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 314074,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

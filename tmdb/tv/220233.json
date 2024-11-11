@@ -1,0 +1,553 @@
+{
+    "adult": false,
+    "backdrop_path": "/Apd6s97YyjICV0cwQCFGwmPQZ1Y.jpg",
+    "created_by": [
+        {
+            "id": 932494,
+            "credit_id": "63e804f612777800931d6628",
+            "name": "Øystein Karlsen",
+            "original_name": "Øystein Karlsen",
+            "gender": 2,
+            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+        },
+        {
+            "id": 79337,
+            "credit_id": "66d8d44dd52d4da1d0fca758",
+            "name": "Ingeborg Klyve",
+            "original_name": "Ingeborg Klyve",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1252796,
+            "credit_id": "66f4177b3a95a5bcda230428",
+            "name": "Tony Wood",
+            "original_name": "Tony Wood",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-09-22",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://tv.nrk.no/serie/so-long-marianne",
+    "id": 220233,
+    "in_production": true,
+    "languages": [
+        "en",
+        "no"
+    ],
+    "last_air_date": "2024-10-13",
+    "last_episode_to_air": {
+        "id": 4227659,
+        "name": "So Long, Leonard",
+        "overview": "Leonard secures a record deal, but the substance abuse continues. Marianne goes to New York to help him.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-13",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 220233,
+        "still_path": "/4YUBRIn5ByRbYVov4SYpAUMVVeU.jpg"
+    },
+    "name": "So Long, Marianne",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 379,
+            "logo_path": "/4TTFfXnGIEosh3EPYX25ERWp1XG.png",
+            "name": "NRK1",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "So Long, Marianne",
+    "overview": "The intimate tale of two young people, Canadian singer and poet Leonard Cohen and extraordinary Norwegian woman Marianne Ihlen, falling in love during a period of their life when they are trying to figure out who they are and their place in the world, while one is becoming one of the most famous singers of all time.",
+    "popularity": 16.985,
+    "poster_path": "/wLijh9VvqLrqvT9pFLMR0FW1wTW.jpg",
+    "production_companies": [
+        {
+            "id": 67602,
+            "logo_path": "/dzDIlSd8V9LOPdc8m8HVjh5Zwl8.png",
+            "name": "Buccaneer Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 126263,
+            "logo_path": "/i4xIViVFfQ6qCX97cDXW6SKn66R.png",
+            "name": "Tanweer Productions",
+            "origin_country": "GR"
+        },
+        {
+            "id": 193169,
+            "logo_path": "/8mlCKXC3Fg0bvVN0fAWja6tG27O.png",
+            "name": "Redpoint Productions",
+            "origin_country": "NO"
+        },
+        {
+            "id": 202726,
+            "logo_path": "/rp1SqYgTUbsmK5xKvxT0kYuUode.png",
+            "name": "Connect3 Media",
+            "origin_country": "CA"
+        },
+        {
+            "id": 109843,
+            "logo_path": "/iwkwIEXWIPApzedElW5sY8LFZSx.png",
+            "name": "NRK",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+        },
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-22",
+            "episode_count": 8,
+            "id": 328568,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4kGRcluwH0Tu2jwV9SN61HpZkko.jpg",
+            "season_number": 1,
+            "vote_average": 8.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "63e7fe77a2e602007bb73060",
+            "air_date": "2024-09-22",
+            "episodes": [
+                {
+                    "air_date": "2024-09-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4227616,
+                    "name": "Hydra",
+                    "overview": "Marianne and Axel travel to the Greek island of Hydra. Leonard leaves Montreal in search of fortune on the same island.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/a3I0DQZCcZl7IvyjmHmjyjoWmrg.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57b354a8ac0ac23d9892",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 932494,
+                            "known_for_department": "Writing",
+                            "name": "Øystein Karlsen",
+                            "original_name": "Øystein Karlsen",
+                            "popularity": 0.745,
+                            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66f417cb338357c70a6a0492",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 932494,
+                            "known_for_department": "Writing",
+                            "name": "Øystein Karlsen",
+                            "original_name": "Øystein Karlsen",
+                            "popularity": 0.745,
+                            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Masha Cohen",
+                            "credit_id": "66f41701fc656329e20df3d3",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 127495,
+                            "known_for_department": "Acting",
+                            "name": "Macha Grenon",
+                            "original_name": "Macha Grenon",
+                            "popularity": 4.22,
+                            "profile_path": "/2QPMfwGQY47KZ6AA2yaxMFuZgkV.jpg"
+                        },
+                        {
+                            "character": "Artist in Restaurant",
+                            "credit_id": "66f41711338357c70a6a046e",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 589667,
+                            "known_for_department": "Acting",
+                            "name": "Patrick Watson",
+                            "original_name": "Patrick Watson",
+                            "popularity": 0.717,
+                            "profile_path": "/3r4LMzNXfdgyDpRE7kyC0034zsB.jpg"
+                        },
+                        {
+                            "character": "Nick Katsikas",
+                            "credit_id": "66f417265820d28cfb69fc0d",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2917604,
+                            "known_for_department": "Acting",
+                            "name": "Diamantis Karanastasis",
+                            "original_name": "Διαμαντής Καραναστάσης",
+                            "popularity": 0.083,
+                            "profile_path": "/jXMQHMGPnTGZ5fZW801WrOaYvax.jpg"
+                        },
+                        {
+                            "character": "Old Marianne",
+                            "credit_id": "66f41b31f5b49786432307e6",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 578061,
+                            "known_for_department": "Acting",
+                            "name": "Lise Fjeldstad",
+                            "original_name": "Lise Fjeldstad",
+                            "popularity": 0.937,
+                            "profile_path": "/u5FRmuHPdofvnCaoKGUsRWfTDJW.jpg"
+                        },
+                        {
+                            "character": "Leonard's Grandfather",
+                            "credit_id": "66f41b5a740138641e69ff8b",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 60910,
+                            "known_for_department": "Acting",
+                            "name": "Frank Fontaine",
+                            "original_name": "Frank Fontaine",
+                            "popularity": 4.08,
+                            "profile_path": "/2cycxGSFPgeNyKoL9v23ed3xA0A.jpg"
+                        },
+                        {
+                            "character": "Doctor",
+                            "credit_id": "66f41b73338357c70a6a05fe",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4812042,
+                            "known_for_department": "Acting",
+                            "name": "Fotis Petridis",
+                            "original_name": "Fotis Petridis",
+                            "popularity": 0.095,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nurse Iris",
+                            "credit_id": "66f41b904fd4ebe2240def4f",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3233570,
+                            "known_for_department": "Acting",
+                            "name": "Maria Maragkou",
+                            "original_name": "Maria Maragkou",
+                            "popularity": 0.258,
+                            "profile_path": "/iZ4ojnT3GNdwb9uV8ZKLytYgF5Q.jpg"
+                        },
+                        {
+                            "character": "Nun",
+                            "credit_id": "66f41bb44fd4ebe2240def79",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4962585,
+                            "known_for_department": "Acting",
+                            "name": "Mara Vlachopoulou",
+                            "original_name": "Mara Vlachopoulou",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Young Greek Dancer",
+                            "credit_id": "66f41c57338357c70a6a0672",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4962591,
+                            "known_for_department": "Acting",
+                            "name": "Nikolas Orphanoudakis",
+                            "original_name": "Nikolas Orphanoudakis",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4227652,
+                    "name": "In Love",
+                    "overview": "Marianne is pregnant with Axel's child and travels back to Norway to say goodbye to her dying father. Leonard is in love from afar.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/aJM2QIRl7cfH7CVRrcs6ChjokWr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57b354a8ac0ac23d9892",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 932494,
+                            "known_for_department": "Writing",
+                            "name": "Øystein Karlsen",
+                            "original_name": "Øystein Karlsen",
+                            "popularity": 0.745,
+                            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4227653,
+                    "name": "First Kiss",
+                    "overview": "Axel leaves Marianne and his son to go on a sailing trip with his mistress. Marianne finds comfort in Leonard.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/o3jc1oj3t73sCYPjsHoZUxigI3x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57b354a8ac0ac23d9892",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 932494,
+                            "known_for_department": "Writing",
+                            "name": "Øystein Karlsen",
+                            "original_name": "Øystein Karlsen",
+                            "popularity": 0.745,
+                            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-09-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4227654,
+                    "name": "Oslo",
+                    "overview": "Marianne needs to travel back to Norway and Leonard comes along. The road trip through Europe brings them closer together, but Leonard quickly becomes restless in Oslo.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/hn0l5hwQ5ITVAqA7pGChQg5dwe9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57b354a8ac0ac23d9892",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 932494,
+                            "known_for_department": "Writing",
+                            "name": "Øystein Karlsen",
+                            "original_name": "Øystein Karlsen",
+                            "popularity": 0.745,
+                            "profile_path": "/9tXkkmDXdjbSAK56MgcNPJn4k57.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4227655,
+                    "name": "The Cohen Family",
+                    "overview": "Marianne is reunited with Leonard in Montreal, but struggles to adapt to the city. Leonard becomes evasive when she delivers big news.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/d20l3amJnDsGTVZeDygmVK1M5oX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57f1158c85009ad7a0e5",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18320,
+                            "known_for_department": "Directing",
+                            "name": "Bronwen Hughes",
+                            "original_name": "Bronwen Hughes",
+                            "popularity": 1.768,
+                            "profile_path": "/6m7XiXVXyEaN81e4OyDfWxBpNov.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-06",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4227657,
+                    "name": "The Return to Hydra",
+                    "overview": "Leonard collapses after an intense period of writing. To save his career, he must go to Montreal to promote the book, with or without Marianne.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/stoQdOphEHU8FUCbVEmtxQPcfMW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57f1158c85009ad7a0e5",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18320,
+                            "known_for_department": "Directing",
+                            "name": "Bronwen Hughes",
+                            "original_name": "Bronwen Hughes",
+                            "popularity": 1.768,
+                            "profile_path": "/6m7XiXVXyEaN81e4OyDfWxBpNov.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4227658,
+                    "name": "Chelsea Hotel",
+                    "overview": "Leonard goes to New York and experiences a fateful meeting at the Chelsea Hotel. Marianne feels abandoned at Hydra and seeks solace elsewhere.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/lIj7FlVd6uikOYgFZgr16iFkVII.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57f1158c85009ad7a0e5",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18320,
+                            "known_for_department": "Directing",
+                            "name": "Bronwen Hughes",
+                            "original_name": "Bronwen Hughes",
+                            "popularity": 1.768,
+                            "profile_path": "/6m7XiXVXyEaN81e4OyDfWxBpNov.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4227659,
+                    "name": "So Long, Leonard",
+                    "overview": "Leonard secures a record deal, but the substance abuse continues. Marianne goes to New York to help him.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 220233,
+                    "still_path": "/4YUBRIn5ByRbYVov4SYpAUMVVeU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "642e57f1158c85009ad7a0e5",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18320,
+                            "known_for_department": "Directing",
+                            "name": "Bronwen Hughes",
+                            "original_name": "Bronwen Hughes",
+                            "popularity": 1.768,
+                            "profile_path": "/6m7XiXVXyEaN81e4OyDfWxBpNov.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 328568,
+            "poster_path": "/4kGRcluwH0Tu2jwV9SN61HpZkko.jpg",
+            "season_number": 1,
+            "vote_average": 8.5
+        }
+    }
+}

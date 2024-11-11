@@ -1,0 +1,287 @@
+{
+    "adult": false,
+    "backdrop_path": "/cYMr0JdKb9EnCgyTLV7CAnfWrKd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        41
+    ],
+    "first_air_date": "2020-09-28",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://abc.com/shows/emergency-call",
+    "id": 108875,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-07-02",
+    "last_episode_to_air": {
+        "id": 3055196,
+        "name": "Cliffhanger",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-07-02",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 108875,
+        "still_path": null
+    },
+    "name": "Emergency Call",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2,
+            "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+            "name": "ABC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Emergency Call",
+    "overview": "This daring, hour-long documentary series chronicles the first few crucial minutes of emergencies told through the lens of America’s heroic 9-1-1 call takers.",
+    "popularity": 6.907,
+    "poster_path": "/rqvu3nAIXA20HyZaxlchR7PH1XK.jpg",
+    "production_companies": [
+        {
+            "id": 139575,
+            "logo_path": null,
+            "name": "8Hours Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-09-28",
+            "episode_count": 10,
+            "id": 161351,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rqvu3nAIXA20HyZaxlchR7PH1XK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "True stories. Actual calls. Real Heroes.",
+    "type": "Documentary",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "5f520550e3fa2f0036411a0d",
+            "air_date": "2020-09-28",
+            "episodes": [
+                {
+                    "air_date": "2020-09-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2413906,
+                    "name": "Take a Deep Breath",
+                    "overview": "A woman's car is stolen with her child in the backseat. A terrified 9-year-old performs CPR on her grandfather. Teenage hikers fend off a potential bear attack. A man is lost in the woods with barely any battery life left on his phone.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2446075,
+                    "name": "Conductors of Chaos",
+                    "overview": "A mother of three chokes on a spatula. A teenager is attacked at a bonfire party in the wilderness. A 2-year-old goes missing. Two women get stranded on the highway after their car is involved in back-to-back hit-and-runs.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2446076,
+                    "name": "Close to Home",
+                    "overview": "A badly injured teenage girl whose description matches that of a fellow dispatcher's daughter. A woman hides from her drunk and enraged husband. A veteran threatens self-harm. A man falls two-stories down onto a boat dock.",
+                    "production_code": "",
+                    "runtime": 35,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2473685,
+                    "name": "Crime spree",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2480422,
+                    "name": "Headset Heroes",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-04",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3007079,
+                    "name": "Texting Trouble",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-11",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3021470,
+                    "name": "Planes, Trains and Mircowaves",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-18",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3034148,
+                    "name": "Held Hostage",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-25",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3045486,
+                    "name": "A Grizzly Mystery",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 3055196,
+                    "name": "Cliffhanger",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 108875,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 161351,
+            "poster_path": "/rqvu3nAIXA20HyZaxlchR7PH1XK.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

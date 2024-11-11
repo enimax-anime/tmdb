@@ -1,0 +1,407 @@
+{
+    "adult": false,
+    "backdrop_path": "/qmEuCedKmPOHjbk6hzstMuK9vMl.jpg",
+    "created_by": [
+        {
+            "id": 4694616,
+            "credit_id": "6636c0e8c9054f0133901ba6",
+            "name": "Eric Cervini",
+            "original_name": "Eric Cervini",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-06-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 202714,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-06-02",
+    "last_episode_to_air": {
+        "id": 3741012,
+        "name": "Pride or Die",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-06-02",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 51,
+        "season_number": 1,
+        "show_id": 202714,
+        "still_path": null
+    },
+    "name": "The Book of Queer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4353,
+            "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+            "name": "discovery+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Book of Queer",
+    "overview": "Follows multiple historic and groundbreaking queer individuals throughout history.",
+    "popularity": 3.536,
+    "poster_path": "/wP71ktYl7nvMzJbd6JPaYD2N4uD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-06-02",
+            "episode_count": 5,
+            "id": 294899,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/wP71ktYl7nvMzJbd6JPaYD2N4uD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 1,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "628cdf6ddf86a800505d4c56",
+            "air_date": "2022-06-02",
+            "episodes": [
+                {
+                    "air_date": "2022-06-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3741008,
+                    "name": "Kings & Queens",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 202714,
+                    "still_path": "/rAj35pYRWM6x8YlAoyuLX2SbhZ5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "6636c144358da7012755ec98",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2992569,
+                            "known_for_department": "Acting",
+                            "name": "Gottmik",
+                            "original_name": "Gottmik",
+                            "popularity": 1.67,
+                            "profile_path": "/l99AHkTrMXGPDGSeHWVC64u1yrf.jpg"
+                        },
+                        {
+                            "character": "Franklin D. Roosevelt",
+                            "credit_id": "6636c2456611b4012467f9fd",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3614194,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Simantel",
+                            "original_name": "Ryan Simantel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Green / Joshua Speed / Elmer Ellsworth",
+                            "credit_id": "6636c281470ead01281288f0",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3537011,
+                            "known_for_department": "Acting",
+                            "name": "Riley Westling",
+                            "original_name": "Riley Westling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3741009,
+                    "name": "Sashay It Forward",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 202714,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Storme",
+                            "credit_id": "6636c19e0f52650122bb8873",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1903612,
+                            "known_for_department": "Acting",
+                            "name": "Lina Green",
+                            "original_name": "Lina Green",
+                            "popularity": 0.089,
+                            "profile_path": "/iT8WYHr1E9s6GUXKPGjqDtlByxu.jpg"
+                        },
+                        {
+                            "character": "Officer of the Night / Evil Doctor",
+                            "credit_id": "6636c2309a64c101233ecbed",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3614194,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Simantel",
+                            "original_name": "Ryan Simantel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Leonardo Da Vinci",
+                            "credit_id": "6636c2936611b4012767f88a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3537011,
+                            "known_for_department": "Acting",
+                            "name": "Riley Westling",
+                            "original_name": "Riley Westling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3741010,
+                    "name": "Queens' Work Makes the Team Work",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 202714,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6636c1308de0ae0126f62321",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2392559,
+                            "known_for_department": "Acting",
+                            "name": "Vanessa Vanjie Mateo",
+                            "original_name": "Vanessa Vanjie Mateo",
+                            "popularity": 2.231,
+                            "profile_path": "/kcwgDsTUSSvuplJuArOFtAWBwZV.jpg"
+                        },
+                        {
+                            "character": "Storme",
+                            "credit_id": "6636c19e0f52650122bb8873",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1903612,
+                            "known_for_department": "Acting",
+                            "name": "Lina Green",
+                            "original_name": "Lina Green",
+                            "popularity": 0.089,
+                            "profile_path": "/iT8WYHr1E9s6GUXKPGjqDtlByxu.jpg"
+                        },
+                        {
+                            "character": "Alexander the Great",
+                            "credit_id": "6636c21e99d5c30123584a46",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3614194,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Simantel",
+                            "original_name": "Ryan Simantel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Gilbert Baker / Officer of the Night / Lover 1",
+                            "credit_id": "6636c2a066565a0126155fc3",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3537011,
+                            "known_for_department": "Acting",
+                            "name": "Riley Westling",
+                            "original_name": "Riley Westling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3741011,
+                    "name": "Gay to Z",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 202714,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Storme",
+                            "credit_id": "6636c19e0f52650122bb8873",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1903612,
+                            "known_for_department": "Acting",
+                            "name": "Lina Green",
+                            "original_name": "Lina Green",
+                            "popularity": 0.089,
+                            "profile_path": "/iT8WYHr1E9s6GUXKPGjqDtlByxu.jpg"
+                        },
+                        {
+                            "character": "Cowboy / Gay Assistant",
+                            "credit_id": "6636c209b2681f012af32dc2",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3614194,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Simantel",
+                            "original_name": "Ryan Simantel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "King James",
+                            "credit_id": "6636c2acc9054f0133901bdd",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3537011,
+                            "known_for_department": "Acting",
+                            "name": "Riley Westling",
+                            "original_name": "Riley Westling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-06-02",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3741012,
+                    "name": "Pride or Die",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 202714,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Storme",
+                            "credit_id": "6636c19e0f52650122bb8873",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1903612,
+                            "known_for_department": "Acting",
+                            "name": "Lina Green",
+                            "original_name": "Lina Green",
+                            "popularity": 0.089,
+                            "profile_path": "/iT8WYHr1E9s6GUXKPGjqDtlByxu.jpg"
+                        },
+                        {
+                            "character": "God's Receptionist / Robert Carr / Theophile De Viau",
+                            "credit_id": "6636c1f683ee6701244177b2",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3614194,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Simantel",
+                            "original_name": "Ryan Simantel",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "6636c2b4fe6c180129308924",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3537011,
+                            "known_for_department": "Acting",
+                            "name": "Riley Westling",
+                            "original_name": "Riley Westling",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 294899,
+            "poster_path": "/wP71ktYl7nvMzJbd6JPaYD2N4uD.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,249 @@
+{
+    "adult": false,
+    "backdrop_path": "/f1x7qdolxwCbxcxwQqiP3WwY2CF.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2020-02-10",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.crimeandinvestigation.co.uk/shows/making-a-monster",
+    "id": 99311,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-03-23",
+    "last_episode_to_air": {
+        "id": 3258497,
+        "name": "Michael Ross",
+        "overview": "This episode looks at a man who took the lives of at least eight victims and became the last person to receive the death penalty in Connecticut.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-23",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 99311,
+        "still_path": null
+    },
+    "name": "Making a Monster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2392,
+            "logo_path": "/vitUTPUae38gzMRl8aMVecN0Cme.png",
+            "name": "Crime + Investigation",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Making a Monster",
+    "overview": "A group of the world's leading forensic psychologists and psychiatrists come together to share their own first-hand experiences and insights into the mind of a serial killer, leading viewers on a journey through the psyches of the most notorious serial killers of all-time.",
+    "popularity": 0.382,
+    "poster_path": "/kRGqU7vxZskrQ7UrC5XqwqKyiE6.jpg",
+    "production_companies": [
+        {
+            "id": 75884,
+            "logo_path": "/2aaOxLblyFhf0a8C4fkgaYWqjIo.png",
+            "name": "Monster Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-02-10",
+            "episode_count": 8,
+            "id": 143167,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5e4363100c2710001a836a9d",
+            "air_date": "2020-02-10",
+            "episodes": [
+                {
+                    "air_date": "2020-02-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2160574,
+                    "name": "Rose West",
+                    "overview": "An analysis of the convicted killer, who took 10 lives over 16 years - including a look at her own troubling childhood and how it may have influenced her crimes.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2160575,
+                    "name": "Robert Maudsley",
+                    "overview": "He took the lives of three men while serving a life sentence for killing the fourth. His rationale? Avenging his own abusive childhood experiences.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2174389,
+                    "name": "Levi Bellfield",
+                    "overview": "Levi Bellfield was found guilty on 25 February 2008 of the murders of Marsha McDonnell and Amélie Delagrange and the attempted murder of Kate Sheedy and sentenced to life imprisonment. Three years later he was found guilty for the murder of Milly Dowler. Chartered forensic psychologist Dr Caoimhe McAnena interviewed Bellfield just after he’d confessed to the murder of Milly Dowler. Having also worked with infamous killers such as Trevor Hardy, Ian Huntley and Mark Bridger she provides a unique insight into what it takes to make a killer.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2174390,
+                    "name": "Robert Black",
+                    "overview": "Scottish serial killer and paedophile, Robert Black was convicted of the kidnap, rape, sexual assault and murder of four girls aged between 5 and 11 in a series of killings committed between 1981 and 1986. Having spent many hours interviewing Black, Forensic psychologist Dr Adrian Needs offers unprecedented insight into his dark mind.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2181074,
+                    "name": "Stephen Griffiths",
+                    "overview": "A profile of media-savvy serial killer, Stephen Griffiths, who took the lives of three sex workers in his sickening quest for infamy.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2186834,
+                    "name": "Aileen Wuornos",
+                    "overview": "Aileen Wuornos was an American serial killer who murdered seven men in Florida in 1989 and 1990. Wuornos claimed that her victims had either raped or attempted to rape her while she was a sex worker, and that all of the homicides were committed in self-defence. She was convicted and sentenced to death for six of the murders and was executed by lethal injection on October 9, 2002.This episode features, Professor Jethro Toomer, who spent more than 35 years practising forensic and clinical psychology. Having specialised in death row cases, he interviewed a number of high-profile serial killers including Ted Bundy and Aileen Wuornos. He carried out the psychological assessment of Wuornos before her trial where she discussed her troubled life and transition to serial killing in unprecedented detail.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2195990,
+                    "name": "John Wayne Gacy",
+                    "overview": "Dr Richard Rappaport spent 66 hours interviewing John Wayne Gacy - who murdered 33 young men. His psychiatric assessment Gacy is widely considered to be one of the most important ever made about a serial killer. He now breaks a nearly thirty year silence to share the findings in full for the first time.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-23",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3258497,
+                    "name": "Michael Ross",
+                    "overview": "This episode looks at a man who took the lives of at least eight victims and became the last person to receive the death penalty in Connecticut.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 99311,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 143167,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

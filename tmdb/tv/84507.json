@@ -1,0 +1,260 @@
+{
+    "adult": false,
+    "backdrop_path": "/jHcJa3TMtbyuqtGAvN2suutU58Q.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2018-11-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.channel5.com/show/oxford-street-247/",
+    "id": 84507,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-12-07",
+    "last_episode_to_air": {
+        "id": 3384027,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-12-07",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 84507,
+        "still_path": null
+    },
+    "name": "Oxford Street 24/7",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 99,
+            "logo_path": "/bMuKs6xuhI0GHSsq4WWd9FsntUN.png",
+            "name": "Channel 5",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Oxford Street 24/7",
+    "overview": "Following the army of unseen workers who keep one of London's busiest shopping streets moving. Going undercover with police officers hunting for shoplifters, Tube staff coping with rush hour, and the retailers who compete to entice visitors in.",
+    "popularity": 0.843,
+    "poster_path": "/bRZFiNysdmQ8SqlqhbQZGwC0bNk.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-11-29",
+            "episode_count": 4,
+            "id": 113481,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-16",
+            "episode_count": 4,
+            "id": 219025,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5bffb491c3a368637005ee4f",
+            "air_date": "2018-11-29",
+            "episodes": [
+                {
+                    "air_date": "2018-11-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1630204,
+                    "name": "Episode 1",
+                    "overview": "Oxford Circus customer assistant Matthew uses his encyclopedic knowledge to help rush hour crowds. Police crack down on the pickpockets and shoplifters who plague the stores. The Dominion Theartre prepares for press night for Bat Out of Hell.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1630213,
+                    "name": "Episode 2",
+                    "overview": "Sandro and his team work all night to redress Benetton's flagship store before the doors re-open. Engineer Jenna has to get the new Crossrail station ready for open day. Anticipation is high as staff at Christys hat shop wait for a special guest.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1637867,
+                    "name": "Episode 3",
+                    "overview": "London is melting in the grip of a heatwave, plus the annual Pride Parade is taking place. The heat results in nearly 200 casualties, tons of rubbish, dogs on death's door, celebrity photographers and summer crouds late into the night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-20",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1639713,
+                    "name": "At Christmas",
+                    "overview": "Christmas is coming to Oxford Street. It is the busiest time of the year and the street is gearing up for the 5.2 million visitors expected every week in December. The stores are busy decorating inside and out as to entice the public in.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 113481,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "618b7f4ee93e95008e9a60e9",
+            "air_date": "2021-11-16",
+            "episodes": [
+                {
+                    "air_date": "2021-11-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3331114,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3354124,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3384025,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-07",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3384027,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 84507,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 219025,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,892 @@
+{
+    "adult": false,
+    "backdrop_path": "/vJGc1SvBWUaXReiE6mR1a8kqdXv.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43
+    ],
+    "first_air_date": "2022-07-07",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://abc.com/shows/generation-gap",
+    "id": 205067,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-21",
+    "last_episode_to_air": {
+        "id": 4694155,
+        "name": "Tickle Tickle",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-09-21",
+        "episode_number": 11,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 205067,
+        "still_path": null
+    },
+    "name": "Generation Gap",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2,
+            "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+            "name": "ABC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Generation Gap",
+    "overview": "A comedy quiz game show featuring family members of different generations who work together to answer questions about pop culture from each other's generations.",
+    "popularity": 8.073,
+    "poster_path": "/kQcU06fzoTdZDFFCj15fYG6jryn.jpg",
+    "production_companies": [
+        {
+            "id": 2230,
+            "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+            "name": "MGM Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 134465,
+            "logo_path": "/3g8ZMj6UBVclAQX2USBnGaxGVam.png",
+            "name": "Kimmelot",
+            "origin_country": "US"
+        },
+        {
+            "id": 62473,
+            "logo_path": null,
+            "name": "Milojo Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-07",
+            "episode_count": 9,
+            "id": 299127,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/grJgplpoQuf1SiCbOn5T5z3S1Uk.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-06-29",
+            "episode_count": 11,
+            "id": 341038,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/kQcU06fzoTdZDFFCj15fYG6jryn.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "A game show for the ages.",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "62bcde2eeb64f100893443f9",
+            "air_date": "2022-07-07",
+            "episodes": [
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3812296,
+                    "name": "To Infinity Stones and Beyond!",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": "/mjUW8d7hOpZLM0DCOOTCYRNkunE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "62bce0d8ae6f090062e45fef",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 167662,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Seacrest",
+                            "original_name": "Ryan Seacrest",
+                            "popularity": 7.518,
+                            "profile_path": "/crjHM1N6RKMOOxwWXf070B4NDy3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-07-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3837529,
+                    "name": "All About That Booty",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": "/68G95iZh2OwXNMuEBbE93CqWTGT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3858439,
+                    "name": "A Game Show for Everyone Except Your Aunt Sheila",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": "/tlejuElJBdfTmb0Y5rCvc7mQOQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Miranda Sings",
+                            "credit_id": "64969463bbd0b001066e3e9b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1255816,
+                            "known_for_department": "Acting",
+                            "name": "Colleen Ballinger",
+                            "original_name": "Colleen Ballinger",
+                            "popularity": 7.115,
+                            "profile_path": "/n5zJAiQkkW6kRlAG2GkAtjAKgpV.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3873564,
+                    "name": "Starring Garla Fibs",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "62efab3ecee2f6007a8d62bc",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 68751,
+                            "known_for_department": "Acting",
+                            "name": "Marla Gibbs",
+                            "original_name": "Marla Gibbs",
+                            "popularity": 4.43,
+                            "profile_path": "/ovjJm4i0n5vr38ywvz2dsVLei5F.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3873565,
+                    "name": "What's TikTok??",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "62f6cdb9498bc2007c549f88",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2820203,
+                            "known_for_department": "Acting",
+                            "name": "Parker Coppins",
+                            "original_name": "Parker Coppins",
+                            "popularity": 0.039,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-18",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3873566,
+                    "name": "You're Not That Old",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "6300cb187d41aa0081532634",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1610451,
+                            "known_for_department": "Acting",
+                            "name": "Zach King",
+                            "original_name": "Zach King",
+                            "popularity": 2.197,
+                            "profile_path": "/kUeU1F1bdnPa3tGb2mJlNsZxHWo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3912566,
+                    "name": "Hewi, Dewy or Chewy?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63077426c39266008286ad69",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 168702,
+                            "known_for_department": "Acting",
+                            "name": "Huey Lewis",
+                            "original_name": "Huey Lewis",
+                            "popularity": 6.785,
+                            "profile_path": "/swFrfCWf95IbOAuAnwj6oJilUvQ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3912567,
+                    "name": "Bob Dylan Wants to Rule the World",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "630775213dd12600839d66c2",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6167,
+                            "known_for_department": "Acting",
+                            "name": "Judd Hirsch",
+                            "original_name": "Judd Hirsch",
+                            "popularity": 9.104,
+                            "profile_path": "/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-15",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 3948323,
+                    "name": "Party in the Nude",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "631d3773cb80280082a573cc",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1217309,
+                            "known_for_department": "Acting",
+                            "name": "Anderson Cooper",
+                            "original_name": "Anderson Cooper",
+                            "popularity": 13.955,
+                            "profile_path": "/p2p0b6NSJb37DdCZSRtatva1Ob9.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 299127,
+            "poster_path": "/grJgplpoQuf1SiCbOn5T5z3S1Uk.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6462ae0fa672540164df1d1b",
+            "air_date": "2023-06-29",
+            "episodes": [
+                {
+                    "air_date": "2023-06-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4444756,
+                    "name": "Bernie Mac and Cheese",
+                    "overview": "Host Kelly Ripa serves up some sweet challenges for seniors and juniors.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "649f06c5d6590b011baf19d3",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1762563,
+                            "known_for_department": "Acting",
+                            "name": "JoJo Siwa",
+                            "original_name": "JoJo Siwa",
+                            "popularity": 6.225,
+                            "profile_path": "/c4DxZIoszLIx2GNkjsqC8G1bOpB.jpg"
+                        },
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4444757,
+                    "name": "If You Break Him, You Buy Him",
+                    "overview": "The seniors and juniors are in for a big adventure with celebrity guest Cheech Marin as they vie for the grand prize.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64a82c19f056d5013904e6bb",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 11159,
+                            "known_for_department": "Acting",
+                            "name": "Cheech Marin",
+                            "original_name": "Cheech Marin",
+                            "popularity": 19.165,
+                            "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-07-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4444758,
+                    "name": "I Love It When It's Summertime",
+                    "overview": "The seniors and juniors are joined by special celebrity guest Cheryl Ladd.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64b2993337806200ad145484",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 36169,
+                            "known_for_department": "Acting",
+                            "name": "Cheryl Ladd",
+                            "original_name": "Cheryl Ladd",
+                            "popularity": 24.785,
+                            "profile_path": "/4GhTeSfWf4yGCbUWNdtS52kKiG3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-07-20",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4444759,
+                    "name": "Up Your Pop-Pop Game",
+                    "overview": "The contestants need to put all of their chips on the table when Erik Estrada appears as the celebrity guest.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64bc3552ac617c01202cee90",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 102209,
+                            "known_for_department": "Acting",
+                            "name": "Erik Estrada",
+                            "original_name": "Erik Estrada",
+                            "popularity": 12.323,
+                            "profile_path": "/9R7acxdXkI8wt4ocIbPBNMNMxIY.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-07-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4444760,
+                    "name": "The Old Farts Club",
+                    "overview": "Contestants hope to hit the right tune when Corbin Bleu appears as the celebrity guest.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64c3f558028f1401524155f5",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 67602,
+                            "known_for_department": "Acting",
+                            "name": "Corbin Bleu",
+                            "original_name": "Corbin Bleu",
+                            "popularity": 6.971,
+                            "profile_path": "/hB4dqxdG84ISRyFHXU7PdQwdJMw.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4444761,
+                    "name": "That's Right, He Still Has a Landline",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64cf0fdcd9f4a603b6c8baa5",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 86314,
+                            "known_for_department": "Acting",
+                            "name": "Mindy Cohn",
+                            "original_name": "Mindy Cohn",
+                            "popularity": 4.777,
+                            "profile_path": "/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4444762,
+                    "name": "The Six Million Dollar Woman",
+                    "overview": "The seniors and juniors get a bionic surprise from celebrity guest Lindsay Wagner.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64d3a8b3d100b6011c7f75cc",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 57905,
+                            "known_for_department": "Acting",
+                            "name": "Lindsay Wagner",
+                            "original_name": "Lindsay Wagner",
+                            "popularity": 11.167,
+                            "profile_path": "/rcHRY1JrEJO03leVE3TqNIS6pe8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4444763,
+                    "name": "Jerry Rice Pudding",
+                    "overview": "Celebrity guest Sofia Wylie.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64d3a904dd926a01e987a94a",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1768965,
+                            "known_for_department": "Acting",
+                            "name": "Sofia Wylie",
+                            "original_name": "Sofia Wylie",
+                            "popularity": 20.712,
+                            "profile_path": "/bH7Qo3rRCJ2gLrcYZj9xS50rg5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-08-24",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4444764,
+                    "name": "Get Outta My Dreams, Get Into My Fridge",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "64f1e8cae0ca7f010de46081",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 140567,
+                            "known_for_department": "Acting",
+                            "name": "Donny Osmond",
+                            "original_name": "Donny Osmond",
+                            "popularity": 3.121,
+                            "profile_path": "/5h4mbUYffMaLg3nRWhoQH73YsHn.jpg"
+                        },
+                        {
+                            "character": "Self (Uncredited)",
+                            "credit_id": "64f1f86774507d00e2b9e835",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-09-14",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4444765,
+                    "name": "What Kid Doesn't Love Stew?",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "6507f98b109dec00aeb03390",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 194477,
+                            "known_for_department": "Acting",
+                            "name": "Susan Lucci",
+                            "original_name": "Susan Lucci",
+                            "popularity": 4.766,
+                            "profile_path": "/n4OTkSFaA824U5QuNkR4zUnFPW0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-09-21",
+                    "episode_number": 11,
+                    "episode_type": "finale",
+                    "id": 4694155,
+                    "name": "Tickle Tickle",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 205067,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Special Guest",
+                            "credit_id": "649f06f66f6a99011d89e913",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4138843,
+                            "known_for_department": "Acting",
+                            "name": "Joe Ripa",
+                            "original_name": "Joe Ripa",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Celebrity Guest",
+                            "credit_id": "6510aa1fa9117f00c4a8f797",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 29314,
+                            "known_for_department": "Acting",
+                            "name": "Charo",
+                            "original_name": "Charo",
+                            "popularity": 4.753,
+                            "profile_path": "/U9hXHQCnrYTbnmmPdHfN6k1qh2.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 341038,
+            "poster_path": "/kQcU06fzoTdZDFFCj15fYG6jryn.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

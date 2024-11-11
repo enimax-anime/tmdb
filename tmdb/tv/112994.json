@@ -1,0 +1,580 @@
+{
+    "adult": false,
+    "backdrop_path": "/eCBmcPcHQruIaVg2wOQg4O4Aaob.jpg",
+    "created_by": [
+        {
+            "id": 2997127,
+            "credit_id": "603fd5f8a843c1006e3fc785",
+            "name": "Jared L. Christopher",
+            "original_name": "Jared L. Christopher",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        41,
+        30
+    ],
+    "first_air_date": "2020-11-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.paramountplus.com/shows/texas-6/",
+    "id": 112994,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-11-24",
+    "last_episode_to_air": {
+        "id": 3367062,
+        "name": "Going Home",
+        "overview": "Strawn faces Richland Springs in a rematch of last season’s semifinal game and the town rallies around Coach Lee as his father’s health declines.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-11-24",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 112994,
+        "still_path": null
+    },
+    "name": "Texas 6",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1709,
+            "logo_path": "/rSWD2WoY26KJmOw7QHvZjC5OEWG.png",
+            "name": "CBS All Access",
+            "origin_country": "US"
+        },
+        {
+            "id": 4330,
+            "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+            "name": "Paramount+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Texas 6",
+    "overview": "This docuseries takes place in Strawn, Texas and follows the Greyhounds, a high school six-man football team under the direction of Coach Dewaine Lee, as they attempt a three-peat for the 6-Man Football State Championship.",
+    "popularity": 0.585,
+    "poster_path": "/21WCkCB8IzvqxJAScfcveTXNX1U.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-11-25",
+            "episode_count": 8,
+            "id": 168463,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w1rK7LEx5afF4wP8giyf0ftpQf4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-18",
+            "episode_count": 8,
+            "id": 215184,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/21WCkCB8IzvqxJAScfcveTXNX1U.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Small team. Big dream.",
+    "type": "Documentary",
+    "vote_average": 5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5faced40111da10042827f5e",
+            "air_date": "2020-11-25",
+            "episodes": [
+                {
+                    "air_date": "2020-11-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2504785,
+                    "name": "Made in Strawn",
+                    "overview": "In Strawn, Texas, population 676, the town's six man football team is coming off of back-to-back state championships. Despite losing 11 seniors to graduation, expectations are at an all-time high as the team faces a tough opponent in their season opener.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2504790,
+                    "name": "Chef Duncan",
+                    "overview": "J.W. and Blaze feel the pressure from Coach Lee. Meanwhile, the rest of Strawn looks ahead to the week two matchup.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2504791,
+                    "name": "Deep in the Heart",
+                    "overview": "Blaze prepares for another tough game that could cement him as the starting quarterback with his supportive grandmother ready to cheer him on.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2504792,
+                    "name": "All is Lost",
+                    "overview": "J.W. and Marco's injuries are an opportunity for the rest of the team to step up, including sophomore Jett, but external pressures cause some of the team to lose focus.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-09",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2504793,
+                    "name": "All In",
+                    "overview": "It's Homecoming in Strawn and the Greyhounds bounce back. Coach Lee visits his father and Blaze competes in a different sort of competition.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-16",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2504794,
+                    "name": "The Rivalry",
+                    "overview": "Perhaps the biggest rivalry in six-man football, the Greyhounds take on their cross-town rival, the Gordon Longhorns with all of Strawn watching.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-23",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2504795,
+                    "name": "The Rematch",
+                    "overview": "Strawn gets a do-over as they face off against Gordon for the state quarterfinals, with a healthy J.W. and Marco ready to make the most of their senior-year season.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-30",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2504796,
+                    "name": "Texas 6",
+                    "overview": "The Greyhounds take on Richland Springs in the semifinals with their sights set on the state championship, and seniors J.W., Blaze and Marco bring the Made-In-Strawn mentality in what could be their final game.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 168463,
+            "poster_path": "/w1rK7LEx5afF4wP8giyf0ftpQf4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6163e5a291745b004418ee87",
+            "air_date": "2021-11-18",
+            "episodes": [
+                {
+                    "air_date": "2021-11-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3275654,
+                    "name": "False Start",
+                    "overview": "With Blaze, J.W. and Marco gone, a new Greyhound team looks to avenge last season’s semi-final loss. The players aren’t the only ones missing however, with Head Coach Dewaine Lee tending to his ill father, leaving the sideline duties to assistant coach Jose Cervantes as they prepare for an opening match-up against top-ranked White Deer.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3275655,
+                    "name": "Cowboy Up",
+                    "overview": "Seniors Luke Eli and Jade Barrett are potential stars but their attitudes start to rub Coach Lee the wrong way while underclassman Payton Harris’ rodeo toughness translates to the football field, emerging as a leader.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3275656,
+                    "name": "Rise Above It",
+                    "overview": "Despite external distractions and temptations persisting, Coach Lee prepares his team for the game against state-ranked Westbrook and 6’7 transfer student Kadin Parsons eagerly awaits a decision on his eligibility to play for the Greyhounds.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3275657,
+                    "name": "For My Pop",
+                    "overview": "With the season needing a reset, Jade apologizes to the coaches and team for his part in their failures thus far and Coach Lee dedicates the rest of the season to his ill father.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "619c3c7d51e6ab0065cd535c",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2997127,
+                            "known_for_department": "Directing",
+                            "name": "Jared L. Christopher",
+                            "original_name": "Jared L. Christopher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3367058,
+                    "name": "8 Miles",
+                    "overview": "The Gordon vs Strawn crosstown rivalry goes back more than 100 years but the 8 miles isn’t enough to keep some of the families’ lives from intersecting on and off the field.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3367060,
+                    "name": "Easy Does It",
+                    "overview": "The students and staff of Strawn anticipate the results of the 2020 presidential election and the threat of a COVID infection hinders preparation for a playoff game.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3367061,
+                    "name": "Rise to the Occasion",
+                    "overview": "Kadin is named starting quarterback for a difficult game against Fannindel in the quarterfinals. Meanwhile, Coach Lee’s father takes a turn for the worse and he leans on wife Denise for support.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3367062,
+                    "name": "Going Home",
+                    "overview": "Strawn faces Richland Springs in a rematch of last season’s semifinal game and the town rallies around Coach Lee as his father’s health declines.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 112994,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 215184,
+            "poster_path": "/21WCkCB8IzvqxJAScfcveTXNX1U.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

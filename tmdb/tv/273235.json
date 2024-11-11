@@ -1,0 +1,444 @@
+{
+    "adult": false,
+    "backdrop_path": "/jn7MKpNZH4VCkQE1yIGq0T0Ws2L.jpg",
+    "created_by": [
+        {
+            "id": 2667000,
+            "credit_id": "66fc26bcf17b887599d6483d",
+            "name": "Aleksandra Potoczek",
+            "original_name": "Aleksandra Potoczek",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-10-30",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://play.max.com/show/a4aecf47-90c0-4298-a72e-61857b154f15",
+    "id": 273235,
+    "in_production": false,
+    "languages": [
+        "pl"
+    ],
+    "last_air_date": "2024-11-06",
+    "last_episode_to_air": {
+        "id": 5642332,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-11-06",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 273235,
+        "still_path": "/azqUsdPSudz8YmKPJcMlBw5RLW2.jpg"
+    },
+    "name": "Skin Hunters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6783,
+            "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+            "name": "Max",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Łowcy skór",
+    "overview": "The story of a gruesome deal between emergency care workers and morticians in Poland that led to the deaths of several hundred victims.",
+    "popularity": 10.424,
+    "poster_path": "/xYDZcjYF5vEA5QONnOjDtkcNNg5.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2024-10-30",
+            "episode_count": 4,
+            "id": 421511,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xYDZcjYF5vEA5QONnOjDtkcNNg5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "66fc25d7be8ad187d5a69099",
+            "air_date": "2024-10-30",
+            "episodes": [
+                {
+                    "air_date": "2024-10-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5642329,
+                    "name": "The Birth of Evil",
+                    "overview": "In 1990s Łódź, Poland, the story of “skin hunters” begins as morticians and emergency workers work out a system to trade data on deaths for money.",
+                    "production_code": "",
+                    "runtime": 37,
+                    "season_number": 1,
+                    "show_id": 273235,
+                    "still_path": "/wPBLgjb60Vuz9MScafuNGkjbAM3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6726834fc090109580f9ba61",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974390,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Karpiński",
+                            "original_name": "Tomasz Karpiński",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268356cdead30fbdb5010d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974389,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Patora",
+                            "original_name": "Tomasz Patora",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6726835d7e8fc5a821f91d6b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268363c090109580f9ba69",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "672cc60956310a65f242e6f0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.036,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5642330,
+                    "name": "Awaiting Death",
+                    "overview": "Over a decade, \"skin trading\" grows into a full-blown information system that draws in more doctors, paramedics and funeral-home owners.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 273235,
+                    "still_path": "/vksALl51Lam9CscBQjkRPmKgHKH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6726834fc090109580f9ba61",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974390,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Karpiński",
+                            "original_name": "Tomasz Karpiński",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268356cdead30fbdb5010d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974389,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Patora",
+                            "original_name": "Tomasz Patora",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6726835d7e8fc5a821f91d6b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268363c090109580f9ba69",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "672cc60956310a65f242e6f0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.036,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5642331,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 273235,
+                    "still_path": "/u5HUHvhhcNZrexkGb3vid4FbUE4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6726834fc090109580f9ba61",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974390,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Karpiński",
+                            "original_name": "Tomasz Karpiński",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268356cdead30fbdb5010d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974389,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Patora",
+                            "original_name": "Tomasz Patora",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6726835d7e8fc5a821f91d6b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268363c090109580f9ba69",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "672cc60956310a65f242e6f0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.036,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-06",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 5642332,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 273235,
+                    "still_path": "/azqUsdPSudz8YmKPJcMlBw5RLW2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6726834fc090109580f9ba61",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974390,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Karpiński",
+                            "original_name": "Tomasz Karpiński",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268356cdead30fbdb5010d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4974389,
+                            "known_for_department": "Writing",
+                            "name": "Tomasz Patora",
+                            "original_name": "Tomasz Patora",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6726835d7e8fc5a821f91d6b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "67268363c090109580f9ba69",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2667000,
+                            "known_for_department": "Directing",
+                            "name": "Aleksandra Potoczek",
+                            "original_name": "Aleksandra Potoczek",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "672cc60956310a65f242e6f0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2363057,
+                            "known_for_department": "Directing",
+                            "name": "Rafał Skalski",
+                            "original_name": "Rafał Skalski",
+                            "popularity": 0.036,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 421511,
+            "poster_path": "/xYDZcjYF5vEA5QONnOjDtkcNNg5.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

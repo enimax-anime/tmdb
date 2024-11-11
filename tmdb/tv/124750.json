@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": "/5oPrSfkwVIb7iOr6QdOAytGjdXB.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        56
+    ],
+    "first_air_date": "2021-05-21",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.pbs.org/show/inside-met/",
+    "id": 124750,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-05-28",
+    "last_episode_to_air": {
+        "id": 2921666,
+        "name": "Love and Money",
+        "overview": "The Metropolitan Museum of Art faces a new financial reality following its fall 2020 reopening, with philanthropists and art collectors stepping in to help keep the museum alive.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-28",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 56,
+        "season_number": 1,
+        "show_id": 124750,
+        "still_path": "/rgzEOrZrzanjsmUmjm8Z3CCEbGa.jpg"
+    },
+    "name": "Inside the Met",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Inside the Met",
+    "overview": "The largest art museum in the Americas prepares to celebrate its 150th birthday with a treasure trove of landmark exhibitions. When COVID-19 strikes, the world shuts down and, for the first time in its history, the Met closes its doors. Then comes another crisis: in the wake of the killing of George Floyd, there are urgent demands for social justice.",
+    "popularity": 0.144,
+    "poster_path": "/nFGoXKi6wWr19fcII7fD9sfSj5h.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-05-21",
+            "episode_count": 3,
+            "id": 193340,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/7lp2KOWecKv2IsNZgGJq9UbUtht.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "An unforgettable 150th year.",
+    "type": "Documentary",
+    "vote_average": 9,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "608f6cf68a84d20040454bba",
+            "air_date": "2021-05-21",
+            "episodes": [
+                {
+                    "air_date": "2021-05-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2921664,
+                    "name": "The Birthday Surprise",
+                    "overview": "The Metropolitan Museum of Art's 150th birthday is upended by the COVID-19 pandemic, forcing the art institution to close its doors for the first time in history, while facing financial losses and a battle to protect artistic treasures.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 124750,
+                    "still_path": "/wFlgcEroz98u72Bw1mjWQjQs8Bl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2921665,
+                    "name": "All Things to All People?",
+                    "overview": "The Metropolitan Museum of Art confronts its historical record on inclusion, exclusion and diversity in art and staffing.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 124750,
+                    "still_path": "/au5Z1Gouw1UNnXZuQxa6LmpeKFt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-28",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2921666,
+                    "name": "Love and Money",
+                    "overview": "The Metropolitan Museum of Art faces a new financial reality following its fall 2020 reopening, with philanthropists and art collectors stepping in to help keep the museum alive.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 124750,
+                    "still_path": "/rgzEOrZrzanjsmUmjm8Z3CCEbGa.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 193340,
+            "poster_path": "/7lp2KOWecKv2IsNZgGJq9UbUtht.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

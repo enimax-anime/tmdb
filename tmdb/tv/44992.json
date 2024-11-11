@@ -1,0 +1,352 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 59919,
+            "credit_id": "52596982760ee346619e058d",
+            "name": "Russell Brand",
+            "original_name": "Russell Brand",
+            "gender": 2,
+            "profile_path": "/AzRt43rdeK5nH7w6uWyyVwYla0.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2012-06-28",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "",
+    "id": 44992,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2012-11-29",
+    "last_episode_to_air": {
+        "id": 896246,
+        "name": "Episode 13",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2012-11-29",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 44992,
+        "still_path": null
+    },
+    "name": "Brand X with Russell Brand",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 88,
+            "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+            "name": "FX",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 13,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Brand X with Russell Brand",
+    "overview": "Brand X with Russell Brand is an American late-night talk show, stand up comedy television series that premiered on FX on June 28, 2012, starring British comedian Russell Brand and created by Brand and Troy Miller. Its second season concluded on May 2, 2013. On June 6, 2013, FX announced that Brand X would not be renewed for a third season. However, FX has reportedly picked up a scripted pilot starring Brand that will be loosely based on his life.",
+    "popularity": 1.957,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2012-06-28",
+            "episode_count": 13,
+            "id": 53688,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2013-02-07",
+            "episode_count": 0,
+            "id": 53689,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 7,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "52596981760ee346619e0484",
+            "air_date": "2012-06-28",
+            "episodes": [
+                {
+                    "air_date": "2012-06-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 896236,
+                    "name": "Episode 1",
+                    "overview": "A late night talk show in which comedian Russell Brand shares his unvarnished, unfiltered take on current events, politics and pop culture. The six installments will be shot in front of a live audience and the format will draw heavily on interaction with that audience.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-07-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 896234,
+                    "name": "Episode 2",
+                    "overview": "Brand X with Russell Brand features Brand's unvarnished and unfiltered point of view on current events, worldwide politics and popular culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-07-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 896235,
+                    "name": "Episode 3",
+                    "overview": "A late night talk show in which comedian Russell Brand shares his unvarnished, unfiltered take on current events, politics and pop culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-07-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 896237,
+                    "name": "Episode 4",
+                    "overview": "Brand X with Russell Brand features Brand's unvarnished and unfiltered point of view on current events, worldwide politics and popular culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-07-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 896238,
+                    "name": "Episode 5",
+                    "overview": "Brand X with Russell Brand features Brand's unvarnished and unfiltered point of view on current events, worldwide politics and popular culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-08-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 896239,
+                    "name": "Episode 6",
+                    "overview": "Brand X with Russell Brand features Brand's unvarnished and unfiltered point of view on current events, worldwide politics and popular culture.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-10-11",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 896240,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-10-18",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 896241,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-10-25",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 896242,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-11-01",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 896243,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-11-08",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 896245,
+                    "name": "Episode 11",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-11-15",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 896244,
+                    "name": "Episode 12",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-11-29",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 896246,
+                    "name": "Episode 13",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 44992,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 53688,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "52596981760ee346619e048f",
+            "air_date": "2013-02-07",
+            "episodes": [],
+            "name": "Season 2",
+            "overview": "",
+            "id": 53689,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

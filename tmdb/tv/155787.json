@@ -1,0 +1,366 @@
+{
+    "adult": false,
+    "backdrop_path": "/9SHnvQAO0hAsmXaY0fIKvSeLXFy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        100
+    ],
+    "first_air_date": "2022-01-16",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "https://www.raiplay.it/",
+    "id": 155787,
+    "in_production": false,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2022-01-30",
+    "last_episode_to_air": {
+        "id": 3452320,
+        "overview": "",
+        "name": "Episode 3",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-01-30",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 113,
+        "season_number": 1,
+        "show_id": 155787,
+        "still_path": "/uutc5L2gw9D8ReiI25JEN0LmRQn.jpg"
+    },
+    "name": "La Sposa",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 533,
+            "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+            "name": "Rai 1",
+            "origin_country": "IT"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "La Sposa",
+    "overview": "",
+    "popularity": 9.337,
+    "poster_path": "/Aka1AdhUm4uJINzn0bGaeH88css.jpg",
+    "production_companies": [
+        {
+            "id": 154744,
+            "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+            "name": "Rai Fiction",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-01-15",
+            "episode_count": 3,
+            "id": 240391,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/4bTyGoiMziDe7aq3JzJ6KF38PVY.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 11,
+    "season_data": {
+        "1": {
+            "_id": "61e5607b07a808006780bcd4",
+            "air_date": "2022-01-15",
+            "episodes": [
+                {
+                    "air_date": "2022-01-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3452315,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 105,
+                    "season_number": 1,
+                    "show_id": 155787,
+                    "still_path": "/ufM9nqYQJNvX89ymW7ERKYT296k.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64d6a3aef495ee028f63a8c7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 143468,
+                            "known_for_department": "Directing",
+                            "name": "Giacomo Campiotti",
+                            "original_name": "Giacomo Campiotti",
+                            "popularity": 2.728,
+                            "profile_path": "/8F2mFIdxqh9RZsnOgiStS69WvAH.jpg"
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "64d6a3bad051d900af34a129",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3c0001bbd00c6c666c3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3d1bf31f201ca8bbe9b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2050680,
+                            "known_for_department": "Writing",
+                            "name": "Eleonora Cimpanelli",
+                            "original_name": "Eleonora Cimpanelli",
+                            "popularity": 0.875,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3ddd051d9011fcb1788",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1668251,
+                            "known_for_department": "Writing",
+                            "name": "Antonio Manca",
+                            "original_name": "Antonio Manca",
+                            "popularity": 0.799,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3452318,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 108,
+                    "season_number": 1,
+                    "show_id": 155787,
+                    "still_path": "/7URj8bvBDcYpSkQeRIHlvPOfCfE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64d6a3aef495ee028f63a8c7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 143468,
+                            "known_for_department": "Directing",
+                            "name": "Giacomo Campiotti",
+                            "original_name": "Giacomo Campiotti",
+                            "popularity": 2.728,
+                            "profile_path": "/8F2mFIdxqh9RZsnOgiStS69WvAH.jpg"
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "64d6a3bad051d900af34a129",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3c0001bbd00c6c666c3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3d1bf31f201ca8bbe9b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2050680,
+                            "known_for_department": "Writing",
+                            "name": "Eleonora Cimpanelli",
+                            "original_name": "Eleonora Cimpanelli",
+                            "popularity": 0.875,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3ddd051d9011fcb1788",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1668251,
+                            "known_for_department": "Writing",
+                            "name": "Antonio Manca",
+                            "original_name": "Antonio Manca",
+                            "popularity": 0.799,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-01-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3452320,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 113,
+                    "season_number": 1,
+                    "show_id": 155787,
+                    "still_path": "/uutc5L2gw9D8ReiI25JEN0LmRQn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64d6a3aef495ee028f63a8c7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 143468,
+                            "known_for_department": "Directing",
+                            "name": "Giacomo Campiotti",
+                            "original_name": "Giacomo Campiotti",
+                            "popularity": 2.728,
+                            "profile_path": "/8F2mFIdxqh9RZsnOgiStS69WvAH.jpg"
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "64d6a3bad051d900af34a129",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3c0001bbd00c6c666c3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 235042,
+                            "known_for_department": "Writing",
+                            "name": "Valia Santella",
+                            "original_name": "Valia Santella",
+                            "popularity": 3.222,
+                            "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg"
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3d1bf31f201ca8bbe9b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2050680,
+                            "known_for_department": "Writing",
+                            "name": "Eleonora Cimpanelli",
+                            "original_name": "Eleonora Cimpanelli",
+                            "popularity": 0.875,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Teleplay",
+                            "department": "Writing",
+                            "credit_id": "64d6a3ddd051d9011fcb1788",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1668251,
+                            "known_for_department": "Writing",
+                            "name": "Antonio Manca",
+                            "original_name": "Antonio Manca",
+                            "popularity": 0.799,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 240391,
+            "poster_path": "/4bTyGoiMziDe7aq3JzJ6KF38PVY.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

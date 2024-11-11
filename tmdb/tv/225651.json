@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": "/qdVM7e1FdATuRHiAjQzmDEH6VLf.jpg",
+    "created_by": [
+        {
+            "id": 1619121,
+            "credit_id": "64502d370b5fd6013eef7072",
+            "name": "Luke Korzun Martin",
+            "original_name": "Luke Korzun Martin",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-02-28",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 225651,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-02-28",
+    "last_episode_to_air": {
+        "id": 4407750,
+        "name": "Episode 2",
+        "overview": "The truth behind Laurence Olivier and Vivien Leigh's secret love affair, the challenging production of Gone with the Wind, the racism that people of colour faced, and the inside scoop on director John Ford and John Wayne.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-02-28",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 66,
+        "season_number": 1,
+        "show_id": 225651,
+        "still_path": "/5cOTUQChVmmWNY2oOgNEI1cR6eF.jpg"
+    },
+    "name": "1939: Secrets of Hollywood's Golden Year",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "1939: Secrets of Hollywood's Golden Year",
+    "overview": "This two-part documentary series explores 1939, the greatest year in Hollywood history, telling the behind-the-scenes stories of films like Gone With The Wind, Wuthering Heights, Stagecoach and The Wizard of Oz.",
+    "popularity": 2.908,
+    "poster_path": "/44fSr1DgebWf0yreUpDX84ftL8X.jpg",
+    "production_companies": [
+        {
+            "id": 1081,
+            "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+            "name": "CBS Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-02-28",
+            "episode_count": 2,
+            "id": 339299,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "645028b8ee43e8015d396299",
+            "air_date": "2023-02-28",
+            "episodes": [
+                {
+                    "air_date": "2023-02-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4407748,
+                    "name": "Episode 1",
+                    "overview": "The story of the challenges Judy Garland faced in the studio system, the disasters on the set of The Wizard of Oz, the bitter war between Bette Davis and Warner Bros, and the rumors of Cary Grant's gay secret life.",
+                    "production_code": "",
+                    "runtime": 66,
+                    "season_number": 1,
+                    "show_id": 225651,
+                    "still_path": "/7X1VoULGamXpBw4MvzFUvvX7uD3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4407750,
+                    "name": "Episode 2",
+                    "overview": "The truth behind Laurence Olivier and Vivien Leigh's secret love affair, the challenging production of Gone with the Wind, the racism that people of colour faced, and the inside scoop on director John Ford and John Wayne.",
+                    "production_code": "",
+                    "runtime": 66,
+                    "season_number": 1,
+                    "show_id": 225651,
+                    "still_path": "/5cOTUQChVmmWNY2oOgNEI1cR6eF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 339299,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

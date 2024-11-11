@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": "/iiUHDdbPJ3U0vp7ejnhyVmm2HCF.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-04-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 124211,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-04-25",
+    "last_episode_to_air": {
+        "id": 2905333,
+        "name": "The Fall of the Order",
+        "overview": "Discover the truth behind the tragic end of the Knights Templar",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2021-04-25",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 124211,
+        "still_path": null
+    },
+    "name": "The Secret Story Of The Knights Templar",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Secret Story Of The Knights Templar",
+    "overview": "Discover the secrets of the most mysterious and powerful knightly order of the Middle Ages: The Knights Templar. From the rise of their heavenly power through to their fall within the flames of diabolism. From the rituals and traditions within the medieval knighthood, through the exterminatory campaign against them, to their supposed secret survival and their official legacies bridging the Holy Land and the European continent. In our series, the mysterious story of the Knights Templar will be unveiled for the first time. We will distinguish between the abundant mythology that has been created about them and the newly acquired historical facts.",
+    "popularity": 0.977,
+    "poster_path": "/iXYmWIajMEAtaMbAdV8JjcEwqHQ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-04-25",
+            "episode_count": 3,
+            "id": 192307,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6085df35ffc9de006e818f5f",
+            "air_date": "2021-04-25",
+            "episodes": [
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2905331,
+                    "name": "Birth of a Brotherhood",
+                    "overview": "Who was behind the creation of the Order of the Temple? What was it's mission? And how did the Templar's become so powerful so quickly?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 124211,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2905332,
+                    "name": "A Business Empire",
+                    "overview": "Explore the truth behind the treasures of the Templars",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 124211,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-04-25",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2905333,
+                    "name": "The Fall of the Order",
+                    "overview": "Discover the truth behind the tragic end of the Knights Templar",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 124211,
+                    "still_path": null,
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 192307,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    }
+}

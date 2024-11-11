@@ -1,0 +1,271 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 66859,
+            "credit_id": "5d7fa9073c43445657a0dd49",
+            "name": "Franck Ollivier",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2019-09-20",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.tf1.fr/tf1/olivia-fiction-tf1",
+    "id": 93690,
+    "in_production": false,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2019-10-04",
+    "last_episode_to_air": {
+        "id": 1931729,
+        "name": "Episode 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-04",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 93690,
+        "still_path": null
+    },
+    "name": "Olivia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1753,
+            "logo_path": "/jXgJ9TRk5oRLPvm5UhRPYxCTHoH.png",
+            "name": "RTS Un",
+            "origin_country": "CH"
+        },
+        {
+            "id": 290,
+            "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+            "name": "TF1",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Olivia",
+    "overview": "",
+    "popularity": 1.734,
+    "poster_path": "/oMnhkG3tLErnrMdPonTXePtudVb.jpg",
+    "production_companies": [
+        {
+            "id": 81171,
+            "logo_path": "/rLXzX15GDqDNh8cYCoRGK3mTPVp.png",
+            "name": "JLA Productions",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-20",
+            "episode_count": 6,
+            "id": 132466,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oMnhkG3tLErnrMdPonTXePtudVb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "5d7fa67dc543041a13967225",
+            "air_date": "2019-09-20",
+            "episodes": [
+                {
+                    "air_date": "2019-09-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1931389,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": "/9n4ZNUknvbhdC1lf7OVj7HtjNmZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Agathe",
+                            "credit_id": "62e0044248138200541ab671",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1107979,
+                            "known_for_department": "Acting",
+                            "name": "Jeanne Lambert",
+                            "original_name": "Jeanne Lambert",
+                            "popularity": 1.202,
+                            "profile_path": "/3WbrQBglCqDezI2G7bcuUl93OI4.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1931724,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-09-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1931725,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Justine",
+                            "credit_id": "62e268d05ca7042d097c2706",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1613260,
+                            "known_for_department": "Acting",
+                            "name": "Luna Lou",
+                            "original_name": "Luna Lou",
+                            "popularity": 2.953,
+                            "profile_path": "/sPEoKoI0YJSeM83g36A6ElBbXCE.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1931726,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julien Maillard",
+                            "credit_id": "62e15d0aaa659e004df76810",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1774303,
+                            "known_for_department": "Acting",
+                            "name": "Oscar Berthe",
+                            "original_name": "Oscar Berthe",
+                            "popularity": 5.655,
+                            "profile_path": "/qCapoqWQh0EjqVG4wbdxOdO4GU3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1931728,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-04",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1931729,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 93690,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 132466,
+            "poster_path": "/oMnhkG3tLErnrMdPonTXePtudVb.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,396 @@
+{
+    "adult": false,
+    "backdrop_path": "/npRM7ydsBDoMPRdibK6jG7hH1WT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-09-26",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.wetv.com/shows/untold-stories-of-hip-hop--35459",
+    "id": 106952,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-10-31",
+    "last_episode_to_air": {
+        "id": 3336343,
+        "name": "Ice-T, Swizz Beatz & Wyclef",
+        "overview": "Ice-T and Swizz Beatz unveil never-before-told stories of how they cheated death. Wyclef Jean reveals his connection to the Italian Mob. The tragic death of Nipsey Hussle rocks the Hip Hop community.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-31",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 106952,
+        "still_path": null
+    },
+    "name": "Untold Stories of Hip Hop",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 448,
+            "logo_path": "/gWllamFWxBczPiFxQzHZd2IAY9W.png",
+            "name": "WE tv",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Untold Stories of Hip Hop",
+    "overview": "Angie Martinez sits down with the biggest names in hip hop as they detail never-before-told tales.",
+    "popularity": 3.103,
+    "poster_path": "/sEcdJCx8dcesJhoqCHxrO8AB7ZC.jpg",
+    "production_companies": [
+        {
+            "id": 147051,
+            "logo_path": null,
+            "name": "Creature Films",
+            "origin_country": ""
+        },
+        {
+            "id": 51848,
+            "logo_path": "/jmrRZgqHnYmJC4uePQI2sLijpSk.png",
+            "name": "Entertainment One Television",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-26",
+            "episode_count": 6,
+            "id": 158111,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Talk Show",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5f2a7fe22d8ef30035dd7025",
+            "air_date": "2019-09-26",
+            "episodes": [
+                {
+                    "air_date": "2019-09-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2378287,
+                    "name": "Cardi B & Snoop Dogg",
+                    "overview": "Cardi B opens up about her shocking #MeToo moment and exposes her first time having sex with Offset. Snoop Dogg details his final encounter with Biggie and plane flight with Tupac and Suge Knight that almost ended his life.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef59bb260200430e32c9",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1562344,
+                            "known_for_department": "Acting",
+                            "name": "Cardi B",
+                            "original_name": "Cardi B",
+                            "popularity": 14.863,
+                            "profile_path": "/x3hazhdT0Lcpv2ys4WG6Af2F24S.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef6563e6fb008dcd46f4",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 19767,
+                            "known_for_department": "Acting",
+                            "name": "Snoop Dogg",
+                            "original_name": "Snoop Dogg",
+                            "popularity": 21.623,
+                            "profile_path": "/V8eEB5ybSxSTluFcBZkVgT73sv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3336338,
+                    "name": "Ja Rule & Fat Joe",
+                    "overview": "Ja Rule shares shocking details about being kidnapped by an African warlord. Fat Joe reveals what really happened in the days leading up to Big Pun’s death. Queen Latifah opens up about a devastating tragedy.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef7520e6a500919012ee",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 61658,
+                            "known_for_department": "Acting",
+                            "name": "Ja Rule",
+                            "original_name": "Ja Rule",
+                            "popularity": 6.694,
+                            "profile_path": "/jiYEwuTCkp0vW14eHLFDRJ9v111.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef7dcb6db50062466a43",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 59785,
+                            "known_for_department": "Acting",
+                            "name": "Fat Joe",
+                            "original_name": "Fat Joe",
+                            "popularity": 6.91,
+                            "profile_path": "/g4Z1K3bywKBDFGcNT4C5OapbEQj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3336339,
+                    "name": "DJ Khaled & Ice Cube",
+                    "overview": "DJ Khaled fights to protect his family after a home invasion. Ice Cube dishes new details about his battle with rapper Common. Snoop Dogg reveals how he survived a threat from Biggie.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef8ac3c891008bf57b36",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 224235,
+                            "known_for_department": "Acting",
+                            "name": "DJ Khaled",
+                            "original_name": "DJ Khaled",
+                            "popularity": 1.448,
+                            "profile_path": "/2aZXRm1ETaXx6wsVJ22kaUpCWJe.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618fef94037264002b5049d8",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 9778,
+                            "known_for_department": "Acting",
+                            "name": "Ice Cube",
+                            "original_name": "Ice Cube",
+                            "popularity": 19.502,
+                            "profile_path": "/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3336341,
+                    "name": "A$AP Rocky & Nelly",
+                    "overview": "A$AP Rocky exposes his wild sex life and criminal past. Nelly confesses who is really to blame for Janet Jackson’s Super Bowl “wardrobe malfunction.” Cardi B and Trina reveal how their “mo money” created “mo problems.”",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fefa363d9370029170948",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1521445,
+                            "known_for_department": "Acting",
+                            "name": "A$AP Rocky",
+                            "original_name": "A$AP Rocky",
+                            "popularity": 8.238,
+                            "profile_path": "/gL0NFnIrqLosSbdxAHExOHAMkFH.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618fefab66a7c30064c1f1e6",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 69128,
+                            "known_for_department": "Acting",
+                            "name": "Nelly",
+                            "original_name": "Nelly",
+                            "popularity": 2.653,
+                            "profile_path": "/k82qmqN3V8Z1ABaZhIKMYfLevuj.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3336342,
+                    "name": "Queen Latifah & Maino",
+                    "overview": "Queen Latifah reveals her shocking #MeToo moment. Maino exposes new details about his romance with Lil’ Kim and uncovers his years locked up in solitary confinement. MC Lyte relives a night she spent running for her life.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fefb7a313b80062556aa6",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 15758,
+                            "known_for_department": "Acting",
+                            "name": "Queen Latifah",
+                            "original_name": "Queen Latifah",
+                            "popularity": 11.614,
+                            "profile_path": "/zKJ0fZ7ne57fTWWd3WP1OVvoLS6.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618fefd763e6fb006373b076",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3308041,
+                            "known_for_department": "Acting",
+                            "name": "Maino",
+                            "original_name": "Maino",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3336343,
+                    "name": "Ice-T, Swizz Beatz & Wyclef",
+                    "overview": "Ice-T and Swizz Beatz unveil never-before-told stories of how they cheated death. Wyclef Jean reveals his connection to the Italian Mob. The tragic death of Nipsey Hussle rocks the Hip Hop community.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 106952,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "618fefe5976a23002ca71790",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21411,
+                            "known_for_department": "Acting",
+                            "name": "Ice-T",
+                            "original_name": "Ice-T",
+                            "popularity": 11.264,
+                            "profile_path": "/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618feff3976a230093bc544a",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 60029,
+                            "known_for_department": "Acting",
+                            "name": "Swizz Beatz",
+                            "original_name": "Swizz Beatz",
+                            "popularity": 0.484,
+                            "profile_path": "/wx2UWQDVhY3VromszmNxg8AK2dc.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "618feffde93e95002b4f175d",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4246,
+                            "known_for_department": "Acting",
+                            "name": "Wyclef Jean",
+                            "original_name": "Wyclef Jean",
+                            "popularity": 2.635,
+                            "profile_path": "/1J0Q23bdPlKrMY8dDksVJaJXxYL.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 158111,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

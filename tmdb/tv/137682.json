@@ -1,0 +1,181 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-03-07",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 137682,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-28",
+    "last_episode_to_air": {
+        "id": 3347432,
+        "name": "Deliverance",
+        "overview": "Churchill's - and Britain's influence begins to shrink as the Soviet Union and the United States grow into the most significant actors in the war.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-03-28",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 137682,
+        "still_path": null
+    },
+    "name": "Winston Churchill's War",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        },
+        {
+            "id": 1755,
+            "logo_path": "/mzLlbqnnLiDIzriohlvfSbWlEfR.png",
+            "name": "Sky History",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Winston Churchill's War",
+    "overview": "This is a story of greatness - the story of how a man, matched to a moment in history, becomes a giant. For Winston Churchill, the war made the difference. And what a difference it made.",
+    "popularity": 0.771,
+    "poster_path": "/3OYEkz7hrMIcqJtD3WQOZuLMkBO.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-03-07",
+            "episode_count": 4,
+            "id": 217860,
+            "name": "Season 1",
+            "overview": "This is a story of greatness - the story of how a man, matched to a moment in history, becomes a giant. For Winston Churchill, the war made the difference. And what a difference it made.",
+            "poster_path": "/9X4tWH7l3Fa01Z4ZeEJad6C7N5B.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "617f852a11386c008da6e487",
+            "air_date": "2021-03-07",
+            "episodes": [
+                {
+                    "air_date": "2021-03-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3316223,
+                    "name": "Danger Gathers Upon Our Path",
+                    "overview": "The four-part series charting the life story of Winston Churchill begins with a look at the early beginnings of his career.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137682,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3347430,
+                    "name": "Victory at all Costs",
+                    "overview": "The story continues with a look at his time as Prime Minister of the United Kingdom, a time where his notable speeches were born.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137682,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Graphic Designer",
+                            "department": "Art",
+                            "credit_id": "667dea534c62bff8047dc5c5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4099513,
+                            "known_for_department": "Art",
+                            "name": "Prajdnik Awasthi",
+                            "original_name": "Prajdnik Awasthi",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3347431,
+                    "name": "A Perfect Unity",
+                    "overview": "Churchill must make crucial decisions and figure out how to navigate big changes as the war rages on and Britain makes a powerful ally.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137682,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-28",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3347432,
+                    "name": "Deliverance",
+                    "overview": "Churchill's - and Britain's influence begins to shrink as the Soviet Union and the United States grow into the most significant actors in the war.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 137682,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "This is a story of greatness - the story of how a man, matched to a moment in history, becomes a giant. For Winston Churchill, the war made the difference. And what a difference it made.",
+            "id": 217860,
+            "poster_path": "/9X4tWH7l3Fa01Z4ZeEJad6C7N5B.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

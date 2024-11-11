@@ -1,0 +1,563 @@
+{
+    "adult": false,
+    "backdrop_path": "/ceYGbxOQQ1OafZoFRaCDgpH3m6r.jpg",
+    "created_by": [
+        {
+            "id": 1256006,
+            "credit_id": "633b168ff056d5007df9f00e",
+            "name": "Christopher Bryson",
+            "original_name": "Christopher Bryson",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1295042,
+            "credit_id": "633b167ec2ff3d007d948673",
+            "name": "Jonathan Wickham",
+            "original_name": "Jonathan Wickham",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1868635,
+            "credit_id": "633b16a04cbe12007c3a18bd",
+            "name": "Joseph Sousa",
+            "original_name": "Joseph Sousa",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        51,
+        44
+    ],
+    "first_air_date": "2019-03-04",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.smithsonianchannel.com/shows/americas-hidden-stories/",
+    "id": 88347,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-07-03",
+    "last_episode_to_air": {
+        "id": 4530869,
+        "name": "Lost Airship",
+        "overview": "Experts delve into the undelivered promise of rigid airships on the American military landscape, and the tragic fate of the USS Macon and efforts to explore its remains in the Pacific Ocean.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-07-03",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 3,
+        "show_id": 88347,
+        "still_path": "/oaYULBSn2l8KWOvVVTD1SzLRcqC.jpg"
+    },
+    "name": "America's Hidden Stories",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4106,
+            "logo_path": "/69WC8uq4u10eg7pAtfo0B3CRjQP.png",
+            "name": "Histoire TV",
+            "origin_country": ""
+        },
+        {
+            "id": 658,
+            "logo_path": "/meU2LRnHcSr0m0Upx5loxHWETqF.png",
+            "name": "Smithsonian Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "America's Hidden Stories",
+    "overview": "Modern historians, equipped with state-of-the-art technology and newly discovered evidence, rewrite the nation's most iconic stories.",
+    "popularity": 4.237,
+    "poster_path": "/oVurjpM7krOoQDvImW9NXHTU3bW.jpg",
+    "production_companies": [
+        {
+            "id": 39891,
+            "logo_path": "/jOTjRnoxwzkhgx4mSnqDMmsS1m4.png",
+            "name": "Lone Wolf Media",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-18",
+            "episode_count": 2,
+            "id": 310346,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2019-03-04",
+            "episode_count": 8,
+            "id": 122050,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/oVurjpM7krOoQDvImW9NXHTU3bW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-10-26",
+            "episode_count": 6,
+            "id": 167133,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/j5qnx0FDaJiRxbU3cbRFmurhwBU.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-05-29",
+            "episode_count": 6,
+            "id": 333135,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/kPiFSG1bwBHOJxZdulXb02kJ8zv.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 3.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5caef377c3a3683c24a9fc68",
+            "air_date": "2019-03-04",
+            "episodes": [
+                {
+                    "air_date": "2019-03-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1756232,
+                    "name": "Salem's Secrets",
+                    "overview": "Discover the origins of the Salem witch hunt, why the panic spread so quickly, and where the hangings took place.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/b4lEgJcFqP0Tcw8Cfn4I5q2JE7s.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2482616,
+                    "name": "Targeting Jefferson Davis",
+                    "overview": "During a failed raid to free northern POWs in 1864, papers are found on the body of Union Colonel Ulric Dahlgren ordering the assassination of Confederate President Jefferson Davis. The discovery fuels outrage in the South and energizes the Confederate secret service. Now, historians have teamed up with descendants of the slain colonel to uncover who was behind the audacious murder plot and to consider if Abraham Lincoln's assassination one year later may have been a retaliatory measure.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/1InwhF57nfqLdv46EzsYC2ZlXZK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2482617,
+                    "name": "Pandemic 1918",
+                    "overview": "The Spanish flu was one of the most devastating natural disasters in history, an unstoppable virus that swept the planet in 1918, killing tens of millions of people. New evidence suggests the possible birthplace was actually in America's heartland. Witness a globe-spanning story of death and denial on an epic scale, as we visit a mass gravesite, pore over old medical records and diaries, and use cutting edge scientific research to reveal the horrific truth behind this deadly pandemic.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/dEcBrxeVnTTcsG2PxrTf7RFpT9X.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dr. Cary Grayson",
+                            "credit_id": "61d5e45a12197e008bbc60c2",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2311212,
+                            "known_for_department": "Acting",
+                            "name": "Jason Alan Cook",
+                            "original_name": "Jason Alan Cook",
+                            "popularity": 0.204,
+                            "profile_path": "/xjKPJYfaqYFJAZfntNDwtH0jdr6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2482618,
+                    "name": "Pearl Harbor Spies",
+                    "overview": "On the morning of December 7, 1941, Japan's war machine attacked Pearl Harbor, killing over 2,300 American servicemen. The conventional story is that America was caught sleeping that day and was hit without warning. But newly declassified documents from U.S. Naval intelligence and the FBI reveal a very different tale, one of Japanese and German spies studying Pearl Harbor long before the assault with our agents watching them the whole time. So, how were we still caught so tragically off guard? Modern historians are determined to find out.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/zT2dWxDgC5wL5T2XmgWNrEH4DUq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2482619,
+                    "name": "CIA Cyber Attack",
+                    "overview": "It's a Cold War story involving a turncoat KGB agent, doctored computer chips, and a fiery blast in the Siberian wilderness big enough to see from space. Modern historians investigate the claim of a June 1982 explosion of a Russian gas pipeline to see if it was the result of the world's first-ever cyber attack, a retaliatory measure secretly ordered by Ronald Reagan to bring the Soviet Union to its knees.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/ar8srdWQA80GucYk8VZqZ43tfMm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2482620,
+                    "name": "The General was Female?",
+                    "overview": "Casimir Pulaski was an American Revolutionary War hero who helped save George Washington's life in the Battle of Brandywine. He was known as the \"Father of the American Cavalry,\" but new evidence suggests that the general may not have been male. Follow a team of anthropologists as they examine the bones found at Pulaski's monument in Savannah and run state-of-the-art DNA tests in order to determine if the officer was female or if someone else was buried in the tomb.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/jaqw1gZPOqKGjH3wnyB05S4rra.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-15",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2482621,
+                    "name": "Mrs. Benedict Arnold",
+                    "overview": "Benedict Arnold was a hero of the revolution. He was one of Washington's best generals. He had a new bride said to be the most beautiful woman in the colonies. And yet, just one month after marrying 18-year-old Peggy Shippen, Arnold reached out to the British and began to plot treason. What drove the celebrated general to betray his country? Investigators are now exposing a vast conspiracy to crush America's hopes for independence with Benedict Arnold's young wife at the center.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/9Sc677ci0BnW07kaL9y3STAxvel.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-29",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2550574,
+                    "name": "Mystery at Jamestown",
+                    "overview": "Most people think of Jamestown as the story of John Smith and Pocahontas, but new scientific research has revealed another prominent figure from America's first English colony. Discover the story of Sir George Yeardley, a commoner who became governor and went on to preside over the birth of the nation's democracy. Follow a team of archaeologists as they excavate the 1617 church where, according to English tradition, the leaders of the colony were buried, including our country's least known and first founding father.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 88347,
+                    "still_path": "/N70T1QySee4JYRjAVoNM5QmSMC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 122050,
+            "poster_path": "/oVurjpM7krOoQDvImW9NXHTU3bW.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5f9b26f0aad9c20036d858e6",
+            "air_date": "2020-10-26",
+            "episodes": [
+                {
+                    "air_date": "2020-10-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2482622,
+                    "name": "Hitler's US Election Plot",
+                    "overview": "Did Hitler secretly try to swing the 1940 Presidential election against Franklin Roosevelt? Newly uncovered evidence reveals the Nazis spent millions of dollars trying to influence the election, defeat FDR, and keep America out of WWII.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/kZCzMGywhsghLJM4to1fxIb3yuR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2634166,
+                    "name": "The Klan Makes a Movie",
+                    "overview": "Follow a film historian as he unravels the mystery of a silent era movie apparently made by the notorious hate group.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/fcb7QQca1Jf7S4lykobCxrmk3PI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2634167,
+                    "name": "Madam President",
+                    "overview": "Did Edith Wilson become a surrogate president after her husband's stroke in 1919? See what recently found evidence says.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/qFSw06iHIaprDqFbYWPK2i6fOPe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-01-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2658305,
+                    "name": "Vampires in America",
+                    "overview": "See how a silent, invisible, and very real threat turned 19th century New England farmers into vampire hunters.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/bCVm45lE05Pwn37CZAkpTjmF2mi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Elisha Ray",
+                            "credit_id": "603d7334a284eb00718ee3d6",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2995168,
+                            "known_for_department": "Acting",
+                            "name": "Donnie Francis",
+                            "original_name": "Donnie Francis",
+                            "popularity": 0.188,
+                            "profile_path": "/9RGceFodgIlTzYMfGufm2EHiwGG.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2667557,
+                    "name": "Southern Union Women Spies",
+                    "overview": "New evidence supports a Civil War legend that a freed female slave and a society lady in Virginia acted as spies for the Union.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/sEB59rIL6mjKObMeYh7ASv1DQ0O.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-15",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2667558,
+                    "name": "George Washington's Secret Love",
+                    "overview": "Witness the events--both political and romantic--that turned George Washington from British loyalist to American icon.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 88347,
+                    "still_path": "/rv6Cp2CH4UtcF8ZzYWKXntRV0qL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 167133,
+            "poster_path": "/j5qnx0FDaJiRxbU3cbRFmurhwBU.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "641633825690b5007a54651e",
+            "air_date": "2023-05-29",
+            "episodes": [
+                {
+                    "air_date": "2023-05-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4305117,
+                    "name": "The Osage Murders",
+                    "overview": "Filmmaker David Bishop, who grew up on the Osage Reservation, investigates the string of murders and suspicious deaths of members of the oil-rich Osage Tribe in Oklahoma during the 1920s.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/oP8LLFrTgbj4f1mHRPbfFeqSIzv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4480391,
+                    "name": "Birth of Shadow Ops",
+                    "overview": "Retired members of FOG, the Field Operation Group launched in secret by President Carter, detail their covert mission to rescue 52 Americans taken hostage by Iranian forces in 1979.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/hcyVgtPau3SsnSEVTJa6Y7N1sAL.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4512873,
+                    "name": "Forged in Slavery",
+                    "overview": "The unearthing of burial grounds for enslaved people at an old ironworks leads archaeologist Whitney Battle-Baptiste on a journey into the history of industrial slavery in the United States.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/fHJdmnaJOrxFNRqKcXfFF8KmdJc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4512874,
+                    "name": "The Black Wild West",
+                    "overview": "Historians chronicle the untold stories of Black settlers who journeyed to the Wild West in search of freedom and opportunity, examining their roles as marshals, cowboys, soldiers and more.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/6OuRlTdX3ZuycVtdvxxLeMhpqGS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4512875,
+                    "name": "CIA's Museum Declassified",
+                    "overview": "The CIA Museum opens its doors and vaults to reveal the top secret stories behind agency documents, \"Argo\" artifacts, a Soviet helicopter used in the hunt for Osama bin Laden and more.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/vnxym6d1s6nzA86ezzkRUwI7qPI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4530869,
+                    "name": "Lost Airship",
+                    "overview": "Experts delve into the undelivered promise of rigid airships on the American military landscape, and the tragic fate of the USS Macon and efforts to explore its remains in the Pacific Ocean.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 3,
+                    "show_id": 88347,
+                    "still_path": "/oaYULBSn2l8KWOvVVTD1SzLRcqC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 333135,
+            "poster_path": "/kPiFSG1bwBHOJxZdulXb02kJ8zv.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

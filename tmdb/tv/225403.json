@@ -1,0 +1,109 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-04-27",
+    "genres": [],
+    "homepage": "",
+    "id": 225403,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2023-05-04",
+    "last_episode_to_air": {
+        "id": 4414384,
+        "name": "Episode 2",
+        "overview": "Alexis Conran meets a ready-meal creator to find out what makes a great meal.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-04",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 225403,
+        "still_path": null
+    },
+    "name": "The Truth About Your Ready Meals",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Truth About Your Ready Meals",
+    "overview": "Alexis Conran flies the flag for an oft-maligned, but popular, sector of the food market.",
+    "popularity": 0.14,
+    "poster_path": "/A7Pl4CRgRVJsJmcFOgZjUbH3h32.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2023-04-27",
+            "episode_count": 2,
+            "id": 338770,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "644a4ce4a39d0b0d1b246981",
+            "air_date": "2023-04-27",
+            "episodes": [
+                {
+                    "air_date": "2023-04-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4394727,
+                    "name": "Episode 1",
+                    "overview": "Alexis Conran explores our home-cooked or heated staples, comparing the different types.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 225403,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-05-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4414384,
+                    "name": "Episode 2",
+                    "overview": "Alexis Conran meets a ready-meal creator to find out what makes a great meal.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 225403,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 338770,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

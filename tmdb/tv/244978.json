@@ -1,0 +1,927 @@
+{
+    "adult": false,
+    "backdrop_path": "/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
+    "created_by": [
+        {
+            "id": 1336746,
+            "credit_id": "65b8dd99f90b19016304112e",
+            "name": "James Hall",
+            "original_name": "James Hall",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1364632,
+            "credit_id": "65b8dda75be00e01825a7f99",
+            "name": "Robert Thorogood",
+            "original_name": "Robert Thorogood",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1818129,
+            "credit_id": "65b8dd875be00e01825a7f63",
+            "name": "Peter Mattessi",
+            "original_name": "Peter Mattessi",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-09-08",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://iview.abc.net.au/show/return-to-paradise",
+    "id": 244978,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-10-13",
+    "last_episode_to_air": {
+        "id": 5109653,
+        "name": "Oh Mine Papa",
+        "overview": "When crabby Vince Ogden is found dead in his locked bedsit, it's up to Mackenzie to shine a light on the truth of his murder.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-13",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 56,
+        "season_number": 1,
+        "show_id": 244978,
+        "still_path": "/uInut8hdEgzeVhW6GtoQxkrHWKe.jpg"
+    },
+    "name": "Return to Paradise",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 18,
+            "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+            "name": "ABC TV",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Return to Paradise",
+    "overview": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
+    "popularity": 6.729,
+    "poster_path": "/bQCUAJZwsbcYHopAwPOzbtoqojk.jpg",
+    "production_companies": [
+        {
+            "id": 120868,
+            "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+            "name": "BBC Studios ANZ",
+            "origin_country": "AU"
+        },
+        {
+            "id": 36740,
+            "logo_path": "/o8DuqYo6FSgxt4euhOntSByEMGh.png",
+            "name": "Red Planet Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-09-08",
+            "episode_count": 6,
+            "id": 376650,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/sPhKS5cLESYx6kE5fWGdLlgFJHL.jpg",
+            "season_number": 1,
+            "vote_average": 6.2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "65b8d07c5be00e01825a6d90",
+            "air_date": "2024-09-08",
+            "episodes": [
+                {
+                    "air_date": "2024-09-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5109644,
+                    "name": "R.I.P. Tide",
+                    "overview": "When Dolphin Cove local royalty, Stuart Granger, washes ashore with a knife in his back in the middle of a surf carnival, recently returned ex-pat DI Mackenzie Clarke is thrust onto the case.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/zY91COgRK0ypSxQWd6FGFlfJVnZ.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66dd21e5fa9c0f8ead9dd6e1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1818129,
+                            "known_for_department": "Writing",
+                            "name": "Peter Mattessi",
+                            "original_name": "Peter Mattessi",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66dd22ded1e719bac8c23a5d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1182390,
+                            "known_for_department": "Directing",
+                            "name": "Mat King",
+                            "original_name": "Mat King",
+                            "popularity": 0.196,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Becky Hayden",
+                            "credit_id": "66dd262e49fb42eaf438ba62",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3615123,
+                            "known_for_department": "Acting",
+                            "name": "Vivienne Awosoga",
+                            "original_name": "Vivienne Awosoga",
+                            "popularity": 1.726,
+                            "profile_path": "/3oY52v2I2Mqohst9w2NpiVEtMzF.jpg"
+                        },
+                        {
+                            "character": "DI Jack Mooney",
+                            "credit_id": "66dd269983ec7c2bc29a9b7f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 188402,
+                            "known_for_department": "Acting",
+                            "name": "Ardal O'Hanlon",
+                            "original_name": "Ardal O'Hanlon",
+                            "popularity": 6.046,
+                            "profile_path": "/amWRKt7Yn84NbZBNCJnZAF02TXJ.jpg"
+                        },
+                        {
+                            "character": "Grant Edgar",
+                            "credit_id": "66dd2763d9cf1123a9f5f893",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1193834,
+                            "known_for_department": "Acting",
+                            "name": "Stephen Hunter",
+                            "original_name": "Stephen Hunter",
+                            "popularity": 4.12,
+                            "profile_path": "/2B1lI5nwKPavixa0JBM0UFnSw4z.jpg"
+                        },
+                        {
+                            "character": "Jared",
+                            "credit_id": "66dd28816c9a1e43079dd993",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3709652,
+                            "known_for_department": "Acting",
+                            "name": "Barry Conrad",
+                            "original_name": "Barry Conrad",
+                            "popularity": 0.014,
+                            "profile_path": "/3jRIG9H5W2B0Q0vV73tTgtKXMof.jpg"
+                        },
+                        {
+                            "character": "Madge Woodburne",
+                            "credit_id": "66dd296911a81fe4ddec6b0a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 10760,
+                            "known_for_department": "Acting",
+                            "name": "Geneviève Lemon",
+                            "original_name": "Geneviève Lemon",
+                            "popularity": 4.341,
+                            "profile_path": "/k93Xs9K7eX06FKIePWD05eDuqBD.jpg"
+                        },
+                        {
+                            "character": "Stuart Granger",
+                            "credit_id": "66dd29c70b756450eb499165",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 130322,
+                            "known_for_department": "Acting",
+                            "name": "Jeremy Lindsay Taylor",
+                            "original_name": "Jeremy Lindsay Taylor",
+                            "popularity": 2.347,
+                            "profile_path": "/bW3vqOPnIFgtps6bsaixGFnxIbj.jpg"
+                        },
+                        {
+                            "character": "Susan Stirling",
+                            "credit_id": "66dd2a14fa9c0f8ead9dd76e",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 80664,
+                            "known_for_department": "Acting",
+                            "name": "Jenni Baird",
+                            "original_name": "Jenni Baird",
+                            "popularity": 1.942,
+                            "profile_path": "/wusuouuw9A3LmdYY55Mu0PvYrsZ.jpg"
+                        },
+                        {
+                            "character": "Trevor Bongiovanni",
+                            "credit_id": "66dd2ab42e6520503efe3766",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2896645,
+                            "known_for_department": "Acting",
+                            "name": "Ron Smyck",
+                            "original_name": "Ron Smyck",
+                            "popularity": 2.568,
+                            "profile_path": "/a1KEvCRpoeWbmDM13C9qCGtopkD.jpg"
+                        },
+                        {
+                            "character": "Zayne Wyatt",
+                            "credit_id": "66dd2b01d1e719bac8c23adb",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2060243,
+                            "known_for_department": "Acting",
+                            "name": "Dylan Hare",
+                            "original_name": "Dylan Hare",
+                            "popularity": 0.398,
+                            "profile_path": "/qj7EwT4XqXfL3ecDJikNzwPkC3G.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5109646,
+                    "name": "Dead Last",
+                    "overview": "A famous wellness influencer drops dead in the middle of a packed fun run, so DI Mackenzie Clarke finds herself delving into the world of wellness to solve the murder.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/8rGmXX9xojOImBj0HEhVJYNTriK.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66dd21e5fa9c0f8ead9dd6e1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1818129,
+                            "known_for_department": "Writing",
+                            "name": "Peter Mattessi",
+                            "original_name": "Peter Mattessi",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66dd22ded1e719bac8c23a5d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1182390,
+                            "known_for_department": "Directing",
+                            "name": "Mat King",
+                            "original_name": "Mat King",
+                            "popularity": 0.196,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Madge Woodburne",
+                            "credit_id": "66dd296911a81fe4ddec6b0a",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 10760,
+                            "known_for_department": "Acting",
+                            "name": "Geneviève Lemon",
+                            "original_name": "Geneviève Lemon",
+                            "popularity": 4.341,
+                            "profile_path": "/k93Xs9K7eX06FKIePWD05eDuqBD.jpg"
+                        },
+                        {
+                            "character": "Trevor Bongiovanni",
+                            "credit_id": "66dd2ab42e6520503efe3766",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2896645,
+                            "known_for_department": "Acting",
+                            "name": "Ron Smyck",
+                            "original_name": "Ron Smyck",
+                            "popularity": 2.568,
+                            "profile_path": "/a1KEvCRpoeWbmDM13C9qCGtopkD.jpg"
+                        },
+                        {
+                            "character": "Jade McCready",
+                            "credit_id": "66e65419d7bcca524db05b5d",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1815290,
+                            "known_for_department": "Acting",
+                            "name": "Naomi Sequeira",
+                            "original_name": "Naomi Sequeira",
+                            "popularity": 2.547,
+                            "profile_path": "/1aptlEPcwWiiRVGsQ1WegOBjTOf.jpg"
+                        },
+                        {
+                            "character": "Curtis Faleafa",
+                            "credit_id": "66e654f3e8211ecd22b05a0e",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2453933,
+                            "known_for_department": "Acting",
+                            "name": "Callan Colley",
+                            "original_name": "Callan Colley",
+                            "popularity": 0.378,
+                            "profile_path": "/pt6njzn2ZvlWwR2mzpG5pfZto0z.jpg"
+                        },
+                        {
+                            "character": "Nick Dosanjh",
+                            "credit_id": "66e655309dfbbdf0e6cf49dd",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2117011,
+                            "known_for_department": "Acting",
+                            "name": "Roy Joseph",
+                            "original_name": "Roy Joseph",
+                            "popularity": 0.9,
+                            "profile_path": "/dClboF8bBnDtcN0I6qRdloE1RBJ.jpg"
+                        },
+                        {
+                            "character": "Shelley",
+                            "credit_id": "66e655e8e8211ecd22b05a6b",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1420252,
+                            "known_for_department": "Acting",
+                            "name": "Nicole Yardley",
+                            "original_name": "Nicole Yardley",
+                            "popularity": 0.578,
+                            "profile_path": "/77KyhZyNu95stafij872prKfLCe.jpg"
+                        },
+                        {
+                            "character": "Keith Cole",
+                            "credit_id": "66e655ffdd224d1a3991286a",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1331901,
+                            "known_for_department": "Acting",
+                            "name": "Alan Dukes",
+                            "original_name": "Alan Dukes",
+                            "popularity": 0.633,
+                            "profile_path": "/8cbXC7ntlyEroGG1uxEoQecreFZ.jpg"
+                        },
+                        {
+                            "character": "Caleb",
+                            "credit_id": "66e656a3d7bcca524db05c25",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2642192,
+                            "known_for_department": "Acting",
+                            "name": "Tom Cossettini",
+                            "original_name": "Tom Cossettini",
+                            "popularity": 0.503,
+                            "profile_path": "/6ymlC8H3ViSQ5of0xWh7HGSTSNp.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5109648,
+                    "name": "Curl Up and Dye",
+                    "overview": "Three hairdressers return from lunch to find their boss, Bianca Bailey, has been killed. The method is strangulation, but the murder weapon remains a mystery that Mackenzie is determined to untangle.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/3rOT5ELznFwNfEp9E5FBuvWsdYI.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66dd22ded1e719bac8c23a5d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1182390,
+                            "known_for_department": "Directing",
+                            "name": "Mat King",
+                            "original_name": "Mat King",
+                            "popularity": 0.196,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66e2fc5d0000000000b93557",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 187499,
+                            "known_for_department": "Writing",
+                            "name": "Elizabeth Coleman",
+                            "original_name": "Elizabeth Coleman",
+                            "popularity": 0.679,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bianca Bailey",
+                            "credit_id": "66ef7151a82b005703262853",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2036467,
+                            "known_for_department": "Acting",
+                            "name": "Airlie Dodds",
+                            "original_name": "Airlie Dodds",
+                            "popularity": 3.213,
+                            "profile_path": "/anLiq1Et3NSaXzAe407Y7j7aEWN.jpg"
+                        },
+                        {
+                            "character": "Donna Smithwick",
+                            "credit_id": "66ef719e5ee61fbb738d5dd0",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 105836,
+                            "known_for_department": "Acting",
+                            "name": "Anni Finsterer",
+                            "original_name": "Anni Finsterer",
+                            "popularity": 1.529,
+                            "profile_path": "/hsVLARDV58Z49IqXPfPnm0He7LV.jpg"
+                        },
+                        {
+                            "character": "Tahnee Jones",
+                            "credit_id": "66ef721692d39685383b46fb",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2966136,
+                            "known_for_department": "Acting",
+                            "name": "Natalie Abbott",
+                            "original_name": "Natalie Abbott",
+                            "popularity": 0.095,
+                            "profile_path": "/jkMIaf4FtabPMjNwoDNshkQDiW9.jpg"
+                        },
+                        {
+                            "character": "Skye Bailey",
+                            "credit_id": "66ef72914a7f0b18b0263219",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1057485,
+                            "known_for_department": "Acting",
+                            "name": "Tess Haubrich",
+                            "original_name": "Tess Haubrich",
+                            "popularity": 8.025,
+                            "profile_path": "/pNvjKa3Rl2q681EM6kQrwbEfJeg.jpg"
+                        },
+                        {
+                            "character": "Troy Lexton",
+                            "credit_id": "66ef72c9d4a8ac49678d5985",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 61639,
+                            "known_for_department": "Acting",
+                            "name": "Jason Chong",
+                            "original_name": "Jason Chong",
+                            "popularity": 1.291,
+                            "profile_path": "/b69KUQ7QqeDQ2ZPthULWJ2YfubN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-09-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5109650,
+                    "name": "Killer Climate",
+                    "overview": "When a radical eco-activist is murdered, Mackenzie and her team must figure out how the victim was killed when the suspects were chained together, unable to reach the victim.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/wsm0s0aVZISFDD5dRx3fE4bYhOC.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66e2fc6c0000000000b9378d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1198281,
+                            "known_for_department": "Directing",
+                            "name": "Tenika Smith",
+                            "original_name": "Tenika Smith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66e2fd5a0000000000b935c0",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4938626,
+                            "known_for_department": "Writing",
+                            "name": "Alexandra Collier",
+                            "original_name": "Alexandra Collier",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Byron Jones",
+                            "credit_id": "66f6bdf8be3f1cab4d70c76c",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1510769,
+                            "known_for_department": "Acting",
+                            "name": "Harry Greenwood",
+                            "original_name": "Harry Greenwood",
+                            "popularity": 3.382,
+                            "profile_path": "/bTTjxIacR1a9GPVx2SkieZYHvbF.jpg"
+                        },
+                        {
+                            "character": "Henry Jones",
+                            "credit_id": "66f6be0d7b3072688d968432",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1190654,
+                            "known_for_department": "Acting",
+                            "name": "Hugo Johnstone-Burt",
+                            "original_name": "Hugo Johnstone-Burt",
+                            "popularity": 5.809,
+                            "profile_path": "/gt37OZhM4dwpLaaZ0xpYbWExzef.jpg"
+                        },
+                        {
+                            "character": "Ken Sen-Jones",
+                            "credit_id": "66f6be3f6c9a68155070d6d2",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1496153,
+                            "known_for_department": "Acting",
+                            "name": "Arka Das",
+                            "original_name": "Arka Das",
+                            "popularity": 0.82,
+                            "profile_path": "/hbmlfI4zeChzGMskEcO3kpjfa31.jpg"
+                        },
+                        {
+                            "character": "Maggie Mitchell",
+                            "credit_id": "66f6be72e0bf7ac285967fc1",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 96460,
+                            "known_for_department": "Acting",
+                            "name": "Deborah Kennedy",
+                            "original_name": "Deborah Kennedy",
+                            "popularity": 1.336,
+                            "profile_path": "/z5Toskoh0D7yXX4gQEr47oEyEUJ.jpg"
+                        },
+                        {
+                            "character": "Fiona Kolios",
+                            "credit_id": "66f6bf6286862fa4b450be56",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 223675,
+                            "known_for_department": "Acting",
+                            "name": "Maia Thomas",
+                            "original_name": "Maia Thomas",
+                            "popularity": 0.603,
+                            "profile_path": "/5ilEYbmPIVmsGKej0tBd2IKfJ8g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-10-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5109651,
+                    "name": "Dead Bowl",
+                    "overview": "A tense game of lawn bowls turns to chaos when a player is killed on the green in broad daylight by an antique ornamental bushranger's gun. Is the ghost of Bushranger Bill haunting Dolphin Cove?",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/zlO6L3RJDbyjaSZjTf6NWnw6tUT.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66e2fc6c0000000000b9378d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1198281,
+                            "known_for_department": "Directing",
+                            "name": "Tenika Smith",
+                            "original_name": "Tenika Smith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66e2fd6d0000000000b937d6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2169406,
+                            "known_for_department": "Writing",
+                            "name": "Kodie Bedford",
+                            "original_name": "Kodie Bedford",
+                            "popularity": 0.24,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Helen Haddon",
+                            "credit_id": "66f7a30b271200492ecbfa50",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 65010,
+                            "known_for_department": "Acting",
+                            "name": "Tara Morice",
+                            "original_name": "Tara Morice",
+                            "popularity": 1.582,
+                            "profile_path": "/6sEe9SGNFhDmCg83La8gWfd84Wf.jpg"
+                        },
+                        {
+                            "character": "Rita di Stefano",
+                            "credit_id": "66f7a33d0f6fa2cfce5f190e",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 79711,
+                            "known_for_department": "Acting",
+                            "name": "Maggie Dence",
+                            "original_name": "Maggie Dence",
+                            "popularity": 1.271,
+                            "profile_path": "/cq8NoaaMvg0alruNMWr9GHF0Doa.jpg"
+                        },
+                        {
+                            "character": "Artie O'Farrell",
+                            "credit_id": "66f7a370271200492ecbfa8c",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 63295,
+                            "known_for_department": "Acting",
+                            "name": "Peter O'Brien",
+                            "original_name": "Peter O'Brien",
+                            "popularity": 8.248,
+                            "profile_path": "/8rd32IyQUpNQs4PZiCx1CzBK0q4.jpg"
+                        },
+                        {
+                            "character": "Ted Haddon",
+                            "credit_id": "66f7a3c30f6fa2cfce5f1943",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 126341,
+                            "known_for_department": "Acting",
+                            "name": "Christopher Stollery",
+                            "original_name": "Christopher Stollery",
+                            "popularity": 2.349,
+                            "profile_path": "/uLDH142TAlTMans2gXr1asybWrD.jpg"
+                        },
+                        {
+                            "character": "Mal Haddon",
+                            "credit_id": "66f7a4eb0a12215631cbfca6",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 164758,
+                            "known_for_department": "Acting",
+                            "name": "Justin Smith",
+                            "original_name": "Justin Smith",
+                            "popularity": 0.834,
+                            "profile_path": "/i4vsm9GgMmq0IG4e4uVMPr3iB8G.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5109653,
+                    "name": "Oh Mine Papa",
+                    "overview": "When crabby Vince Ogden is found dead in his locked bedsit, it's up to Mackenzie to shine a light on the truth of his murder.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 244978,
+                    "still_path": "/uInut8hdEgzeVhW6GtoQxkrHWKe.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "66dd21e5fa9c0f8ead9dd6e1",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1818129,
+                            "known_for_department": "Writing",
+                            "name": "Peter Mattessi",
+                            "original_name": "Peter Mattessi",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66e2fc6c0000000000b9378d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1198281,
+                            "known_for_department": "Directing",
+                            "name": "Tenika Smith",
+                            "original_name": "Tenika Smith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "DI Jack Mooney",
+                            "credit_id": "66dd269983ec7c2bc29a9b7f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 188402,
+                            "known_for_department": "Acting",
+                            "name": "Ardal O'Hanlon",
+                            "original_name": "Ardal O'Hanlon",
+                            "popularity": 6.046,
+                            "profile_path": "/amWRKt7Yn84NbZBNCJnZAF02TXJ.jpg"
+                        },
+                        {
+                            "character": "Trevor Bongiovanni",
+                            "credit_id": "66dd2ab42e6520503efe3766",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2896645,
+                            "known_for_department": "Acting",
+                            "name": "Ron Smyck",
+                            "original_name": "Ron Smyck",
+                            "popularity": 2.568,
+                            "profile_path": "/a1KEvCRpoeWbmDM13C9qCGtopkD.jpg"
+                        },
+                        {
+                            "character": "Vince Ogden",
+                            "credit_id": "66f903917f13b7b12aa23e58",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 79363,
+                            "known_for_department": "Acting",
+                            "name": "Peter Phelps",
+                            "original_name": "Peter Phelps",
+                            "popularity": 2.938,
+                            "profile_path": "/5UGsFHlQOxf5Ded5M4OJwU6hjgu.jpg"
+                        },
+                        {
+                            "character": "Dot Ogden",
+                            "credit_id": "66f903b8271200492ecc40cd",
+                            "order": 531,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 77563,
+                            "known_for_department": "Acting",
+                            "name": "Nicole Nabout",
+                            "original_name": "Nicole Nabout",
+                            "popularity": 1.908,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Priya Ogden",
+                            "credit_id": "66f903dbe7d24ebb2ba23f40",
+                            "order": 532,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1365550,
+                            "known_for_department": "Acting",
+                            "name": "Sarah Roberts",
+                            "original_name": "Sarah Roberts",
+                            "popularity": 2.485,
+                            "profile_path": "/oex1McX5Cdv98ht0kVsuzoQYjrj.jpg"
+                        },
+                        {
+                            "character": "Finn Ogden",
+                            "credit_id": "66f9042c0f6fa2cfce5f6121",
+                            "order": 533,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2250542,
+                            "known_for_department": "Acting",
+                            "name": "Yazeed Daher",
+                            "original_name": "Yazeed Daher",
+                            "popularity": 0.305,
+                            "profile_path": "/nyjcXsgi0PzcseASD7gkv6JXmDY.jpg"
+                        },
+                        {
+                            "character": "Lottie Ogden",
+                            "credit_id": "66f905cc0f6fa2cfce5f6141",
+                            "order": 534,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420489,
+                            "known_for_department": "Acting",
+                            "name": "Roxie Mohebbi",
+                            "original_name": "Roxie Mohebbi",
+                            "popularity": 1.227,
+                            "profile_path": "/ydceO7eKKhQnOAiM3A4g8h7T0bs.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 376650,
+            "poster_path": "/sPhKS5cLESYx6kE5fWGdLlgFJHL.jpg",
+            "season_number": 1,
+            "vote_average": 6.2
+        }
+    }
+}

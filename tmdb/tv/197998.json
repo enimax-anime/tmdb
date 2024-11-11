@@ -1,0 +1,121 @@
+{
+    "adult": false,
+    "backdrop_path": "/jwcCd2ZnoZLyjRZZXIeAAO9KUwh.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-08-18",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.syfy.com/dr-havocs-diary",
+    "id": 197998,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-08-18",
+    "last_episode_to_air": {
+        "id": 3673800,
+        "name": "Brock in the Basement",
+        "overview": "The world is introduced to international super villain, Dr. Havoc, as he's about to defeat his archnemesis, Secret Agent Brock Mason. A poorly timed call from his wife threatens to upset the whole master plan.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-08-18",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 197998,
+        "still_path": null
+    },
+    "name": "Dr. Havoc's Diary",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 77,
+            "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+            "name": "Syfy",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dr. Havoc's Diary",
+    "overview": "Dr. Havoc's attempts to take over the world will not be stalled by a midlife crisis; after discovering his wife has been sleeping with his arch-nemesis, he realizes that his life of master plans and world domination isn't all it's cracked up to be.",
+    "popularity": 0.01,
+    "poster_path": "/b3dgNMeWdlCqSSGrRS9JpNX5CPc.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-08-18",
+            "episode_count": 1,
+            "id": 288405,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "625f5cd932489b0066948c96",
+            "air_date": "2016-08-18",
+            "episodes": [
+                {
+                    "air_date": "2016-08-18",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3673800,
+                    "name": "Brock in the Basement",
+                    "overview": "The world is introduced to international super villain, Dr. Havoc, as he's about to defeat his archnemesis, Secret Agent Brock Mason. A poorly timed call from his wife threatens to upset the whole master plan.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 197998,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 288405,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

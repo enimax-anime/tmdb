@@ -1,0 +1,888 @@
+{
+    "adult": false,
+    "backdrop_path": "/pNAJqweCa1oAKXSEXj99NKzssYq.jpg",
+    "created_by": [
+        {
+            "id": 1423098,
+            "credit_id": "5d6ac1030e4fc80010d86202",
+            "name": "Aisling Bea",
+            "gender": 1,
+            "profile_path": "/9GDvJGiyRkCOmzlEUsMfWI0np89.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2019-08-08",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/this-way-up",
+    "id": 91740,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-07-14",
+    "last_episode_to_air": {
+        "id": 3061045,
+        "name": "Episode 6",
+        "overview": "Aine finds out her friend Tom has killed himself. Shona accidentally leaves Vish a damning voicenote intended for Charlotte.",
+        "vote_average": 8,
+        "vote_count": 2,
+        "air_date": "2021-07-14",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 2,
+        "show_id": 91740,
+        "still_path": "/aPmYG2x7HP6atKPGYzTo2bURGGa.jpg"
+    },
+    "name": "This Way Up",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "This Way Up",
+    "overview": "A young woman puts her life back together after suffering from a nervous breakdown.",
+    "popularity": 7.825,
+    "poster_path": "/mcj3pxw0Z2xx4vGdKi6apWuaWll.jpg",
+    "production_companies": [
+        {
+            "id": 81259,
+            "logo_path": "/qCokKkvUfRUoQWqwKdbNp6VHV16.png",
+            "name": "Merman",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-08-08",
+            "episode_count": 6,
+            "id": 128698,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/8nz350IDSV7LEYRIApWqZuXvujV.jpg",
+            "season_number": 1,
+            "vote_average": 7.2
+        },
+        {
+            "air_date": "2021-07-14",
+            "episode_count": 6,
+            "id": 199410,
+            "name": "Series 2",
+            "overview": "",
+            "poster_path": "/Afd6slxbmHUcDEk7JCxYq8OlH5a.jpg",
+            "season_number": 2,
+            "vote_average": 7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.1,
+    "vote_count": 41,
+    "season_data": {
+        "1": {
+            "_id": "5d41f95b95acf0000fb1f5c0",
+            "air_date": "2019-08-08",
+            "episodes": [
+                {
+                    "air_date": "2019-08-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1868487,
+                    "name": "Episode 1",
+                    "overview": "After being dropped from a dinner party invitation, Aine calls an old friend from rehab for some company only for things to take an unexpected turn. Shona connects with new friend Charlotte.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/tL32bGYOSZOfRlNpIo71uFcS677.jpg",
+                    "vote_average": 6.6,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 26.708,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 2.896,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        },
+                        {
+                            "character": "Freddie",
+                            "credit_id": "65060cc85aadc400e4011391",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 62879,
+                            "known_for_department": "Acting",
+                            "name": "Chris Geere",
+                            "original_name": "Chris Geere",
+                            "popularity": 13.493,
+                            "profile_path": "/y5Ti23z47KY0XG7lzSLxffB0QKn.jpg"
+                        },
+                        {
+                            "character": "Tom",
+                            "credit_id": "65060cda42d8a500fe3a852d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 109834,
+                            "known_for_department": "Acting",
+                            "name": "Ricky Grover",
+                            "original_name": "Ricky Grover",
+                            "popularity": 1.357,
+                            "profile_path": "/jF8epQaE66IFbzEsQgmGzdGvkSl.jpg"
+                        },
+                        {
+                            "character": "Theresa",
+                            "credit_id": "65060cfc3cd12c010ccff318",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1227883,
+                            "known_for_department": "Acting",
+                            "name": "Dystin Johnson",
+                            "original_name": "Dystin Johnson",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Victor",
+                            "credit_id": "65060d0842d8a500c4fb913b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1952403,
+                            "known_for_department": "Acting",
+                            "name": "Todor Jordanov",
+                            "original_name": "Todor Jordanov",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Chien",
+                            "credit_id": "65060d1b5aadc4011e651aff",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1228239,
+                            "known_for_department": "Acting",
+                            "name": "Pik-Sen Lim",
+                            "original_name": "Pik-Sen Lim",
+                            "popularity": 4.535,
+                            "profile_path": "/ukr9KwI0ZlLrtyRzKiI3y2YGuSq.jpg"
+                        },
+                        {
+                            "character": "Mo",
+                            "credit_id": "65060d2a3cd12c010ccff32e",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1906597,
+                            "known_for_department": "Acting",
+                            "name": "Jassem Mougari",
+                            "original_name": "Jassem Mougari",
+                            "popularity": 1.22,
+                            "profile_path": "/sElLWr7VmWlxVsK8EsKRxyw0ivX.jpg"
+                        },
+                        {
+                            "character": "James",
+                            "credit_id": "65060d39109dec014f40bc18",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1797012,
+                            "known_for_department": "Acting",
+                            "name": "Ekow Quartey",
+                            "original_name": "Ekow Quartey",
+                            "popularity": 4.254,
+                            "profile_path": "/p0txe4AFkGe8cg5tuBwTC5bYnq1.jpg"
+                        },
+                        {
+                            "character": "Alina",
+                            "credit_id": "65060d47373ac200acd64aa6",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3185466,
+                            "known_for_department": "Acting",
+                            "name": "Daniela Spataru",
+                            "original_name": "Daniela Spataru",
+                            "popularity": 0.631,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Psychotherapy Receptionist",
+                            "credit_id": "65060d8545765d013b5edaea",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1790596,
+                            "known_for_department": "Acting",
+                            "name": "Charlie Hayes",
+                            "original_name": "Charlie Hayes",
+                            "popularity": 0.756,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "TV Presenter",
+                            "credit_id": "65060d9cfa27f400eb172091",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4275637,
+                            "known_for_department": "Acting",
+                            "name": "Becca Stewart",
+                            "original_name": "Becca Stewart",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1890926,
+                    "name": "Episode 2",
+                    "overview": "Aine interviews for a new tutoring job teaching a young French boy, who has recently lost his mother, but she's at risk of missing her first lesson and badly letting him down.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/dboU053auBbyzx88WWxKR3opE5A.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Richard",
+                            "credit_id": "65060a00394a8700ff6bb8d5",
+                            "order": 3,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10920,
+                            "known_for_department": "Acting",
+                            "name": "Tobias Menzies",
+                            "original_name": "Tobias Menzies",
+                            "popularity": 27.099,
+                            "profile_path": "/7Hj0igiFVkX8R5TUNSL3dezkkP0.jpg"
+                        },
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 26.708,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 2.896,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1890927,
+                    "name": "Episode 3",
+                    "overview": "Aine and Richard's relationship gets complicated when she is inadvertently invited for dinner but leaves early after an awkward misunderstanding",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/9D8D6LRsWWlDL0skdUnBLmXKCab.jpg",
+                    "vote_average": 7.3,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Richard",
+                            "credit_id": "65060a00394a8700ff6bb8d5",
+                            "order": 2,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10920,
+                            "known_for_department": "Acting",
+                            "name": "Tobias Menzies",
+                            "original_name": "Tobias Menzies",
+                            "popularity": 27.099,
+                            "profile_path": "/7Hj0igiFVkX8R5TUNSL3dezkkP0.jpg"
+                        },
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 26.708,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 2.896,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1890928,
+                    "name": "Episode 4",
+                    "overview": "Aine and Shona's mother is over from Ireland to visit Vish's family. Tensions are high, as Aine and her mother haven't spoken in months, while Shona feels stuck in the middle.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/f8xwhUrRdRi6PO3ue5s3zsoKNVN.jpg",
+                    "vote_average": 7.3,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 26.708,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1890929,
+                    "name": "Episode 5",
+                    "overview": "A text from her ex Freddie catches Aine by surprise. Later, a spontaneous night out with Bradley and his friends gives her the chance to let her hair down.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/p8x9k3TNpdf0Dy6QWHWDM0lblp6.jpg",
+                    "vote_average": 8.2,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Richard",
+                            "credit_id": "65060a00394a8700ff6bb8d5",
+                            "order": 2,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10920,
+                            "known_for_department": "Acting",
+                            "name": "Tobias Menzies",
+                            "original_name": "Tobias Menzies",
+                            "popularity": 27.099,
+                            "profile_path": "/7Hj0igiFVkX8R5TUNSL3dezkkP0.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 2.896,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-12",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1890930,
+                    "name": "Episode 6",
+                    "overview": "Romance blooms between Aine and Richard, but she's caught off guard when she turns up unexpectedly to find another woman in his house.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 91740,
+                    "still_path": "/ufhqX4UFF2GQhl5TY5d89GtoU8M.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Richard",
+                            "credit_id": "65060a00394a8700ff6bb8d5",
+                            "order": 2,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 10920,
+                            "known_for_department": "Acting",
+                            "name": "Tobias Menzies",
+                            "original_name": "Tobias Menzies",
+                            "popularity": 27.099,
+                            "profile_path": "/7Hj0igiFVkX8R5TUNSL3dezkkP0.jpg"
+                        },
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 26.708,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 2.896,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 128698,
+            "poster_path": "/8nz350IDSV7LEYRIApWqZuXvujV.jpg",
+            "season_number": 1,
+            "vote_average": 7.2
+        },
+        "2": {
+            "_id": "60caa03299259c005973597f",
+            "air_date": "2021-07-14",
+            "episodes": [
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3029341,
+                    "name": "Episode 1",
+                    "overview": "Excitement mounts for Aine as she prepares for a big first date with Etienne’s dad, Richard. Meanwhile Shona adapts to an awkward working relationship with Charlotte and struggles to settle in to her massive new house with Vish away in New York.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/dgqj9bD1I9XJpReZFYeIPYGQSrT.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 30.012,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 3.269,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3061041,
+                    "name": "Episode 2",
+                    "overview": "Aine and Richard have some awkward hiccups as Shona attempts to restore a friendly working relationship with Charlotte.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/4L3q3IGus7h8RjnMpGoPVXSJJhp.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 30.012,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3061042,
+                    "name": "Episode 3",
+                    "overview": "Aine spices things up with Richard and he opens up to her. Shona’s lack of support for Aine’s business venture hits her hard.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/sVSnT90wxZDv2hfvjJUjhD4Vhz9.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 30.012,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 3.269,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3061043,
+                    "name": "Episode 4",
+                    "overview": "Vish tells Shona he is going to meet his ex in New York. Meanwhile, Aine helps Bradley out at a Windrush fundraiser.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/kblPlH3orbMNxVouA6w4a968VmF.jpg",
+                    "vote_average": 5.3,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 3.269,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        },
+                        {
+                            "character": "Vish",
+                            "credit_id": "65060c2d109dec010cc16f8e",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20644,
+                            "known_for_department": "Acting",
+                            "name": "Aasif Mandvi",
+                            "original_name": "Aasif Mandvi",
+                            "popularity": 6.64,
+                            "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3061044,
+                    "name": "Episode 5",
+                    "overview": "Shona contemplates Vish’s suggestion that they adopt kids. Aine meets Richard’s friend Mark and overhears them speaking negatively about her. Shona and Charlotte mend their friendship.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/cpb1j6Dfs5gCkGV3h1IQFrjMvD8.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 30.012,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-14",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3061045,
+                    "name": "Episode 6",
+                    "overview": "Aine finds out her friend Tom has killed himself. Shona accidentally leaves Vish a damning voicenote intended for Charlotte.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 91740,
+                    "still_path": "/aPmYG2x7HP6atKPGYzTo2bURGGa.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Charlotte",
+                            "credit_id": "65060a8afa27f400ae9e0d50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 30430,
+                            "known_for_department": "Acting",
+                            "name": "Indira Varma",
+                            "original_name": "Indira Varma",
+                            "popularity": 30.012,
+                            "profile_path": "/iNplVZNqPkOXc4gGwTX3kyo3ykO.jpg"
+                        },
+                        {
+                            "character": "Bradley",
+                            "credit_id": "65060b7142d8a5013899fef8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1411379,
+                            "known_for_department": "Acting",
+                            "name": "Kadiff Kirwan",
+                            "original_name": "Kadiff Kirwan",
+                            "popularity": 3.269,
+                            "profile_path": "/pyDKDSVtDTdmnzhOVW1tkQDHKOi.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 2",
+            "overview": "",
+            "id": 199410,
+            "poster_path": "/Afd6slxbmHUcDEk7JCxYq8OlH5a.jpg",
+            "season_number": 2,
+            "vote_average": 7
+        }
+    }
+}

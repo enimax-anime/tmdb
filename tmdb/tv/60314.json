@@ -1,0 +1,155 @@
+{
+    "adult": false,
+    "backdrop_path": "/npvaVatMLTwk7TpIMfUADKG1hbd.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-02-17",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.discoveryplus.com/show/uprooted-us",
+    "id": 60314,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-02-17",
+    "last_episode_to_air": {
+        "id": 3519660,
+        "name": "What Justice Looks Like",
+        "overview": "As the Warren family seeks closure in the aftermath of Keith's death, Sherri Warren picks up the mantle from her mother to find justice. She encounters more walls within the justice system as she tries to get Keith's death certificate changed.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-02-17",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 60314,
+        "still_path": "/fIGvPn80aK3AMTjFzY6g4jfTHCV.jpg"
+    },
+    "name": "Uprooted",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4353,
+            "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+            "name": "discovery+",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Uprooted",
+    "overview": "When Keith Warren, a Black man, was found hanging in the woods of Silver Spring, MD, police ruled it a suicide. For 35 years, the family attempted to find the truth, and his sister, Sherri Warren, now has one goal -- to get his death certificate changed.",
+    "popularity": 0.533,
+    "poster_path": "/8WHjCIxqLOYQhQR0IFhitQ5uMYD.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-02-17",
+            "episode_count": 3,
+            "id": 245026,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "62134f6b3f48330044701880",
+            "air_date": "2022-02-17",
+            "episodes": [
+                {
+                    "air_date": "2022-02-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3519658,
+                    "name": "A Life Interrupted",
+                    "overview": "In 1986, everything changes for a family in Silver Spring, MD, when their son Keith Warren, a 19-year-old Black man, is found hanging from a tree. As facts are discovered surrounding his death, they realize that many pieces of the story are not adding up.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 60314,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3519659,
+                    "name": "The Devil Is in the Details",
+                    "overview": "Details about Keith's case continue to unfold as photos from the scene mysteriously emerge, leaving the family with questions about who may have been involved in his death and why they may have been trying to cover up what really happened.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 60314,
+                    "still_path": "/6TLnJ0AGpHzYMvZKdEFEXY1BhiM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-17",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3519660,
+                    "name": "What Justice Looks Like",
+                    "overview": "As the Warren family seeks closure in the aftermath of Keith's death, Sherri Warren picks up the mantle from her mother to find justice. She encounters more walls within the justice system as she tries to get Keith's death certificate changed.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 60314,
+                    "still_path": "/fIGvPn80aK3AMTjFzY6g4jfTHCV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 245026,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

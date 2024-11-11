@@ -1,0 +1,866 @@
+{
+    "adult": false,
+    "backdrop_path": "/eaKx9eRZzlcscnce4GVRgQ8hwFW.jpg",
+    "created_by": [
+        {
+            "id": 3571403,
+            "credit_id": "62967991df86a834e234f0b1",
+            "name": "Mark Oliver",
+            "original_name": "Mark Oliver",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2018-06-05",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "https://www.nationalgeographic.com/tv/hitlers-last-stand/",
+    "id": 90439,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-01",
+    "last_episode_to_air": {
+        "id": 4857679,
+        "name": "Audie Murphy's Finest Hour",
+        "overview": "An American 2nd lieutenant sends his company back during an enemy counterattack during the Allied bid to clear the Colmar Pocket; he tries to hold off the German soldiers with his carbine rifle and calling in artillery but runs out of bullets.",
+        "vote_average": 5,
+        "vote_count": 1,
+        "air_date": "2023-09-01",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 5,
+        "show_id": 90439,
+        "still_path": null
+    },
+    "name": "Hitler's Last Stand",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 28,
+    "number_of_seasons": 5,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Hitler's Last Stand",
+    "overview": "Nazi diehard and fanatics fight to the last man to stop Allied forces from freeing Europe, keeping an unrelenting grip on the naval bases, citadels and fortresses of occupied Europe.",
+    "popularity": 9.894,
+    "poster_path": "/lJwRps19ZViqwL3bvkZPw5u2yUV.jpg",
+    "production_companies": [
+        {
+            "id": 79417,
+            "logo_path": null,
+            "name": "Parallax Film Productions",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-06-05",
+            "episode_count": 4,
+            "id": 126108,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/i4ma3yKXxQN2qvIoWVCFKzmDvCy.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        },
+        {
+            "air_date": "2019-06-03",
+            "episode_count": 6,
+            "id": 126152,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/KnI1E5pEBUC52UsFhjpHyNOVfi.jpg",
+            "season_number": 2,
+            "vote_average": 5
+        },
+        {
+            "air_date": "2021-07-01",
+            "episode_count": 6,
+            "id": 217750,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/3cMqvwf05hLITQfbzG6ITTOBKnP.jpg",
+            "season_number": 3,
+            "vote_average": 5.2
+        },
+        {
+            "air_date": "2022-09-01",
+            "episode_count": 6,
+            "id": 305547,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": "/dZHvmGiBRfLhetR0SCGgmweXhMV.jpg",
+            "season_number": 4,
+            "vote_average": 5.3
+        },
+        {
+            "air_date": "2023-09-01",
+            "episode_count": 6,
+            "id": 361890,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 5,
+            "vote_average": 5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.3,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "5d08d690c3a3683dd81ea189",
+            "air_date": "2018-06-05",
+            "episodes": [
+                {
+                    "air_date": "2018-06-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1823573,
+                    "name": "Panzer Fury",
+                    "overview": "The Allies must capture the Abbaye d'Ardenne, which guards the city of Caen but is held by a notorious Panzer unit accused of horrific war crimes.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 90439,
+                    "still_path": "/wPXk2YysQkzpDEPZ4yySkG3JgWJ.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-12",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1824185,
+                    "name": "Nazi Fortress",
+                    "overview": "Desperate to feed the Allied advance after D-Day, US forces target a deep water port in France during a month long siege against Nazi paratroopers.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 90439,
+                    "still_path": "/b8xOelRvvV23QOpmiocMnw5UWyI.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-06-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1824186,
+                    "name": "Forest of Death",
+                    "overview": "As winter sets in, US Rangers must capture Hill 400, a strategic peak on the German border.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 90439,
+                    "still_path": "/1pJrgaakv7IARZa8jXHNN37DkOk.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-07-03",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1824187,
+                    "name": "Enemy Allies",
+                    "overview": "German and American soldiers fight together to save French VIP prisoners from Nazi troops.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 90439,
+                    "still_path": "/4JElNsCwxxZFXD9NiQKx9xyS23s.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 126108,
+            "poster_path": "/i4ma3yKXxQN2qvIoWVCFKzmDvCy.jpg",
+            "season_number": 1,
+            "vote_average": 5
+        },
+        "2": {
+            "_id": "5d09aa140e0a265a7bc9d660",
+            "air_date": "2019-06-03",
+            "episodes": [
+                {
+                    "air_date": "2019-06-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1824188,
+                    "name": "Lost Battalion",
+                    "overview": "During the Allied drive to liberate the fortified port of St. Malo, Nazi forces cut off and encircle an American battalion in a bold defensive move.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/kC3LFiRoJJIKRgxOB4SCFEf9ln1.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1824189,
+                    "name": "Nazis Strike Back",
+                    "overview": "U.S. forces fight to the death against Hitler’s massive surprise offensive to slow the Nazi advance allowing for the legendary defense of Bastogne.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/9d38iMwn5HTlIah83KGDWrIcN0V.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1824190,
+                    "name": "Deadly Defiance",
+                    "overview": "In bitter fighting, American forces clash with elite Nazi troops in the Colmar Pocket to complete the liberation of France in January 1945.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/tSfnCpgFwurLJBZSBiIg3KxhRfC.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1881497,
+                    "name": "Nazi Kill Zone",
+                    "overview": "Allied forces launch a surprise airborne attack behind Nazi lines in September 1944.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/2K1O7JzTQzWTcDnFOD5NGM9f7ZS.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1881499,
+                    "name": "Island of Fire",
+                    "overview": "The Calgary Highlanders defy a wall of Nazi counterfire on the Walcheren causeway.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/lRvYJL4Rl86CFNBRsi7qrIDTHrL.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-08-05",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1881500,
+                    "name": "Defend The Rhine",
+                    "overview": "As Allied armies line up along the River Rhine prepared to invade Nazi Germany, the race for a bridge could change the course of the war.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 90439,
+                    "still_path": "/6UZID2Bela4sq8jt5AoCiRa4cqg.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 126152,
+            "poster_path": "/KnI1E5pEBUC52UsFhjpHyNOVfi.jpg",
+            "season_number": 2,
+            "vote_average": 5
+        },
+        "3": {
+            "_id": "617e31e3e741460084b4e83d",
+            "air_date": "2021-07-01",
+            "episodes": [
+                {
+                    "air_date": "2021-07-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3314970,
+                    "name": "No Better Place to Die",
+                    "overview": "In advance of the D-Day Landings, paratroopers from the US 82nd Airborne Division are dropped behind enemy lines to capture strategic positions. One such location is near the town of Ste Mere Eglise where American airborne troops fight Nazi forces for control of a bridgehead for three days, to prevent German reinforcements from reaching the beaches.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/doUPlWcD5LbmLdfCppKFW8ojxIS.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Coordinator",
+                            "department": "Production",
+                            "credit_id": "65cdef57d8af670187902c5f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3314971,
+                    "name": "Hell in Hoven",
+                    "overview": "In November 1944, Eisenhower's Broad Front strategy is tested by heavy rains and thick mud which sever supply lines and hinder reinforcements, as British troops arrive to fight on German soil alongside US troops to take the fortified town of Geilenkirchen, a stronghold in Hitler's infamous Siegfried Line.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/pViItAXu5Gh3xv0ZUBZJTlvncNB.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Coordinator",
+                            "department": "Production",
+                            "credit_id": "65cdef57d8af670187902c5f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3314972,
+                    "name": "Castle Valor",
+                    "overview": "In April 1945, 2nd Lt. Vernon J. Baker and a platoon of American Buffalo Soldiers fight three miles into enemy territory to close in on a Nazi occupied castle in Italy, avoiding minefields, destroying observation posts and capturing machine gun nests. But to make a final assault, they must wait for reinforcements. It will take more than fifty years for the valor of these African American soldiers to be fully acknowledged.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/59AUObqxkec7Xu81oSFArHsrTgF.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Coordinator",
+                            "department": "Production",
+                            "credit_id": "65cdef57d8af670187902c5f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3314976,
+                    "name": "Falaise Trap",
+                    "overview": "In August 1944, the Allies close in on remnants of the German Army in Normandy-about 100,000 soldiers, their weapons and tanks to create the Falaise Pocket. But as they squeeze, a small gap remains in the Allied line that promises escape. A small Canadian tank squadron must hold the line as the pressure builds.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/efbfeUTKAwgvpHBmW4oNf1Lqrv.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65cdeef299259c0163255076",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3314983,
+                    "name": "Frozen Offensive",
+                    "overview": "In December 1944, Hitler launches his infamous Operation Wacht am Rhein and his tanks make a desperate dash for the port of Antwerp in the opening of what would become known as the Battle of the Bulge. In response, the US 505th Parachute Infantry Regiment is sent into the Ardennes to secure a critical bridge against a Nazi battle group and defend it at all costs.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/1i2S4zFmOj9W9UMf9dKBAMTegvT.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65cdeef299259c0163255076",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-07-02",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3314984,
+                    "name": "Savage Spring",
+                    "overview": "After coming ashore with the French-Canadian Regiment de la Chaudiere on D-Day, a sniper loses the sight in one eye during the battle for Caen but refuses to be sent home and rejoins his regiment. In April 1944, as the Chaudieres Leo Major volunteers to try and make contact with the Dutch resistance in the city of Zwolle, and manages to liberate the city without the loss of civilian life.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 90439,
+                    "still_path": "/7XGDJGRXzjNZbuqdf3GLz3sbGAR.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "65cdeef299259c0163255076",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 217750,
+            "poster_path": "/3cMqvwf05hLITQfbzG6ITTOBKnP.jpg",
+            "season_number": 3,
+            "vote_average": 5.2
+        },
+        "4": {
+            "_id": "6302c2ffb39e35007f6804cf",
+            "air_date": "2022-09-01",
+            "episodes": [
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3908151,
+                    "name": "Killer Causeway",
+                    "overview": "In June 1944, paratroopers from the 101st Airborne race to secure the French city of Carentan and open a link between the American forces on Omaha and Utah beaches. But Nazi paratroopers arrive first and pin them down outside of the city. Running out of options, their commander orders a daring bayonet charge to break through the Nazi defenses.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/vz03SqptVqPYohYvrsOrXJcXewN.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Reenactor",
+                            "credit_id": "6530572f9d592c00ae9f43a2",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3522737,
+                            "known_for_department": "Acting",
+                            "name": "Aiden Howard",
+                            "original_name": "Aiden Howard",
+                            "popularity": 2.034,
+                            "profile_path": "/cL9HA9nWeFvv9sBZ7vZDiS35GTt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3908169,
+                    "name": "Bunker Blitz",
+                    "overview": "After months of fighting in Europe, US forces finally cross into Germany to destroy Hitler's war-making power and encounter the infamous Siegfried Line defenses. With their sights set on the city of Aachen, the Americans must smash through two lines of bunker fortifications to capture the ancient capital.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/lblOpLyYgN2SByL4yXuvn1gsrir.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3908170,
+                    "name": "Suicide Hill",
+                    "overview": "In October 1944, a regiment of segregated Japanese American soldiers fights to rescue an encircled US battalion in the steep, booby-trapped forests of the Vosges mountains. With the Nazis closing in and supplies running out, the Nisei soldiers push the limits to reach their brothers-in-arms. It will take more than fifty years for their valor to be fully acknowledged.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/sgi10GnKct3tjQGsWnQrwgiCFq3.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3908171,
+                    "name": "Panzer Rush",
+                    "overview": "As Christmas 1944 nears, Nazi Panzer forces sweep through Belgium as they drive to recapture the port city of Antwerp. At westernmost edge of the famous Bulge, American paratroopers of the 517th Parachute Infantry Regiment fight fiercely to reverse the breakthrough. During the fighting, a young US scout becomes separated from his regiment and spends the night trapped behind the enemy line.\n\nAs the Battle of the Bulge rages, a young US scout becomes separated from his regiment and spends the night trapped behind the enemy line.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/biMDPM7lZ6t4tZ5C2sSdj9DmrQz.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3908172,
+                    "name": "Himmler's Folly",
+                    "overview": "In a bid to support the Battle of the Bulge in Jan 1945, Heinrich Himmler launches a surprise offensive to recapture the French city of Strasbourg. A regiment of green US troops, defend Maginot Line pillboxes to slow the Nazi offence but are eventually overrun. Undeterred, a former cook refuses to leave his post and makes a daring stand in the face of overwhelming odds.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/ld9gcIcqo79OgCYJDim6QywGH3P.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3908173,
+                    "name": "Nazi Tank Hunters",
+                    "overview": "October 1944. After a nighttime crossing the flooded Savio River in Italy, a newly formed tank hunting platoon of the Canadian Seaforth Highlanders encounters a Kampfgruppe of German Panther tanks and self propelled guns. Cut off from their own armour by the rising river, the Seaforths must fight off the battle group with only weapons they can carry.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 4,
+                    "show_id": 90439,
+                    "still_path": "/4zxE7y2Db6oxeR10aI2GskLFjNd.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Production Manager",
+                            "department": "Production",
+                            "credit_id": "65cdefb151e6ab01861ff5bd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1381967,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Potvin",
+                            "original_name": "Cynthia Potvin",
+                            "popularity": 0.536,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 4",
+            "overview": "",
+            "id": 305547,
+            "poster_path": "/dZHvmGiBRfLhetR0SCGgmweXhMV.jpg",
+            "season_number": 4,
+            "vote_average": 5.3
+        },
+        "5": {
+            "_id": "65335265d40d4c012cebc8d2",
+            "air_date": "2023-09-01",
+            "episodes": [
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4834387,
+                    "name": "Resistance Revenge",
+                    "overview": "In July of 1944, French resistance fighters called Maquisards declare a Free French Republic on the remote Vercors plateau in eastern France to support the Allied invasion of Normandy.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4857674,
+                    "name": "Artillery Showdown",
+                    "overview": "In August 1944, when Hitler launches Operation Lüttich to retake the port city of Avranches, German panzer and SS troops quickly overrun the French town of Mortain and encircle a battalion of US soldiers who hold the high ground on Hill 314.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4857675,
+                    "name": "Fortress Fury",
+                    "overview": "In the autumn of 1944, Patton's Third Army approaches the heavily fortified region of Metz; after being turned back from Fort Driant, Patton's men target Fort Koenigsmacker a month later.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4857676,
+                    "name": "Guard the Rhine",
+                    "overview": "In February 1945, Allied forces lead an attack out of the Netherlands and onto German soil west of the Rhine defended by elite paratrooper units; a Canadian battalion administrator must assume command of a company and lead them into battle.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4857677,
+                    "name": "Forest Hell",
+                    "overview": "When his company attempts to capture a small village, an American soldier, born in Mexico but raised in Texas, must crawl through an enemy minefield to capture two German machine gun nests holding up his unit.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-01",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4857679,
+                    "name": "Audie Murphy's Finest Hour",
+                    "overview": "An American 2nd lieutenant sends his company back during an enemy counterattack during the Allied bid to clear the Colmar Pocket; he tries to hold off the German soldiers with his carbine rifle and calling in artillery but runs out of bullets.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 5,
+                    "show_id": 90439,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 5",
+            "overview": "",
+            "id": 361890,
+            "poster_path": null,
+            "season_number": 5,
+            "vote_average": 5
+        }
+    }
+}

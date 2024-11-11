@@ -1,0 +1,105 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2018-10-12",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.cc.com/shows/road-to-hollygrove",
+    "id": 83064,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-10-12",
+    "last_episode_to_air": {
+        "id": 1593045,
+        "name": "Leaving L.A.",
+        "overview": "Cam, Hill, Maddie and Rigby embark on an epic road trip, only to get stuck in terrible commuter traffic.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-10-12",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 10,
+        "season_number": 1,
+        "show_id": 83064,
+        "still_path": "/3ZosLoYt8o2mdSly9ZdD31godS2.jpg"
+    },
+    "name": "Road to Hollygrove",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": null,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Road to Hollygrove",
+    "overview": "Four friends drop everything to take a cross-country road trip to see Lil Wayne's final concert in New Orleans.",
+    "popularity": 0.094,
+    "poster_path": "/t6KsweIt5XYVf9dRzvLVdsHm0rT.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-10-12",
+            "episode_count": 1,
+            "id": 110733,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5bc0d642c3a3682d4701fe04",
+            "air_date": "2018-10-12",
+            "episodes": [
+                {
+                    "air_date": "2018-10-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1593045,
+                    "name": "Leaving L.A.",
+                    "overview": "Cam, Hill, Maddie and Rigby embark on an epic road trip, only to get stuck in terrible commuter traffic.",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 83064,
+                    "still_path": "/3ZosLoYt8o2mdSly9ZdD31godS2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 110733,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

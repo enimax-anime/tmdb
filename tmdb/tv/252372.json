@@ -1,0 +1,302 @@
+{
+    "adult": false,
+    "backdrop_path": "/rsLZK4xAw1Oun0T5UWfG213qalP.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-10-31",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81554969",
+    "id": 252372,
+    "in_production": true,
+    "languages": [
+        "de"
+    ],
+    "last_air_date": "2024-10-31",
+    "last_episode_to_air": {
+        "id": 5577466,
+        "name": "Death",
+        "overview": "Björn enacts a risky plan to deal with Boris and get Nicole off his back, and it's important to be mindful of every detail.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2024-10-31",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 34,
+        "season_number": 1,
+        "show_id": 252372,
+        "still_path": "/sm65GjKz3JAgyh5fzMasKK4B4ME.jpg"
+    },
+    "name": "Murder Mindfully",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Achtsam Morden",
+    "overview": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder.",
+    "popularity": 535.421,
+    "poster_path": "/3snsd7KLau14equwCz9YLZu9lTO.jpg",
+    "production_companies": [
+        {
+            "id": 47,
+            "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+            "name": "Constantin Film",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-10-31",
+            "episode_count": 8,
+            "id": 389493,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/3snsd7KLau14equwCz9YLZu9lTO.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 34,
+    "season_data": {
+        "1": {
+            "_id": "6624ba30cb6db50186af0bf4",
+            "air_date": "2024-10-31",
+            "episodes": [
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5296100,
+                    "name": "Breathing",
+                    "overview": "After taking mindfulness lessons, defense lawyer Björn finds a new way to deal with his main client: a violent crime boss who demands too much of him.",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/unyUVc5c9n13HD205u350KexKuG.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66d87f91005d624a116ce81f",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1541764,
+                            "known_for_department": "Directing",
+                            "name": "Martina Plura",
+                            "original_name": "Martina Plura",
+                            "popularity": 1.81,
+                            "profile_path": "/7ZunlitQqJhNNgN71STVK5RcKal.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66d87fac35b77029223c0da5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 995513,
+                            "known_for_department": "Directing",
+                            "name": "Max Zähle",
+                            "original_name": "Max Zähle",
+                            "popularity": 0.407,
+                            "profile_path": "/xyoJY4vEHRXCpdjJETMX0f1zLa3.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5577459,
+                    "name": "Happiness",
+                    "overview": "Björn figures out how to mindfully dispose of a body while navigating the suspicions of his family, the police and Dragan's underlings.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/xIRDlmzKpqEbFqQI2FFh70liiMG.jpg",
+                    "vote_average": 6.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5577460,
+                    "name": "Fear",
+                    "overview": "As he gets back to his routine to avoid any appearance of guilt, Björn discovers a couple of loose ends he needs to deal with.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/hdRi91Y2MBcvJ2tny8VE2gPTaCe.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5577461,
+                    "name": "Shamelessness",
+                    "overview": "Katharina asks for Björn's help in securing a day care center for Emily. Toni suspects Björn isn't being truthful about Dragan's whereabouts.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/4IlhjADvBvVx2Ws2YSZkkan8Nlv.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66d87fac35b77029223c0da5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 995513,
+                            "known_for_department": "Directing",
+                            "name": "Max Zähle",
+                            "original_name": "Max Zähle",
+                            "popularity": 0.407,
+                            "profile_path": "/xyoJY4vEHRXCpdjJETMX0f1zLa3.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5577463,
+                    "name": "Panic",
+                    "overview": "Nicole investigates a series of explosive clues. After being kidnapped by a rival crime boss, Björn sets out to expose Toni's plan.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/347W6BQ98irMsnZVwlXamkYHmdG.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5577464,
+                    "name": "Brainstorming",
+                    "overview": "It would be easier to just murder everyone, but Björn decides on a more practical solution. Nicole questions Emily about her trip to the lake.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/9HI3UZzP69xOI0LCyHbi6ym9F3k.jpg",
+                    "vote_average": 6.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5577465,
+                    "name": "Anger",
+                    "overview": "Caught between Toni and the police, Björn looks for a way to kill two birds with one stone. Boris makes a final demand to see Dragan.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/rqChNJSjyPKy9Ewrxd70n23UMUa.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-31",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 5577466,
+                    "name": "Death",
+                    "overview": "Björn enacts a risky plan to deal with Boris and get Nicole off his back, and it's important to be mindful of every detail.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 252372,
+                    "still_path": "/sm65GjKz3JAgyh5fzMasKK4B4ME.jpg",
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66d87f91005d624a116ce81f",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1541764,
+                            "known_for_department": "Directing",
+                            "name": "Martina Plura",
+                            "original_name": "Martina Plura",
+                            "popularity": 1.81,
+                            "profile_path": "/7ZunlitQqJhNNgN71STVK5RcKal.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 389493,
+            "poster_path": "/3snsd7KLau14equwCz9YLZu9lTO.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        }
+    }
+}

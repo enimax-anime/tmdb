@@ -1,0 +1,531 @@
+{
+    "adult": false,
+    "backdrop_path": "/zyBHFzVzETCnumZswZkfdfqS3CR.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2023-04-14",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 224504,
+    "in_production": true,
+    "languages": [
+        "pl"
+    ],
+    "last_air_date": "2024-05-10",
+    "last_episode_to_air": {
+        "id": 5336805,
+        "name": "Laughter of the Opera",
+        "overview": "Only the strongest remain in the game, and the battle to the finish line becomes ruthless and absurd. An operatic duel is the final head-to-head will reveal this season's winner!",
+        "vote_average": 2,
+        "vote_count": 1,
+        "air_date": "2024-05-10",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 29,
+        "season_number": 2,
+        "show_id": 224504,
+        "still_path": "/kAuC0rPdJwVEEo6eWH2n1iyVDS7.jpg"
+    },
+    "name": "LOL: Last One Laughing Poland",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "LOL: Kto się śmieje ostatni",
+    "overview": "Cezary Pazura invites ten comedy stars and entertainment personalities to a unique challenge, where they can’t laugh for six hours. Contestants try everything to make others laugh while keeping a poker face at the same time. Those who can’t make it are out of the game. See who will be the last one laughing!",
+    "popularity": 8.495,
+    "poster_path": "/iCanSccLiVf45LCSypqbabknkpp.jpg",
+    "production_companies": [
+        {
+            "id": 11629,
+            "logo_path": "/bwYUtLEtn2A9lQ3D0Sz7FOftm3C.png",
+            "name": "Yoshimoto Kogyo",
+            "origin_country": "JP"
+        },
+        {
+            "id": 80748,
+            "logo_path": "/hFeRxvOms7shorn3qbmXVaUaGCn.png",
+            "name": "Constantin Entertainment",
+            "origin_country": "DE"
+        },
+        {
+            "id": 218743,
+            "logo_path": null,
+            "name": "Constantin Entertainment Polska",
+            "origin_country": "PL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-04-14",
+            "episode_count": 6,
+            "id": 337019,
+            "name": "Season 1",
+            "overview": "It’s time for the first Polish Prime Video original! Cezary Pazura invites ten comedy stars and entertainment personalities to a unique challenge, where they can’t laugh for six hours. Contestants try everything to make others laugh while keeping a poker face at the same time. Those who can’t make it are out of the game. See who will be the last one laughing!",
+            "poster_path": "/iCanSccLiVf45LCSypqbabknkpp.jpg",
+            "season_number": 1,
+            "vote_average": 4.2
+        },
+        {
+            "air_date": "2024-04-26",
+            "episode_count": 6,
+            "id": 386866,
+            "name": "Season 2",
+            "overview": "For the second time, Cezary Pazura checks who's the last one laughing. Ten comedy and entertainment stars try to make each other laugh while resisting the urge to laugh themselves. The one who makes it to the end wins 100 thousand zlotys for the charity of their choice.",
+            "poster_path": "/2RMgcJn1xEgsgtEDux88I2SmrWq.jpg",
+            "season_number": 2,
+            "vote_average": 4.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 5,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "6439630ec2679600e03a49fe",
+            "air_date": "2023-04-14",
+            "episodes": [
+                {
+                    "air_date": "2023-04-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4364605,
+                    "name": "The hunt begins",
+                    "overview": "Guests arrive and the game begins. Someone makes coffee, someone else serves hard-boiled eggs. Adam attacks with animals and Kasia leads the warm-up. No holds barred, so it's a good thing one of the participants had a life jacket with them. Who will fail to stay afloat and break first?",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/mdXwaWFTfEy3pSfxH04xLwp7bnb.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4364608,
+                    "name": "Kebab, chicken and pigeons",
+                    "overview": "The fun is in full swing. In order to amuse everyone, Wiolka reaches for her winged friends. Everyone has trouble staying serious during the performances of a singing kebab and a chicken dancing on a pole. But the real madness begins when Adam puts on his dancing shoes.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/iigJpp7tdLcqbX25zRt0qCSpDLZ.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4382534,
+                    "name": "Christening, letter and great battle",
+                    "overview": "The contestants are surprised by a visit from a dangerously funny guest. Meanwhile, Robert’s christening, as family events tend to do, turns into quite a circus. Adam gets an unexpected letter that will change his life. And an art history professor spins a tale of a battle where not everyone will emerge unscathed.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/tSRI00d5Gr1gcGD2RL4SGzdU0Mx.jpg",
+                    "vote_average": 4.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "662b9d052fe2fa011c970b80",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4676318,
+                            "known_for_department": "Acting",
+                            "name": "Aleksandra Krawczyk",
+                            "original_name": "Aleksandra Krawczyk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Guest Artist",
+                            "credit_id": "662b9dcfb54002011c045382",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4676325,
+                            "known_for_department": "Acting",
+                            "name": "Klaudia Klimczyk",
+                            "original_name": "Klaudia Klimczyk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4382535,
+                    "name": "King of bad jokes",
+                    "overview": "Czarek Pazura reaches for his secret weapon. He sends in a master of bad jokes to the participants. Will everyone manage to keep a poker face while Karol Strasburger tells his jokes? Meanwhile, Wiolka and Czarek Jóźwik surprise their rivals with their songs.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/b3MyclhNRnG8yueox1Sz2tsQpda.jpg",
+                    "vote_average": 4.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "660d4bbf35818f017c3c3101",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1110371,
+                            "known_for_department": "Acting",
+                            "name": "Karol Strasburger",
+                            "original_name": "Karol Strasburger",
+                            "popularity": 1.929,
+                            "profile_path": "/8pCNjKgLXsbRhh9WOAMqCYsPr09.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "662b9d6fe16e5a011de77004",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146066,
+                            "known_for_department": "Acting",
+                            "name": "Klaudiusz Kaufmann",
+                            "original_name": "Klaudiusz Kaufmann",
+                            "popularity": 0.789,
+                            "profile_path": "/ktXK81KfJqQl00FGwwthnmwnD9c.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-04-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4398783,
+                    "name": "Goat, frog and horse",
+                    "overview": "The madness is escalating. The remaining comedians try everything to eliminate their opponents, they compete in horse races and play hide-and-seek with a frog. But the situation gets out of hand when everyone starts hearing a talking goat.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/xWNksz5Ly5Vjmw6I1czG7nAOIFA.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-04-28",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4398784,
+                    "name": "The ultimate showdown",
+                    "overview": "The road to the final turns out to be more difficult than it seemed at first. The studio turns into a boxing ring and an animal enclosure. The jokes keep coming and everyone wants to win, but there isn't much time left to make the opponents laugh.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 224504,
+                    "still_path": "/tkUZE712KyGVFpMmWw9uVlAS0UY.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "662b9d052fe2fa011c970b80",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4676318,
+                            "known_for_department": "Acting",
+                            "name": "Aleksandra Krawczyk",
+                            "original_name": "Aleksandra Krawczyk",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "662b9d1653866e011ef122a0",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3275543,
+                            "known_for_department": "Acting",
+                            "name": "Jacek Alichniewicz",
+                            "original_name": "Jacek Alichniewicz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "It’s time for the first Polish Prime Video original! Cezary Pazura invites ten comedy stars and entertainment personalities to a unique challenge, where they can’t laugh for six hours. Contestants try everything to make others laugh while keeping a poker face at the same time. Those who can’t make it are out of the game. See who will be the last one laughing!",
+            "id": 337019,
+            "poster_path": "/iCanSccLiVf45LCSypqbabknkpp.jpg",
+            "season_number": 1,
+            "vote_average": 4.2
+        },
+        "2": {
+            "_id": "660d34ea9c97bd017ca6b683",
+            "air_date": "2024-04-26",
+            "episodes": [
+                {
+                    "air_date": "2024-04-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5257348,
+                    "name": "Scouting Around",
+                    "overview": "Right from the start, it’s clear that not everyone is capable of lasting six hours, especially one of our comedians who uses Latin rhythms to get the party started. While some comedians take a coffee break, Kasia tries to sell several uncanny handmade items.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/sEHGcf8Xe14qBBzsnNLBtSF0mYL.jpg",
+                    "vote_average": 5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5304404,
+                    "name": "Sci-fi Movie",
+                    "overview": "Things move up a notch as Zosia electrifies everyone with an unusual musical duet, Piotr speaks using famous people’s voices, and Adam gains superpowers while preparing for a new film role.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/nXRnYrSz5mnbXLvwqZQd2OACSy1.jpg",
+                    "vote_average": 5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "662b81569ac535011c8f3f6d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1555425,
+                            "known_for_department": "Acting",
+                            "name": "Andrzej Wrona",
+                            "original_name": "Andrzej Wrona",
+                            "popularity": 0.041,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "662b85ac01b1ca011ce40c1b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1440323,
+                            "known_for_department": "Acting",
+                            "name": "Joanna Jędrzejczyk",
+                            "original_name": "Joanna Jędrzejczyk",
+                            "popularity": 0.595,
+                            "profile_path": "/dc8HLzo2hFQ3hCsvrAyLI7LSObU.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5304492,
+                    "name": "Drum Kit Man",
+                    "overview": "The plot thickens when the group is visited by unusual guests: a mysterious female warrior and a drum kit man. Comedians reach for their reliable comedy tools - rodents and underwater creatures.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/wqAJP3JAmbTo8EqSJnhD7ByGVUL.jpg",
+                    "vote_average": 5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "662b85ac01b1ca011ce40c1b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1440323,
+                            "known_for_department": "Acting",
+                            "name": "Joanna Jędrzejczyk",
+                            "original_name": "Joanna Jędrzejczyk",
+                            "popularity": 0.595,
+                            "profile_path": "/dc8HLzo2hFQ3hCsvrAyLI7LSObU.jpg"
+                        },
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "6634d2fb6611b4012d671e84",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 136642,
+                            "known_for_department": "Acting",
+                            "name": "Sebastian Stankiewicz",
+                            "original_name": "Sebastian Stankiewicz",
+                            "popularity": 5.376,
+                            "profile_path": "/hLN0Ca09KwQOFLZLPIEzgTIbqqg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5304493,
+                    "name": "Hens Choir",
+                    "overview": "The comedians are subjected to an odd bird performance where their participation is mandatory, whether they like it or not! A yoga class then makes some of them loosen up a bit too much. Katarzyna Figura drops by to work her magic on the group, causing chaos!",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/lwgUN0hTeC53AWsDFoRUihZCgf5.jpg",
+                    "vote_average": 5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "6634d842ad59b501256de512",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 83264,
+                            "known_for_department": "Acting",
+                            "name": "Katarzyna Figura",
+                            "original_name": "Katarzyna Figura",
+                            "popularity": 4.916,
+                            "profile_path": "/soJIovC7D98Pn9CvO2vgQbhcJGf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-10",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5320617,
+                    "name": "The Professor Comes Back",
+                    "overview": "The comedians stay strong, so Cezary has to bring out his most powerful tools. He sends a ballet teacher to stir things up, and a familiar face from Season 1 returns to update them on their progress, with hilarious results!",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/gKxAO05QqmyG14M31W9Ii9PjH4C.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "663de43887cbc6f54fda8207",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4705535,
+                            "known_for_department": "Acting",
+                            "name": "Olga Łasak",
+                            "original_name": "Olga Łasak",
+                            "popularity": 0,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Surprise Guest",
+                            "credit_id": "663de456bdc22a4016026397",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 136585,
+                            "known_for_department": "Acting",
+                            "name": "Michał Meyer",
+                            "original_name": "Michał Meyer",
+                            "popularity": 0.806,
+                            "profile_path": "/hA9Ulv0C4tzWDmdlvSGjCYBHXqO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-10",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5336805,
+                    "name": "Laughter of the Opera",
+                    "overview": "Only the strongest remain in the game, and the battle to the finish line becomes ruthless and absurd. An operatic duel is the final head-to-head will reveal this season's winner!",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 2,
+                    "show_id": 224504,
+                    "still_path": "/kAuC0rPdJwVEEo6eWH2n1iyVDS7.jpg",
+                    "vote_average": 2,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "For the second time, Cezary Pazura checks who's the last one laughing. Ten comedy and entertainment stars try to make each other laugh while resisting the urge to laugh themselves. The one who makes it to the end wins 100 thousand zlotys for the charity of their choice.",
+            "id": 386866,
+            "poster_path": "/2RMgcJn1xEgsgtEDux88I2SmrWq.jpg",
+            "season_number": 2,
+            "vote_average": 4.3
+        }
+    }
+}

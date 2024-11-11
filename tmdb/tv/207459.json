@@ -1,0 +1,414 @@
+{
+    "adult": false,
+    "backdrop_path": "/re1SHTIIbpTrRKuhj7D1olvcYse.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-08-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.nationalgeographic.com/tv/shows/americas-national-parks-2022",
+    "id": 207459,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-19",
+    "last_episode_to_air": {
+        "id": 4412557,
+        "name": "Voyageurs",
+        "overview": "Tucked away in a corner of Minnesota, Voyageurs is a hidden gem full of secrets and surprises. Experience its wildlife and stunning beauty, from the icy grips of winter to the height of summer blooms. Accessible only by boat, this watery wonderland is a mosaic of beautifully clear lakes and pristine forest and home to some of North America’s most iconic species: wolves, moose and great grey owls.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-19",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 207459,
+        "still_path": "/fsYOswIQwD4aororCNiBWQQJr5h.jpg"
+    },
+    "name": "America's National Parks",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 15,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "America's National Parks",
+    "overview": "A celebration of the natural wonder and power of nature in our backyard. From iconic places to secret gems, this series will open the gateways for all to explore the breadth of the beauty and tranquility",
+    "popularity": 2.399,
+    "poster_path": "/pOKV9dotLlvqliu9uV0Mu7W5z6r.jpg",
+    "production_companies": [
+        {
+            "id": 139622,
+            "logo_path": "/578zH4RZL2aP4DvGxzF8rvGe7eV.png",
+            "name": "Wildstar Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7521,
+            "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-29",
+            "episode_count": 5,
+            "id": 303430,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/pOKV9dotLlvqliu9uV0Mu7W5z6r.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-06-05",
+            "episode_count": 5,
+            "id": 339502,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/w4RKqGfsWrlLVbivnOPkj6h317M.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": null,
+            "episode_count": 5,
+            "id": 339503,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7.4,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "62ebc67baf4324005c1a9841",
+            "air_date": "2022-08-29",
+            "episodes": [
+                {
+                    "air_date": "2022-08-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3871728,
+                    "name": "Grand Canyon",
+                    "overview": "In Grand Canyon National Park, discover how animals exploit the land, relying on each other to survive in a place of conflict, but also cooperation.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 207459,
+                    "still_path": "/hRFcEUWHDsPC1CdWAsEsLxMtOsi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3871730,
+                    "name": "Yosemite",
+                    "overview": "Witness wild Yosemite—from lush valley floors to soaring alpine peaks. An intimate look at life surviving and thriving in an epic National Park.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 207459,
+                    "still_path": "/eLEBlr2VzqTNvEfsDT0abjcZx18.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-31",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3871732,
+                    "name": "Big Bend",
+                    "overview": "Big Bend National Park—a vast wilderness of mountains, deserts and rivers. A sanctuary for life, deep in the heart of Texas.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 207459,
+                    "still_path": "/7Vk5MXB8nU3gMfFstJThqM50SRg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3871733,
+                    "name": "Badlands",
+                    "overview": "Badlands National Park is an ancient land full of rugged beauty. Once an inland ocean, it’s now home to some of America's most iconic species.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 207459,
+                    "still_path": "/pCyvzaaRMp3tIpgXXl9buINbIFa.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-02",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3871734,
+                    "name": "Hawai'i Volcanoes",
+                    "overview": "Hawai’i Volcanoes National Park—home to unique wildlife and the most active volcanoes on earth. Witness the natural wonders of this sacred land.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 207459,
+                    "still_path": "/j2YCq0VbvsaFXaNk701TMoUix0K.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 303430,
+            "poster_path": "/pOKV9dotLlvqliu9uV0Mu7W5z6r.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "6452f1afd48cee0136d8e6c9",
+            "air_date": "2023-06-05",
+            "episodes": [
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4412553,
+                    "name": "Grand Teton",
+                    "overview": "The soaring peaks, lush meadows and endless forests draw nearly 4 million visitors yearly. However, often hidden from view, a hardy cast of animals, from tiny pikas to grizzly bears, tough it out to survive in this iconic, wild wonder of the West. Explore this 300,000-acre patchwork of protected lands and the fascinating hidden lives of those that call Grand Teton National Park home.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 207459,
+                    "still_path": "/q7nAhCsG9AUsr6Oj1zqheQl1ud5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4412554,
+                    "name": "Biscayne",
+                    "overview": "Just below Miami, hidden beneath the waves, is a giant nursery: Biscayne National Park. Thousands of animals come to rear their young or deposit them safely in the sand. Turtles, crocodiles, sharks and manatees all depend on the park as a place of refuge in a world of dangers. Biscayne National Park doesn’t just protect its wildlife; it also protects us.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 207459,
+                    "still_path": "/jHUrLfcxN8gem7czXdzUzbmdOjG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4412555,
+                    "name": "Channel Islands",
+                    "overview": "Discovering Channel Islands: a hidden chain of wild islands in plain sight of Los Angeles—this is the Galapagos of the North. After a short boat ride through the bountiful ocean, you arrive to find rugged beaches, mountains and forests, with unique plants and animals found nowhere else, like the miniature Channel Island fox, the dazzling Garibaldi fish and the rare brown pelican.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 207459,
+                    "still_path": "/1HAJdjKV0KbmKV6QPSjv4IIrZjr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4412556,
+                    "name": "Lake Clark",
+                    "overview": "Lake Clark National Park is a hidden gem where animals, plants and people all coexist in harmony. Established in 1980, the park protects the headwaters of the largest sockeye salmon run left on Earth. It’s one of the best places to watch brown bears in America and preserves the Dena’ina, an Indigenous culture whose people still live here sustainably off the land.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 207459,
+                    "still_path": "/xlfanUpPGTC0iVR8V16khC09xpu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4412557,
+                    "name": "Voyageurs",
+                    "overview": "Tucked away in a corner of Minnesota, Voyageurs is a hidden gem full of secrets and surprises. Experience its wildlife and stunning beauty, from the icy grips of winter to the height of summer blooms. Accessible only by boat, this watery wonderland is a mosaic of beautifully clear lakes and pristine forest and home to some of North America’s most iconic species: wolves, moose and great grey owls.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 207459,
+                    "still_path": "/fsYOswIQwD4aororCNiBWQQJr5h.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 339502,
+            "poster_path": "/w4RKqGfsWrlLVbivnOPkj6h317M.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "6452f20cc044290122cb83ba",
+            "air_date": null,
+            "episodes": [
+                {
+                    "air_date": null,
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4412558,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 207459,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4412559,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 207459,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4412560,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 207459,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4412561,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 207459,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": null,
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4412562,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 3,
+                    "show_id": 207459,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 339503,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

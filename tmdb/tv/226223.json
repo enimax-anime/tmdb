@@ -1,0 +1,156 @@
+{
+    "adult": false,
+    "backdrop_path": "/pekL9uAe5P71gLXKSk4pBPaQxLm.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-05-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 226223,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2023-05-25",
+    "last_episode_to_air": {
+        "id": 4428559,
+        "name": "Episode 2",
+        "overview": "How a social media post landed one of our most gifted and controversial athletes at the centre of the culture wars. Part 2 explores the fallout and its impact on the LGBTQI, Rugby, and Pasifika communities.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-25",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 226223,
+        "still_path": "/uJLs0JcVY7JLRvD308yx2sPDJWb.jpg"
+    },
+    "name": "Folau",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 18,
+            "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+            "name": "ABC TV",
+            "origin_country": "AU"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Folau",
+    "overview": "This two-part documentary is the much-anticipated story of one of Australia's most gifted and controversial athletes, and how a social media post landed him at the heart of our culture wars.",
+    "popularity": 1.828,
+    "poster_path": "/juYW7thdVgEWuxvSd65qr3bhev8.jpg",
+    "production_companies": [
+        {
+            "id": 18547,
+            "logo_path": null,
+            "name": "In Films",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2023-05-18",
+            "episode_count": 2,
+            "id": 340352,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "645baecf3fe160013867c73e",
+            "air_date": "2023-05-18",
+            "episodes": [
+                {
+                    "air_date": "2023-05-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4428545,
+                    "name": "Episode 1",
+                    "overview": "The story of one our most gifted and controversial athletes and how a social media post landed him in the heart of our culture wars. Part 1 traces Folau's family background and his rise to the top of the Rugby world.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 226223,
+                    "still_path": "/mGeYP5KmAhe70oinMr3cHmQoLnJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645bb22f77d23b00e2f6d2e5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1678667,
+                            "known_for_department": "Writing",
+                            "name": "Nel Minchin",
+                            "original_name": "Nel Minchin",
+                            "popularity": 0.585,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-05-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4428559,
+                    "name": "Episode 2",
+                    "overview": "How a social media post landed one of our most gifted and controversial athletes at the centre of the culture wars. Part 2 explores the fallout and its impact on the LGBTQI, Rugby, and Pasifika communities.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 226223,
+                    "still_path": "/uJLs0JcVY7JLRvD308yx2sPDJWb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "645bb22f77d23b00e2f6d2e5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1678667,
+                            "known_for_department": "Writing",
+                            "name": "Nel Minchin",
+                            "original_name": "Nel Minchin",
+                            "popularity": 0.585,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 340352,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

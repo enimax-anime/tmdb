@@ -1,0 +1,436 @@
+{
+    "adult": false,
+    "backdrop_path": "/lW4GHVL5w1HWnAGGqZ6Jf1X9GMG.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.hbo.com/god-save-texas",
+    "id": 241231,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-02-28",
+    "last_episode_to_air": {
+        "id": 4986113,
+        "overview": "Mexican American filmmaker Iliana Sosa explores the fluidity of life on El Paso’s border.",
+        "name": "God Save Texas: La Frontera",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-02-28",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 241231,
+        "still_path": "/hu3LaSmxAeCyia4IccWcGsH6qGX.jpg"
+    },
+    "name": "God Save Texas",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 49,
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "God Save Texas",
+    "overview": "Returning to their hometowns, Texas filmmakers Richard Linklater, Alex Stapleton, and Iliana Sosa chronicle the complex history of each city, while examining the toll that the prison system, oil business, and border laws have on those communities.",
+    "popularity": 17.248,
+    "poster_path": "/8dG4zXjHyUoLRwZDbNDgrhltsf4.jpg",
+    "production_companies": [
+        {
+            "id": 14914,
+            "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+            "name": "HBO Documentary Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 2740,
+            "logo_path": "/gSiDWkmEOyOn9MsaCgnjd8Mohmx.png",
+            "name": "Jigsaw Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 20153,
+            "logo_path": null,
+            "name": "Film 44",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-27",
+            "episode_count": 3,
+            "id": 369135,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": "/8dG4zXjHyUoLRwZDbNDgrhltsf4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "A window into America's soul.",
+    "type": "Miniseries",
+    "vote_average": 8,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "6574d3d7bbe1dd0138cf531a",
+            "air_date": "2024-02-27",
+            "episodes": [
+                {
+                    "air_date": "2024-02-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4986103,
+                    "name": "God Save Texas: Hometown Prison",
+                    "overview": "Richard Linklater chronicles daily life in Huntsville, TX, a town built on the business of incarceration.",
+                    "production_code": "",
+                    "runtime": 87,
+                    "season_number": 1,
+                    "show_id": 241231,
+                    "still_path": "/yrMWW7QwxjQlvMRqF8PqZsI9EaO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6574d4dbcadb6b080dfeb5ad",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 564,
+                            "known_for_department": "Directing",
+                            "name": "Richard Linklater",
+                            "original_name": "Richard Linklater",
+                            "popularity": 18.211,
+                            "profile_path": "/wNijRefhQCp0BkNqM5qhhdazDgx.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "65e66b31efcea90186805a39",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 32234,
+                            "known_for_department": "Sound",
+                            "name": "Graham Reynolds",
+                            "original_name": "Graham Reynolds",
+                            "popularity": 2.322,
+                            "profile_path": "/2ZhhONrUKCtQvhVsKNikbTxGaaQ.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e66b3b5f2db1018608d281",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1696639,
+                            "known_for_department": "Camera",
+                            "name": "E.J. Enríquez",
+                            "original_name": "E.J. Enríquez",
+                            "popularity": 0.201,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e66b4679a1c3016285cef0",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 32235,
+                            "known_for_department": "Camera",
+                            "name": "Shane F. Kelly",
+                            "original_name": "Shane F. Kelly",
+                            "popularity": 1.201,
+                            "profile_path": "/l5J2TXrpY3hN8mjscvy4E3HJm3k.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "65e66b4eefcea90186805a8e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1554042,
+                            "known_for_department": "Camera",
+                            "name": "Graham Willoughby",
+                            "original_name": "Graham Willoughby",
+                            "popularity": 1.19,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e66b5979a1c3016285cf1a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1066326,
+                            "known_for_department": "Editing",
+                            "name": "Spencer Averick",
+                            "original_name": "Spencer Averick",
+                            "popularity": 2.036,
+                            "profile_path": "/83RLx5lL6uE0zfImWOthv0zSoP1.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "65e66b6379a1c3017b85e78c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 238734,
+                            "known_for_department": "Editing",
+                            "name": "Paul Greenhouse",
+                            "original_name": "Paul Greenhouse",
+                            "popularity": 0.602,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65d03b8334e1520165afc2a3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 564,
+                            "known_for_department": "Directing",
+                            "name": "Richard Linklater",
+                            "original_name": "Richard Linklater",
+                            "popularity": 18.211,
+                            "profile_path": "/wNijRefhQCp0BkNqM5qhhdazDgx.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "65e66b1e1fd36f0147484523",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 59978,
+                            "known_for_department": "Writing",
+                            "name": "Lawrence Wright",
+                            "original_name": "Lawrence Wright",
+                            "popularity": 3.07,
+                            "profile_path": "/oemzri6fzfymVklgXsuUZ4D8kMw.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4986114,
+                    "name": "God Save Texas: The Price of Oil",
+                    "overview": "As the world’s energy capital, Houston is a city that manufactures both its prominence and demise. Alex Stapleton explores the industry’s impact on her family, who arrived as enslaved people in the 1830s, built thriving communities, and now must cope with the human costs of Texas’ biggest money-maker.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 241231,
+                    "still_path": "/yggGJuVHPUn7H68JwJlHPD0fC3F.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6574d5ebbbe1dd00fe2b1eee",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 224644,
+                            "known_for_department": "Directing",
+                            "name": "Alex Stapleton",
+                            "original_name": "Alex Stapleton",
+                            "popularity": 1.318,
+                            "profile_path": "/voPPXUgUOrukZKhnCQ2RLPZYEnL.jpg"
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6574d60da84a4700c421cd38",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2172201,
+                            "known_for_department": "Editing",
+                            "name": "Rosella Tursi",
+                            "original_name": "Rosella Tursi",
+                            "popularity": 0.603,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "6574d617ec370c00c623cc60",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1064271,
+                            "known_for_department": "Camera",
+                            "name": "Arlene Nelson",
+                            "original_name": "Arlene Nelson",
+                            "popularity": 2.856,
+                            "profile_path": "/vd7Z8i4xhEDrBaVhRD0btENIxNr.jpg"
+                        },
+                        {
+                            "job": "Director of Photography",
+                            "department": "Camera",
+                            "credit_id": "6574d62189d97f011dcc7f9e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4421806,
+                            "known_for_department": "Camera",
+                            "name": "Paul Raila",
+                            "original_name": "Paul Raila",
+                            "popularity": 0.02,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65d03b662dda890162dc2f9d",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 224644,
+                            "known_for_department": "Directing",
+                            "name": "Alex Stapleton",
+                            "original_name": "Alex Stapleton",
+                            "popularity": 1.318,
+                            "profile_path": "/voPPXUgUOrukZKhnCQ2RLPZYEnL.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-28",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4986113,
+                    "name": "God Save Texas: La Frontera",
+                    "overview": "Mexican American filmmaker Iliana Sosa explores the fluidity of life on El Paso’s border.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 241231,
+                    "still_path": "/hu3LaSmxAeCyia4IccWcGsH6qGX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6574d546564ec7011b1f3625",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2040812,
+                            "known_for_department": "Directing",
+                            "name": "Iliana Sosa",
+                            "original_name": "Iliana Sosa",
+                            "popularity": 0.593,
+                            "profile_path": "/unmTLVnidnC6nvCh809Di0DgoCG.jpg"
+                        },
+                        {
+                            "job": "Associate Producer",
+                            "department": "Production",
+                            "credit_id": "6574d56689d97f00c677e191",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4421800,
+                            "known_for_department": "Editing",
+                            "name": "Alicia Pellegrin",
+                            "original_name": "Alicia Pellegrin",
+                            "popularity": 0.003,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Assistant Editor",
+                            "department": "Editing",
+                            "credit_id": "6574d571a84a4700ab870f5a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4421801,
+                            "known_for_department": "Editing",
+                            "name": "Ximena Borges",
+                            "original_name": "Ximena Borges",
+                            "popularity": 0.01,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "6574d586c6006d011f0d4d03",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1996840,
+                            "known_for_department": "Directing",
+                            "name": "Lorena Luciano",
+                            "original_name": "Lorena Luciano",
+                            "popularity": 0.312,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "6574d597ec370c00ae224f82",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4421803,
+                            "known_for_department": "Production",
+                            "name": "Danielle Mynard",
+                            "original_name": "Danielle Mynard",
+                            "popularity": 0.006,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "65d03b7cf2cf25017ae128f4",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2040812,
+                            "known_for_department": "Directing",
+                            "name": "Iliana Sosa",
+                            "original_name": "Iliana Sosa",
+                            "popularity": 0.593,
+                            "profile_path": "/unmTLVnidnC6nvCh809Di0DgoCG.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 369135,
+            "poster_path": "/8dG4zXjHyUoLRwZDbNDgrhltsf4.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

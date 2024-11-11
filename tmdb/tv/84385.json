@@ -1,0 +1,672 @@
+{
+    "adult": false,
+    "backdrop_path": "/vjLbGCWBozZ5deQDNaQOQ6Erq4q.jpg",
+    "created_by": [
+        {
+            "id": 1253358,
+            "credit_id": "5d0c0f070e0a264871ca5004",
+            "name": "Heath Seifert",
+            "original_name": "Heath Seifert",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 1253359,
+            "credit_id": "5d0c0ef3c3a36862fa1fbcb7",
+            "name": "Kevin Kopelow",
+            "original_name": "Kevin Kopelow",
+            "gender": 2,
+            "profile_path": "/cFKDrhraDyXyOqxsKfQyOxNUdvx.jpg"
+        }
+    ],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2018-11-24",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.nick.com/shows/cousins-for-life",
+    "id": 84385,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-06-08",
+    "last_episode_to_air": {
+        "id": 1799711,
+        "name": "Stain-cation",
+        "overview": "Clark watches the kids while Lewis & Charlotte celebrate their anniversary. But when they both sneak home to check on things they set off a chain of messy disasters leaving the kids thinking the whole mess is their fault.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-06-08",
+        "episode_number": 20,
+        "episode_type": "finale",
+        "production_code": "110",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 84385,
+        "still_path": "/w095xCvhWwElwsbhlnTERFb6oju.jpg"
+    },
+    "name": "Cousins for Life",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 13,
+            "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+            "name": "Nickelodeon",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cousins for Life",
+    "overview": "Cousins Stuart and Ivy may come from different backgrounds, but being family makes them forever friends. And now that they live under the same roof, Ivy and Stuart will soon learn that while they don’t always see eye-to-eye, they’re better together, and when they team up they’re unstoppable!",
+    "popularity": 5.163,
+    "poster_path": "/vzKP0DV3vx1hlfLlGBORak6Nj0z.jpg",
+    "production_companies": [
+        {
+            "id": 5371,
+            "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+            "name": "Nickelodeon Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-11-24",
+            "episode_count": 20,
+            "id": 113249,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vzKP0DV3vx1hlfLlGBORak6Nj0z.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "5bfac7ee0e0a263ab602d3ae",
+            "air_date": "2018-11-24",
+            "episodes": [
+                {
+                    "air_date": "2018-11-24",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1627714,
+                    "name": "Movin' In",
+                    "overview": "When cousins Ivy and Stuart find themselves living under the same roof they learn that they are better together, and when they team up, they are unstoppable.",
+                    "production_code": "101",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/qE6Kbf25IidsTwOADVUHVHprVc9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1634332,
+                    "name": "Space Invader",
+                    "overview": "Ivy and Stuart's life is disrupted after their dads have a disagreement & Clark ends up moving into their hangout space in the garage. It's now their missions to resolve their dads' argument and reclaim their space.",
+                    "production_code": "102",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/wYBCD8DIkUYvQdj20YCr8otX2gA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Marlowe",
+                            "credit_id": "5d0c0e8692514169cdb9f0bd",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2343263,
+                            "known_for_department": "Acting",
+                            "name": "Joachim Powell",
+                            "original_name": "Joachim Powell",
+                            "popularity": 1.157,
+                            "profile_path": "/iizCI6qclDOnW5cpdWYIMu2WcpA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-01-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1670055,
+                    "name": "Scammer Time",
+                    "overview": "Ivy is approached by a follower who needs her charitable help but Stuart is convinced that this girl is a fraud and sets out to prove it. Guest Star: Lizzy Greene",
+                    "production_code": "104",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/dlN4YYSMLgyLZFXthTlQN3cdBjW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1681607,
+                    "name": "Hot Dog Day Afternoon",
+                    "overview": "Ivy and Stuart are surprised to find themselves at odds when Ivy and her mom wage a protest against Stuart's favorite chain restaurant.",
+                    "production_code": "105",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/2LDcPIrXRWY42wXcmlv2mZgBFP8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-01-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1681608,
+                    "name": "This Little Piggy Went to Market",
+                    "overview": "When Ivy, Stuart, and Leaf find out about a TV commercial opportunity for an influencer they set out to make Arthur famous.",
+                    "production_code": "108",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/xOwEakQ6FGqbejn1l0i872PPulG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d6eb583dc313007d7f4402",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1237407,
+                            "known_for_department": "Directing",
+                            "name": "Eric Dean Seaton",
+                            "original_name": "Eric Dean Seaton",
+                            "popularity": 1.286,
+                            "profile_path": "/64vQ5NSO32MZAGipeJRyCBMcbqj.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1799696,
+                    "name": "The Fearsome Foursome",
+                    "overview": "Stuart is excited to have made his first close friend in Portland, Jackson. But when Jackson and Ivy's friend, Gemma, don't like each other, Stuart and Ivy go to great lengths to try to make them get along.",
+                    "production_code": "112",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/8XUS2zIOdNGlp6v68CD6rzeHR87.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jackson",
+                            "credit_id": "6242ab95f85958004906eb2c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2195959,
+                            "known_for_department": "Acting",
+                            "name": "Tait Blum",
+                            "original_name": "Tait Blum",
+                            "popularity": 4.942,
+                            "profile_path": "/eOI7K0X0Lg137ecf1ikLkBayuHf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-02-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1799697,
+                    "name": "Super Ivy",
+                    "overview": "Leaf creates a graphic novel with a superhero based on his sister, Ivy. But when the publisher insists on changing the lead character to a boy the kids must convince the publisher that girls can be heroes too.",
+                    "production_code": "111",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/xDNuT85OJyfBohmjDSXsKfXMOX7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-23",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1799698,
+                    "name": "Art-thur",
+                    "overview": "When Stuart passes off Arthur's accidental work of art as Ivy's to an art expert, Stuart has to take extreme measures to keep up the ruse. Meanwhile, Lewis has to deal with a hideous sculpture given to him by Clark.",
+                    "production_code": "113",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/sSjHgp70TqLf4xkWyERjmuWIaZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jackson",
+                            "credit_id": "6242ab95f85958004906eb2c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2195959,
+                            "known_for_department": "Acting",
+                            "name": "Tait Blum",
+                            "original_name": "Tait Blum",
+                            "popularity": 4.942,
+                            "profile_path": "/eOI7K0X0Lg137ecf1ikLkBayuHf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-02",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1799699,
+                    "name": "A Farewell to Arthur?",
+                    "overview": "When Arthur digs up their neighbor Rodney's vegetable garden, he's angry and threatens to have Arthur taken away. But, Stuart, Ivy, and Leaf discover there's more to the story and come up with a plan to save their pig. Guest Star: Roman Reigns",
+                    "production_code": "115",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/bIiTvyeRhN54FchfO5hIWJWCTbw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Rodney",
+                            "credit_id": "610b6a75e61e6d0022dcc5b7",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1170011,
+                            "known_for_department": "Acting",
+                            "name": "Joe Anoa'i",
+                            "original_name": "Joe Anoa'i",
+                            "popularity": 5.568,
+                            "profile_path": "/1D0NF7PD6CFs4LxGQJKq4N2ZBfb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-09",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 1799700,
+                    "name": "Clothes Call",
+                    "overview": "Ivy and Stuart invent biodegradable clothes, but their prototypes disintegrate too quickly leaving Lewis in an unfortunate situation at work when his suits begins falling apart in the middle of a court case.",
+                    "production_code": "106",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/a5N7pqpWjbEEQnXnYZwxWCRllpq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6634d641c9054f01308f3033",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1947333,
+                            "known_for_department": "Directing",
+                            "name": "Robbie Countryman",
+                            "original_name": "Robbie Countryman",
+                            "popularity": 0.99,
+                            "profile_path": "/bojjJmbyP5KrT1qpWYG0R9lM3XO.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6634d64cc616ac012819e2c6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1946245,
+                            "known_for_department": "Writing",
+                            "name": "Vincent Brown",
+                            "original_name": "Vincent Brown",
+                            "popularity": 0.001,
+                            "profile_path": "/ajsRGPu6D94GUM8vUbGVpcdVKn.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "",
+                            "credit_id": "6634d659a1c59d0126e74c9e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 183507,
+                            "known_for_department": "Acting",
+                            "name": "John Eric Bentley",
+                            "original_name": "John Eric Bentley",
+                            "popularity": 2.598,
+                            "profile_path": "/2r2ybtn1qDCl3JlKFYklODelvW8.jpg"
+                        },
+                        {
+                            "character": "Gemma",
+                            "credit_id": "6634d663813cb6012487adff",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2444659,
+                            "known_for_department": "Acting",
+                            "name": "Jolie Hoang-Rappaport",
+                            "original_name": "Jolie Hoang-Rappaport",
+                            "popularity": 1.947,
+                            "profile_path": "/3dvi8HLZ9rZw4aZ00rKsncbAErc.jpg"
+                        },
+                        {
+                            "character": "Judge Vincent",
+                            "credit_id": "6634d66daf432401255492d9",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 162621,
+                            "known_for_department": "Acting",
+                            "name": "Judy Kain",
+                            "original_name": "Judy Kain",
+                            "popularity": 4.436,
+                            "profile_path": "/jilKv0EF7pzapvIyJGxxr9qDNK4.jpg"
+                        },
+                        {
+                            "character": "Lady L",
+                            "credit_id": "6634d677a1c59d012ce7566f",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1575315,
+                            "known_for_department": "Acting",
+                            "name": "Violet Lux",
+                            "original_name": "Violet Lux",
+                            "popularity": 1.233,
+                            "profile_path": "/eHsKqpsg39AOTeV8H7fSJvtMlC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-03-16",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 1799701,
+                    "name": "Those Medal-ing Kids!",
+                    "overview": "Ivy is honored for her charity work at a Stream-O social media event, but things get awkward when a valuable item goes missing and Ivy and Stuart realize they are accidentally in possession of stolen goods. Guest Stars: Annie LeBlanc, Kheris Rogers",
+                    "production_code": "118",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/kc2eg9H0Tpo9kdwzSQofZi0QgtK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-30",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 1799703,
+                    "name": "Green Girl Returns",
+                    "overview": "When Ivy is invited to perform as Green Girl at the birthday party of her biggest fan, Tessa - Stuart sees an opportunity for his new party planning business. But it's all thrown into jeopardy when a rival entertainer arrives. Guest Star: Savannah May",
+                    "production_code": "114",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/nCo1Z6ZShII3nC4rgRJJORyGe5m.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-06",
+                    "episode_number": 13,
+                    "episode_type": "standard",
+                    "id": 1799704,
+                    "name": "Cousins Day",
+                    "overview": "It’s officially Cousin’s Day, and for the first time in years, Ivy and Stuart get to celebrate it together. They try to outdo each other to make the holiday the best ever, but unfortunately, their plans keep backfiring. Guest Star: Daniella Monet",
+                    "production_code": "116",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/8Suqd7Dw0LnKH00QqCRabxPlHZx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jackson",
+                            "credit_id": "6242ab95f85958004906eb2c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2195959,
+                            "known_for_department": "Acting",
+                            "name": "Tait Blum",
+                            "original_name": "Tait Blum",
+                            "popularity": 4.942,
+                            "profile_path": "/eOI7K0X0Lg137ecf1ikLkBayuHf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-04-13",
+                    "episode_number": 14,
+                    "episode_type": "standard",
+                    "id": 1799705,
+                    "name": "Eyes on the Prize",
+                    "overview": "To help Leaf's hockey team Ivy and Stuart hold a raffle to raise money for new equipment, but when Stuart overpromises on securing a huge grand prize the cousins must scramble to figure out a solution before a raffle winner is drawn.",
+                    "production_code": "107",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/2gX5Wdlo6gPLN06mGRZDbcmElzy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-20",
+                    "episode_number": 15,
+                    "episode_type": "standard",
+                    "id": 1799706,
+                    "name": "Operation: Mom",
+                    "overview": "When Stuart’s mom, Liz, finds out she is going on leave and can return home for a visit, the family sets out to make her homecoming a huge surprise for Stuart and Clark, but the reunion doesn’t go quite as planned.",
+                    "production_code": "117",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/x7zSly59qGjHMFJkmSCSEgTfpC8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-04-27",
+                    "episode_number": 16,
+                    "episode_type": "standard",
+                    "id": 1799707,
+                    "name": "Trapped for Life",
+                    "overview": "Ivy is excited to make her community theater debut in support of an IvyCares fundraiser, but when Stuart rigs a home security system that backfires and traps the entire family in the house, Ivy is worried she will miss the play.",
+                    "production_code": "120",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/ikybYKmHSA1cskBUIk5rvvqWG9H.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-04",
+                    "episode_number": 17,
+                    "episode_type": "standard",
+                    "id": 1799708,
+                    "name": "IvyScares",
+                    "overview": "When a series of bizarre, unexplained occurrences happen in the house Ivy and Stuart wonder if their home is haunted. Excited about making some money, Stuart starts selling tickets for a “Haunted House Experience.”",
+                    "production_code": "103",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/UDKlzKd4y465cG6VT0HvIBQZ6I.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Marlowe",
+                            "credit_id": "5d0c0e8692514169cdb9f0bd",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2343263,
+                            "known_for_department": "Acting",
+                            "name": "Joachim Powell",
+                            "original_name": "Joachim Powell",
+                            "popularity": 1.157,
+                            "profile_path": "/iizCI6qclDOnW5cpdWYIMu2WcpA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-05-11",
+                    "episode_number": 18,
+                    "episode_type": "standard",
+                    "id": 1799709,
+                    "name": "Service for the Service",
+                    "overview": "With the help of Doggsie’s, the family works together to raise money to send care packages to military personnel overseas. But when they are left to run the restaurant alone they find themselves in over their heads.",
+                    "production_code": "109",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/f34bWucg8J0V81nHlXqdYGGD0Wy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d83d1c12b10e00b571f822",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97258,
+                            "known_for_department": "Directing",
+                            "name": "Adam Weissman",
+                            "original_name": "Adam Weissman",
+                            "popularity": 1.131,
+                            "profile_path": "/oWyxDGq3k66HqXfPKrHqOUJh8Pn.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-01",
+                    "episode_number": 19,
+                    "episode_type": "standard",
+                    "id": 1799710,
+                    "name": "Blending a Hand",
+                    "overview": "When their favorite hangout Juiced Up is in danger of being shut down, and their plan to boost business fails spectacularly, Ivy and Stuart enlist their family and friends to put on a talent show fundraiser to help. Guest Star: Daniella Monet",
+                    "production_code": "119",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/l30kqGmu9OL9n85YnS58vl943Dt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Jackson",
+                            "credit_id": "6242ab95f85958004906eb2c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2195959,
+                            "known_for_department": "Acting",
+                            "name": "Tait Blum",
+                            "original_name": "Tait Blum",
+                            "popularity": 4.942,
+                            "profile_path": "/eOI7K0X0Lg137ecf1ikLkBayuHf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-06-08",
+                    "episode_number": 20,
+                    "episode_type": "finale",
+                    "id": 1799711,
+                    "name": "Stain-cation",
+                    "overview": "Clark watches the kids while Lewis & Charlotte celebrate their anniversary. But when they both sneak home to check on things they set off a chain of messy disasters leaving the kids thinking the whole mess is their fault.",
+                    "production_code": "110",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 84385,
+                    "still_path": "/w095xCvhWwElwsbhlnTERFb6oju.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 113249,
+            "poster_path": "/vzKP0DV3vx1hlfLlGBORak6Nj0z.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

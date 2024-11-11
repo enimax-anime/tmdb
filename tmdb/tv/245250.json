@@ -1,0 +1,544 @@
+{
+    "adult": false,
+    "backdrop_path": "/mNR8WI48J2WShAHLxD5IGEUzlBF.jpg",
+    "created_by": [
+        {
+            "id": 1238935,
+            "credit_id": "65bc3aef2d1e4001845cab54",
+            "name": "Sebastián Ortega",
+            "original_name": "Sebastián Ortega",
+            "gender": 2,
+            "profile_path": "/v5yiVUbwaJMnvsCsquv0MHUqguW.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-02-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://vix.com/es-es/detail/video-4462033",
+    "id": 245250,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-02-23",
+    "last_episode_to_air": {
+        "id": 5746171,
+        "name": "Mariposa o riesgo en la profesia",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-11-08",
+        "episode_number": 10,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 27,
+        "season_number": 2,
+        "show_id": 245250,
+        "still_path": null
+    },
+    "name": "LaLola",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6041,
+            "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+            "name": "ViX",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 11,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "MX"
+    ],
+    "original_language": "es",
+    "original_name": "LaLola",
+    "overview": "A prosperous businessman used to getting his way with women to boost his ego. He receives his comeuppance when he wakes one morning in the body of a woman. Desperate to revert to his original body, he struggles to protect his job and his relationships with his family and his best friend.",
+    "popularity": 106.877,
+    "poster_path": "/8tol8OVB8z43GMqSEZyAcTZZh1i.jpg",
+    "production_companies": [
+        {
+            "id": 219760,
+            "logo_path": null,
+            "name": "Dori Media",
+            "origin_country": ""
+        },
+        {
+            "id": 192443,
+            "logo_path": "/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png",
+            "name": "TelevisaUnivision Mexico",
+            "origin_country": "MX"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-02-02",
+            "episode_count": 10,
+            "id": 377102,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/soVJh3G7firFsYu3kTfGIWXXv0F.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2024-11-08",
+            "episode_count": 10,
+            "id": 426901,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/hnwORib0NomsgctNb8aZF6ptdob.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.214,
+    "vote_count": 126,
+    "season_data": {
+        "1": {
+            "_id": "65bc38c2f031740163676e8c",
+            "air_date": "2024-02-02",
+            "episodes": [
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5115639,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/1Iel22ybE8fmokz8jSllSudDVSi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dédalus",
+                            "credit_id": "66ad78a6a6d9fea5cf21d10e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1306685,
+                            "known_for_department": "Acting",
+                            "name": "Alfonso Borbolla",
+                            "original_name": "Alfonso Borbolla",
+                            "popularity": 1.272,
+                            "profile_path": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5115661,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/2RO3Bz6sIoOxu3Doc2Kdy5XJ2Ck.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dédalus",
+                            "credit_id": "66ad78a6a6d9fea5cf21d10e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1306685,
+                            "known_for_department": "Acting",
+                            "name": "Alfonso Borbolla",
+                            "original_name": "Alfonso Borbolla",
+                            "popularity": 1.272,
+                            "profile_path": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5115662,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/wNTJZ0JpnvyDTuM6iOrB9kr45aK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5115663,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/tRPDLyIvVHSwuXhtw4IHeisnBSM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5115664,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/3JiiudXb1UlcX9AtPXd2JtWR1ep.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dédalus",
+                            "credit_id": "66ad78a6a6d9fea5cf21d10e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1306685,
+                            "known_for_department": "Acting",
+                            "name": "Alfonso Borbolla",
+                            "original_name": "Alfonso Borbolla",
+                            "popularity": 1.272,
+                            "profile_path": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5115665,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/31XZTvvWcAbhksKrvt03TChbOtZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5115666,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/aamkx4BhsyizKAdykBwMV8eDegO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5115667,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/mgGUqLce5b2TaijBPcjeBDD0BF2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-02",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 5115668,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": "/6x27bLMMLTNZKTeGdTSoK8Syo4N.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Dédalus",
+                            "credit_id": "66ad78a6a6d9fea5cf21d10e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1306685,
+                            "known_for_department": "Acting",
+                            "name": "Alfonso Borbolla",
+                            "original_name": "Alfonso Borbolla",
+                            "popularity": 1.272,
+                            "profile_path": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-02-23",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 5115669,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 377102,
+            "poster_path": "/soVJh3G7firFsYu3kTfGIWXXv0F.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "672b62b1898d18e69095ca91",
+            "air_date": "2024-11-08",
+            "episodes": [
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5732877,
+                    "name": "Un Amor Sincero",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5746163,
+                    "name": "El amor es cosa de dos",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5746164,
+                    "name": "Contrato de amor",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5746165,
+                    "name": "Tocarse",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5746166,
+                    "name": "Obsidiana",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5746167,
+                    "name": "Estaba escrito aquella noche perdiera…",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5746168,
+                    "name": "Efímera ilusión",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5746169,
+                    "name": "Vivir tiene sus riesgos",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 5746170,
+                    "name": "Riesgo de lo desconocido",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-11-08",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 5746171,
+                    "name": "Mariposa o riesgo en la profesia",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 245250,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 426901,
+            "poster_path": "/hnwORib0NomsgctNb8aZF6ptdob.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/jE3g6JydSsc28aJrCKPbseIEEHy.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        54
+    ],
+    "first_air_date": "2021-05-19",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 125958,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-06-02",
+    "last_episode_to_air": {
+        "id": 3134771,
+        "name": "Episode 3",
+        "overview": "The rains hit the waterhole and for the first time in half a year grass begins to grow and water is everywhere, dramatically changing the fortunes for the wild residents.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-06-02",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 125958,
+        "still_path": null
+    },
+    "name": "Life at the Waterhole",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 14,
+            "logo_path": "/hp2Fs7AIdsMlEjiDUC1V8Ows2jM.png",
+            "name": "PBS",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Life at the Waterhole",
+    "overview": "Explore the daily drama as African wildlife flock to a manmade waterhole rigged with cameras. Dr. M. Sanjayan and his team uncover the complex dynamic of this bustling oasis where elephants, lions, leopards and more meet and compete for water.",
+    "popularity": 0.484,
+    "poster_path": "/wPYTpcq33zh347RA3uk0XolBR29.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-05-19",
+            "episode_count": 3,
+            "id": 196016,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 9,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "60a603536ee3d700293fc47e",
+            "air_date": "2021-05-19",
+            "episodes": [
+                {
+                    "air_date": "2021-05-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2963744,
+                    "name": "Episode 1",
+                    "overview": "In a ground-breaking natural history series, remote cameras capture life at a specially built African waterhole. Which animals find it, how do they use it, and will they share?",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 125958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2981641,
+                    "name": "Episode 2",
+                    "overview": "It's the hottest time of year and the waterhole gets busier when the sun sets. But a new predator lurks in the shadows: hyena have a dramatic impact on life at this new oasis.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 125958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-02",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3134771,
+                    "name": "Episode 3",
+                    "overview": "The rains hit the waterhole and for the first time in half a year grass begins to grow and water is everywhere, dramatically changing the fortunes for the wild residents.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 125958,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 196016,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

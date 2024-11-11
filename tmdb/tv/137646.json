@@ -1,0 +1,489 @@
+{
+    "adult": false,
+    "backdrop_path": "/tExscftlsu5gxID7hZ1NNZLjvTJ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-11-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81145024",
+    "id": 137646,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-03-18",
+    "last_episode_to_air": {
+        "id": 3603481,
+        "name": "Dolphins",
+        "overview": "Dolphins use their intelligence to form complex undersea societies, come up with resourceful hunting techniques - and indulge in their dark side.",
+        "vote_average": 8,
+        "vote_count": 1,
+        "air_date": "2022-03-18",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 137646,
+        "still_path": "/8CSSwpKb1fikY6qK322tHylfvfp.jpg"
+    },
+    "name": "Animal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Animal",
+    "overview": "This immersive series follows the world's most magnificent creatures, capturing never-before-seen moments from the heartwarming to the outrageous.",
+    "popularity": 10.709,
+    "poster_path": "/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg",
+    "production_companies": [
+        {
+            "id": 103619,
+            "logo_path": "/Nz3InTx0kRU5AGVEu2x2xYb4ua.png",
+            "name": "Plimsoll Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-11-10",
+            "episode_count": 4,
+            "id": 217805,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gsMv4UZgImIC3WVPpm6BNsfc5Zj.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        },
+        {
+            "air_date": "2022-03-18",
+            "episode_count": 4,
+            "id": 246022,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/b57WHAFVs585WC5tWmLYEz3vSKL.jpg",
+            "season_number": 2,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 32,
+    "season_data": {
+        "1": {
+            "_id": "617eb2f43f7e1d002c426f0c",
+            "air_date": "2021-11-10",
+            "episodes": [
+                {
+                    "air_date": "2021-11-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3315490,
+                    "name": "Big Cats",
+                    "overview": "Majestic, powerful and dead, big cats were once thought to be solitary creatures.  But we're now realizing just how collaborative they can be.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 137646,
+                    "still_path": "/cjANjYOAByaC4W9mNryvX3VJift.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220acd08cf8700deff1d99",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1346759,
+                            "known_for_department": "Directing",
+                            "name": "Bill Markham",
+                            "original_name": "Bill Markham",
+                            "popularity": 0.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Narrator (voice)",
+                            "credit_id": "618ca674e93e95008e9c2c65",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 80591,
+                            "known_for_department": "Acting",
+                            "name": "Rashida Jones",
+                            "original_name": "Rashida Jones",
+                            "popularity": 47.526,
+                            "profile_path": "/jjp33eRM6oavyesW0UM6XBCxQSa.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3331124,
+                    "name": "Dogs",
+                    "overview": "Be it foxes on city streets or wolves on the tundra, canines rely on sharp senses, athleticism and fierce determination to punch above their weight.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 137646,
+                    "still_path": "/7bC1ogc5MfrWc9ANsdgjh43LywR.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220adc6a34480086262c30",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3982472,
+                            "known_for_department": "Directing",
+                            "name": "Adrian Seymour",
+                            "original_name": "Adrian Seymour",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "618ca6e966a7c300217d1e61",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 17419,
+                            "known_for_department": "Acting",
+                            "name": "Bryan Cranston",
+                            "original_name": "Bryan Cranston",
+                            "popularity": 40.811,
+                            "profile_path": "/kNyTXGkiSP8W4Gs60hF7UoxZnWN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3331126,
+                    "name": "Marsupials",
+                    "overview": "It's not all about the pouches.  These mammalian misfits are full of surprises, from flamboyant kangaroo showdowns to rattling koala mating calls.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 137646,
+                    "still_path": "/jm0AavV8j38hTHy8UpYS8E5GYIc.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220acd08cf8700deff1d99",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1346759,
+                            "known_for_department": "Directing",
+                            "name": "Bill Markham",
+                            "original_name": "Bill Markham",
+                            "popularity": 0.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "618ca700e93e95002b4ab123",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 221581,
+                            "known_for_department": "Acting",
+                            "name": "Rebel Wilson",
+                            "original_name": "Rebel Wilson",
+                            "popularity": 22.127,
+                            "profile_path": "/6iAFqhVcOSLjeZq83mONpx99NAQ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-11-10",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3331127,
+                    "name": "Octopus",
+                    "overview": "In changing seas and oceans, cephalopods like the cuttlefish and the giant Pacific octopus must rely on their remarkable intelligence to survive.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 137646,
+                    "still_path": "/r84w3hSYsAwiy8XKjJhrSlh3UKm.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220af253466100cd40f015",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1604930,
+                            "known_for_department": "Directing",
+                            "name": "Anuschka Schofield",
+                            "original_name": "Anuschka Schofield",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "618ca719cf62cd002afda5b4",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1253360,
+                            "known_for_department": "Acting",
+                            "name": "Pedro Pascal",
+                            "original_name": "Pedro Pascal",
+                            "popularity": 190.795,
+                            "profile_path": "/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 217805,
+            "poster_path": "/gsMv4UZgImIC3WVPpm6BNsfc5Zj.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        },
+        "2": {
+            "_id": "621ce555c2823a001cdc5bbb",
+            "air_date": "2022-03-18",
+            "episodes": [
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3530424,
+                    "name": "Apes",
+                    "overview": "Smart, sensitive and family-oriented, our wild ape relatives rely on each other to learn - and redefine - the secrets of survival.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 2,
+                    "show_id": 137646,
+                    "still_path": "/raeoZEXYS5JGdLUm5OH19oXDXDJ.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220acd08cf8700deff1d99",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1346759,
+                            "known_for_department": "Directing",
+                            "name": "Bill Markham",
+                            "original_name": "Bill Markham",
+                            "popularity": 0.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "623960d7271ca5001b103a1d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1333,
+                            "known_for_department": "Acting",
+                            "name": "Andy Serkis",
+                            "original_name": "Andy Serkis",
+                            "popularity": 19.744,
+                            "profile_path": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3603479,
+                    "name": "Birds of Prey",
+                    "overview": "Curved talons, hooked beaks, killer eyesight: these aerial assassins have the most sophisticated tools for hunting prey at their disposal.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 137646,
+                    "still_path": "/hzGujdBixVENmgUI5I8ZgdqRT1B.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220adc6a34480086262c30",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3982472,
+                            "known_for_department": "Directing",
+                            "name": "Adrian Seymour",
+                            "original_name": "Adrian Seymour",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "6239610eee43e80043b9f0cf",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 53650,
+                            "known_for_department": "Acting",
+                            "name": "Anthony Mackie",
+                            "original_name": "Anthony Mackie",
+                            "popularity": 34.714,
+                            "profile_path": "/kDKaBf5GJuK42N9zKeftokcbMap.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3603480,
+                    "name": "Bears",
+                    "overview": "To rule some of the planet's most hostile lands, bears can't lean solely on brute force: it takes both brains and brawn to reach the top.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 137646,
+                    "still_path": "/AsTYE4xyyk0OQtHbK1QMj3tnWHL.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220acd08cf8700deff1d99",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1346759,
+                            "known_for_department": "Directing",
+                            "name": "Bill Markham",
+                            "original_name": "Bill Markham",
+                            "popularity": 0.559,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "6239611fe19de9001b1674aa",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35029,
+                            "known_for_department": "Acting",
+                            "name": "David Harbour",
+                            "original_name": "David Harbour",
+                            "popularity": 13.083,
+                            "profile_path": "/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-03-18",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3603481,
+                    "name": "Dolphins",
+                    "overview": "Dolphins use their intelligence to form complex undersea societies, come up with resourceful hunting techniques - and indulge in their dark side.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 137646,
+                    "still_path": "/8CSSwpKb1fikY6qK322tHylfvfp.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "64220af253466100cd40f015",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1604930,
+                            "known_for_department": "Directing",
+                            "name": "Anuschka Schofield",
+                            "original_name": "Anuschka Schofield",
+                            "popularity": 0.008,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Narrator (voice)",
+                            "credit_id": "6239613a8ec4ab0077dc74d2",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1332680,
+                            "known_for_department": "Acting",
+                            "name": "Uzo Aduba",
+                            "original_name": "Uzo Aduba",
+                            "popularity": 6.553,
+                            "profile_path": "/fbx20O4wyOHNYONFbFv2usaT3yO.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 246022,
+            "poster_path": "/b57WHAFVs585WC5tWmLYEz3vSKL.jpg",
+            "season_number": 2,
+            "vote_average": 8
+        }
+    }
+}

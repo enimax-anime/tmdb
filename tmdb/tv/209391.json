@@ -1,0 +1,373 @@
+{
+    "adult": false,
+    "backdrop_path": "/zuT9bc5VWmeXptj3lq3cehzQqbJ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2022-09-18",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://magnolia.com/watch/show/1c9af99d-619e-4e97-9383-a8e4a6c1d3ce/big-sky-kitchen-with-eduardo-garcia/",
+    "id": 209391,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-24",
+    "last_episode_to_air": {
+        "id": 4774905,
+        "name": "Cowboy Breakfast",
+        "overview": "Chef Eduardo Garcia coal-roasts beet hash, biscuits and hollandaise.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-09-24",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 209391,
+        "still_path": "/lUGsOfqmuzErncEuOpQAuo7VNyf.jpg"
+    },
+    "name": "Big Sky Kitchen with Eduardo Garcia",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4519,
+            "logo_path": "/vcFEr6ywBL8mA8S2BxxxiKrNWO1.png",
+            "name": "Magnolia Network",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Big Sky Kitchen with Eduardo Garcia",
+    "overview": "Montana-based chef, outdoorsman and wild food forager Eduardo Garcia hosts this cooking series inspired by his love for nature. His fun and delicious meals become food celebrations for family and friends under the big sky.",
+    "popularity": 1.717,
+    "poster_path": "/qg91kj7mnk9NK64PCN5ACCJGKCz.jpg",
+    "production_companies": [
+        {
+            "id": 180633,
+            "logo_path": "/pmc0zOjLEBAiKRP0VV94ryZ6VBq.png",
+            "name": "Linguine Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-18",
+            "episode_count": 6,
+            "id": 307054,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qg91kj7mnk9NK64PCN5ACCJGKCz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-08-06",
+            "episode_count": 8,
+            "id": 353159,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/60FPzB78a7UhyYr1OibOtDHeE0B.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6312b236564ec700915ced06",
+            "air_date": "2022-09-18",
+            "episodes": [
+                {
+                    "air_date": "2022-09-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3928581,
+                    "name": "Family Sunday Supper",
+                    "overview": "Chef Eduardo Garcia hosts Sunday Supper with a menu of family favorites.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/hOn2IFm7o7Nd7Srorkguv2rtzPG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3973572,
+                    "name": "Eduardo's Pizza Party",
+                    "overview": "Eduardo Garcia turns pizza night into a fun party for family and friends.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/ynwyBhlOY49ieYoDKmwcpTBNdf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3984256,
+                    "name": "The Perfect Reuben Sandwich",
+                    "overview": "Chef Eduardo Garcia makes the perfect Reuben sandwich from scratch.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/vYKIDzt7Qab9tfAM0Q4VcGIbEN6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-09",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3996801,
+                    "name": "Dinner in the Food Forest",
+                    "overview": "Eduardo prepares and serves a hearty meal set in the middle of his garden.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/9LwsjUfPQgbmYhcsDRCKSdP45SZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-16",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4008244,
+                    "name": "Food Is Love",
+                    "overview": "Eduardo surprises his wife with a dinner featuring all her favorite dishes.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/6TwkXWjGHbXUiZJXSAwerPvtFmj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-23",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4008252,
+                    "name": "Montana Campfire Cookout",
+                    "overview": "Eduardo makes paella, grilled tomatoes and lavender-honey ice cream.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 209391,
+                    "still_path": "/pPGTY1u3oHdbeHPteZaNUbJFgv9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 307054,
+            "poster_path": "/qg91kj7mnk9NK64PCN5ACCJGKCz.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "64df9e66a3b5e600ff4e1a97",
+            "air_date": "2023-08-06",
+            "episodes": [
+                {
+                    "air_date": "2023-08-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4664116,
+                    "name": "Spaghetti Western",
+                    "overview": "Good work deserves a delicious farm meal so Chef Eduardo Garcia turns Montana whole wheat into rustic pappardelle pasta covered with a savoury tomato, basil and mint all-off-the-bone lamb shank ragout to be enjoyed wagon-side with Becca and Goose.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/k8wPJHjc9TtefnhPDvxEYCVvYkf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4664117,
+                    "name": "New York Meets Montana Brunch",
+                    "overview": "Chef Eduardo Garcia's got New York on his mind so he invites friends over for an everything bagel, jalapeno schmear, potato latkes and smoked trout salad brunch that's reminiscent of NYC, but freshly-caught and flavor-packed with Montana ingredients.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/7TBLK5Suk5u35liiy7ZWVQBMD85.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4664118,
+                    "name": "Mexican Street Food",
+                    "overview": "It's taco night and friends are coming to dinner; Chef Eduardo Garcia presses tortillas for tostadas, slow-cooks creamy black beans with pork belly, grills a showstopping lobster Aguachile, and drizzles churros with goat caramel for all to share.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/xtwD1xxe2ZhS6hsFt1QV82f9zTd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-08-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4694258,
+                    "name": "Chicken and the Egg",
+                    "overview": "Chef Eduardo Garcia shares a roast chicken and crème brûlée for dinner.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/sewITUsxdslkr8oM7LnBudfzBVD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4774897,
+                    "name": "Small Bites",
+                    "overview": "Chef Eduardo Garcia shares an array of beautiful appetizers for dinner.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/uBP8jkt506l9GbyHtvBOUi08Y5s.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-10",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4774900,
+                    "name": "Campfire Comfort",
+                    "overview": "Chef Eduardo Garcia shares his campfire French onion soup and crepes.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/o5ZWhMZDUFXLRiIG658vFglbYq9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-17",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4774902,
+                    "name": "Big Batch Cooking",
+                    "overview": "Chef Eduardo Garcia hosts his work team for a tasty Thai-inspired meal.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/3lxqQXcOMjTN0rqvQmQ5R0dEzua.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-24",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4774905,
+                    "name": "Cowboy Breakfast",
+                    "overview": "Chef Eduardo Garcia coal-roasts beet hash, biscuits and hollandaise.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 209391,
+                    "still_path": "/lUGsOfqmuzErncEuOpQAuo7VNyf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 353159,
+            "poster_path": "/60FPzB78a7UhyYr1OibOtDHeE0B.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

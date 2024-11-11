@@ -1,0 +1,215 @@
+{
+    "adult": false,
+    "backdrop_path": "/pRwfVHGtM1dh1IGzMbGJv3qirVN.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-04-23",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81383127",
+    "id": 235779,
+    "in_production": true,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2024-04-23",
+    "last_episode_to_air": {
+        "id": 5299235,
+        "name": "The Well",
+        "overview": "Alliances are set, and the battle for the gold is imminent. Fumel's army feels lucky, but Filomena hatches a bold plan.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-04-23",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 40,
+        "season_number": 1,
+        "show_id": 235779,
+        "still_path": "/iFkqAJbqlxydl7vTqKgsr8iReb8.jpg"
+    },
+    "name": "Brigands: The Quest for Gold",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "Briganti",
+    "overview": "In the 19th century, when the southern lands of Italy are bandit territory, Filomena escapes her wealthy but sad life to lead a risky treasure hunt.",
+    "popularity": 23.344,
+    "poster_path": "/xD44FCYwkOeA5iwYu175cUQlVUi.jpg",
+    "production_companies": [
+        {
+            "id": 88730,
+            "logo_path": "/rclWo1sEkHF2efRuPEkq9AsatL5.png",
+            "name": "Fabula Pictures",
+            "origin_country": "IT"
+        },
+        {
+            "id": 217421,
+            "logo_path": null,
+            "name": "Los Hermanos",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-04-23",
+            "episode_count": 6,
+            "id": 358473,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xD44FCYwkOeA5iwYu175cUQlVUi.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.7,
+    "vote_count": 40,
+    "season_data": {
+        "1": {
+            "_id": "651154ece1faed013a0bb448",
+            "air_date": "2024-04-23",
+            "episodes": [
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4758979,
+                    "name": "The Map",
+                    "overview": "The map to a coveted treasure reappears. Filomena rebels and a spat with her husband blows up. Sparrowhawk makes a deal with the tyrannical Piedmontese.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/jXFPOnZ0NzmZHLKJc1LP1gDqyvN.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5299231,
+                    "name": "The Rifle",
+                    "overview": "The Monacos welcome Filomena, but Ciccilla doesn't seem to trust her. Two helpers join Sparrowhawk's venture into Mignano's feared prison.",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/uxWbYqDJwmxw2DuEeHktlp8rJsq.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5299232,
+                    "name": "The Ox",
+                    "overview": "Filomena seems willing to prove her loyalty to Sparrowhawk, but she ends up making a reckless move. Fumel has plans for her. Michelina seeks allies.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/7iHQNxs9Rog0zSlnCOrUDmP81R9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5299233,
+                    "name": "From the Earth We Will Rise",
+                    "overview": "Filomena wants to lead the Monacos to the gold — but when the gang gets threatened, Pietro suspects that there's a traitor among them.",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/8kyb0FJYjQtbvyaXGf3Pmt7pZNZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5299234,
+                    "name": "The Bride, The Assassin, and the Lunatic",
+                    "overview": "The gang is divided and Sparrowhawk's secret puts him in danger. Filomena doesn't know whom to trust. Michelina's domain is challenged.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/cjrn8EgQR9bqPAsbJ9XUQj2JYn9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-04-23",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5299235,
+                    "name": "The Well",
+                    "overview": "Alliances are set, and the battle for the gold is imminent. Fumel's army feels lucky, but Filomena hatches a bold plan.",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 235779,
+                    "still_path": "/iFkqAJbqlxydl7vTqKgsr8iReb8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 358473,
+            "poster_path": "/xD44FCYwkOeA5iwYu175cUQlVUi.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        }
+    }
+}

@@ -1,0 +1,971 @@
+{
+    "adult": false,
+    "backdrop_path": "/nXeFL1AjGDkvOvX8buWhJw2RnSP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2020-01-29",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81026300",
+    "id": 98805,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-03-03",
+    "last_episode_to_air": {
+        "id": 4253103,
+        "name": "The Finale",
+        "overview": "Three finalists have a chance to showcase their artistry and talent with a full collection of new styles — but only one can walk off the runway a winner.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-03",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 2,
+        "show_id": 98805,
+        "still_path": "/eWUAV3nSJMjXEUaFwsCEpwOf5AO.jpg"
+    },
+    "name": "Next in Fashion",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 20,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Next in Fashion",
+    "overview": "Talented designers from around the world compete for $250,000 and the chance to become the next big thing in fashion.",
+    "popularity": 12.195,
+    "poster_path": "/r571zPr9McSe4UNhh7WKigt2Hys.jpg",
+    "production_companies": [
+        {
+            "id": 129230,
+            "logo_path": null,
+            "name": "The Oldschool",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-29",
+            "episode_count": 10,
+            "id": 142274,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vJrLWBi3HerfNtQg7y3B8mLgrih.jpg",
+            "season_number": 1,
+            "vote_average": 4
+        },
+        {
+            "air_date": "2023-03-03",
+            "episode_count": 10,
+            "id": 326210,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/aT4d664RlmrhLaUFmJbe8HsUp4a.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Next level talent. Next level looks.",
+    "type": "Reality",
+    "vote_average": 6.9,
+    "vote_count": 36,
+    "season_data": {
+        "1": {
+            "_id": "5e31abc8c56d2d001350e25b",
+            "air_date": "2020-01-29",
+            "episodes": [
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2065014,
+                    "name": "Red Carpet",
+                    "overview": "In it to win it, 18 designers pair up to concoct fabulous red-carpet looks. Will they go glam or \"hooch-wench\" for Monique Lhuillier and Eva Chen?",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/nPT5TaoJ2BZQGf4Ljq3zg7P6SoO.jpg",
+                    "vote_average": 4,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Herself (Model)",
+                            "credit_id": "5e49861d9b86160013621fc9",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540786,
+                            "known_for_department": "Acting",
+                            "name": "Lauren Umansky",
+                            "original_name": "Lauren Umansky",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Herself",
+                            "credit_id": "5e4988c41e92250015c28668",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2540799,
+                            "known_for_department": "Acting",
+                            "name": "Monique Lhuillier",
+                            "original_name": "Monique Lhuillier",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2065016,
+                    "name": "Prints & Patterns",
+                    "overview": "Go big and bold -- or go home? Prints polarize the contestants as they break out new patterns and reflect on their origins with judge Prabal Gurung.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/8zoOnoxSPVmpcwZ8hS8LbhBfcCy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e4988e11e9225001dc2721b",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540800,
+                            "known_for_department": "Acting",
+                            "name": "Prabal Gurung",
+                            "original_name": "Prabal Gurung",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2065017,
+                    "name": "The Suit",
+                    "overview": "Charged with making a chic suit in a day and a half, the designers scramble to realize their visions for judge Phillip Lim, despite some bloody drama.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/irbRJME09qo6eBEHJru5IbYoM3a.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e31aea0326c1900141efb1a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 139876,
+                            "known_for_department": "Costume & Make-Up",
+                            "name": "Phillip Lim",
+                            "original_name": "Phillip Lim",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Herself (Model)",
+                            "credit_id": "5e49865a676ce200180029cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2540787,
+                            "known_for_department": "Acting",
+                            "name": "Zeta Morrison",
+                            "original_name": "Zeta Morrison",
+                            "popularity": 0.112,
+                            "profile_path": "/ddyJ23LvpzskCxsnEjUCup0Y6sm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2065018,
+                    "name": "Streetwear",
+                    "overview": "Urban reality meets next-level fantasy in a streetwear round. Just be careful not to trip on those great expectations in front of Kerby Jean-Raymond.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/cxyERhd7cJ9vPyXRQKR8or5WBGN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself (Model)",
+                            "credit_id": "5e4985a481da3900153ea38a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540784,
+                            "known_for_department": "Acting",
+                            "name": "Prasad Romijn",
+                            "original_name": "Prasad Romijn",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e4989279b861600116235ca",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540802,
+                            "known_for_department": "Acting",
+                            "name": "Kerby Jean-Raymond",
+                            "original_name": "Kerby Jean-Raymond",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2065019,
+                    "name": "Underwear",
+                    "overview": "After a cliffhanger elimination, the hopefuls strip it down and amp up the seduction with lingerie and underwear. Model Adriana Lima judges.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/pyGok0mJe1WdSfsGYHCc4Gh4OGG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Herself",
+                            "credit_id": "5e31aec498f1f10012ff8a0f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 209198,
+                            "known_for_department": "Acting",
+                            "name": "Adriana Lima",
+                            "original_name": "Adriana Lima",
+                            "popularity": 9.614,
+                            "profile_path": "/b8LNqUPTTdt77XSO4qLT2a0NaQe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2065020,
+                    "name": "Rock",
+                    "overview": "Goth, grunge, punk: Attitude is everything as the designers flirt with danger (read: leather) and flaunt fake fur for Christopher Kane and Beth Ditto.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/A10tswEuThcXdnh68NVVp7VPmkD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e31aed698f1f10018ff995c",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2432084,
+                            "known_for_department": "Acting",
+                            "name": "Christopher Kane",
+                            "original_name": "Christopher Kane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Himself (Model)",
+                            "credit_id": "5e4985a481da3900153ea38a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540784,
+                            "known_for_department": "Acting",
+                            "name": "Prasad Romijn",
+                            "original_name": "Prasad Romijn",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Herself",
+                            "credit_id": "5e49895135811d0015486c05",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1412068,
+                            "known_for_department": "Acting",
+                            "name": "Beth Ditto",
+                            "original_name": "Beth Ditto",
+                            "popularity": 1.134,
+                            "profile_path": "/s5RYh8y0Cig3GVvyCis6tX0I7aH.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2065021,
+                    "name": "Activewear",
+                    "overview": "Big changes call for major moves when the contestants design activewear that's fit for both workouts and runways. Josefine Aberg of Adidas judges.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/5MK1qE52yt6ODgt46DSV8OtuVHR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Herself",
+                            "credit_id": "5e4985569b86160011623065",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540781,
+                            "known_for_department": "Acting",
+                            "name": "Katerina Kaouri",
+                            "original_name": "Katerina Kaouri",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Herself (Model)",
+                            "credit_id": "5e49865a676ce200180029cb",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2540787,
+                            "known_for_department": "Acting",
+                            "name": "Zeta Morrison",
+                            "original_name": "Zeta Morrison",
+                            "popularity": 0.112,
+                            "profile_path": "/ddyJ23LvpzskCxsnEjUCup0Y6sm.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2065022,
+                    "name": "Military",
+                    "overview": "With boots on the ground and the clock ticking, the designers march out military-inspired looks for Public School's Maxwell Osborne and Dao-Yi Chow.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/s2RGoCUXdzhRUk2RDrxYDnQA3Qy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2065023,
+                    "name": "Denim",
+                    "overview": "For the semifinals, the competition turns to a durable classic: denim. But the final four must stretch like never before to impress Tommy Hilfiger.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/jzqHBDpCmHX0M3AXFndbVam04WB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e31aeeb4ca67600124c5f3f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 77068,
+                            "known_for_department": "Acting",
+                            "name": "Tommy Hilfiger",
+                            "original_name": "Tommy Hilfiger",
+                            "popularity": 1.139,
+                            "profile_path": "/vkooXNGHroFNa4Z0XJeX45n7bEx.jpg"
+                        },
+                        {
+                            "character": "Himself (Model)",
+                            "credit_id": "5e4985a481da3900153ea38a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540784,
+                            "known_for_department": "Acting",
+                            "name": "Prasad Romijn",
+                            "original_name": "Prasad Romijn",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-29",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2065024,
+                    "name": "The Finale",
+                    "overview": "The ultimate: Create a dream collection of 10 looks in only three days. After a gauntlet of challenges and emotions, who will be named Next in Fashion?",
+                    "production_code": "",
+                    "runtime": 56,
+                    "season_number": 1,
+                    "show_id": 98805,
+                    "still_path": "/kBiKfKN9wJkc8pmsbFmcmT1N3Rs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself (Model)",
+                            "credit_id": "5e4985a481da3900153ea38a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2540784,
+                            "known_for_department": "Acting",
+                            "name": "Prasad Romijn",
+                            "original_name": "Prasad Romijn",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 142274,
+            "poster_path": "/vJrLWBi3HerfNtQg7y3B8mLgrih.jpg",
+            "season_number": 1,
+            "vote_average": 4
+        },
+        "2": {
+            "_id": "63d2c690a410c81215b6af2a",
+            "air_date": "2023-03-03",
+            "episodes": [
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4193490,
+                    "name": "Royalty",
+                    "overview": "Twelve designers settle into the workroom to create royalty-inspired looks, hoping to be crowned the winner by fashion industry icon Donatella Versace.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/bxzOlSxCYi40dJZvsaMHqglrxs4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cd26699fb7007d8f9898",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1199514,
+                            "known_for_department": "Acting",
+                            "name": "Donatella Versace",
+                            "original_name": "Donatella Versace",
+                            "popularity": 2.459,
+                            "profile_path": "/mVnfGSm5oGqnkHcrUsst7xCFAHX.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4253095,
+                    "name": "Wear The Earth",
+                    "overview": "Two teams let their imaginations bloom to make living looks that incorporate flowers and plants for supermodel judge Helena Christensen.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/djSwi6XTuOMaiC50FCC4jmwBppT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cd3f699fb7008f9cc3ea",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 937041,
+                            "known_for_department": "Acting",
+                            "name": "Helena Christensen",
+                            "original_name": "Helena Christensen",
+                            "popularity": 2.118,
+                            "profile_path": "/um1cPO3wfJmU2KMtUmXC5yCTqy2.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4253096,
+                    "name": "Thrift",
+                    "overview": "In a whirlwind challenge, designers have only four hours to craft fresh designs from thrifted pieces. Internet personality Emma Chamberlain guest judges.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/utApLis92VpXljpLt3hjGEABpAD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cfed278d8a00802cffe0",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2741137,
+                            "known_for_department": "Acting",
+                            "name": "Emma Chamberlain",
+                            "original_name": "Emma Chamberlain",
+                            "popularity": 0.895,
+                            "profile_path": "/3EBn8QaCO9iYL8duOy3rMnWBB3j.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4253097,
+                    "name": "Childhood",
+                    "overview": "Producing grown-up looks inspired by their childhood photos proves emotional for some contestants in a challenge judged by designer Isabel Marant.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/cjXm92wO3jhpYP7y87BYdRmFPvn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401d8439f1be700aaed6438",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3932838,
+                            "known_for_department": "Production",
+                            "name": "Isabel Marant",
+                            "original_name": "Isabel Marant",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4253098,
+                    "name": "Collaboration",
+                    "overview": "The designers pair up to wow Balmain's Olivier Rousteing with coordinated looks, and learn that creative chemistry can make or break a collaboration.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/v1twP7qJEzGCk0kovgFUsQPIVX8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401e58f699fb7008f9ccd6e",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3947198,
+                            "known_for_department": "Acting",
+                            "name": "Gabriella Karefa-Johnson",
+                            "original_name": "Gabriella Karefa-Johnson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401e5b49653f600894fa95d",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1895994,
+                            "known_for_department": "Acting",
+                            "name": "Olivier Rousteing",
+                            "original_name": "Olivier Rousteing",
+                            "popularity": 0.728,
+                            "profile_path": "/gADhxaImGuwgdkactjaeXa8GXWW.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4253099,
+                    "name": "Met Gala",
+                    "overview": "Riffing on the theme of camp, the designers create over-the-top ensembles worthy of a Met Gala red carpet for guest judge Bella Hadid.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/2w4EIddsLcwCldV0yazr3w9tVDQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401f51ec7176d007981554d",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1701005,
+                            "known_for_department": "Acting",
+                            "name": "Bella Hadid",
+                            "original_name": "Bella Hadid",
+                            "popularity": 3.376,
+                            "profile_path": "/mX70OPqeZMZaa8yY7Drj137laZr.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4253100,
+                    "name": "Swimwear",
+                    "overview": "Pairs of contestants dive into a rapid-fire swimwear challenge to create two suits that will impress model and designer Candice Swanepoel.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/cgHuLuxA5OogvStFac8OTDJ9q5L.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401fd059653f600853e3f67",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1125797,
+                            "known_for_department": "Acting",
+                            "name": "Candice Swanepoel",
+                            "original_name": "Candice Swanepoel",
+                            "popularity": 9.996,
+                            "profile_path": "/8TnVW3p2psT9sl7rN7aK6wHVr2Q.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4253101,
+                    "name": "Everything Old Is New",
+                    "overview": "Tan and Gigi fire up their time machine, sending designers to past decades to find retro inspiration for contemporary looks. Hailey Bieber judges.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/mASUMH8Am8V619zCIrOPP29OfnC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401e58f699fb7008f9ccd6e",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3947198,
+                            "known_for_department": "Acting",
+                            "name": "Gabriella Karefa-Johnson",
+                            "original_name": "Gabriella Karefa-Johnson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "64020019699fb70096009471",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1742091,
+                            "known_for_department": "Acting",
+                            "name": "Hailey Bieber",
+                            "original_name": "Hailey Bieber",
+                            "popularity": 6.442,
+                            "profile_path": "/mzzDNkdDRFb8Rpq3l2YJcZDxk1e.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4253102,
+                    "name": "Transformation",
+                    "overview": "The final four pull out all the stops to design two-in-one pieces that can transform in an instant, with actor Ashley Park of \"Emily in Paris\" judging.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/vRcmok4vxmEJ6S4dBEqBAh7tTmz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "640302d039271200e5067909",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1285023,
+                            "known_for_department": "Acting",
+                            "name": "Ashley Park",
+                            "original_name": "Ashley Park",
+                            "popularity": 8.708,
+                            "profile_path": "/vfTM1VUdVEuB81WR9LEWYjPxDzo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-03-03",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4253103,
+                    "name": "The Finale",
+                    "overview": "Three finalists have a chance to showcase their artistry and talent with a full collection of new styles — but only one can walk off the runway a winner.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 2,
+                    "show_id": 98805,
+                    "still_path": "/eWUAV3nSJMjXEUaFwsCEpwOf5AO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401cdcb7a4ee700a23f9d0e",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2041178,
+                            "known_for_department": "Acting",
+                            "name": "Jason Bolden",
+                            "original_name": "Jason Bolden",
+                            "popularity": 0.087,
+                            "profile_path": "/nYjZDgSueuQ7njEjjPLT5GsL2cy.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6401e58f699fb7008f9ccd6e",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3947198,
+                            "known_for_department": "Acting",
+                            "name": "Gabriella Karefa-Johnson",
+                            "original_name": "Gabriella Karefa-Johnson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "6403074ce61e6d0086df85e0",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3948423,
+                            "known_for_department": "Acting",
+                            "name": "Jennifer Hyman",
+                            "original_name": "Jennifer Hyman",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 326210,
+            "poster_path": "/aT4d664RlmrhLaUFmJbe8HsUp4a.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

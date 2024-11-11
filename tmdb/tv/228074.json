@@ -1,0 +1,580 @@
+{
+    "adult": false,
+    "backdrop_path": "/lMGNRb0mUF2U3buxKSZLjNPSMb3.jpg",
+    "created_by": [
+        {
+            "id": 3158668,
+            "credit_id": "66b7f87319c13a21529ee064",
+            "name": "Jo Rogers",
+            "original_name": "Jo Rogers",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2023-06-05",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.channel5.com/show/for-her-sins",
+    "id": 228074,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-06-07",
+    "last_episode_to_air": {
+        "id": 4498735,
+        "name": "Episode 4",
+        "overview": "After confessing to Emily about her past, Laura is ready to get her life back. Emily, meanwhile, has other plans - leading to a final standoff, as an intense struggle for power ensues.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-06-07",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 228074,
+        "still_path": "/hU7wJVBBzrG5sjXa7b3JK1ASaJI.jpg"
+    },
+    "name": "For Her Sins",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 99,
+            "logo_path": "/bMuKs6xuhI0GHSsq4WWd9FsntUN.png",
+            "name": "Channel 5",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "For Her Sins",
+    "overview": "Lawyer and mother of two Laura seems to have it all and when she meets charming newcomer Emily in the playground, they become firm friends - but all is not what it seems.",
+    "popularity": 7.104,
+    "poster_path": "/t6HTz8q5j0LfmLrwkqAHbLUiZUy.jpg",
+    "production_companies": [
+        {
+            "id": 201585,
+            "logo_path": null,
+            "name": "A Gaumont Production",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-06-05",
+            "episode_count": 4,
+            "id": 344062,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.1,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "647f08facf4b8b012277a80d",
+            "air_date": "2023-06-05",
+            "episodes": [
+                {
+                    "air_date": "2023-06-05",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4498732,
+                    "name": "Episode 1",
+                    "overview": "Laura seems to have it all. And when she meets charming newcomer Emily in the playground, they become fast friends. But Emily is out to get Laura...",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 228074,
+                    "still_path": "/mqvmPgSKvsa4iLnWGFkUicoI7qf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Florence",
+                            "credit_id": "66b825ca6297e5cefc1dd7df",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4099418,
+                            "known_for_department": "Acting",
+                            "name": "Leah Grech",
+                            "original_name": "Leah Grech",
+                            "popularity": 0.015,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Lucinda Price",
+                            "credit_id": "66b825f7aae939dcb5a8e484",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4011324,
+                            "known_for_department": "Acting",
+                            "name": "Isla Jackson-Ritchie",
+                            "original_name": "Isla Jackson-Ritchie",
+                            "popularity": 0.733,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Rachel",
+                            "credit_id": "66b8261a0d3ecd24f1284cc5",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1987671,
+                            "known_for_department": "Acting",
+                            "name": "Jade-Marie Joseph",
+                            "original_name": "Jade-Marie Joseph",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tom Bryant",
+                            "credit_id": "66b8263d97bf444823f2ba3d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1264601,
+                            "known_for_department": "Acting",
+                            "name": "Ansu Kabia",
+                            "original_name": "Ansu Kabia",
+                            "popularity": 4.446,
+                            "profile_path": "/a30i0EfQVZOyBpwfAaGJyQdpQES.jpg"
+                        },
+                        {
+                            "character": "Jane",
+                            "credit_id": "66b8267aaae939dcb5a8e4a1",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1934636,
+                            "known_for_department": "Acting",
+                            "name": "Erica Muscat",
+                            "original_name": "Erica Muscat",
+                            "popularity": 1.859,
+                            "profile_path": "/crsr3fD1U9zgVLjgA6Mxxfsm78w.jpg"
+                        },
+                        {
+                            "character": "Tony the old man",
+                            "credit_id": "66b8268c7df034b9c41a1ef9",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1264982,
+                            "known_for_department": "Acting",
+                            "name": "Mike Parish",
+                            "original_name": "Mike Parish",
+                            "popularity": 2.017,
+                            "profile_path": "/h23phNaR0MjOtl3XOTzbIYVXe8V.jpg"
+                        },
+                        {
+                            "character": "Young Emily",
+                            "credit_id": "66b826d0395589ffab170b86",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4878724,
+                            "known_for_department": "Acting",
+                            "name": "Victoria Schranz",
+                            "original_name": "Victoria Schranz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4498733,
+                    "name": "Episode 2",
+                    "overview": "The work party is a blur for Laura and Tom. A sober Emily leads them to a hotel and puts them in a compromising position that threatens Laura's marriage.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 228074,
+                    "still_path": "/ngmU69IxQPblEoxo0Sql0flwmNC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Florence",
+                            "credit_id": "66b825ca6297e5cefc1dd7df",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4099418,
+                            "known_for_department": "Acting",
+                            "name": "Leah Grech",
+                            "original_name": "Leah Grech",
+                            "popularity": 0.015,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Lucinda Price",
+                            "credit_id": "66b825f7aae939dcb5a8e484",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4011324,
+                            "known_for_department": "Acting",
+                            "name": "Isla Jackson-Ritchie",
+                            "original_name": "Isla Jackson-Ritchie",
+                            "popularity": 0.733,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tom Bryant",
+                            "credit_id": "66b8263d97bf444823f2ba3d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1264601,
+                            "known_for_department": "Acting",
+                            "name": "Ansu Kabia",
+                            "original_name": "Ansu Kabia",
+                            "popularity": 4.446,
+                            "profile_path": "/a30i0EfQVZOyBpwfAaGJyQdpQES.jpg"
+                        },
+                        {
+                            "character": "Young Emily",
+                            "credit_id": "66b826d0395589ffab170b86",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4878724,
+                            "known_for_department": "Acting",
+                            "name": "Victoria Schranz",
+                            "original_name": "Victoria Schranz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Isla",
+                            "credit_id": "66b82708a35e120ff372e684",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3098372,
+                            "known_for_department": "Acting",
+                            "name": "Becky Camilleri",
+                            "original_name": "Becky Camilleri",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Liam Stevens",
+                            "credit_id": "66b8274e0e9c04ae499b4939",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1475238,
+                            "known_for_department": "Acting",
+                            "name": "Gerard Miller",
+                            "original_name": "Gerard Miller",
+                            "popularity": 1.041,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Annie - Hotel Receptionist",
+                            "credit_id": "66b827808fd5b6a19aa8e54a",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1934636,
+                            "known_for_department": "Acting",
+                            "name": "Erica Muscat",
+                            "original_name": "Erica Muscat",
+                            "popularity": 1.859,
+                            "profile_path": "/crsr3fD1U9zgVLjgA6Mxxfsm78w.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4498734,
+                    "name": "Episode 3",
+                    "overview": "Emily's furious she's getting the cold shoulder from Laura. In a pestle and mortar, she crushes a powder. Laura returns to work and receives an ominous letter.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 228074,
+                    "still_path": "/tB7LSGcneH3mHxcv49oKKwTzDXd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Rachel",
+                            "credit_id": "66b8261a0d3ecd24f1284cc5",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1987671,
+                            "known_for_department": "Acting",
+                            "name": "Jade-Marie Joseph",
+                            "original_name": "Jade-Marie Joseph",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tom Bryant",
+                            "credit_id": "66b8263d97bf444823f2ba3d",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1264601,
+                            "known_for_department": "Acting",
+                            "name": "Ansu Kabia",
+                            "original_name": "Ansu Kabia",
+                            "popularity": 4.446,
+                            "profile_path": "/a30i0EfQVZOyBpwfAaGJyQdpQES.jpg"
+                        },
+                        {
+                            "character": "Young Emily",
+                            "credit_id": "66b826d0395589ffab170b86",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4878724,
+                            "known_for_department": "Acting",
+                            "name": "Victoria Schranz",
+                            "original_name": "Victoria Schranz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Liam Stevens",
+                            "credit_id": "66b8274e0e9c04ae499b4939",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1475238,
+                            "known_for_department": "Acting",
+                            "name": "Gerard Miller",
+                            "original_name": "Gerard Miller",
+                            "popularity": 1.041,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "School Receptionist",
+                            "credit_id": "66b8288ba2ac26cfb5bbf6c7",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4878752,
+                            "known_for_department": "Acting",
+                            "name": "Taryn Butler",
+                            "original_name": "Taryn Butler",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Maggie Gibson",
+                            "credit_id": "66b828d7da4f63f30a9b4a34",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 153359,
+                            "known_for_department": "Acting",
+                            "name": "Ann Mitchell",
+                            "original_name": "Ann Mitchell",
+                            "popularity": 2.186,
+                            "profile_path": "/hPChFuMvXUI9m8GtCrCubKTA5aJ.jpg"
+                        },
+                        {
+                            "character": "Stuart",
+                            "credit_id": "66b829114a850a1bb51a2146",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1336862,
+                            "known_for_department": "Acting",
+                            "name": "Seán James Sutton",
+                            "original_name": "Seán James Sutton",
+                            "popularity": 1.112,
+                            "profile_path": "/6n54ysLsGOuMtDYeTCK7ZqpSiSS.jpg"
+                        },
+                        {
+                            "character": "Adam",
+                            "credit_id": "66b8293b4d372e4ba4263f14",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1759549,
+                            "known_for_department": "Acting",
+                            "name": "Shane Rowe",
+                            "original_name": "Shane Rowe",
+                            "popularity": 0.727,
+                            "profile_path": "/AlWbeyvXjjJDD71E7t1L6xN2dHG.jpg"
+                        },
+                        {
+                            "character": "Stef",
+                            "credit_id": "66b82961025af75b0a76fd5a",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2171184,
+                            "known_for_department": "Acting",
+                            "name": "Rebecca Yeo",
+                            "original_name": "Rebecca Yeo",
+                            "popularity": 0.587,
+                            "profile_path": "/4SU5fxa3KE8i5kf5yVOwaehbWBk.jpg"
+                        },
+                        {
+                            "character": "Police Officer",
+                            "credit_id": "66b829b8a2ac26cfb5bbf70f",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3098370,
+                            "known_for_department": "Acting",
+                            "name": "Edward Thorpe",
+                            "original_name": "Edward Thorpe",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-06-07",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 4498735,
+                    "name": "Episode 4",
+                    "overview": "After confessing to Emily about her past, Laura is ready to get her life back. Emily, meanwhile, has other plans - leading to a final standoff, as an intense struggle for power ensues.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 228074,
+                    "still_path": "/hU7wJVBBzrG5sjXa7b3JK1ASaJI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Lucinda Price",
+                            "credit_id": "66b825f7aae939dcb5a8e484",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4011324,
+                            "known_for_department": "Acting",
+                            "name": "Isla Jackson-Ritchie",
+                            "original_name": "Isla Jackson-Ritchie",
+                            "popularity": 0.733,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Young Emily",
+                            "credit_id": "66b826d0395589ffab170b86",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4878724,
+                            "known_for_department": "Acting",
+                            "name": "Victoria Schranz",
+                            "original_name": "Victoria Schranz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Liam Stevens",
+                            "credit_id": "66b8274e0e9c04ae499b4939",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1475238,
+                            "known_for_department": "Acting",
+                            "name": "Gerard Miller",
+                            "original_name": "Gerard Miller",
+                            "popularity": 1.041,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Maggie Gibson",
+                            "credit_id": "66b828d7da4f63f30a9b4a34",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 153359,
+                            "known_for_department": "Acting",
+                            "name": "Ann Mitchell",
+                            "original_name": "Ann Mitchell",
+                            "popularity": 2.186,
+                            "profile_path": "/hPChFuMvXUI9m8GtCrCubKTA5aJ.jpg"
+                        },
+                        {
+                            "character": "Stef",
+                            "credit_id": "66b82961025af75b0a76fd5a",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2171184,
+                            "known_for_department": "Acting",
+                            "name": "Rebecca Yeo",
+                            "original_name": "Rebecca Yeo",
+                            "popularity": 0.587,
+                            "profile_path": "/4SU5fxa3KE8i5kf5yVOwaehbWBk.jpg"
+                        },
+                        {
+                            "character": "Police Officer",
+                            "credit_id": "66b829b8a2ac26cfb5bbf70f",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3098370,
+                            "known_for_department": "Acting",
+                            "name": "Edward Thorpe",
+                            "original_name": "Edward Thorpe",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 344062,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

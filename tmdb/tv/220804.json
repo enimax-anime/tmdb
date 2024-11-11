@@ -1,0 +1,160 @@
+{
+    "adult": false,
+    "backdrop_path": "/qjTWb1TYXmwZVgxnd0QMEYvhSQW.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-02-19",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.sky.com/watch/title/series/6a9580b7-79f5-4d64-92ed-91eb8c1df5b1",
+    "id": 220804,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2023-03-05",
+    "last_episode_to_air": {
+        "id": 4246433,
+        "name": "Charmaine",
+        "overview": "As two more bodies are found, the search moves to the first home of Fred West and new wife Rosemary, where they lived with Rena's daughter Charmaine.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-03-05",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 220804,
+        "still_path": "/rS3wBiXpXwoFnwMxNYA6KF6nLUk.jpg"
+    },
+    "name": "Fred West: The Glasgow Girls",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3653,
+            "logo_path": "/j1DtfhlOytvbV6QVnrZHT3xBkAP.png",
+            "name": "Sky Crime",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Fred West: The Glasgow Girls",
+    "overview": "Uncovering the hidden lives and experiences of Fred West first three victims his first wife, Rena Costello, her daughter Charmaine and her friend Anne McFall, when he was living in Glasgow in the early 1960s.",
+    "popularity": 2.395,
+    "poster_path": "/fOmUrQqL4iqPOE5ZZuIum4kYYuC.jpg",
+    "production_companies": [
+        {
+            "id": 30249,
+            "logo_path": "/nHNMrZ0I1ybL1jzEbNPTZZkyLE2.png",
+            "name": "IWC Media",
+            "origin_country": "GB"
+        },
+        {
+            "id": 135346,
+            "logo_path": "/hIwjhVdOOQ1fpdebwOuDQD7bnw0.png",
+            "name": "Sky Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-02-19",
+            "episode_count": 3,
+            "id": 329616,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 1,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "63f3a8b85249780084f77665",
+            "air_date": "2023-02-19",
+            "episodes": [
+                {
+                    "air_date": "2023-02-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4246431,
+                    "name": "Rena",
+                    "overview": "In 1994, Fred West is exposed as a serial killer. Police start to trace his early crimes in Glasgow, such as the disappearance of his first wife.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220804,
+                    "still_path": "/eMJOtrA1pq2pJOHTfoxitKnsQgh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-02-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4246432,
+                    "name": "Anne",
+                    "overview": "Police discover that Fred West was known for abusing girls in Glasgow and was run out of town, followed by wife Rena and missing friend Anne McFall.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220804,
+                    "still_path": "/kzeo0ENvIE0ZaGEmvPMA2XclnGE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4246433,
+                    "name": "Charmaine",
+                    "overview": "As two more bodies are found, the search moves to the first home of Fred West and new wife Rosemary, where they lived with Rena's daughter Charmaine.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 220804,
+                    "still_path": "/rS3wBiXpXwoFnwMxNYA6KF6nLUk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 329616,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

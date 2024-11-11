@@ -1,0 +1,271 @@
+{
+    "adult": false,
+    "backdrop_path": "/6WIbGMvpUQMp6xqXRsuo3LiTzmC.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2018-03-20",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/b09x4jhh",
+    "id": 78572,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-04-10",
+    "last_episode_to_air": {
+        "id": 1465150,
+        "name": "Lucknow to Kolkata",
+        "overview": "Michael goes on an epic rail journey from Lucknow in Uttar Pradesh to Kolkata, West Bengal",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-04-10",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 78572,
+        "still_path": "/cbE0wmLzDh3q8gc51ywQGt8mKZb.jpg"
+    },
+    "name": "Great Indian Railway Journeys",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Great Indian Railway Journeys",
+    "overview": "Guided by a century-old Bradshaw’s Handbook of Indian, Foreign and Colonial Travel, Michael Portillo embarks on a railway adventure across India and takes in the extraordinary variety of the Indian landscape.",
+    "popularity": 4.18,
+    "poster_path": "/xFlMIY9YvXbpytw8JHBZydkcxdL.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-03-20",
+            "episode_count": 4,
+            "id": 102005,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xFlMIY9YvXbpytw8JHBZydkcxdL.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 1,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5ac557ce0e0a260c140592a9",
+            "air_date": "2018-03-20",
+            "episodes": [
+                {
+                    "air_date": "2018-03-20",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1465147,
+                    "name": "Amritsar to Shimla",
+                    "overview": "Michael Portillo embarks on a classic rail journey from Amritsar to Shimla.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 78572,
+                    "still_path": "/lyWt3PTRzIQMaVnptmg0LdAzhJI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5d57e815e8131d4aa18b1181",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2012095,
+                            "known_for_department": "Directing",
+                            "name": "Cassie Farrell",
+                            "original_name": "Cassie Farrell",
+                            "popularity": 0.508,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Sound Recordist",
+                            "department": "Sound",
+                            "credit_id": "5ecec77c5900860022c62830",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2656825,
+                            "known_for_department": "Sound",
+                            "name": "Ian Eason",
+                            "original_name": "Ian Eason",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-27",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1465148,
+                    "name": "Jodhpur to Delhi",
+                    "overview": "Michael Portillo embarks on a stunning rail journey from the Thar Desert in Rajasthan to the Indian capital, taking in desert landscapes and dazzling historic palaces.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 78572,
+                    "still_path": "/fmwR4rKe1YoxbAyJTPlQl216StS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5d57e815e8131d4aa18b1181",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2012095,
+                            "known_for_department": "Directing",
+                            "name": "Cassie Farrell",
+                            "original_name": "Cassie Farrell",
+                            "popularity": 0.508,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Sound Recordist",
+                            "department": "Sound",
+                            "credit_id": "5ecec77c5900860022c62830",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2656825,
+                            "known_for_department": "Sound",
+                            "name": "Ian Eason",
+                            "original_name": "Ian Eason",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1465149,
+                    "name": "Mysuru to Chennai",
+                    "overview": "Michael Portillo takes a railway journey through the modern south Indian states of Karnataka and Tamil Nadu, from the former princely state of Mysore to the first stronghold of the East India Company in Chennai, formerly Madras.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 78572,
+                    "still_path": "/aTWGcIVKNZmPQfeBj4ev2g6dn25.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5d582bc94bc38b195427d909",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2389317,
+                            "known_for_department": "Directing",
+                            "name": "Ben Rowland",
+                            "original_name": "Ben Rowland",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Sound Recordist",
+                            "department": "Sound",
+                            "credit_id": "5ecec3983dc3130020c7f6b5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2529867,
+                            "known_for_department": "Sound",
+                            "name": "Marco Barion",
+                            "original_name": "Marco Barion",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-10",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1465150,
+                    "name": "Lucknow to Kolkata",
+                    "overview": "Michael goes on an epic rail journey from Lucknow in Uttar Pradesh to Kolkata, West Bengal",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 78572,
+                    "still_path": "/cbE0wmLzDh3q8gc51ywQGt8mKZb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5d582bc94bc38b195427d909",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2389317,
+                            "known_for_department": "Directing",
+                            "name": "Ben Rowland",
+                            "original_name": "Ben Rowland",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Sound Recordist",
+                            "department": "Sound",
+                            "credit_id": "5ecec77c5900860022c62830",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2656825,
+                            "known_for_department": "Sound",
+                            "name": "Ian Eason",
+                            "original_name": "Ian Eason",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 102005,
+            "poster_path": "/xFlMIY9YvXbpytw8JHBZydkcxdL.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

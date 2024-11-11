@@ -1,0 +1,595 @@
+{
+    "adult": false,
+    "backdrop_path": "/gvtKtzhDmOJGWSotqaEzXYYR8tu.jpg",
+    "created_by": [
+        {
+            "id": 3845103,
+            "credit_id": "63a8befd0f21c60084b2e794",
+            "name": "Kul Mahay",
+            "original_name": "Kul Mahay",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 3845106,
+            "credit_id": "63a8bfad91b53000c309435e",
+            "name": "Adriel Leff",
+            "original_name": "Adriel Leff",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        58
+    ],
+    "first_air_date": "2022-12-01",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p0db975h",
+    "id": 215036,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-05-17",
+    "last_episode_to_air": {
+        "id": 5291805,
+        "name": "Episode 3",
+        "overview": "As both cases reach a stunning conclusion, Lindo and Bart face a race against time to save innocent lives, whilst the depth of various betrayals are finally revealed.",
+        "vote_average": 6,
+        "vote_count": 2,
+        "air_date": "2024-05-17",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 2,
+        "show_id": 215036,
+        "still_path": "/lZSMknB4DkjoE6JuV9wnos2RAVG.jpg"
+    },
+    "name": "Granite Harbour",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3278,
+            "logo_path": "/81igZwiplDuM1jqLiUMFjB6wdJm.png",
+            "name": "BBC Scotland",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Granite Harbour",
+    "overview": "Lance Corporal Davis Lindo arrives in Aberdeen Scotland as a new detective trainee. Having completed his final tour with the Royal Military Police, Lindo dreams of being a detective at New Scotland Yard. However, he finds himself being sent to train as a Detective Constable in the North East of Scotland, he must quickly adapt to his new life in Aberdeen, a world away from anything the soldier has known before.",
+    "popularity": 5.882,
+    "poster_path": "/8xHI2UUMBiKoox2QkI37C26j8EL.jpg",
+    "production_companies": [
+        {
+            "id": 186988,
+            "logo_path": null,
+            "name": "LA Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 121614,
+            "logo_path": "/3Dkij1sDiqYWH7TG7FDHQNX769E.png",
+            "name": "Dopamine",
+            "origin_country": "MX"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-01",
+            "episode_count": 3,
+            "id": 317479,
+            "name": "Series 1",
+            "overview": "Trainee detective Davis Lindo is assigned to a high-profile murder case on his first day.",
+            "poster_path": "/5qAT9yBbJKRkNk5QRMXTLiq3BO8.jpg",
+            "season_number": 1,
+            "vote_average": 5.8
+        },
+        {
+            "air_date": "2024-05-03",
+            "episode_count": 3,
+            "id": 389222,
+            "name": "Series 2",
+            "overview": "Lindo and Bart return to investigate two fatal cases with dark conspiracies at their heart",
+            "poster_path": "/8xHI2UUMBiKoox2QkI37C26j8EL.jpg",
+            "season_number": 2,
+            "vote_average": 6.1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Aberdeen, oil, murder - it's all new to a trainee detective thrown in the deep end.",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "637fc51f6e938a007ce7bf6f",
+            "air_date": "2022-12-01",
+            "episodes": [
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4071982,
+                    "name": "Episode 1",
+                    "overview": "When the death of a local oil magnate stuns Aberdeen, trainee detective Davis Lindo is thrown in at the deep end and forced to navigate a city and force completely alien to him.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 1,
+                    "show_id": 215036,
+                    "still_path": "/85fsHRLrb2CBDCmQS1qX4BPUcyu.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "637fcb5fa4af8f007eec6692",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1190407,
+                            "known_for_department": "Directing",
+                            "name": "Gary Williams",
+                            "original_name": "Gary Williams",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "63a8c7fc2385130099c07b18",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63a8c804aaec7100ea094ae3",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "PC Bowden",
+                            "credit_id": "6442bd08b3f6f502fc9e0daa",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2862358,
+                            "known_for_department": "Acting",
+                            "name": "Ewan Somers",
+                            "original_name": "Ewan Somers",
+                            "popularity": 0.002,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-08",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4071983,
+                    "name": "Episode 2",
+                    "overview": "As the search for Isla gets under way, Lindo continues to investigate Clellan’s murder. A surprise visitor to the station stuns the team, leading to a high-profile arrest.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 215036,
+                    "still_path": "/9tAPhhzWKxj7nHWjxV5TbJJewXf.jpg",
+                    "vote_average": 4,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "637fcb5fa4af8f007eec6692",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1190407,
+                            "known_for_department": "Directing",
+                            "name": "Gary Williams",
+                            "original_name": "Gary Williams",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "63a8c7fc2385130099c07b18",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63a8c804aaec7100ea094ae3",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63a8c81f0f21c60084b2e8eb",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3845122,
+                            "known_for_department": "Writing",
+                            "name": "Tara Hepburn",
+                            "original_name": "Tara Hepburn",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-15",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 4071984,
+                    "name": "Episode 3",
+                    "overview": "As MacMillan and the team grill Shay, Lindo continues to investigate Clellan’s death, leading to a shocking discovery with potentially fatal consequences.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 215036,
+                    "still_path": "/nlfdd6hV11KfpCPAslA3hsGGfwM.jpg",
+                    "vote_average": 5.5,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "637fcb5fa4af8f007eec6692",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1190407,
+                            "known_for_department": "Directing",
+                            "name": "Gary Williams",
+                            "original_name": "Gary Williams",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "63a8c7fc2385130099c07b18",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63a8c804aaec7100ea094ae3",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3488488,
+                            "known_for_department": "Camera",
+                            "name": "Sarah Deane",
+                            "original_name": "Sarah Deane",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Series 1",
+            "overview": "Trainee detective Davis Lindo is assigned to a high-profile murder case on his first day.",
+            "id": 317479,
+            "poster_path": "/5qAT9yBbJKRkNk5QRMXTLiq3BO8.jpg",
+            "season_number": 1,
+            "vote_average": 5.8
+        },
+        "2": {
+            "_id": "662255680d11f2018703382b",
+            "air_date": "2024-05-03",
+            "episodes": [
+                {
+                    "air_date": "2024-05-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5291803,
+                    "name": "Episode 1",
+                    "overview": "After two fatal cases are reported, Lindo, Bart and the team investigate and soon find themselves immersed in Aberdeen’s shipping industry and drug underworld.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 2,
+                    "show_id": 215036,
+                    "still_path": "/yTk2PVXT3lMPcVeA866RuYKITeb.jpg",
+                    "vote_average": 6.333,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66292068a39d0b0189484ce4",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4672548,
+                            "known_for_department": "Directing",
+                            "name": "Martin Smith",
+                            "original_name": "Martin Smith",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Desk Sgt Belinda Everett",
+                            "credit_id": "63a8c33de4b57600ba0c4a2b",
+                            "order": 10,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3845113,
+                            "known_for_department": "Acting",
+                            "name": "Sophia McLean",
+                            "original_name": "Sophia McLean",
+                            "popularity": 0.235,
+                            "profile_path": "/7VXJIVeJHPS3RYukW7fFAia3NDy.jpg"
+                        },
+                        {
+                            "character": "Pierce",
+                            "credit_id": "66291f97176a94017f8366b0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4672535,
+                            "known_for_department": "Acting",
+                            "name": "Macleod Stephen",
+                            "original_name": "Macleod Stephen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Lucas Galloway",
+                            "credit_id": "66291fb3a39d0b0189484ca4",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1304469,
+                            "known_for_department": "Acting",
+                            "name": "Russ Bain",
+                            "original_name": "Russ Bain",
+                            "popularity": 7.357,
+                            "profile_path": "/i2YpH2oxKIKqzT73DUcETbxjJXt.jpg"
+                        },
+                        {
+                            "character": "Ruth",
+                            "credit_id": "66291fcaaf959001646a3b50",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4063225,
+                            "known_for_department": "Acting",
+                            "name": "Layla Kirk",
+                            "original_name": "Layla Kirk",
+                            "popularity": 0.069,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hassan Faraki",
+                            "credit_id": "66291fedbbe1dd0132a9a906",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4672540,
+                            "known_for_department": "Acting",
+                            "name": "Yusef Chaudhri",
+                            "original_name": "Yusef Chaudhri",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Captain Nielsen",
+                            "credit_id": "66292006cb6db50163b0744c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82537,
+                            "known_for_department": "Acting",
+                            "name": "Søren Malling",
+                            "original_name": "Søren Malling",
+                            "popularity": 4.953,
+                            "profile_path": "/5jmNDae49UgMGMOKTdjIqb8klUg.jpg"
+                        },
+                        {
+                            "character": "Harbour Master",
+                            "credit_id": "6629201363d937018776db2e",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 30443,
+                            "known_for_department": "Acting",
+                            "name": "Mark Sangster",
+                            "original_name": "Mark Sangster",
+                            "popularity": 2.586,
+                            "profile_path": "/yG8WKstKoz8cCn4Pua0lw0bGPph.jpg"
+                        },
+                        {
+                            "character": "Actor",
+                            "credit_id": "6629201b378062017eda9e62",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1085199,
+                            "known_for_department": "Acting",
+                            "name": "Fraser Sivewright",
+                            "original_name": "Fraser Sivewright",
+                            "popularity": 0.089,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5291804,
+                    "name": "Episode 2",
+                    "overview": "When breakthroughs are made in both cases, the stakes are raised further and loyalties are put to the test, with brutal consequences for both police and criminals alike.",
+                    "production_code": "",
+                    "runtime": 57,
+                    "season_number": 2,
+                    "show_id": 215036,
+                    "still_path": "/tYYKKZB8AXYd50xjeFAiDHpu6st.jpg",
+                    "vote_average": 6,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "66292071378062014bda529e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4672549,
+                            "known_for_department": "Directing",
+                            "name": "Alex Browning",
+                            "original_name": "Alex Browning",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Desk Sgt Belinda Everett",
+                            "credit_id": "63a8c33de4b57600ba0c4a2b",
+                            "order": 10,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3845113,
+                            "known_for_department": "Acting",
+                            "name": "Sophia McLean",
+                            "original_name": "Sophia McLean",
+                            "popularity": 0.235,
+                            "profile_path": "/7VXJIVeJHPS3RYukW7fFAia3NDy.jpg"
+                        },
+                        {
+                            "character": "Pierce",
+                            "credit_id": "66291f97176a94017f8366b0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4672535,
+                            "known_for_department": "Acting",
+                            "name": "Macleod Stephen",
+                            "original_name": "Macleod Stephen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-17",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 5291805,
+                    "name": "Episode 3",
+                    "overview": "As both cases reach a stunning conclusion, Lindo and Bart face a race against time to save innocent lives, whilst the depth of various betrayals are finally revealed.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 2,
+                    "show_id": 215036,
+                    "still_path": "/lZSMknB4DkjoE6JuV9wnos2RAVG.jpg",
+                    "vote_average": 6,
+                    "vote_count": 2,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6629207dcb6db50186b37f8e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1325595,
+                            "known_for_department": "Directing",
+                            "name": "Martin Smith",
+                            "original_name": "Martin Smith",
+                            "popularity": 0.578,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Ruth",
+                            "credit_id": "66291fcaaf959001646a3b50",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4063225,
+                            "known_for_department": "Acting",
+                            "name": "Layla Kirk",
+                            "original_name": "Layla Kirk",
+                            "popularity": 0.069,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 2",
+            "overview": "Lindo and Bart return to investigate two fatal cases with dark conspiracies at their heart",
+            "id": 389222,
+            "poster_path": "/8xHI2UUMBiKoox2QkI37C26j8EL.jpg",
+            "season_number": 2,
+            "vote_average": 6.1
+        }
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "adult": false,
+    "backdrop_path": "/6zy1sHcpAvoXB8ckiLOX6sXnvG8.jpg",
+    "created_by": [
+        {
+            "id": 2190822,
+            "credit_id": "5dba97180792e1001848b7bc",
+            "name": "Megan Gallagher",
+            "original_name": "Megan Gallagher",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        40
+    ],
+    "first_air_date": "2019-10-31",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://viaplay.no/serier/besatt",
+    "id": 93206,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2019-10-31",
+    "last_episode_to_air": {
+        "id": 1972050,
+        "name": "Episode 8",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-10-31",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 40,
+        "season_number": 1,
+        "show_id": 93206,
+        "still_path": "/yK9Us0pjKywcdHVe3xmGf86XWJS.jpg"
+    },
+    "name": "Seizure",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2406,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Besatt",
+    "overview": "Oslo detectives Max  Sørensen and Sander Holm are called in to investigate after four young immigrant boys are found dead in an empty swimming pool. Bizarre twists in the case brings the detectives face to face with both their own demons and a dark sequence of increasingly inexplicable events.",
+    "popularity": 4.119,
+    "poster_path": "/p26Yg6Rx10prPm5Ki2MGbDC3Cin.jpg",
+    "production_companies": [
+        {
+            "id": 7940,
+            "logo_path": null,
+            "name": "Miso Film Norge",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-10-31",
+            "episode_count": 8,
+            "id": 131591,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rWWByfvrIBkuBuAtbsYDrFBoeod.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5d6eb49265686e43b687cd9a",
+            "air_date": "2019-10-31",
+            "episodes": [
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1918373,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/jQ1FmwuH4rZMq2LWascz5ynL6yI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5dba973d0792e10015496546",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2190822,
+                            "known_for_department": "Writing",
+                            "name": "Megan Gallagher",
+                            "original_name": "Megan Gallagher",
+                            "popularity": 2.02,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1972043,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/3wdU6qhImxogjOLVv5HhVt6HBn7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1972045,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/APdWWCzHfPeGNNR6oGms9qd0Lz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1972046,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/qEaTt0l7Vo09lrmGJbOYHMoSfC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1972047,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/kmUFgAUKRnZRAvS6Lxk7R2lFlif.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1972048,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/v6yEw4B9FkbYK8yVZ99yj9uOZeM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1972049,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/bMsWhpEQR9vKDtBMGK2VHYXiGaf.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-10-31",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1972050,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 1,
+                    "show_id": 93206,
+                    "still_path": "/yK9Us0pjKywcdHVe3xmGf86XWJS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 131591,
+            "poster_path": "/rWWByfvrIBkuBuAtbsYDrFBoeod.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

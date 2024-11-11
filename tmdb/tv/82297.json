@@ -1,0 +1,844 @@
+{
+    "adult": false,
+    "backdrop_path": "/hOtzjTXXw7o9662cvS0GaWRWAPa.jpg",
+    "created_by": [
+        {
+            "id": 1223306,
+            "credit_id": "5bb9c9269251410a1c01f9d8",
+            "name": "Gabriel Ripstein",
+            "original_name": "Gabriel Ripstein",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2018-10-01",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B07HQZ2YHY",
+    "id": 82297,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2022-09-28",
+    "last_episode_to_air": {
+        "id": 3982247,
+        "name": "You'll go down in History",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-09-28",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 82297,
+        "still_path": null
+    },
+    "name": "An Unknown Enemy",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Un Extraño Enemigo",
+    "overview": "Fernando Barrientos, Head of the National Security Directorate, Mexico's Secret Police, is trying to reach the highest position in the country. On his way, he'll have to manipulate, betray, and kill, and he's well prepared for it. However, his path will be full of obstacles. Nobody, not even his family, will be immune to the chaos left in his quest for total power.",
+    "popularity": 10.801,
+    "poster_path": "/swabeIFoJmAWKgtYijqOEMUiZfS.jpg",
+    "production_companies": [
+        {
+            "id": 20911,
+            "logo_path": "/gumLbuqnBC51HD3sjlRJmoQIdtu.png",
+            "name": "Televisa",
+            "origin_country": "MX"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-01",
+            "episode_count": 8,
+            "id": 109185,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/1eEj4bFBvIz62uzsq8JvTQ0ry0g.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-09-28",
+            "episode_count": 6,
+            "id": 310545,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/dfXo6TtcRdAZDpnbrExBKK66oiz.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 70,
+    "season_data": {
+        "1": {
+            "_id": "5b98a76f0e0a263db8005604",
+            "air_date": "2018-10-01",
+            "episodes": [
+                {
+                    "air_date": "2018-10-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1569491,
+                    "name": "Commander",
+                    "overview": "The regent of Mexico City, Corona del Rosal, wants to weaken his main adversary in the presidential succession by getting rid of the National Security Directorate. Major Barrientos, the leader of the DNS, tries to strengthen its position and that of his boss by creating the perception that the student movement striking in Mexico City is a real threat, to then repress them violently.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/zOV6C3YSJJUVOvYSMe3T033OdrH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9c98a9251410a1c01fa3f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2144025,
+                            "known_for_department": "Writing",
+                            "name": "Carlos Pascual",
+                            "original_name": "Carlos Pascual",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9c99fc3a368241b0272a7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1178080,
+                            "known_for_department": "Writing",
+                            "name": "Gibrán Portela",
+                            "original_name": "Gibrán Portela",
+                            "popularity": 0.919,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdc49251410a1c020147",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdd20e0a2634ea022e91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1413383,
+                            "known_for_department": "Writing",
+                            "name": "Emma Bertrán",
+                            "original_name": "Emma Bertrán",
+                            "popularity": 0.603,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Armando Barrientos",
+                            "credit_id": "5bb9cc79c3a3682428021ba4",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2061882,
+                            "known_for_department": "Acting",
+                            "name": "Pedro de Tavira",
+                            "original_name": "Pedro de Tavira",
+                            "popularity": 0.525,
+                            "profile_path": "/kigTOGrMC6MUS7PyeNRk0aAcFQR.jpg"
+                        },
+                        {
+                            "character": "Elena",
+                            "credit_id": "5bb9cc410e0a2634fe022f20",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 238755,
+                            "known_for_department": "Acting",
+                            "name": "Irene Azuela",
+                            "original_name": "Irene Azuela",
+                            "popularity": 6.105,
+                            "profile_path": "/d8h5gT9EKh3wXY1akdwMfNVFQJz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-10-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1569519,
+                    "name": "Students",
+                    "overview": "The student's voice becomes louder despite their lack of organization. After the death of one of the student leaders, and with the assistance of Barrientos, the students will finally become a more cohesive force. With strengthening numbers, the student movement will increase the number of demonstrations in the city, which will subsequently be repressed by the government.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/38IrfgI8ulrUo9WCV5KAGcDRsmm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9c98a9251410a1c01fa3f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2144025,
+                            "known_for_department": "Writing",
+                            "name": "Carlos Pascual",
+                            "original_name": "Carlos Pascual",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9c99fc3a368241b0272a7",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1178080,
+                            "known_for_department": "Writing",
+                            "name": "Gibrán Portela",
+                            "original_name": "Gibrán Portela",
+                            "popularity": 0.919,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdc49251410a1c020147",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdd20e0a2634ea022e91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1413383,
+                            "known_for_department": "Writing",
+                            "name": "Emma Bertrán",
+                            "original_name": "Emma Bertrán",
+                            "popularity": 0.603,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cded9251410a24021162",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2144033,
+                            "known_for_department": "Writing",
+                            "name": "Daniel Krauze",
+                            "original_name": "Daniel Krauze",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Marcelino García Barragán",
+                            "credit_id": "5bb9cd929251417f49018a9d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 944578,
+                            "known_for_department": "Acting",
+                            "name": "Emilio Guerrero",
+                            "original_name": "Emilio Guerrero",
+                            "popularity": 0.656,
+                            "profile_path": "/zhb9LYwvUWm2kkDk4dNzU7AarIp.jpg"
+                        },
+                        {
+                            "character": "Winston Scott",
+                            "credit_id": "5bb9cdad9251410a13021f57",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2144032,
+                            "known_for_department": "Acting",
+                            "name": "Alex Cox",
+                            "original_name": "Alex Cox",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Rebecca",
+                            "credit_id": "63d35bc75a07f50082f3e07e",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2891997,
+                            "known_for_department": "Acting",
+                            "name": "Jenny de la Fuente",
+                            "original_name": "Jenny de la Fuente",
+                            "popularity": 0.001,
+                            "profile_path": "/aZIyNw0zydGclvokHZdF9YoMaAW.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-10-01",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1569520,
+                    "name": "On the Street",
+                    "overview": "The students establish the National Strike Council (CNH), and organize one of the largest marches ever seen in the country. The government of president Diaz Ordaz is placed in the spotlight. At the same time, the CIA wants to help Corona del Rosal, a candidate to the presidential race, to carry out a coup and return the country to law and order.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/fovubZV2Wb2BTa5oIIAdWUpi3zF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Pintor",
+                            "credit_id": "66ad717cbe98e7e2b9a3d890",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1306685,
+                            "known_for_department": "Acting",
+                            "name": "Alfonso Borbolla",
+                            "original_name": "Alfonso Borbolla",
+                            "popularity": 1.272,
+                            "profile_path": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-10-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1569521,
+                    "name": "Guns",
+                    "overview": "Barrientos infiltrates guns among the students, to make them seem like a more threatening force to president Diaz Ordaz. Elsewhere, the CIA tries to influence the military leaders of the country to move forward with a coup and they reject their plans. Alicia, finally discovers who the government infiltrator.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/20kUU4KIYzhHz1BRPbAeNiYRCx5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1569522,
+                    "name": "State of Siege",
+                    "overview": "President Ordaz arranges a meeting with the students through the Chief of the Presidential Office. The meeting appears to be a success, but Barrientos wants to discredit the gains attained during the meeting by creating a sense of \"chaos\" in the country. Beto tries to take Alicia out of the city, knowing her life is in danger, he soon realizes that Barrientos' eyes are everywhere.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/8imP4JmNrEJjRcbW066X1CIoAyV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdc49251410a1c020147",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cf6b9251410a1a022aa6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2144041,
+                            "known_for_department": "Writing",
+                            "name": "Silvia Jiménez",
+                            "original_name": "Silvia Jiménez",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5bb9cdd20e0a2634ea022e91",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1413383,
+                            "known_for_department": "Writing",
+                            "name": "Emma Bertrán",
+                            "original_name": "Emma Bertrán",
+                            "popularity": 0.603,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Adela",
+                            "credit_id": "5bb9cf000e0a2634ef0232bd",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 932160,
+                            "known_for_department": "Acting",
+                            "name": "Arcelia Ramírez",
+                            "original_name": "Arcelia Ramírez",
+                            "popularity": 1.211,
+                            "profile_path": "/5SA0Oj5t9qp4Ck18xj6pMKZXBsW.jpg"
+                        },
+                        {
+                            "character": "Elena",
+                            "credit_id": "5bb9cc410e0a2634fe022f20",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 238755,
+                            "known_for_department": "Acting",
+                            "name": "Irene Azuela",
+                            "original_name": "Irene Azuela",
+                            "popularity": 6.105,
+                            "profile_path": "/d8h5gT9EKh3wXY1akdwMfNVFQJz.jpg"
+                        },
+                        {
+                            "character": "David",
+                            "credit_id": "5bb9cf1d0e0a2634ea02302b",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1549908,
+                            "known_for_department": "Acting",
+                            "name": "Andrés Delgado",
+                            "original_name": "Andrés Delgado",
+                            "popularity": 1.409,
+                            "profile_path": "/gq7nwfzsF9R81qGCc2tlzgO2FI7.jpg"
+                        },
+                        {
+                            "character": "Adrián",
+                            "credit_id": "5bb9cf360e0a2634fe023283",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1413381,
+                            "known_for_department": "Acting",
+                            "name": "Héctor Holten",
+                            "original_name": "Héctor Holten",
+                            "popularity": 0.129,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-10-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1569523,
+                    "name": "Silence",
+                    "overview": "Corona del Rosal convinces the president to use moles during the \"March of Silence,\" a march organized by the National Strike Council, in order to put an end to the organization. Barrientos wants to thwart his plans by provoking a fight during the march. However, seeing how well prepared the students were, Barrientos has to put a stop to his plans and re-evaluate his methods.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": "/u1y433oKvpn6eZ9Wa1r88J7UpQq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Rebecca",
+                            "credit_id": "63d35bc75a07f50082f3e07e",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2891997,
+                            "known_for_department": "Acting",
+                            "name": "Jenny de la Fuente",
+                            "original_name": "Jenny de la Fuente",
+                            "popularity": 0.001,
+                            "profile_path": "/aZIyNw0zydGclvokHZdF9YoMaAW.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-10-18",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1569524,
+                    "name": "Final Solution",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-10-25",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1569525,
+                    "name": "Galeana Operation",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5b98a95892514172600051ed",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1223306,
+                            "known_for_department": "Writing",
+                            "name": "Gabriel Ripstein",
+                            "original_name": "Gabriel Ripstein",
+                            "popularity": 2.811,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 109185,
+            "poster_path": "/1eEj4bFBvIz62uzsq8JvTQ0ry0g.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "633587f53780620082e4e1af",
+            "air_date": "2022-09-28",
+            "episodes": [
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3979352,
+                    "name": "Body of Christ",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3982243,
+                    "name": "Class of 1945",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julieta",
+                            "credit_id": "66a031b34194f9b3d7dd55c0",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3418594,
+                            "known_for_department": "Acting",
+                            "name": "Caraly Sánchez",
+                            "original_name": "Caraly Sánchez",
+                            "popularity": 0.001,
+                            "profile_path": "/3QQBlP1rvooLsznmDJm83KUmsch.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3982244,
+                    "name": "There's two ways to fight cancer",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julieta",
+                            "credit_id": "66a031b34194f9b3d7dd55c0",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3418594,
+                            "known_for_department": "Acting",
+                            "name": "Caraly Sánchez",
+                            "original_name": "Caraly Sánchez",
+                            "popularity": 0.001,
+                            "profile_path": "/3QQBlP1rvooLsznmDJm83KUmsch.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3982245,
+                    "name": "Dirty War",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Julieta",
+                            "credit_id": "66a031b34194f9b3d7dd55c0",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3418594,
+                            "known_for_department": "Acting",
+                            "name": "Caraly Sánchez",
+                            "original_name": "Caraly Sánchez",
+                            "popularity": 0.001,
+                            "profile_path": "/3QQBlP1rvooLsznmDJm83KUmsch.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3982246,
+                    "name": "The devil you know",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3982247,
+                    "name": "You'll go down in History",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 82297,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 310545,
+            "poster_path": "/dfXo6TtcRdAZDpnbrExBKK66oiz.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

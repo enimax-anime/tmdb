@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-03-06",
+    "genres": [],
+    "homepage": "",
+    "id": 206330,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-03-06",
+    "last_episode_to_air": {
+        "id": 3842890,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-03-06",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 206330,
+        "still_path": null
+    },
+    "name": "Ice Cowboys - It's a dog's world",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "VN"
+    ],
+    "original_language": "vi",
+    "original_name": "Ice Cowboys - It's a dog's world",
+    "overview": "",
+    "popularity": 0.032,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-03-06",
+            "episode_count": 1,
+            "id": 301421,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62d7aea803bf84005058d408",
+            "air_date": "2022-03-06",
+            "episodes": [
+                {
+                    "air_date": "2022-03-06",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3842890,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 206330,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 301421,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

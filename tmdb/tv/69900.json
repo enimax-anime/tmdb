@@ -1,0 +1,437 @@
+{
+    "adult": false,
+    "backdrop_path": "/m7aXfWnBRVdsPJEPnFiZDWSJro1.jpg",
+    "created_by": [
+        {
+            "id": 216057,
+            "credit_id": "59f45b859251414d0500ee99",
+            "name": "Jay McCarrol",
+            "original_name": "Jay McCarrol",
+            "gender": 2,
+            "profile_path": "/n8Wavz7BxCuEukK0dP3upCcSdgB.jpg"
+        },
+        {
+            "id": 1144092,
+            "credit_id": "59f45b72c3a3681fc900ee69",
+            "name": "Matt Johnson",
+            "original_name": "Matt Johnson",
+            "gender": 2,
+            "profile_path": "/iOiDGPElqDLCDdoMLTDFsaG3aSl.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2017-02-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://video.vice.com/en_ca/show/nirvanna-the-band-the-show",
+    "id": 69900,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-02-09",
+    "last_episode_to_air": {
+        "id": 1468441,
+        "name": "The Banned List 2",
+        "overview": "Matt and Jay's plan to get on the Rivoli's Band List takes a turn when they get stuck on the roof of the Rivoli. Trapped in extreme heat, tensions boil and secrets are revealed.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-02-09",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 2,
+        "show_id": 69900,
+        "still_path": "/yukH3wSQ32xKK1ml1PF2Kj9mVo6.jpg"
+    },
+    "name": "Nirvanna the Band the Show",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Nirvanna the Band the Show",
+    "overview": "Two lifelong best friends and roommates are planning the greatest musical act in the history of the modern world.",
+    "popularity": 5.209,
+    "poster_path": "/js5Tlm5hxLzwDZRuJoEMrfWvFtm.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-02-07",
+            "episode_count": 11,
+            "id": 143636,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/kT2Dnhl7ZOQGXMc8Tngmeyb9ILB.jpg",
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-02-02",
+            "episode_count": 8,
+            "id": 84377,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/nlutNZqz1De8xQbh4GHdzOehyY0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-12-08",
+            "episode_count": 8,
+            "id": 94517,
+            "name": "Season 2",
+            "overview": "Through a series of misadventures, Matt and Jay try to inch ever closer to fulfilling their lifelong dream of playing a show at Toronto's Rivoli, a small concert space in Toronto's West End.",
+            "poster_path": "/hrjcp8KLnK2Mv9hMnrRPWqg9Im3.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 19,
+    "season_data": {
+        "1": {
+            "_id": "588b907b9251410b920030e2",
+            "air_date": "2017-02-02",
+            "episodes": [
+                {
+                    "air_date": "2017-02-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1262418,
+                    "name": "The Banner",
+                    "overview": "The guys drop a banner across from The Rivoli to raise awareness about the band.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/j1F3zGjSjOfGhvbmAinV7gMMhWk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1262419,
+                    "name": "The Booking",
+                    "overview": "Matt and Jay plot to sneak into the music-listings page of a weekly newspaper to book their own gig.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/9yd09cF93M7vY4gnzCX0wXtGaby.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-16",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1262420,
+                    "name": "The Bean",
+                    "overview": "The guys try to get a float into the annual Santa Claus parade. As challenges abound, they are left wondering if they will get their Christmas miracle.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/ohNUAuCTeJ8uWvzvNKmdQK3qSWx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-02-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1262421,
+                    "name": "The Blindside",
+                    "overview": "While watching the original Star Wars trilogy in a single sitting, Matt goes temporarily blind on opening day of The Force Awakens.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/cDKacs5Tog4XMUymAeuKRd0W5az.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1262422,
+                    "name": "The Big Time",
+                    "overview": "Matt convinces Jay that to book a gig at the Rivoli, they need to make a film.  Matt sneaks it into Sundance, becoming a pseudo-celebrity and spiralling out of control.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/uW3EymsbJBbmN15M2oEH78O1eTw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-09",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1262423,
+                    "name": "The Boy",
+                    "overview": "Matt and Jay befriend a sick kid to use his final wish to ask for Nirvanna the Band to play the Rivoli. They wind up showing him the time of his life, but will time run out?",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/8caZxpZ6RdFmZu1p3lJNOqT67gr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-16",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1262424,
+                    "name": "The Buffet",
+                    "overview": "Nirvanna the Band almost falls apart, amidst all you can eat Chinese food.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/biFsUVS3vDPxALOLhYU3gfoSFwM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-03-23",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1262425,
+                    "name": "The Bank",
+                    "overview": "Matt and Jay become unwitting players in a hostage situation. But Matt sees it as an opportunity to finally make it to the Rivoli.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 69900,
+                    "still_path": "/dVFTt2trY2dJ2RaUdRAqVpTCHtd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 84377,
+            "poster_path": "/nlutNZqz1De8xQbh4GHdzOehyY0.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "59f45b1b9251414d3300e70d",
+            "air_date": "2017-12-08",
+            "episodes": [
+                {
+                    "air_date": "2017-12-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1468433,
+                    "name": "The Burger",
+                    "overview": "Matt and Jay decide that this time, they're seeing their plan through. This time, they're not giving up. This time, they'll book a show at the Rivoli.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/5zPHDMZefb4jRgJ6lGNf7gypV7X.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1468435,
+                    "name": "The Boost",
+                    "overview": "Matt enters Jay into a video game speedrun tournament, planning to win their way to a show at the Rivoli. As the competition tightens, Matt secretly gives Jay an illegal edge.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/5TflgjyGtV23v5iz8QWPKNDVjzw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1468436,
+                    "name": "The Buddy",
+                    "overview": "Jay attends a music industry party, leaving Matt home alone. While there, Jay makes a new (yet familiar) friend, and they cook up a plan to book a show at the Rivoli.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/oAVTvLCkhlx6P9eSRWTfBTLkhwW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-10-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1468437,
+                    "name": "The Book",
+                    "overview": "On Halloween night, Jay finds a cursed music book hidden in the house. In this fun but terrifying quest, the guys work together to have order restored.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/lRdfSpdM5OheyLTn2VJg6WxkCQb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1468438,
+                    "name": "The B-Day",
+                    "overview": "Matt forgets Jay's birthday and tries to make it up to him. Jay gets lost at Toronto's 4/20 festival.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/cwP78Fp1sSZpBdumGze1y9wLUUE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-11-24",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1468439,
+                    "name": "The Banned",
+                    "overview": "In an effort to get onto the Rivoli's Band List, Matt and Jay pose as hackers and try to attack the Rivoli's mainframe. But Matt has ulterior motives.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/zKPB7pLDznqp914rdP8cJTpuh3o.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-02-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1468440,
+                    "name": "The Band List",
+                    "overview": "As Matt and Jay continue to try and get on the Rivoli's Band List, they infiltrate Toronto's intricate system of underground tunnels in the hopes of entering the Rivoli from below.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/nXzw8LU2sP7ZGO5oNLU3NZ3XW4x.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Young Jay",
+                            "credit_id": "626f357a65e0a2009ce3db50",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3532718,
+                            "known_for_department": "Acting",
+                            "name": "Ethan Gilmour",
+                            "original_name": "Ethan Gilmour",
+                            "popularity": 0.006,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-02-09",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1468441,
+                    "name": "The Banned List 2",
+                    "overview": "Matt and Jay's plan to get on the Rivoli's Band List takes a turn when they get stuck on the roof of the Rivoli. Trapped in extreme heat, tensions boil and secrets are revealed.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 69900,
+                    "still_path": "/yukH3wSQ32xKK1ml1PF2Kj9mVo6.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "Through a series of misadventures, Matt and Jay try to inch ever closer to fulfilling their lifelong dream of playing a show at Toronto's Rivoli, a small concert space in Toronto's West End.",
+            "id": 94517,
+            "poster_path": "/hrjcp8KLnK2Mv9hMnrRPWqg9Im3.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

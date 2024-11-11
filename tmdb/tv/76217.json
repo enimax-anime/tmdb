@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2005-07-02",
+    "genres": [],
+    "homepage": "",
+    "id": 76217,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2005-07-02",
+    "last_episode_to_air": {
+        "id": 1416711,
+        "name": "Episode 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2005-07-02",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 76217,
+        "still_path": null
+    },
+    "name": "Live 8",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "fr",
+    "original_name": "Live 8",
+    "overview": "",
+    "popularity": 0.001,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2005-07-02",
+            "episode_count": 1,
+            "id": 97616,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a52656d9251411322022534",
+            "air_date": "2005-07-02",
+            "episodes": [
+                {
+                    "air_date": "2005-07-02",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1416711,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 76217,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 97616,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

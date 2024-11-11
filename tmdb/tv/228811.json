@@ -1,0 +1,163 @@
+{
+    "adult": false,
+    "backdrop_path": "/iza8xqLNlrnibtMApEXnHEYqdW9.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-07-13",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 228811,
+    "in_production": false,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2023-07-13",
+    "last_episode_to_air": {
+        "id": 4524398,
+        "name": "Episode 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-07-13",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 228811,
+        "still_path": "/xls9jejmEQFvvlZyEsN05O3hDyv.jpg"
+    },
+    "name": "The Narcosatanist",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5484,
+            "logo_path": "/s5ELD35ShWgVKQxgERHM2iP5bXA.png",
+            "name": "HBO Max",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "MX"
+    ],
+    "original_language": "es",
+    "original_name": "La Narcosatánica",
+    "overview": "",
+    "popularity": 8.347,
+    "poster_path": "/6rPTYlmfWuSkkOhYMnjknajsdgg.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-07-13",
+            "episode_count": 3,
+            "id": 345434,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6rPTYlmfWuSkkOhYMnjknajsdgg.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.839,
+    "vote_count": 31,
+    "season_data": {
+        "1": {
+            "_id": "648b6171c2ff3d0139aca82e",
+            "air_date": "2023-07-13",
+            "episodes": [
+                {
+                    "air_date": "2023-07-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4524388,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 228811,
+                    "still_path": "/vu6bUKtvFBjP4SjAg8Lr3Ft9cVs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4524397,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 228811,
+                    "still_path": "/w9EWp9gGwO444YpNsDdXr9jH6Nk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4524398,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 228811,
+                    "still_path": "/xls9jejmEQFvvlZyEsN05O3hDyv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 345434,
+            "poster_path": "/6rPTYlmfWuSkkOhYMnjknajsdgg.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

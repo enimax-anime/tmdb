@@ -1,0 +1,143 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 16959,
+            "credit_id": "565446ea925141701e003767",
+            "name": "Jonathan Dayton",
+            "original_name": "Jonathan Dayton",
+            "gender": 2,
+            "profile_path": "/9RZwlDHiTjltPD4pkdEYe85aJKL.jpg"
+        },
+        {
+            "id": 16960,
+            "credit_id": "565446fdc3a36850ec0036c0",
+            "name": "Valerie Faris",
+            "original_name": "Valerie Faris",
+            "gender": 1,
+            "profile_path": "/9xxrlnkbQREPUo2Lj54PIQBKxGS.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2015-11-05",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.amazon.com/Highston/dp/B017APV0JC",
+    "id": 64502,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-11-05",
+    "last_episode_to_air": {
+        "id": 1140174,
+        "name": "Pilot",
+        "overview": "The Season 1 premiere of this comedy series introduces a 19-year-old man with many famous friends, except he is the only one that's able to see them.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-11-05",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 64502,
+        "still_path": "/jZ0ou59zQYc9ppQWxxvZQ5IPy2w.jpg"
+    },
+    "name": "Highston",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Highston",
+    "overview": "Highston Liggetts is a kind and curious 19-year-old struggling to find his place in a world he doesn't quite understand. To help him cope, Highston imagines a constantly changing roster of celebrity friends who provide him with comfort and advice - much to the concern of his bewildered but empathetic extended family.",
+    "popularity": 2.671,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-11-05",
+            "episode_count": 1,
+            "id": 72252,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "56544691c3a36850ec00369f",
+            "air_date": "2015-11-05",
+            "episodes": [
+                {
+                    "air_date": "2015-11-05",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1140174,
+                    "name": "Pilot",
+                    "overview": "The Season 1 premiere of this comedy series introduces a 19-year-old man with many famous friends, except he is the only one that's able to see them.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 64502,
+                    "still_path": "/jZ0ou59zQYc9ppQWxxvZQ5IPy2w.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 72252,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2002-09-09",
+    "genres": [
+        {
+            "id": 10763,
+            "name": "News"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/b0071mrm",
+    "id": 102626,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2005-10-01",
+    "last_episode_to_air": {
+        "id": 2241362,
+        "name": "unknown",
+        "overview": "The rise of FC United",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2005-10-01",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 102626,
+        "still_path": null
+    },
+    "name": "Inside Out North West",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Inside Out North West",
+    "overview": "A look at local issues",
+    "popularity": 1.932,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2002-09-09",
+            "episode_count": 1,
+            "id": 149188,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2005-10-01",
+            "episode_count": 1,
+            "id": 149189,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5ea4df6abdc34c0026268911",
+            "air_date": "2002-09-09",
+            "episodes": [
+                {
+                    "air_date": "2002-09-09",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2241361,
+                    "name": "unknown",
+                    "overview": "unknown issues",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 102626,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 149188,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "success": false,
+            "status_code": 34,
+            "status_message": "The resource you requested could not be found."
+        }
+    }
+}

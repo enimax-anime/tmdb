@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": "/7n4jRr7zvHecKDeKBa4yEznFH0n.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        120
+    ],
+    "first_air_date": "2022-12-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://tv.apple.com/us/show/brink-of-disaster/umc.cmc.4pn1jpir2wobjymhrwfvpj2b2",
+    "id": 216469,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-12-22",
+    "last_episode_to_air": {
+        "id": 4117813,
+        "name": "Miami Sinking",
+        "overview": "The coastal metropolis of Miami faces a triple threat of crumbling limestone bedrock, ferocious superstorms and relentless rising oceans.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-12-22",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 90,
+        "season_number": 1,
+        "show_id": 216469,
+        "still_path": null
+    },
+    "name": "Brink of Disaster",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 64,
+            "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Brink of Disaster",
+    "overview": "Across North America and the rest of the world, hurricanes, storm surges, earthquakes and sea level rise, threaten our major cities and lead to natural catastrophes.",
+    "popularity": 0.552,
+    "poster_path": "/rwP2I0jIee8daI1qTEvCVxKKigs.jpg",
+    "production_companies": [
+        {
+            "id": 177066,
+            "logo_path": "/zOjQjKN6U9uOu471bJM8uaT7lg4.png",
+            "name": "Wildflame Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-12-08",
+            "episode_count": 3,
+            "id": 320335,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tLxVvGZV1cNQJZUong9W69Yl6aV.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "639d3cf94f33ad00c32b8778",
+            "air_date": "2022-12-08",
+            "episodes": [
+                {
+                    "air_date": "2022-12-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4108292,
+                    "name": "New York Superstorms",
+                    "overview": "New York City is under attack as Hurricanes Ida and Ian unleash their fury on innocent people; seeing how the latest science and technology can protect New York City's 8 million residents before everything gets swept away by ferocious superstorms.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 216469,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4108293,
+                    "name": "West Coast Superquakes",
+                    "overview": "The West Coast is home to the infamous San Andreas fault, stretching for almost a thousand miles beneath the feet of millions of Americans. But just north, there's a larger fault that could trigger a megaquake, wreaking havoc from California to Canada.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 216469,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4117813,
+                    "name": "Miami Sinking",
+                    "overview": "The coastal metropolis of Miami faces a triple threat of crumbling limestone bedrock, ferocious superstorms and relentless rising oceans.",
+                    "production_code": "",
+                    "runtime": 90,
+                    "season_number": 1,
+                    "show_id": 216469,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 320335,
+            "poster_path": "/tLxVvGZV1cNQJZUong9W69Yl6aV.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

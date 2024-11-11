@@ -1,0 +1,165 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2015-03-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.bbc.co.uk/programmes/b055th4w",
+    "id": 62164,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-03-31",
+    "last_episode_to_air": {
+        "id": 1046603,
+        "name": "Episode 4",
+        "overview": "Liz's personal problems come to a head. Jack finds himself in a hole, but quite likes it.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-03-31",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 62164,
+        "still_path": "/zOTmQGYBOB3KQjEo9wFrb1oz3uE.jpg"
+    },
+    "name": "Nurse",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Nurse",
+    "overview": "Paul Whitehouse stars in Nurse, a poignant character comedy drama for BBC Two. Whitehouse plays eight different characters whose lives are connected by Liz, an overstretched Community Mental Health Nurse played by Esther Coles.",
+    "popularity": 2.117,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-03-10",
+            "episode_count": 4,
+            "id": 65308,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "54ffb604925141275c000580",
+            "air_date": "2015-03-10",
+            "episodes": [
+                {
+                    "air_date": "2015-03-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1046450,
+                    "name": "Episode 1",
+                    "overview": "The first of a four-part series following a community mental-health nurse visiting her patients (service users in today's jargon) in their homes. We see their sometimes sad, mostly funny and often bewildering interaction with the nurse as she comes to assess their progress, ensure they are taking the correct medication and offer comfort and support.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 62164,
+                    "still_path": "/e9TlZTg5VdQCIA3Bpc3HaUyO12P.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1046514,
+                    "name": "Episode 2",
+                    "overview": "Liz tries a radical form of treatment on Jack, a sceptical young soldier with PTSD.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 62164,
+                    "still_path": "/37PdurnAm8cIhTSP6kYqb5JbPgs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1046515,
+                    "name": "Episode 3",
+                    "overview": "Graham's mood has lifted as he tells Liz about his new girlfriend, but his mother disapproves of the new love interest - especially when items start to go missing.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 62164,
+                    "still_path": "/ucwVzvCo2HniXBMbC14OSMmFnJs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2015-03-31",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1046603,
+                    "name": "Episode 4",
+                    "overview": "Liz's personal problems come to a head. Jack finds himself in a hole, but quite likes it.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 62164,
+                    "still_path": "/zOTmQGYBOB3KQjEo9wFrb1oz3uE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 65308,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

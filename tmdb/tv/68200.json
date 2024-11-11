@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-10-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.cbc.ca/thisishighschool/",
+    "id": 68200,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-10-23",
+    "last_episode_to_air": {
+        "id": 1233804,
+        "name": "I Think He Knows I Care",
+        "overview": "Austin, a bright student on the Autism spectrum, struggles to put feelings into words when given a difficult assignment. Meanwhile, a Grade 11 student confronts her anxiety.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-10-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 68200,
+        "still_path": null
+    },
+    "name": "This is High School",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 23,
+            "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+            "name": "CBC Television",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "This is High School",
+    "overview": "Audiences get unprecedented access into the world of today's teenagers as producers put 50 remote-controlled cameras in a typical secondary school - and let them run for eight weeks.",
+    "popularity": 0.016,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-10-02",
+            "episode_count": 3,
+            "id": 80918,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "57fa705d92514120c500834a",
+            "air_date": "2016-10-02",
+            "episodes": [
+                {
+                    "air_date": "2016-10-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1230327,
+                    "name": "Grade 9 Is The Worst Year",
+                    "overview": "In the season premiere, Gr. 8 student Dusan tests his boundaries in high school, while former BFFs try to move forward after a rumour spreads.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 68200,
+                    "still_path": "/9E0KVqqx4O9wnS97KyZIRwBRyxq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-10-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1230328,
+                    "name": "I’m My Own Person, They Can’t Control Me",
+                    "overview": "Star student Janell attempts to juggle tough classes and extracurriculars. Two teachers try to keep a promising student from dropping out of school.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 68200,
+                    "still_path": "/vn3haSMjRrBvRyCQWijEkqjceKv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-10-23",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1233804,
+                    "name": "I Think He Knows I Care",
+                    "overview": "Austin, a bright student on the Autism spectrum, struggles to put feelings into words when given a difficult assignment. Meanwhile, a Grade 11 student confronts her anxiety.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 68200,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 80918,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

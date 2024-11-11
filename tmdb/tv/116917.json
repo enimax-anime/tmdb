@@ -1,0 +1,151 @@
+{
+    "adult": false,
+    "backdrop_path": "/mUqF71Rd7E2Qhjtkn0HXHmdNbX3.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2012-09-17",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/b01mzqw9",
+    "id": 116917,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2012-10-01",
+    "last_episode_to_air": {
+        "id": 2651720,
+        "name": "Marx",
+        "overview": "Stephanie Flanders examines the revolutionary and controversial ideas of Karl Marx which, as the global financial crisis continues, are once again being taken seriously.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2012-10-01",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 116917,
+        "still_path": "/esk5j4zrND7uBAn8Q05BEcrhet5.jpg"
+    },
+    "name": "Masters of Money",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 332,
+            "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+            "name": "BBC Two",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Masters of Money",
+    "overview": "Stephanie Flanders explores the ideas of three influential thinkers who transformed international economics, and examines how their influence has shaped the 20th and 21st centuries. She begins by profiling John Maynard Keynes, the Cambridge-born economist whose ideas revolutionized the approach of Western governments to financial crises during the Great Depression and the Second World War, and explains why the world's leaders drew on his teachings as the global meltdown took hold in 2008.",
+    "popularity": 0.577,
+    "poster_path": "/jlj3EeDeKg2Ws422EA7UDnEFR4J.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2012-09-17",
+            "episode_count": 3,
+            "id": 177006,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/jlj3EeDeKg2Ws422EA7UDnEFR4J.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "600559dae942ee003ce5d903",
+            "air_date": "2012-09-17",
+            "episodes": [
+                {
+                    "air_date": "2012-09-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2651707,
+                    "name": "Keynes",
+                    "overview": "Stephanie Flanders looks at the life and work of economist John Maynard Keynes, and how his ideas have never been more relevant or controversial than now.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 116917,
+                    "still_path": "/pTeOtSgfqzIiRYlg5sWq1uayjFo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-09-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2651719,
+                    "name": "Hayek",
+                    "overview": "Stephanie Flanders looks at the radical free-market economist Friedrich Hayek's solution to the problems of capitalism - set it virtually totally free from state control.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 116917,
+                    "still_path": "/dPEwVAjpddHDmen6cQ9crUyplC0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2012-10-01",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2651720,
+                    "name": "Marx",
+                    "overview": "Stephanie Flanders examines the revolutionary and controversial ideas of Karl Marx which, as the global financial crisis continues, are once again being taken seriously.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 116917,
+                    "still_path": "/esk5j4zrND7uBAn8Q05BEcrhet5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 177006,
+            "poster_path": "/jlj3EeDeKg2Ws422EA7UDnEFR4J.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

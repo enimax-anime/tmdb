@@ -1,0 +1,129 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2011-05-08",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 39436,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2011-05-08",
+    "last_episode_to_air": {
+        "id": 3463971,
+        "name": "1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2011-05-08",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 39436,
+        "still_path": null
+    },
+    "name": "Vanished with Beth Holloway",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Vanished with Beth Holloway",
+    "overview": "",
+    "popularity": 0.043,
+    "poster_path": "/gn7jGbNyvxzMfyzgpKn8O0zMYuO.jpg",
+    "production_companies": [
+        {
+            "id": 41325,
+            "logo_path": "/gm8XtSJa8nL2Wq7GV0KeoH4E2iH.png",
+            "name": "Jupiter Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2011-05-08",
+            "episode_count": 1,
+            "id": 241137,
+            "name": "1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "61ed93cec669ad011f6d0cb5",
+            "air_date": "2011-05-08",
+            "episodes": [
+                {
+                    "air_date": "2011-05-08",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3463971,
+                    "name": "1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 39436,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "1",
+            "overview": "",
+            "id": 241137,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

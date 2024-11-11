@@ -1,0 +1,422 @@
+{
+    "adult": false,
+    "backdrop_path": "/wLKLSPfGaxqcWiFqRoXTbkYuApY.jpg",
+    "created_by": [
+        {
+            "id": 55962,
+            "credit_id": "62961033f8e982009accb170",
+            "name": "Louis Mustillo",
+            "original_name": "Louis Mustillo",
+            "gender": 2,
+            "profile_path": "/gfp2kJUrOojQCmRltRrFFTv8Vr2.jpg"
+        },
+        {
+            "id": 62765,
+            "credit_id": "629610fddf86a834e2339508",
+            "name": "Rhea Seehorn",
+            "original_name": "Rhea Seehorn",
+            "gender": 1,
+            "profile_path": "/g6niUzFMQOiAcSThWoGk0LlAQRP.jpg"
+        },
+        {
+            "id": 70646,
+            "credit_id": "629611265a469072f66668ca",
+            "name": "Nick Morton",
+            "original_name": "Nick Morton",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 993240,
+            "credit_id": "629610e61e9225009cdb48c2",
+            "name": "Hannah Davis",
+            "original_name": "Hannah Davis",
+            "gender": 1,
+            "profile_path": null
+        },
+        {
+            "id": 1112021,
+            "credit_id": "6296102309ed8f12555661b8",
+            "name": "David Conolly",
+            "original_name": "David Conolly",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        10
+    ],
+    "first_air_date": "2022-05-30",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.ifc.com/shows/cooper-s-bar--1053873",
+    "id": 198015,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-11-08",
+    "last_episode_to_air": {
+        "id": 4853841,
+        "name": "The Premiere",
+        "overview": "Lights! Camera! Back pain! If Cooper can finally nail his takes, a red-carpet evening awaits.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-11-08",
+        "episode_number": 6,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 21,
+        "season_number": 2,
+        "show_id": 198015,
+        "still_path": "/kp11dEcBsogK9vm6CJOX0KxQYmz.jpg"
+    },
+    "name": "Cooper's Bar",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 124,
+            "logo_path": "/jZYZjulF2FTaAHo5TKBHBC4ihS1.png",
+            "name": "IFC",
+            "origin_country": "US"
+        },
+        {
+            "id": 6400,
+            "logo_path": null,
+            "name": "AMC.com",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cooper's Bar",
+    "overview": "The antics of character actor Cooper and the unique group of LA natives who frequent his neighborhood bar.",
+    "popularity": 5.852,
+    "poster_path": "/rIGCOL7pclvbmzoIUhiHU8WbuUm.jpg",
+    "production_companies": [
+        {
+            "id": 209241,
+            "logo_path": "/3aCxmqMmOPvxlK8FOMShOAfi6TZ.png",
+            "name": "Liam Labs",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-29",
+            "episode_count": 6,
+            "id": 288428,
+            "name": "Season 1",
+            "overview": "When Kris Latimer, the biggest dick in Hollywood, stumbles upon Cooper Marino's backyard tiki bar oasis, Cooper and his down-on-their-luck pals pull themselves together for one last shot at their \"big break.\"",
+            "poster_path": "/nvPnUtMcPPbAZtHTISVtNumCX8k.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-10-11",
+            "episode_count": 6,
+            "id": 357376,
+            "name": "Season 2",
+            "overview": "Washed-up actor Cooper Marino and his pals are finally living the dream and making a TV show together. But Kris Latimer, the biggest dick in Hollywood, has more scheming to do. And it may all come crashing down yet...",
+            "poster_path": "/rIGCOL7pclvbmzoIUhiHU8WbuUm.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "In Hollywood, you only get one shot.",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "625ff29d7fcab3005094256d",
+            "air_date": "2022-05-29",
+            "episodes": [
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3674191,
+                    "name": "Episode 1",
+                    "overview": "Of all the gin joints in town, the biggest dick in Hollywood walks into Cooper's backyard tiki bar. What are the chances? Looks like Cooper and his friends might be destined for stardom after all.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/x7k1hRbvCQr0xqWSsDiRD2fQRIM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62960ffe0f21c6153730cc70",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 62765,
+                            "known_for_department": "Acting",
+                            "name": "Rhea Seehorn",
+                            "original_name": "Rhea Seehorn",
+                            "popularity": 16.465,
+                            "profile_path": "/g6niUzFMQOiAcSThWoGk0LlAQRP.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62961171f8e982009accb41a",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1112021,
+                            "known_for_department": "Writing",
+                            "name": "David Conolly",
+                            "original_name": "David Conolly",
+                            "popularity": 0.461,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6296117aca835413546bda89",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 70646,
+                            "known_for_department": "Production",
+                            "name": "Nick Morton",
+                            "original_name": "Nick Morton",
+                            "popularity": 0.657,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3755179,
+                    "name": "Episode 2",
+                    "overview": "Good news: The network executives love the pitch. Bad news: They brought notes … and vegan buffalo wings.",
+                    "production_code": "",
+                    "runtime": 12,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/q7zTcGPFZU1DILGFnPqOlfCmogU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3755178,
+                    "name": "Episode 3",
+                    "overview": "Funzo Cooper! Serious Cooper. Scary Cooper ... Cooper as - Frankenstein-Robert-DeNiro? Hey, actors have to show off their versatility. It's headshot time at Cooper's Bar!",
+                    "production_code": "",
+                    "runtime": 9,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/8KZU5FVVzV6LHkGIpxPCSjFEuUI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3755180,
+                    "name": "Episode 4",
+                    "overview": "What Cooper needs is internet clout. But social media's not really his \"thing.\" To sell out, or not sell out?",
+                    "production_code": "",
+                    "runtime": 9,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/puIYCWnalnRGhEpzaU219jL88N3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3755181,
+                    "name": "Episode 5",
+                    "overview": "Cooper might be done with Hollywood, but Hollywood's not done with Cooper.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/qSNt6tOqT2psFNHDHnbEdWFYYM4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-30",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3755182,
+                    "name": "Episode 6",
+                    "overview": "Cooper and Kris face-off in a hot wing eating showdown that will determine the fate of Cooper's Bar once and for all.",
+                    "production_code": "",
+                    "runtime": 10,
+                    "season_number": 1,
+                    "show_id": 198015,
+                    "still_path": "/AhE0kvDTYiNFr9wPe4OkeYUmZwP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "When Kris Latimer, the biggest dick in Hollywood, stumbles upon Cooper Marino's backyard tiki bar oasis, Cooper and his down-on-their-luck pals pull themselves together for one last shot at their \"big break.\"",
+            "id": 288428,
+            "poster_path": "/nvPnUtMcPPbAZtHTISVtNumCX8k.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "650890c8373ac2011c3fa428",
+            "air_date": "2023-10-11",
+            "episodes": [
+                {
+                    "air_date": "2023-10-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4741146,
+                    "name": "The Pitch",
+                    "overview": "The biggest dick in Hollywood stumbles into Cooper's backyard bar.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/glmqtFCLkAHEEihab2m2QjHk8Hy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4824970,
+                    "name": "The Big Break",
+                    "overview": "Cooper and his pals get one last shot at stardom. Can they handle the heat?",
+                    "production_code": "",
+                    "runtime": 20,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/6uOl3kriLeMIUvlXrVw8CZa55kl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4824971,
+                    "name": "The Crew",
+                    "overview": "As they prep to shoot the pilot, Kris arises from the depths of Hollywood with a divine proposal.",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/6BuZR1EjFpW7dUzE5g7JBNgIwXQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4824972,
+                    "name": "The Cast",
+                    "overview": "A Christian Superstar and a Blighty Bard walk into a bar.",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/buQuzYjCspEJQGuDHWJWjBw7Itc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4824973,
+                    "name": "The Set",
+                    "overview": "Wait, when did this become \"Britney Lasker's Cooper's Bar?\"",
+                    "production_code": "",
+                    "runtime": 20,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/AweI1hu3off7WXJaJ6Ii5jWLzcr.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4853841,
+                    "name": "The Premiere",
+                    "overview": "Lights! Camera! Back pain! If Cooper can finally nail his takes, a red-carpet evening awaits.",
+                    "production_code": "",
+                    "runtime": 21,
+                    "season_number": 2,
+                    "show_id": 198015,
+                    "still_path": "/kp11dEcBsogK9vm6CJOX0KxQYmz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "Washed-up actor Cooper Marino and his pals are finally living the dream and making a TV show together. But Kris Latimer, the biggest dick in Hollywood, has more scheming to do. And it may all come crashing down yet...",
+            "id": 357376,
+            "poster_path": "/rIGCOL7pclvbmzoIUhiHU8WbuUm.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

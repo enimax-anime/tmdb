@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-06-09",
+    "genres": [],
+    "homepage": "",
+    "id": 221515,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-06-09",
+    "last_episode_to_air": {
+        "id": 4270112,
+        "name": "St Louis",
+        "overview": "Show-Me State showstoppers include classic toasted ravioli, a vegan chicken sandwich that doesn't call fowl, and a lauded chef's fried bologna bliss.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-06-09",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 1,
+        "show_id": 221515,
+        "still_path": null
+    },
+    "name": "Fresh, Fried and Crispy",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fresh, Fried and Crispy",
+    "overview": "Passionate about food and ready for fun, critic Daym Drops drops in on America's smokin' hot spots for the best, freshest takes on fried food.",
+    "popularity": 0.347,
+    "poster_path": "/8mWZEF8apZXe5ecoyysFd1c24f0.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-06-09",
+            "episode_count": 1,
+            "id": 331040,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 2,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "6400ce99c7176d008189281d",
+            "air_date": "2021-06-09",
+            "episodes": [
+                {
+                    "air_date": "2021-06-09",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 4270112,
+                    "name": "St Louis",
+                    "overview": "Show-Me State showstoppers include classic toasted ravioli, a vegan chicken sandwich that doesn't call fowl, and a lauded chef's fried bologna bliss.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 221515,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 331040,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

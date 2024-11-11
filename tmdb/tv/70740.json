@@ -1,0 +1,476 @@
+{
+    "adult": false,
+    "backdrop_path": "/1djvfWPaxPEzLlT8aODpTmOEFPd.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2017-04-16",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://www.foodnetwork.com/shows/iron-chef-gauntlet",
+    "id": 70740,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-05-09",
+    "last_episode_to_air": {
+        "id": 1480119,
+        "name": "The Gauntlet Finale",
+        "overview": "The chefs face insurmountable odds when they must cook their way through the three-round gauntlet against \"Iron Chefs\" Alex Guarnaschelli, Stephanie Izard and Michael Symon; the Chairman introduces a surprise twist.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2018-05-09",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 2,
+        "show_id": 70740,
+        "still_path": null
+    },
+    "name": "Iron Chef Gauntlet",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 143,
+            "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+            "name": "Food Network",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Iron Chef Gauntlet",
+    "overview": "Seven chefs from across America face each other in culinary battles each week until only one is left standing. This chef will battle the three iron chefs: Bobby Flay, Masaharu Morimoto and Michael Symon.",
+    "popularity": 2.765,
+    "poster_path": "/yFiizqDjCCgbi4rcaNgQk0HCCuB.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-04-16",
+            "episode_count": 6,
+            "id": 86244,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ygHbGbobx9gbW4DqEKk0xiNwetF.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2018-04-04",
+            "episode_count": 6,
+            "id": 102490,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/ztAviDzwkKMG7PDoUSUHCLRxiDf.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 4.2,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "58c9c5b1c3a3682ff20003d8",
+            "air_date": "2017-04-16",
+            "episodes": [
+                {
+                    "air_date": "2017-04-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1288234,
+                    "name": "Into the Wild",
+                    "overview": "For the first Chairman's Challenge, Alton Brown jump-starts the proceedings by serving up an array of wild ingredients, and the chefs must use their expert techniques to make a top-tier dish right out of the gate. Alton determines the most and least successful dishes, and the bottom-rated chef is thrown into the deep end for a Secret Ingredient Showdown against a competitor chosen by the winner. Dishes are presented to judges Donatella Arpaia and Iron Chef Geoffrey Zakarian, and one competitor is sent home.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/aMPttiRHU5a55vMezCgTWBAGhOT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-04-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1308165,
+                    "name": "Nose to Tail",
+                    "overview": "The six remaining chefs are greeted by Alton, who goes hog-wild with his second Chairman’s Challenge. Each competitor must showcase and transform the offerings into an Iron Chef-worthy dish, after drawing numbers to see who picks their ingredient first. Alton judges the dishes, and sends the lowest-ranking chef to a tropical Secret Ingredient Showdown against the winner’s choice. Judges Anne Burrell and Iron Chef Jose Garces eliminate one competitor and five move closer to the Gauntlet.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/fZ6y4vNgGCDO7x73iWDQJ6Fs0yM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-04-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1311647,
+                    "name": "Sweet and Savory",
+                    "overview": "An Iron Chef must be adaptable, so the Chairman’s Challenge offers up a combination of ingredients that will be bittersweet for one chef. All items are first-come, first-served and cannot be shared, so the competitors race to the altar to grab their most desired elements. Alton Brown sends the bottom chef to a sea creature-themed Secret Ingredient Challenge, along with the top competitor’s choice. Iron Chef Marc Forgione and Giada De Laurentiis judge the dishes and send one chef packing.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/8Y8jCrUmmt1MIHKp9h4FqtAy3Ha.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-05-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1314894,
+                    "name": "Classic Combos",
+                    "overview": "Turning the ordinary into the extraordinary is an important tenet for Iron Chefs, and the Chairman’s Challenge assigns each competitor a classic one-two flavor combo. Alton Brown’s tasting determines the top and bottom chefs, with the least successful joining the winner’s chef of choice in round two. A deceptively simple Secret Ingredient that may ruffle feathers is revealed, then the two chefs make their most sophisticated culinary interpretation of the item. Judges Ali Bouzari and Iron Chef Cat Cora determine who stays and who goes.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/u2Dx2hk2jyzcBIkvIohZ4fBMf3k.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-05-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1317564,
+                    "name": "Five Ingredients",
+                    "overview": "Embracing the idea of less is more, Alton Brown puts the creativity of the remaining chefs to the test by having them pare down their ingredients. In a Chairman’s Challenge twist, one competitor will be eliminated on the spot after the tasting. The least successful dish sends one chef out of the kitchen, and only the final two Iron Chef hopefuls are left standing. The Secret Ingredient Showdown reveals an altar that takes the chefs back to where it all began, and judges Iron Chef Alex Guarnaschelli and Ching-He Huang determine which elite competitor moves forward to the finale to run the gauntlet and potentially join the ranks of Iron Chef.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/zwROAge2qb7QaNC0t5ReqPVbrBN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-05-21",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1319837,
+                    "name": "The Gauntlet Finale",
+                    "overview": "The last chef standing has the Iron Chef title in sight, but he or she must first run the three-round gauntlet against legendary Iron Chefs Bobby Flay, Masaharu Morimoto and Michael Symon and finish with more points than the Iron Chefs combined. The finalist is given the opportunity to strategically choose which Iron Chef competes in each rapid-paced round based on the Secret Ingredients. In the end, judges Anya Fernald and Ludo Lefebvre decide if the finalist makes culinary history and becomes an Iron Chef or leaves in defeat.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 70740,
+                    "still_path": "/kfPcQp0XyRamvum0eRl8EOr5ewD.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 86244,
+            "poster_path": "/ygHbGbobx9gbW4DqEKk0xiNwetF.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5ad35115c3a3683ef9027bd5",
+            "air_date": "2018-04-04",
+            "episodes": [
+                {
+                    "air_date": "2018-04-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1471575,
+                    "name": "Resourcefulness",
+                    "overview": "The competition kicks off with Alton Brown's Chairman's Challenge that forces the seven chefs to show their resourcefulness by using a single protein in as many ways as possible. When one chef takes too many risks and another isn't risky enough, one of them ends up in the bottom. Then, things get real when two chefs fight to avoid elimination in a fishy first Secret Ingredient Showdown, and judges Iron Chef Geoffrey Zakarian and Ching-He Huang send one chef packing.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "66dab0e673cc999985275e8e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1435316,
+                            "known_for_department": "Acting",
+                            "name": "Geoffrey Zakarian",
+                            "original_name": "Geoffrey Zakarian",
+                            "popularity": 0.571,
+                            "profile_path": "/iSvqsD4VhsnG9fJ3GUeyeQJDUCI.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "66dab0f27907d6581974962e",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1241077,
+                            "known_for_department": "Acting",
+                            "name": "Ching He Huang",
+                            "original_name": "Ching He Huang",
+                            "popularity": 0.633,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-04-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1471576,
+                    "name": "Innovation",
+                    "overview": "The six remaining chefs are breaking bread together as they're tasked with crafting an innovative sandwich in the Chairman's Challenge. An underdog impresses the other chefs, and the winner of the challenge hones their strategy by pitting two front-runners against each other in a Secret Ingredient Showdown featuring a colorful root vegetable. Their dishes are presented to judges Iron Chef Marc Forgione and Judy Joo, and one chef is sent home.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab1252e5bb44ce68a0862",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3822079,
+                            "known_for_department": "Acting",
+                            "name": "Marc Forgione",
+                            "original_name": "Marc Forgione",
+                            "popularity": 0.029,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab131eccf51be2cbfffb7",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3822090,
+                            "known_for_department": "Acting",
+                            "name": "Judy Joo",
+                            "original_name": "Judy Joo",
+                            "popularity": 0.03,
+                            "profile_path": "/falK0zEPGyb7YSbPiFEswPgDo2p.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-04-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1471577,
+                    "name": "Versatility",
+                    "overview": "The five chefs must prove their versatility as they take on the Chairman's Challenge to create a dish that epitomizes the cuisine of one of five countries: Thailand, India, Spain, Greece or Japan. It's clear that no one is safe when a previous week's winner lands on the bottom. Then, the competition is neck and neck when two chefs face a particularly tough Secret Ingredient Showdown featuring a game meat, and judges Iron Chef Jose Garces and Anne Burrell send one chef home.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab14450214e6c548a09f5",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3822170,
+                            "known_for_department": "Acting",
+                            "name": "Jose Garces",
+                            "original_name": "Jose Garces",
+                            "popularity": 0.001,
+                            "profile_path": "/ahSk4SAZ3dvmGx4MHhBgw3JKyQt.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab14e6ae4709457703f6d",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1230170,
+                            "known_for_department": "Acting",
+                            "name": "Anne Burrell",
+                            "original_name": "Anne Burrell",
+                            "popularity": 1.796,
+                            "profile_path": "/zGc4ehyRI3sNjmjEM3NHAueLq0K.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-04-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1471578,
+                    "name": "Ingenuity",
+                    "overview": "The final four chefs are tasked with showing their ingenuity by creating an inventive breakfast for the Chairman's Challenge. One chef reimagines steak and eggs with a modern Asian twist, while another competitor might not have made their dish ingenious enough. Then it's on to a Secret Ingredient Showdown with shellfish, where a solid contender must go up against one of the most creative chefs in the competition. Iron Chef Alex Guarnaschelli and Simon Majumdar judge their dishes and decide which chef gets eliminated.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab16ad3f15bbffc8cb1cf",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1877231,
+                            "known_for_department": "Acting",
+                            "name": "Alex Guarnaschelli",
+                            "original_name": "Alex Guarnaschelli",
+                            "popularity": 0.623,
+                            "profile_path": "/nqJpf1otkgT4P0tBNOMfNZZ1ZhX.jpg"
+                        },
+                        {
+                            "character": "Self - Guest Judge",
+                            "credit_id": "66dab17421a9cc7d92c5e18b",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3644733,
+                            "known_for_department": "Acting",
+                            "name": "Simon Majumdar",
+                            "original_name": "Simon Majumdar",
+                            "popularity": 0.662,
+                            "profile_path": "/8oGRIahaa3c9l1Hs4xMc4ZZEPNr.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-05-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1480118,
+                    "name": "Adaptability",
+                    "overview": "Three chefs remain, but only one can survive; the Chairman's Challenge forces the chefs to choose two difficult ingredients for their competitors; the two remaining chefs head to Kitchen Stadium for their last Secret Ingredient Showdown.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-05-09",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1480119,
+                    "name": "The Gauntlet Finale",
+                    "overview": "The chefs face insurmountable odds when they must cook their way through the three-round gauntlet against \"Iron Chefs\" Alex Guarnaschelli, Stephanie Izard and Michael Symon; the Chairman introduces a surprise twist.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 2,
+                    "show_id": 70740,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "66dab18cec0113d44c5ddf8f",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1877231,
+                            "known_for_department": "Acting",
+                            "name": "Alex Guarnaschelli",
+                            "original_name": "Alex Guarnaschelli",
+                            "popularity": 0.623,
+                            "profile_path": "/nqJpf1otkgT4P0tBNOMfNZZ1ZhX.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "66dab196c4f05a92052563e1",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2277026,
+                            "known_for_department": "Acting",
+                            "name": "Stephanie Izard",
+                            "original_name": "Stephanie Izard",
+                            "popularity": 0.412,
+                            "profile_path": "/qzbVZg7CLZEB0boAYFCkjAQ6vVT.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "66dab1a281ea85c0e421bb14",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1229968,
+                            "known_for_department": "Acting",
+                            "name": "Michael Symon",
+                            "original_name": "Michael Symon",
+                            "popularity": 0.779,
+                            "profile_path": "/dy02gFH6gHUGKaNQTVcov3iznWI.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 102490,
+            "poster_path": "/ztAviDzwkKMG7PDoUSUHCLRxiDf.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": "/iwsi0LLXAkdxYLNMtHvh2uP6O3w.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-12-16",
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.travelchannel.com/shows/it-feels-evil",
+    "id": 96573,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-12-23",
+    "last_episode_to_air": {
+        "id": 2019139,
+        "name": "Dead on the Floor",
+        "overview": "The team is called to San Antonio, Texas, to confront a dark energy that has attached itself to a historic mansion. Their attempt to make contact with a strange doll found on the property results in a spine-chilling EVP.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-12-23",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 96573,
+        "still_path": null
+    },
+    "name": "It Feels Evil",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 209,
+            "logo_path": "/8SwN81R7P5vD5mhtOE0taw5mji4.png",
+            "name": "Travel Channel",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "It Feels Evil",
+    "overview": "Demon hunter Tim Wood and his team investigate the darkest hauntings. The battle-tested crew employs unique scientific investigative methods and works closely with eyewitnesses to identify, communicate and confront the malevolent entities lurking in the shadows.",
+    "popularity": 0.662,
+    "poster_path": "/tzltN4QqOApIXX4VkEMz7d4VAdn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-12-16",
+            "episode_count": 2,
+            "id": 138449,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/tzltN4QqOApIXX4VkEMz7d4VAdn.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 7,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5df85b9526dac1001755d25a",
+            "air_date": "2019-12-16",
+            "episodes": [
+                {
+                    "air_date": "2019-12-16",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2019138,
+                    "name": "Get It Out",
+                    "overview": "The team investigates a Texas hospital where a powerful poltergeist said to travel between the abandoned building and a nearby neighborhood. Tim employs a dangerous experiment to trap the dark entity on the grounds permanently.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 96573,
+                    "still_path": null,
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-23",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 2019139,
+                    "name": "Dead on the Floor",
+                    "overview": "The team is called to San Antonio, Texas, to confront a dark energy that has attached itself to a historic mansion. Their attempt to make contact with a strange doll found on the property results in a spine-chilling EVP.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 96573,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 138449,
+            "poster_path": "/tzltN4QqOApIXX4VkEMz7d4VAdn.jpg",
+            "season_number": 1,
+            "vote_average": 10
+        }
+    }
+}

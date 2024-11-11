@@ -1,0 +1,562 @@
+{
+    "adult": false,
+    "backdrop_path": "/mPucdbSF7zw8fwLFoXRzgE2zZKX.jpg",
+    "created_by": [
+        {
+            "id": 4635048,
+            "credit_id": "660f5cb7078e4e017e95f94b",
+            "name": "Ray Lawlor",
+            "original_name": "Ray Lawlor",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-09-26",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.rte.ie/player/series/obituary/10002353-00-0000?epguid=AI000004794",
+    "id": 235769,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-10-31",
+    "last_episode_to_air": {
+        "id": 4758992,
+        "name": "Body Count",
+        "overview": "When Ward reveals what really happened the night Maria Riedle was killed, Elvira sets about framing Hughie for the crime. A surprise face returns to Kilraven.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-10-31",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 235769,
+        "still_path": "/d1qsLILrAZOL1ImdIZz8XBzCEO0.jpg"
+    },
+    "name": "Obituary",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 155,
+            "logo_path": "/2kjTvhfxtXLnHspCUZQ9cv9gToV.png",
+            "name": "RTÉ One",
+            "origin_country": "IE"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IE"
+    ],
+    "original_language": "en",
+    "original_name": "Obituary",
+    "overview": "When Elvira’s editor informs her that she will be paid per article, she begins murdering people to avoid going broke. Her plans are shaken when she falls for the crime reporter.",
+    "popularity": 8.117,
+    "poster_path": "/1cgisNvMeBDEf1nOoDNa7CEGwLR.jpg",
+    "production_companies": [
+        {
+            "id": 225323,
+            "logo_path": "/4SUwLhGpYX6uHdTzVMXEv02n7GB.png",
+            "name": "APC Studios",
+            "origin_country": "GB"
+        },
+        {
+            "id": 91582,
+            "logo_path": null,
+            "name": "Magamedia",
+            "origin_country": "IE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-09-26",
+            "episode_count": 6,
+            "id": 358461,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/li2LkPuvn7DEYj9oyHuds3nV2lV.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "To live, she writes. To write, she kills...",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 14,
+    "season_data": {
+        "1": {
+            "_id": "651131af3a4a12013956abea",
+            "air_date": "2023-09-26",
+            "episodes": [
+                {
+                    "air_date": "2023-09-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4758572,
+                    "name": "Death Becomes Her",
+                    "overview": "When Elvira’s editor informs her that she will be paid per article, she begins murdering people to avoid going broke. Her plans are shaken when she falls for the crime reporter.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/9fdJuQ6ty6QmEVnZGJyVzHa7Sob.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "660f5d4de78e2d014a21b922",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4635048,
+                            "known_for_department": "Creator",
+                            "name": "Ray Lawlor",
+                            "original_name": "Ray Lawlor",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "660f5d57de11e5017c2abdad",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2331717,
+                            "known_for_department": "Production",
+                            "name": "David Crean",
+                            "original_name": "David Crean",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Associate Producer",
+                            "department": "Production",
+                            "credit_id": "660f5d60d861af017df37216",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4635050,
+                            "known_for_department": "Production",
+                            "name": "Jennah Dirksen",
+                            "original_name": "Jennah Dirksen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "660f5d75d48cee015fbd0730",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2765787,
+                            "known_for_department": "Production",
+                            "name": "Nell Green",
+                            "original_name": "Nell Green",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "660f5d8ad38b58017db9bafb",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4232901,
+                            "known_for_department": "Production",
+                            "name": "Dermot Horan",
+                            "original_name": "Dermot Horan",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Line Producer",
+                            "department": "Production",
+                            "credit_id": "660f5d98f2cf25017cd62b2e",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3550596,
+                            "known_for_department": "Production",
+                            "name": "Gemma O'Shaughnessy",
+                            "original_name": "Gemma O'Shaughnessy",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "660f5dd874d6c0017cd8dbd9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1664001,
+                            "known_for_department": "Directing",
+                            "name": "John Hayes",
+                            "original_name": "John Hayes",
+                            "popularity": 1.024,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "660f5dff3f8ede0163e2c47a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1664001,
+                            "known_for_department": "Directing",
+                            "name": "John Hayes",
+                            "original_name": "John Hayes",
+                            "popularity": 1.024,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "660f5e124a4bf6016327ea60",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1446585,
+                            "known_for_department": "Sound",
+                            "name": "Steve Lynch",
+                            "original_name": "Steve Lynch",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "660f5e2cfd6300017d1a5335",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1311595,
+                            "known_for_department": "Camera",
+                            "name": "James Mather",
+                            "original_name": "James Mather",
+                            "popularity": 0.669,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "660f5e3874d6c0017cd8dcb4",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1084985,
+                            "known_for_department": "Editing",
+                            "name": "Tony Kearns",
+                            "original_name": "Tony Kearns",
+                            "popularity": 0.281,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Post-Production Manager",
+                            "department": "Crew",
+                            "credit_id": "660f5e48f2883801650ec24b",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2127929,
+                            "known_for_department": "Crew",
+                            "name": "Sarah Caraher",
+                            "original_name": "Sarah Caraher",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Colorist",
+                            "department": "Editing",
+                            "credit_id": "660f5e54fd6300017d1a5389",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1938969,
+                            "known_for_department": "Editing",
+                            "name": "Gary Curran",
+                            "original_name": "Gary Curran",
+                            "popularity": 0.198,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Assistant Editor",
+                            "department": "Editing",
+                            "credit_id": "660f5e5d713ea6017ded7681",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4561846,
+                            "known_for_department": "Editing",
+                            "name": "Tom Pierce",
+                            "original_name": "Tom Pierce",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Color Assistant",
+                            "department": "Editing",
+                            "credit_id": "660f5e7d74d6c0017cd8dd86",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3421000,
+                            "known_for_department": "Editing",
+                            "name": "Lara Stewart",
+                            "original_name": "Lara Stewart",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Art Direction",
+                            "department": "Art",
+                            "credit_id": "660f5e93f2cf25017cd62ccb",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1577998,
+                            "known_for_department": "Art",
+                            "name": "Christine Fitzgerald",
+                            "original_name": "Christine Fitzgerald",
+                            "popularity": 0.271,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Costume Design",
+                            "department": "Costume & Make-Up",
+                            "credit_id": "660f5e9d4a4bf6014927c262",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1529779,
+                            "known_for_department": "Costume & Make-Up",
+                            "name": "Suzanne Keogh",
+                            "original_name": "Suzanne Keogh",
+                            "popularity": 0.341,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Makeup Artist",
+                            "department": "Costume & Make-Up",
+                            "credit_id": "660f5ea9e78e2d016321e236",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3723959,
+                            "known_for_department": "Costume & Make-Up",
+                            "name": "Ciara Scannell",
+                            "original_name": "Ciara Scannell",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Second Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "660f5eb24a4bf6017c2827d5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3483519,
+                            "known_for_department": "Production",
+                            "name": "Karen Byrne",
+                            "original_name": "Karen Byrne",
+                            "popularity": 0.448,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Third Assistant Director",
+                            "department": "Directing",
+                            "credit_id": "660f5ed1d861af014af33859",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1986808,
+                            "known_for_department": "Directing",
+                            "name": "Conor Flannery",
+                            "original_name": "Conor Flannery",
+                            "popularity": 0.526,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Property Master",
+                            "department": "Art",
+                            "credit_id": "660f5ed93f8ede017ce2f635",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2249523,
+                            "known_for_department": "Art",
+                            "name": "June Connon",
+                            "original_name": "June Connon",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Property Buyer",
+                            "department": "Art",
+                            "credit_id": "660f5eead861af017df373a7",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1556401,
+                            "known_for_department": "Production",
+                            "name": "Deborah Davis",
+                            "original_name": "Deborah Davis",
+                            "popularity": 1.623,
+                            "profile_path": "/wONFPcBtHbhmEh6eFziRbV4dqNA.jpg"
+                        },
+                        {
+                            "job": "Storyboard Artist",
+                            "department": "Art",
+                            "credit_id": "660f5ef42d531a017d7de864",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3770456,
+                            "known_for_department": "Art",
+                            "name": "Jason Groarke",
+                            "original_name": "Jason Groarke",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Standby Art Director",
+                            "department": "Art",
+                            "credit_id": "660f5efc74d6c00163d8a5cc",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3867736,
+                            "known_for_department": "Art",
+                            "name": "Sarah Heath",
+                            "original_name": "Sarah Heath",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Painter",
+                            "department": "Art",
+                            "credit_id": "660f5f0874d6c0017cd8dee7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4635058,
+                            "known_for_department": "Art",
+                            "name": "Victoria Herzig",
+                            "original_name": "Victoria Herzig",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4758988,
+                    "name": "Hiccups",
+                    "overview": "Elvira targets someone sending her poison pen letters as Emerson’s real reason for coming to town is revealed - he’s trying to solve the murder of Maria Riedle in the local woods.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/zB0HzD7jP4nqwiFvfWfvDQscIZh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4758989,
+                    "name": "Stay of Execution",
+                    "overview": "Elvira finds herself blackmailed by a teenager who saw her murder her first victim. Ward goes to AA while Hughie catches a break when he finds the rifle used to kill Maria Riedle.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/cRrswq7NueMIn77LGYjGcX5Hlqi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4758990,
+                    "name": "Weapons of Minor Destruction",
+                    "overview": "Desperate to prove to herself that she is not a monster, Elvira pursues a drunk driver released from jail who mowed down a father and daughter.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/kv1cZpsHNTC2PH62ZI1AUwVOg3f.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4758991,
+                    "name": "Wild Goose Chase",
+                    "overview": "Elvira decides on whether or not to kill her friend as Mallory reveals that she has information that Elvira may be involved in a murder. Hughie sends Emerson on a wild goose chas.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/bY0syFv0sXu2xYDeLV6nhn3lXql.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-31",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 4758992,
+                    "name": "Body Count",
+                    "overview": "When Ward reveals what really happened the night Maria Riedle was killed, Elvira sets about framing Hughie for the crime. A surprise face returns to Kilraven.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 235769,
+                    "still_path": "/d1qsLILrAZOL1ImdIZz8XBzCEO0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 358461,
+            "poster_path": "/li2LkPuvn7DEYj9oyHuds3nV2lV.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2016-08-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://www.discovery.com/tv-shows/blue-collar-backers/",
+    "id": 67585,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-09-10",
+    "last_episode_to_air": {
+        "id": 1217619,
+        "name": "Freakin' Banks",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-09-10",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 67585,
+        "still_path": null
+    },
+    "name": "Blue Collar Backers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 64,
+            "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Blue Collar Backers",
+    "overview": "For many people, owning and operating their own business is the ultimate American dream. On average, more than 540,000 new businesses a month will launch in the United States, but what separates a good idea from one that just reads well on paper? Enter the experts who are offering not only a cash investment, but sweat equity to burgeoning businesses.",
+    "popularity": 0.584,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 23610,
+            "logo_path": "/fPlRSFrjrGAmdclHeGsScrDX1aC.png",
+            "name": "Leftfield Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-08-27",
+            "episode_count": 3,
+            "id": 79583,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.2,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "57c1eba59251413a3b007145",
+            "air_date": "2016-08-27",
+            "episodes": [
+                {
+                    "air_date": "2016-08-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1217617,
+                    "name": "Meat Your Maker",
+                    "overview": "Backer Ron Douglas utilizes his small business expertise to help a bike shop that's at risk for closure. With his money and business on the line, backer Cameron Davies must double down and finish a project, in the hopes of finding a new buyer.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67585,
+                    "still_path": "/zBn3XbdJm77xt1gH3DlnTLI8iaK.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-09-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1217618,
+                    "name": "Mile High Club",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67585,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-09-10",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1217619,
+                    "name": "Freakin' Banks",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 67585,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 79583,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

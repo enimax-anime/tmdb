@@ -1,0 +1,766 @@
+{
+    "adult": false,
+    "backdrop_path": "/qBEhdwquiNCb3R60cJIP0WsROKb.jpg",
+    "created_by": [
+        {
+            "id": 183921,
+            "credit_id": "62675db7142ef100a9e1bec2",
+            "name": "Ben Murray",
+            "original_name": "Ben Murray",
+            "gender": 2,
+            "profile_path": "/m12oD8aA12mt01heXZKx28gT9eK.jpg"
+        },
+        {
+            "id": 2480803,
+            "credit_id": "62675dd6142ef100a9e1bf2e",
+            "name": "Steve Stamp",
+            "original_name": "Steve Stamp",
+            "gender": 2,
+            "profile_path": "/mqwjrXyojXDXs2gPQf7ufoGzaon.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2022-04-25",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p0bzn7k4",
+    "id": 199904,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-07-02",
+    "last_episode_to_air": {
+        "id": 5398147,
+        "name": "Episode 6",
+        "overview": "Kara offers Andy the chance to be a fitness influencer. Free stuff! He and Spooner make up, but Kara has other ideas for Andy, including a swaggy makeover. Jonathan is banned from the gym, as Eunice can’t resist his charms.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-07-02",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 29,
+        "season_number": 2,
+        "show_id": 199904,
+        "still_path": "/vXdvYAtOCHBmB2OFYonSj0wot1Y.jpg"
+    },
+    "name": "Peacock",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Peacock",
+    "overview": "A trainer tries to make his way as an instructor at a gym where the clientele doesn't take physical fitness very seriously.",
+    "popularity": 3.815,
+    "poster_path": "/wVH9O5AM6c0qt4SKnIgKwnCUY5z.jpg",
+    "production_companies": [
+        {
+            "id": 443,
+            "logo_path": "/wibNj4tELmsnCFlf5ldLik37Urr.png",
+            "name": "Big Talk Studios",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-04-25",
+            "episode_count": 3,
+            "id": 290614,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2024-06-18",
+            "episode_count": 6,
+            "id": 397322,
+            "name": "Series 2",
+            "overview": "Comedy following personal trainer Andy Peacock, who has hit an identity crisis.",
+            "poster_path": "/gRPOdfIYfDnF44uKBgg9QfmXYxW.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.4,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "62672ffc5b4fed00a0f49891",
+            "air_date": "2022-04-25",
+            "episodes": [
+                {
+                    "air_date": "2022-04-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3685275,
+                    "name": "Episode 1",
+                    "overview": "Personal trainer Andy Peacock is in crisis. His career has stalled and his friends are settling down. Should he be doing the same, or carry on living the playboy lifestyle?",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 199904,
+                    "still_path": "/qaj3y4xmRHiGHbKlfvV5oGXNqdN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63fbb5f9344a8e007cba5046",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2691193,
+                            "known_for_department": "Directing",
+                            "name": "Freddie Waters",
+                            "original_name": "Freddie Waters",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb62884f249008db0ba75",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3165023,
+                            "known_for_department": "Directing",
+                            "name": "Ben Murray",
+                            "original_name": "Ben Murray",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb6350c1255009c1023e5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2480803,
+                            "known_for_department": "Acting",
+                            "name": "Steve Stamp",
+                            "original_name": "Steve Stamp",
+                            "popularity": 0.137,
+                            "profile_path": "/mqwjrXyojXDXs2gPQf7ufoGzaon.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Naza",
+                            "credit_id": "626aa20b9824c800989bf8d1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1247698,
+                            "known_for_department": "Acting",
+                            "name": "Myriam Acharki",
+                            "original_name": "Myriam Acharki",
+                            "popularity": 1.666,
+                            "profile_path": "/j0N6iJf9DVfjzMLp7jvMt5rTqM6.jpg"
+                        },
+                        {
+                            "character": "Alice",
+                            "credit_id": "626aa23fec370c0d9829f704",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1464453,
+                            "known_for_department": "Acting",
+                            "name": "Saira Choudhry",
+                            "original_name": "Saira Choudhry",
+                            "popularity": 1.757,
+                            "profile_path": "/isfZ02QYX9zdwciyuXixlbxeFKg.jpg"
+                        },
+                        {
+                            "character": "Waiter",
+                            "credit_id": "626aa277489d00009ec2b540",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3527411,
+                            "known_for_department": "Acting",
+                            "name": "Musa Menneh",
+                            "original_name": "Musa Menneh",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Older Andy",
+                            "credit_id": "626aa283394a8700a2198f4f",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3527412,
+                            "known_for_department": "Acting",
+                            "name": "Graham Pitt",
+                            "original_name": "Graham Pitt",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3685284,
+                    "name": "Episode 2",
+                    "overview": "Andy applies for the head trainer role and tries to get serious with Carly. Neither goes well. In desperation, he tries to work out who the real Andy is, and tests that on a date.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 199904,
+                    "still_path": "/hqrHx66lQVGrvMCZq7hU7MhAsOR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63fbb5f9344a8e007cba5046",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2691193,
+                            "known_for_department": "Directing",
+                            "name": "Freddie Waters",
+                            "original_name": "Freddie Waters",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb62884f249008db0ba75",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3165023,
+                            "known_for_department": "Directing",
+                            "name": "Ben Murray",
+                            "original_name": "Ben Murray",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb6350c1255009c1023e5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2480803,
+                            "known_for_department": "Acting",
+                            "name": "Steve Stamp",
+                            "original_name": "Steve Stamp",
+                            "popularity": 0.137,
+                            "profile_path": "/mqwjrXyojXDXs2gPQf7ufoGzaon.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Georgia",
+                            "credit_id": "626aa2272d531a09c1038599",
+                            "order": 10,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1399747,
+                            "known_for_department": "Acting",
+                            "name": "Mandeep Dhillon",
+                            "original_name": "Mandeep Dhillon",
+                            "popularity": 5.359,
+                            "profile_path": "/rVlSWINjaCMFWqkHpkjYy3zECka.jpg"
+                        },
+                        {
+                            "character": "Naza",
+                            "credit_id": "626aa20b9824c800989bf8d1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1247698,
+                            "known_for_department": "Acting",
+                            "name": "Myriam Acharki",
+                            "original_name": "Myriam Acharki",
+                            "popularity": 1.666,
+                            "profile_path": "/j0N6iJf9DVfjzMLp7jvMt5rTqM6.jpg"
+                        },
+                        {
+                            "character": "Del",
+                            "credit_id": "626aa2502d531a09bfd074e3",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1376877,
+                            "known_for_department": "Acting",
+                            "name": "James Quinn",
+                            "original_name": "James Quinn",
+                            "popularity": 0.773,
+                            "profile_path": "/cMd4rO4VRHVnouMPFuWAwzLRQ9M.jpg"
+                        },
+                        {
+                            "character": "Bartender",
+                            "credit_id": "626aa2a49824c8006424281c",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3527415,
+                            "known_for_department": "Acting",
+                            "name": "Jordan Phillips",
+                            "original_name": "Jordan Phillips",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-09",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3685289,
+                    "name": "Episode 3",
+                    "overview": "New ‘authentic’ Andy’s going on a second date with Georgia, but old Andy resurfaces and he can’t resist a test of strength with Jay, which threatens to ruin everything.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 199904,
+                    "still_path": "/5sl1R2qm9aPe8ClfQ2YGRHKh5XX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63fbb5f9344a8e007cba5046",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2691193,
+                            "known_for_department": "Directing",
+                            "name": "Freddie Waters",
+                            "original_name": "Freddie Waters",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb62884f249008db0ba75",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3165023,
+                            "known_for_department": "Directing",
+                            "name": "Ben Murray",
+                            "original_name": "Ben Murray",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "63fbb6350c1255009c1023e5",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2480803,
+                            "known_for_department": "Acting",
+                            "name": "Steve Stamp",
+                            "original_name": "Steve Stamp",
+                            "popularity": 0.137,
+                            "profile_path": "/mqwjrXyojXDXs2gPQf7ufoGzaon.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Georgia",
+                            "credit_id": "626aa2272d531a09c1038599",
+                            "order": 10,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1399747,
+                            "known_for_department": "Acting",
+                            "name": "Mandeep Dhillon",
+                            "original_name": "Mandeep Dhillon",
+                            "popularity": 5.359,
+                            "profile_path": "/rVlSWINjaCMFWqkHpkjYy3zECka.jpg"
+                        },
+                        {
+                            "character": "Georgia's Friend",
+                            "credit_id": "626aa25e95acf00e1a36fe7a",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3527410,
+                            "known_for_department": "Acting",
+                            "name": "Hannah Pitt",
+                            "original_name": "Hannah Pitt",
+                            "popularity": 0.001,
+                            "profile_path": "/oS2wsw5vSh5um8dpoJ5Pi6yJvyY.jpg"
+                        },
+                        {
+                            "character": "Georgia's Boss",
+                            "credit_id": "626aa269394a870069fa5beb",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20282,
+                            "known_for_department": "Acting",
+                            "name": "John Kavanagh",
+                            "original_name": "John Kavanagh",
+                            "popularity": 4.09,
+                            "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+                        },
+                        {
+                            "character": "Gym Goer",
+                            "credit_id": "626aa2b69824c8004fa90415",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2041581,
+                            "known_for_department": "Acting",
+                            "name": "Nicola Holt",
+                            "original_name": "Nicola Holt",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Nurse",
+                            "credit_id": "626aa2c29824c800989bfb77",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3527417,
+                            "known_for_department": "Acting",
+                            "name": "Chris Crowson",
+                            "original_name": "Chris Crowson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 290614,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "666182ac3df9ef54eecbb3cb",
+            "air_date": "2024-06-18",
+            "episodes": [
+                {
+                    "air_date": "2024-06-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5398142,
+                    "name": "Episode 1",
+                    "overview": "Liz has disappeared, leaving a vacuum at the gym that Andy and Jay compete to fill. With his body positivity classes struggling and his relationship drifting, can Andy afford to lose?",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/zM1mjKM3Ed4v80WV8VSJZxrxRKE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Carly",
+                            "credit_id": "62675a2fce6c4c0097c88faf",
+                            "order": 1,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1969777,
+                            "known_for_department": "Acting",
+                            "name": "Callie Cooke",
+                            "original_name": "Callie Cooke",
+                            "popularity": 2.666,
+                            "profile_path": "/kAKeZuL0ILQCtjIWniCnqmwpvNx.jpg"
+                        },
+                        {
+                            "character": "Teresa",
+                            "credit_id": "6661837ee54b5525a67b369e",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 195274,
+                            "known_for_department": "Acting",
+                            "name": "Pippa Haywood",
+                            "original_name": "Pippa Haywood",
+                            "popularity": 6.094,
+                            "profile_path": "/7mWc8C0kJylpBWK2P31XjbuwsGp.jpg"
+                        },
+                        {
+                            "character": "Priya",
+                            "credit_id": "666183a8a0643b25077dcbf6",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3893503,
+                            "known_for_department": "Acting",
+                            "name": "Anushka Chakravarti",
+                            "original_name": "Anushka Chakravarti",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-06-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5398143,
+                    "name": "Episode 2",
+                    "overview": "Andy starts at the new gym, but he is soon spooked by high-energy fitness influencer Kara’s talk of high standards. Will he be fired in his first week? And will his long-distance bromance with Spooner survive?",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/ugeS8p7zKDq5JLWdBX27jPuzgQl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kara",
+                            "credit_id": "666183d10d8e12e393448059",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2134546,
+                            "known_for_department": "Acting",
+                            "name": "Saffron Hocking",
+                            "original_name": "Saffron Hocking",
+                            "popularity": 3.865,
+                            "profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg"
+                        },
+                        {
+                            "character": "Eunice",
+                            "credit_id": "666183d89cf08826b27dce65",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1220278,
+                            "known_for_department": "Acting",
+                            "name": "Jo Joyner",
+                            "original_name": "Jo Joyner",
+                            "popularity": 9.413,
+                            "profile_path": "/3TeGLMv1kDzNCa9BDTTthKV4SGk.jpg"
+                        },
+                        {
+                            "character": "Ed",
+                            "credit_id": "666183e31ea251313f447fa5",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1782015,
+                            "known_for_department": "Acting",
+                            "name": "George Keywood",
+                            "original_name": "George Keywood",
+                            "popularity": 1.529,
+                            "profile_path": "/yYSs4m3BQirktxrFPSHimFODeWq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-06-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5398144,
+                    "name": "Episode 3",
+                    "overview": "It’s mental health week at the gym, and Andy is worried that his relationship with Georgia is drifting. Will her suggestion of a threesome fix things? Or will Andy ruin everything?",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/Lms3F4JquUq8foV5x4S73KmQ0d.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kara",
+                            "credit_id": "666183d10d8e12e393448059",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2134546,
+                            "known_for_department": "Acting",
+                            "name": "Saffron Hocking",
+                            "original_name": "Saffron Hocking",
+                            "popularity": 3.865,
+                            "profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg"
+                        },
+                        {
+                            "character": "Eunice",
+                            "credit_id": "666183d89cf08826b27dce65",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1220278,
+                            "known_for_department": "Acting",
+                            "name": "Jo Joyner",
+                            "original_name": "Jo Joyner",
+                            "popularity": 9.413,
+                            "profile_path": "/3TeGLMv1kDzNCa9BDTTthKV4SGk.jpg"
+                        },
+                        {
+                            "character": "Beatrice",
+                            "credit_id": "666ab026fee28c301607ffa1",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 124828,
+                            "known_for_department": "Acting",
+                            "name": "Kimberley Nixon",
+                            "original_name": "Kimberley Nixon",
+                            "popularity": 11.971,
+                            "profile_path": "/x938g7DHgd0wr61KycoXoPxY6Hz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-06-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5398145,
+                    "name": "Episode 4",
+                    "overview": "Andy is dumped and embarks on a brutal ‘revenge body’ diet. Spooner and Blue hold a wild house party to reclaim their cool. Will Andy’s nerve hold? Or will we see the return of the legendary 'Mad' Andy and his firework?",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/vCFiKAn1yBLP59n7JRxVhEHaV4k.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Eunice",
+                            "credit_id": "666183d89cf08826b27dce65",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1220278,
+                            "known_for_department": "Acting",
+                            "name": "Jo Joyner",
+                            "original_name": "Jo Joyner",
+                            "popularity": 9.413,
+                            "profile_path": "/3TeGLMv1kDzNCa9BDTTthKV4SGk.jpg"
+                        },
+                        {
+                            "character": "Beatrice",
+                            "credit_id": "666ab026fee28c301607ffa1",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 124828,
+                            "known_for_department": "Acting",
+                            "name": "Kimberley Nixon",
+                            "original_name": "Kimberley Nixon",
+                            "popularity": 11.971,
+                            "profile_path": "/x938g7DHgd0wr61KycoXoPxY6Hz.jpg"
+                        },
+                        {
+                            "character": "Claudia",
+                            "credit_id": "666ab03e83ce4002c9e9485b",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3380434,
+                            "known_for_department": "Acting",
+                            "name": "Kirsty Rider",
+                            "original_name": "Kirsty Rider",
+                            "popularity": 0.323,
+                            "profile_path": "/t70arz4XIYjdo1pfb3fVeGDf5TC.jpg"
+                        },
+                        {
+                            "character": "Dave",
+                            "credit_id": "666ab0511b0dfbb200514c5f",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2480802,
+                            "known_for_department": "Acting",
+                            "name": "Hugo Chegwin",
+                            "original_name": "Hugo Chegwin",
+                            "popularity": 0.28,
+                            "profile_path": "/eFmVwwQkNSsauZhjY36ksTUBpS2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-07-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5398146,
+                    "name": "Episode 5",
+                    "overview": "Andy is (sort of) diagnosed with low testosterone and is in a funk. Kara endorses a preworkout that has unfortunate side effects. Jonathan and Eunice start a steamy affair. Can Andy get his manly mojo back?",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/hep5D6SJ2X9c3BBsTV2jQmQMlpS.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-07-02",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5398147,
+                    "name": "Episode 6",
+                    "overview": "Kara offers Andy the chance to be a fitness influencer. Free stuff! He and Spooner make up, but Kara has other ideas for Andy, including a swaggy makeover. Jonathan is banned from the gym, as Eunice can’t resist his charms.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 2,
+                    "show_id": 199904,
+                    "still_path": "/vXdvYAtOCHBmB2OFYonSj0wot1Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Series 2",
+            "overview": "Comedy following personal trainer Andy Peacock, who has hit an identity crisis.",
+            "id": 397322,
+            "poster_path": "/gRPOdfIYfDnF44uKBgg9QfmXYxW.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

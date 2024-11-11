@@ -1,0 +1,191 @@
+{
+    "adult": false,
+    "backdrop_path": "/u7AGZkMHgV5mVzr7ovFj9d3ro8n.jpg",
+    "created_by": [
+        {
+            "id": 1494810,
+            "credit_id": "5c6f9902c3a3685a3bd46578",
+            "name": "Tasos Psarras",
+            "original_name": "Τάσος Ψαρράς",
+            "gender": 2,
+            "profile_path": "/dO3BIz1iKOdwn1yKSHvM334O6wp.jpg"
+        },
+        {
+            "id": 2247577,
+            "credit_id": "5c6f98ec0e0a2623afd41e14",
+            "name": "Strates Myriveles",
+            "original_name": "Στρατής Μυριβήλης",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        60
+    ],
+    "first_air_date": "2019-01-31",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10768,
+            "name": "War & Politics"
+        }
+    ],
+    "homepage": "https://webtv.ert.gr/shows/i-zoi-en-tafo/",
+    "id": 86406,
+    "in_production": true,
+    "languages": [
+        "el"
+    ],
+    "last_air_date": "2019-02-28",
+    "last_episode_to_air": {
+        "id": 1712678,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-02-28",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 86406,
+        "still_path": null
+    },
+    "name": "I zoi en tafo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2474,
+            "logo_path": "/mR0SoE9l7rq8nsmjeuMhv05CVoh.png",
+            "name": "ERT1",
+            "origin_country": "GR"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GR"
+    ],
+    "original_language": "el",
+    "original_name": "Η Ζωή εν Τάφω",
+    "overview": "",
+    "popularity": 0.973,
+    "poster_path": "/uBo6bQHby5QRA7yjiR6qNzOTMQo.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-01-31",
+            "episode_count": 4,
+            "id": 117978,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "5c53dadac3a36847779b567a",
+            "air_date": "2019-01-31",
+            "episodes": [
+                {
+                    "air_date": "2019-01-31",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1691358,
+                    "name": "Η Ζωή Εν Τάφω",
+                    "overview": "starts off as a typical spat between neighbours",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 86406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1712674,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 86406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1712677,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 86406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-02-28",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1712678,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 86406,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 117978,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

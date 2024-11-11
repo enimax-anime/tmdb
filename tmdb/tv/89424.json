@@ -1,0 +1,187 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        55
+    ],
+    "first_air_date": "2019-05-12",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://tv.jtbc.joins.com/shallwechicken/",
+    "id": 89424,
+    "in_production": true,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2019-06-09",
+    "last_episode_to_air": {
+        "id": 1817595,
+        "name": "Episode 5",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-06-09",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 89424,
+        "still_path": null
+    },
+    "name": "Shall We Chicken",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 885,
+            "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+            "name": "JTBC",
+            "origin_country": "KR"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "쉘 위 치킨",
+    "overview": "",
+    "popularity": 1.564,
+    "poster_path": "/rtWIqJ8cRU1lGmb3EWkrj4ZYB2W.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-05-12",
+            "episode_count": 5,
+            "id": 124285,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5cdadce50e0a26045cce7c7c",
+            "air_date": "2019-05-12",
+            "episodes": [
+                {
+                    "air_date": "2019-05-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1791259,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1817592,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1817593,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1817594,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-09",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 1817595,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 89424,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 124285,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

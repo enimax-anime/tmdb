@@ -1,0 +1,560 @@
+{
+    "adult": false,
+    "backdrop_path": "/bq9IbyuODduTQw5WodGsxOXdJgc.jpg",
+    "created_by": [
+        {
+            "id": 219479,
+            "credit_id": "635ce1d2ba4802007963d766",
+            "name": "Criss Angel",
+            "original_name": "Criss Angel",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-10-22",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://www.cwtv.com/shows/criss-angels-magic-with-the-stars/",
+    "id": 213408,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-02-10",
+    "last_episode_to_air": {
+        "id": 4030653,
+        "name": "In Two",
+        "overview": "The grand illusion for Real Housewife Cynthia and Stargirl's Brec challenges both women to attempt the impossible – \"sawing a lady in half!\"",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-02-10",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 213408,
+        "still_path": "/8GtmyDaMXZfiQBc7UrmsXyHyuAa.jpg"
+    },
+    "name": "Criss Angel's Magic with the Stars",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 71,
+            "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+            "name": "The CW",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Criss Angel's Magic with the Stars",
+    "overview": "In each episode, two celebrities train with professional magicians and compete to create a show-stopping series of magic performances. The celebrity competitors are tasked with mastering three major categories of magic, which they perform in front of a team of judges led by magician Criss Angel. Only the highest-scoring celebrities will be invited back to the finale where they will compete for the golden wand.",
+    "popularity": 6.056,
+    "poster_path": "/6KwaUZQB9bFWHo7VACGt6suHvkj.jpg",
+    "production_companies": [
+        {
+            "id": 125998,
+            "logo_path": null,
+            "name": "Criss Angel Productions Worldwide",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-22",
+            "episode_count": 10,
+            "id": 314495,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6KwaUZQB9bFWHo7VACGt6suHvkj.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "635cdf76e263bb007c246a42",
+            "air_date": "2022-10-22",
+            "episodes": [
+                {
+                    "air_date": "2022-10-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4030359,
+                    "name": "The Greatest Levitation of All Time",
+                    "overview": "Corbin Bleu and Miles Brown defy the laws of gravity as they attempt one of Criss' most iconic illusions that took over 20 years to create.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/3jOG2LQwNs2rzJFXboXHN8JWkHT.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce0b9fd6300007e40481e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 67602,
+                            "known_for_department": "Acting",
+                            "name": "Corbin Bleu",
+                            "original_name": "Corbin Bleu",
+                            "popularity": 6.971,
+                            "profile_path": "/hB4dqxdG84ISRyFHXU7PdQwdJMw.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce0cb63d937007aac5101",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1407495,
+                            "known_for_department": "Acting",
+                            "name": "Miles Brown",
+                            "original_name": "Miles Brown",
+                            "popularity": 5.323,
+                            "profile_path": "/emQj2h72FGwK5nBOao0yXFFZvHt.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4030368,
+                    "name": "Amystika Chair",
+                    "overview": "In this week's exciting grand illusion, Maksim Chmerkovskiy and Omarion face off performing \"The Amystika Chair,\" a one-of-a-kind vanish-and-reappearance that happens in a split second.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/lt9RxvWyvcEpCTeHNLZ8l6VbomQ.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce1449ba86a007d77c992",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1456289,
+                            "known_for_department": "Acting",
+                            "name": "Maksim Chmerkovskiy",
+                            "original_name": "Maksim Chmerkovskiy",
+                            "popularity": 1.618,
+                            "profile_path": "/anFr8Ixj7JaZ5Cq6oBix1m9Abgn.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce154c9dbf9007a3c1814",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 77802,
+                            "known_for_department": "Acting",
+                            "name": "Omarion",
+                            "original_name": "Omarion",
+                            "popularity": 2.756,
+                            "profile_path": "/aSx68NkWBVknJaOdbKlhwOmgC4W.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-05",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4030370,
+                    "name": "Metamorphosis",
+                    "overview": "U.S. Olympian Lolo Jones and television star Frankie Muniz join host Eddie Griffin to perform in front of judges Criss Angel, Loni Love and Lance Burton. In the grand illusion portion of the show, they will be challenged to perform, and successfully execute, one of Criss' greatest demonstrations - \"The Metamorphosis.\" Criss has performed the fastest version to date (since the days of Houdini), and now Lolo and Frankie will be put to the test. Will they succeed, or will they break under pressure?",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/k3FNaPsQSQMGyhWn6wBQnj7hwf8.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce173a39d0b008262523f",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1253634,
+                            "known_for_department": "Acting",
+                            "name": "Lolo Jones",
+                            "original_name": "Lolo Jones",
+                            "popularity": 1.97,
+                            "profile_path": "/82l4GZYznnfqU1lo9rwAMGfeFdt.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "635ce1821b7294007befa4af",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51391,
+                            "known_for_department": "Acting",
+                            "name": "Frankie Muniz",
+                            "original_name": "Frankie Muniz",
+                            "popularity": 26.112,
+                            "profile_path": "/tBckW8eJHv4vz8B3DJYH1rLAtyN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-12",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4030643,
+                    "name": "Submerged",
+                    "overview": "Grammy-nominated R&B artists Ginuwine and 98 Degrees founding member Jeff Timmons raise the ante as they learn Criss's death-defying performance of Submerged.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/wKZ1GXUxIO65kRRX5hXKkR9NIyB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "635d4c7d0f526500799f4270",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 155808,
+                            "known_for_department": "Acting",
+                            "name": "Ginuwine",
+                            "original_name": "Ginuwine",
+                            "popularity": 1.175,
+                            "profile_path": "/vlJTcMVqumTmsB9N4j7g0qnOocE.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "635d4c909451e7007a9c3d70",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1222306,
+                            "known_for_department": "Acting",
+                            "name": "Jeff Timmons",
+                            "original_name": "Jeff Timmons",
+                            "popularity": 2.072,
+                            "profile_path": "/lAMdUYV7eIynraUQRAALy534E4g.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-19",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4030644,
+                    "name": "100 Foot Rope Escape",
+                    "overview": "Old friends reunite when NFL Pro Bowl player Vernon Davis and Rock and Roll Hall of Famer Flavor Flav go head-to-head to see who is the better escape artist.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/4mOu4llD5UM4RnOxePnl3HWtDe3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63668c84238513007a78824d",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2264378,
+                            "known_for_department": "Acting",
+                            "name": "Vernon Davis",
+                            "original_name": "Vernon Davis",
+                            "popularity": 1.414,
+                            "profile_path": "/gOOcAzFLYd1RDa8WzLNFBxaBtpC.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63668c93caaca2007dd0036c",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 146253,
+                            "known_for_department": "Acting",
+                            "name": "Flavor Flav",
+                            "original_name": "Flavor Flav",
+                            "popularity": 3.79,
+                            "profile_path": "/xhnAW4sC8dkC5twDnzV6HBCd7gz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-12-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4030646,
+                    "name": "Easy Rider",
+                    "overview": "Actors Michael Ian Black and Matt Walsh learn and perform the grand illusion known as \"Easy Rider,\" conjuring a motorcycle out of thin air in a split second.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/2LMEblQlm2xuZCsgrtPEdJajEgJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63720db66bdec3007d9fb17e",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 22224,
+                            "known_for_department": "Acting",
+                            "name": "Michael Ian Black",
+                            "original_name": "Michael Ian Black",
+                            "popularity": 4.048,
+                            "profile_path": "/uoPt1nY2KN6MkEJaYEjVR9jpR0i.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63720dd56bdec3009be1f38e",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 59841,
+                            "known_for_department": "Acting",
+                            "name": "Matt Walsh",
+                            "original_name": "Matt Walsh",
+                            "popularity": 12.975,
+                            "profile_path": "/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-20",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4030648,
+                    "name": "Enigma",
+                    "overview": "In front of a packed house of more than 1,500 fans, music icons Donny and Debbie will have to wow the crowd with their grand illusion, Enigma.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/83jtbK9paJVvw7HPKzP4qguP6Gp.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63b2166666362700d7071b7e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 140567,
+                            "known_for_department": "Acting",
+                            "name": "Donny Osmond",
+                            "original_name": "Donny Osmond",
+                            "popularity": 3.121,
+                            "profile_path": "/5h4mbUYffMaLg3nRWhoQH73YsHn.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63b216755ad76b0094c86a5e",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 82497,
+                            "known_for_department": "Acting",
+                            "name": "Debbie Gibson",
+                            "original_name": "Debbie Gibson",
+                            "popularity": 2.5,
+                            "profile_path": "/e9467e7TTRDH1JwZt73V2kRW2w0.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-01-27",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4030650,
+                    "name": "Video Game to Live",
+                    "overview": "Randy Couture and Frank Mir use their physical prowess to make a video game come to life, with an epic ending that transforms magic in an unexpected twist!",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/1Qjjl27YN63PQqJSOd0ID2vICyQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63bbf2d1f8595800f71f026a",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 74748,
+                            "known_for_department": "Acting",
+                            "name": "Randy Couture",
+                            "original_name": "Randy Couture",
+                            "popularity": 7.182,
+                            "profile_path": "/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63bbf2dcfc31d30092c564f9",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 78816,
+                            "known_for_department": "Acting",
+                            "name": "Frank Mir",
+                            "original_name": "Frank Mir",
+                            "popularity": 2.308,
+                            "profile_path": "/3xTYndMX33LxwrDmdovMLW0fzH2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-02-03",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4030652,
+                    "name": "Upside Down Straight Jacket",
+                    "overview": "Olympic figure skaters, Tara Lipinski and Johnny Weir, must put their friendship aside and undertake this petrifying escape, the Upside-Down Straight Jacket that brought Houdini worldwide acclaim.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/n6xkJA2MxC81UCTwSl1uiMP83ig.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63cba083e24b93008193a63d",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 471898,
+                            "known_for_department": "Acting",
+                            "name": "Johnny Weir",
+                            "original_name": "Johnny Weir",
+                            "popularity": 3.194,
+                            "profile_path": "/kyYUpoQQmhzV8iYinK0hXmBFEWi.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63cba093d363e500de0f3fee",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 155700,
+                            "known_for_department": "Acting",
+                            "name": "Tara Lipinski",
+                            "original_name": "Tara Lipinski",
+                            "popularity": 3.406,
+                            "profile_path": "/m4FuO2vNOu5OIeQagDG5hC03ANu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-02-10",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4030653,
+                    "name": "In Two",
+                    "overview": "The grand illusion for Real Housewife Cynthia and Stargirl's Brec challenges both women to attempt the impossible – \"sawing a lady in half!\"",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 213408,
+                    "still_path": "/8GtmyDaMXZfiQBc7UrmsXyHyuAa.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63cba0c409dda4007a6c5027",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 192653,
+                            "known_for_department": "Acting",
+                            "name": "Cynthia Bailey",
+                            "original_name": "Cynthia Bailey",
+                            "popularity": 5.319,
+                            "profile_path": "/AclUjxDghc6yACD7wBt8X7cVmPO.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63cba0d59a643500ce14b8aa",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1469128,
+                            "known_for_department": "Acting",
+                            "name": "Brec Bassinger",
+                            "original_name": "Brec Bassinger",
+                            "popularity": 11.81,
+                            "profile_path": "/ggGaeipC6rPreZFPjqIeVZs5ZlX.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 314495,
+            "poster_path": "/6KwaUZQB9bFWHo7VACGt6suHvkj.jpg",
+            "season_number": 1,
+            "vote_average": 9
+        }
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "adult": false,
+    "backdrop_path": "/jr95XpDgT5rdj2ldK2BjmkfZNpT.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2023-11-29",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 239784,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2024-10-25",
+    "last_episode_to_air": {
+        "id": 5672508,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-25",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 3,
+        "show_id": 239784,
+        "still_path": "/sXTTbKRUYfJ2ddka7oH7dh6OSSt.jpg"
+    },
+    "name": "Pombo",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Pombo",
+    "overview": "",
+    "popularity": 12.4,
+    "poster_path": "/iT37zRlIJjcInCLOrcnJITcfh43.jpg",
+    "production_companies": [
+        {
+            "id": 101240,
+            "logo_path": null,
+            "name": "Kogado Studio",
+            "origin_country": ""
+        },
+        {
+            "id": 21632,
+            "logo_path": "/gEto1Q487D4JPriz2qVfkkvyqjy.png",
+            "name": "Mediaset España",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-29",
+            "episode_count": 8,
+            "id": 366229,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/n9ftJXigOopabAlHSEDZmznuudm.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        {
+            "air_date": "2024-02-23",
+            "episode_count": 4,
+            "id": 375512,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/xuVncUWhnq4eogHxRY3fPeqWfPP.jpg",
+            "season_number": 2,
+            "vote_average": 1
+        },
+        {
+            "air_date": "2024-10-25",
+            "episode_count": 4,
+            "id": 423208,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/iT37zRlIJjcInCLOrcnJITcfh43.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 3.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "65588a09d4fe0400fe07765e",
+            "air_date": "2023-11-29",
+            "episodes": [
+                {
+                    "air_date": "2023-11-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4931474,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/4LnMePelXrUgrQVULIsN7XzxSpk.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-29",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4931494,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/sdLXLA2DVEINjEWZyhLkZVgJfj4.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4931496,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/fpFp2olR8zsL4VpC6QHiA0kPnin.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-29",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4931498,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/pWJPWVjtyfLHRgaX9kA8iUr4luS.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-27",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5028691,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 7,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/tK7cvjuJvMOLzEvjp36W1jBYpmX.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-01-22",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5033955,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/b3NnNdliK1bBzRp1tht0GB5ADU0.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-01-22",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5033956,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/fGuIRFDASXeWaU3CWvvHI6vNrBH.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-01-22",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5033957,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 239784,
+                    "still_path": "/bkyh1oZFVe6edi92DixmNvIGxV8.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 366229,
+            "poster_path": "/n9ftJXigOopabAlHSEDZmznuudm.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        "2": {
+            "_id": "65b0079e6af8f8010c977a1d",
+            "air_date": "2024-02-23",
+            "episodes": [
+                {
+                    "air_date": "2024-02-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5096547,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 2,
+                    "show_id": 239784,
+                    "still_path": "/viW8TBlcYGse1zsmGkQKx3lyBlz.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5096548,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 2,
+                    "show_id": 239784,
+                    "still_path": "/ldiRk9aqKSfHfpgrAQbnSMeGKOm.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-23",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5096549,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 239784,
+                    "still_path": "/pGLy9998LPpWBqU5lj0uCWef78f.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-02-23",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5096550,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 239784,
+                    "still_path": "/cTunL6ugpmG8gbOYIU91oVd4WpS.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 375512,
+            "poster_path": "/xuVncUWhnq4eogHxRY3fPeqWfPP.jpg",
+            "season_number": 2,
+            "vote_average": 1
+        },
+        "3": {
+            "_id": "670b5cc9f58a9206aa40c634",
+            "air_date": "2024-10-25",
+            "episodes": [
+                {
+                    "air_date": "2024-10-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5672505,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 3,
+                    "show_id": 239784,
+                    "still_path": "/hOwOfwFwms7LCKZGBxw3qjMVAf3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5672506,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 40,
+                    "season_number": 3,
+                    "show_id": 239784,
+                    "still_path": "/wVvFUc7QBuMrAnnWvGi0qh4FG39.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5672507,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 3,
+                    "show_id": 239784,
+                    "still_path": "/eiaxB9whs56t2EN8OV6YNoCMaiV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5672508,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 3,
+                    "show_id": 239784,
+                    "still_path": "/sXTTbKRUYfJ2ddka7oH7dh6OSSt.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 423208,
+            "poster_path": "/iT37zRlIJjcInCLOrcnJITcfh43.jpg",
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

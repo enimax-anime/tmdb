@@ -1,0 +1,547 @@
+{
+    "adult": false,
+    "backdrop_path": "/bn0KRhFiN8w9B6vx0JrBBcF8j5r.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2023-09-27",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.fox.com/snake-oil",
+    "id": 232624,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-12-13",
+    "last_episode_to_air": {
+        "id": 4961952,
+        "name": "Darius Rucker and Adam Devine",
+        "overview": "With the help of guest celebrity advisors, Darius Rucker and Adam Devine, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil?",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2023-12-13",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 232624,
+        "still_path": "/njhMZlwdpmMeVz4cMkfpuHrP2fn.jpg"
+    },
+    "name": "Snake Oil",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 19,
+            "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+            "name": "FOX",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Snake Oil",
+    "overview": "Contestants are pitched unique products by convincing entrepreneurs – some of whom are showcasing real business ventures, while the others are “Snake Oil Salesmen,” whose products are fake.",
+    "popularity": 7.304,
+    "poster_path": "/o9Jfby5QXxXaSGNS20hxjMLGnZZ.jpg",
+    "production_companies": [
+        {
+            "id": 156646,
+            "logo_path": "/lIymzqHrqgQNfJuFabS72mpqu3R.png",
+            "name": "Fox Alternative Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-09-27",
+            "episode_count": 10,
+            "id": 352724,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2mdyQXHtJZLu5Sf3CP4Huqeo1h6.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 5.5,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "64db17d1d100b601395ef2bc",
+            "air_date": "2023-09-27",
+            "episodes": [
+                {
+                    "air_date": "2023-09-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4654070,
+                    "name": "For Goodness Snake",
+                    "overview": "Celebrities Rob Riggle and Michelle Williams serve as guest advisers.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/h8cMy0fBZWJOQ6wSDk6GUR5kuWv.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "6514ede81db65d0100ac5899",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 200624,
+                            "known_for_department": "Acting",
+                            "name": "Michelle Williams",
+                            "original_name": "Michelle Williams",
+                            "popularity": 2.652,
+                            "profile_path": "/45YhCBtcruDdaIHcMCKrliwY6wd.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "6514edf393bd6900acc567dd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71403,
+                            "known_for_department": "Acting",
+                            "name": "Rob Riggle",
+                            "original_name": "Rob Riggle",
+                            "popularity": 12.552,
+                            "profile_path": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-10-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4769840,
+                    "name": "Adam Devine and Dwight Howard",
+                    "overview": "Adam DeVine and Dwight Howard serve as celebrity guest advisers.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/jUqQDFNKB93RuwgqrhdVvbrjGEu.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651631aea199a6011b21e257",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 212604,
+                            "known_for_department": "Acting",
+                            "name": "Adam Devine",
+                            "original_name": "Adam Devine",
+                            "popularity": 9.241,
+                            "profile_path": "/8zU8zMs7cpjVzkBXis6I3wO3YeQ.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651631c7a199a600ab1838ac",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1245879,
+                            "known_for_department": "Acting",
+                            "name": "Dwight Howard",
+                            "original_name": "Dwight Howard",
+                            "popularity": 2.43,
+                            "profile_path": "/6mFrx2RfMJ29dT8gZzyedemkFzB.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-10-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4790676,
+                    "name": "Bethenny Frankel and Jay Pharoah",
+                    "overview": "With the help of guest celebrity advisors, Bethenny Frankel and Jay Pharoah, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/c9pZ9DUgC7qYc8x3v8ouhSRDjqt.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651e560407216600e2d85ad5",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 226372,
+                            "known_for_department": "Acting",
+                            "name": "Bethenny Frankel",
+                            "original_name": "Bethenny Frankel",
+                            "popularity": 1.323,
+                            "profile_path": "/j7cBeGPjCAdkMmsYNn8MrWn984y.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651e5616967cc73424692d7c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1099717,
+                            "known_for_department": "Acting",
+                            "name": "Jay Pharoah",
+                            "original_name": "Jay Pharoah",
+                            "popularity": 11.231,
+                            "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-10-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4809188,
+                    "name": "Will Arnett and Brad Paisley",
+                    "overview": "With the help of guest celebrity advisors, Will Arnett and Brad Paisley, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/v3X5QhxLpaXUMEBl6177bHpvmfx.jpg",
+                    "vote_average": 7,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "65277a13629b2c0139a84a68",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 181472,
+                            "known_for_department": "Acting",
+                            "name": "Brad Paisley",
+                            "original_name": "Brad Paisley",
+                            "popularity": 1.027,
+                            "profile_path": "/5YIMRT5nQw1noIbhNzsWbDO7FCm.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "65277a22cedac400ace50936",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21200,
+                            "known_for_department": "Acting",
+                            "name": "Will Arnett",
+                            "original_name": "Will Arnett",
+                            "popularity": 12.566,
+                            "profile_path": "/5LgcEyg0myvSljRpyIhOUUd15Pf.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-10-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4828263,
+                    "name": "Ice-T and Natasha Leggero",
+                    "overview": "With the help of guest celebrity advisors, Natasha Leggero and Ice-T, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/fmxnGENMIgtnfQlBmMuN14Z5JJd.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653124a4aede59014c38499a",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214835,
+                            "known_for_department": "Acting",
+                            "name": "Natasha Leggero",
+                            "original_name": "Natasha Leggero",
+                            "popularity": 16.974,
+                            "profile_path": "/v8aWI7x8rCHm5BqidbLtMXfz55C.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653124b31108a8010be8a80e",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21411,
+                            "known_for_department": "Acting",
+                            "name": "Ice-T",
+                            "original_name": "Ice-T",
+                            "popularity": 11.264,
+                            "profile_path": "/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-11-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4865501,
+                    "name": "Kandi Burruss and JB Smoove",
+                    "overview": "With the help of guest celebrity advisors, Kandi Burruss and JB Smoove, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/4S0GzJqrOX6jqadh5P438vYV5d7.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653c6e44bc2cb300aca31934",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 65920,
+                            "known_for_department": "Acting",
+                            "name": "JB Smoove",
+                            "original_name": "JB Smoove",
+                            "popularity": 4.835,
+                            "profile_path": "/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653c6e4ecc9683010b3e4c9b",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1248316,
+                            "known_for_department": "Acting",
+                            "name": "Kandi Burruss",
+                            "original_name": "Kandi Burruss",
+                            "popularity": 3.294,
+                            "profile_path": "/hgIb5jJJC2vSGVVlYaIVycyxSNR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-11-15",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4908107,
+                    "name": "Return of Bethenny and Jay",
+                    "overview": "With the help of guest celebrity advisors, Bethenny Frankel and Jay Pharoah, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/95MYWhFTBLwBIpkIjxxfqjw6bOK.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651e560407216600e2d85ad5",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 226372,
+                            "known_for_department": "Acting",
+                            "name": "Bethenny Frankel",
+                            "original_name": "Bethenny Frankel",
+                            "popularity": 1.323,
+                            "profile_path": "/j7cBeGPjCAdkMmsYNn8MrWn984y.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651e5616967cc73424692d7c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1099717,
+                            "known_for_department": "Acting",
+                            "name": "Jay Pharoah",
+                            "original_name": "Jay Pharoah",
+                            "popularity": 11.231,
+                            "profile_path": "/qpCc7SshxYXcgZIjhv8xKWuzEp6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-11-29",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4961949,
+                    "name": "Return of Natasha and Ice-T",
+                    "overview": "With the help of guest celebrity advisors, Return of Natasha and Ice-T, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/1HqHhWyGWLxP7ez6hG7CetBWuCa.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653124a4aede59014c38499a",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1214835,
+                            "known_for_department": "Acting",
+                            "name": "Natasha Leggero",
+                            "original_name": "Natasha Leggero",
+                            "popularity": 16.974,
+                            "profile_path": "/v8aWI7x8rCHm5BqidbLtMXfz55C.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "653124b31108a8010be8a80e",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 21411,
+                            "known_for_department": "Acting",
+                            "name": "Ice-T",
+                            "original_name": "Ice-T",
+                            "popularity": 11.264,
+                            "profile_path": "/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-12-06",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4961951,
+                    "name": "Rob Riggle and Christie Brinkley",
+                    "overview": "With the help of guest celebrity advisors, Christie Brinkley and Rob Riggle, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/cS0zz5spku1XrqEoT31I5YTKuSl.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "6514edf393bd6900acc567dd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71403,
+                            "known_for_department": "Acting",
+                            "name": "Rob Riggle",
+                            "original_name": "Rob Riggle",
+                            "popularity": 12.552,
+                            "profile_path": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "65688bb812777809dca7435e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 942808,
+                            "known_for_department": "Acting",
+                            "name": "Christie Brinkley",
+                            "original_name": "Christie Brinkley",
+                            "popularity": 4.904,
+                            "profile_path": "/xwqx23ftStrkB3gA89TCumnz2ox.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2023-12-13",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 4961952,
+                    "name": "Darius Rucker and Adam Devine",
+                    "overview": "With the help of guest celebrity advisors, Darius Rucker and Adam Devine, contestants must determine which products are real and which are a sham to advance to the \"Snake Pit\", for a chance to win life-changing money. Can they spot the real product or be duped by snake oil?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 232624,
+                    "still_path": "/njhMZlwdpmMeVz4cMkfpuHrP2fn.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "651631aea199a6011b21e257",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 212604,
+                            "known_for_department": "Acting",
+                            "name": "Adam Devine",
+                            "original_name": "Adam Devine",
+                            "popularity": 9.241,
+                            "profile_path": "/8zU8zMs7cpjVzkBXis6I3wO3YeQ.jpg"
+                        },
+                        {
+                            "character": "Self - Celebrity Guest Advisor",
+                            "credit_id": "65688bd9a44d0900cb04b6f4",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 160044,
+                            "known_for_department": "Acting",
+                            "name": "Darius Rucker",
+                            "original_name": "Darius Rucker",
+                            "popularity": 1.337,
+                            "profile_path": "/bs2fUV4fbocI1b0hG1CrAzxPxGg.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 352724,
+            "poster_path": "/2mdyQXHtJZLu5Sf3CP4Huqeo1h6.jpg",
+            "season_number": 1,
+            "vote_average": 7.3
+        }
+    }
+}

@@ -1,0 +1,589 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 1186218,
+            "credit_id": "5fce2f8fa67254004078c97e",
+            "name": "Michael Ballif",
+            "original_name": "Michael Ballif",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2015-08-27",
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://witchingseasonfilms.com",
+    "id": 79499,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-05-13",
+    "last_episode_to_air": {
+        "id": 1487959,
+        "name": "Is That You?",
+        "overview": "Confined to her bedroom on Halloween night, Whitney notices an eerie figure lurking outside her home.",
+        "vote_average": 10,
+        "vote_count": 1,
+        "air_date": "2017-05-13",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 11,
+        "season_number": 1,
+        "show_id": 79499,
+        "still_path": null
+    },
+    "name": "The Witching Season",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Witching Season",
+    "overview": "Fueled by nostalgia, this anthology of short horror films tells original tales of terror set during the Halloween season.",
+    "popularity": 1.743,
+    "poster_path": "/rZ7lWlFPc0KpobY1P4WI66DM3XW.jpg",
+    "production_companies": [
+        {
+            "id": 141317,
+            "logo_path": null,
+            "name": "Witching Season Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2015-08-27",
+            "episode_count": 5,
+            "id": 103768,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 9,
+    "season_data": {
+        "1": {
+            "_id": "5af9f879925141417500240b",
+            "air_date": "2015-08-27",
+            "episodes": [
+                {
+                    "air_date": "2015-08-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1487955,
+                    "name": "Killer on the Loose",
+                    "overview": "An escaped killer lurks in the shadows of an isolated home on Halloween night",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 79499,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "627e4d3120e6a534880bf6b4",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "627e4d56873f0000a9e15671",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "627e4d78c92c5d009d3c6600",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "627e5095dcf8750065f1e73f",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547646,
+                            "known_for_department": "Writing",
+                            "name": "Stephen Ballif",
+                            "original_name": "Stephen Ballif",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "627e50a86d1bb237da928e47",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3300625,
+                            "known_for_department": "Acting",
+                            "name": "Allen Bradford",
+                            "original_name": "Allen Bradford",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "627e50c2006eee342487bff6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "627e50db873f000050f34166",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547648,
+                            "known_for_department": "Production",
+                            "name": "Parker Marcroft",
+                            "original_name": "Parker Marcroft",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Associate Producer",
+                            "department": "Production",
+                            "credit_id": "627e50f6c92c5d009d3c70b3",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2743446,
+                            "known_for_department": "Acting",
+                            "name": "James Morris",
+                            "original_name": "James Morris",
+                            "popularity": 0.778,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "627e51056d1bb237da928f7d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1375945,
+                            "known_for_department": "Sound",
+                            "name": "Randin Graves",
+                            "original_name": "Randin Graves",
+                            "popularity": 0.026,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "627e5133fd140b0053b0c109",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Production Design",
+                            "department": "Art",
+                            "credit_id": "627e5158fd140b0069d7dcd9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3300625,
+                            "known_for_department": "Acting",
+                            "name": "Allen Bradford",
+                            "original_name": "Allen Bradford",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Girl",
+                            "credit_id": "627e5174dcf875004f960c1f",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1699519,
+                            "known_for_department": "Acting",
+                            "name": "Hailey Nebeker",
+                            "original_name": "Hailey Nebeker",
+                            "popularity": 0.61,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Masked Man",
+                            "credit_id": "627e519d6d1bb237dbc7b02f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2743446,
+                            "known_for_department": "Acting",
+                            "name": "James Morris",
+                            "original_name": "James Morris",
+                            "popularity": 0.778,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Wife",
+                            "credit_id": "627e51b820e6a53487630a77",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1062053,
+                            "known_for_department": "Acting",
+                            "name": "Autumn Russell",
+                            "original_name": "Autumn Russell",
+                            "popularity": 1.428,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Reporter",
+                            "credit_id": "627e51c7caa50813cd62bee0",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2015-10-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1487956,
+                    "name": "Princess",
+                    "overview": "Kendra and her daughter Jamie move to a new home in the quiet suburbs in search of a new beginning. But something evil lurks in the basement and it isn't looking for roommates.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 79499,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "627e4d19006eee342487b40d",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2743446,
+                            "known_for_department": "Acting",
+                            "name": "James Morris",
+                            "original_name": "James Morris",
+                            "popularity": 0.778,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Creator",
+                            "department": "Crew",
+                            "credit_id": "627e4d435aadc41362e71d28",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Story",
+                            "department": "Writing",
+                            "credit_id": "627e4d56873f0000a9e15671",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "627e50c2006eee342487bff6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1186218,
+                            "known_for_department": "Writing",
+                            "name": "Michael Ballif",
+                            "original_name": "Michael Ballif",
+                            "popularity": 0.426,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "627e50db873f000050f34166",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547648,
+                            "known_for_department": "Production",
+                            "name": "Parker Marcroft",
+                            "original_name": "Parker Marcroft",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "627e51056d1bb237da928f7d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1375945,
+                            "known_for_department": "Sound",
+                            "name": "Randin Graves",
+                            "original_name": "Randin Graves",
+                            "popularity": 0.026,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Producer",
+                            "department": "Production",
+                            "credit_id": "627e5892873f0000a9e1799a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3300624,
+                            "known_for_department": "Acting",
+                            "name": "Jordan Swenson",
+                            "original_name": "Jordan Swenson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Jamie",
+                            "credit_id": "627e5287873f000066c21878",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2743581,
+                            "known_for_department": "Acting",
+                            "name": "Emily Broschinsky",
+                            "original_name": "Emily Broschinsky",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kendra",
+                            "credit_id": "627e52a5c92c5d0068aa176e",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547654,
+                            "known_for_department": "Acting",
+                            "name": "Anita Rosenbaum",
+                            "original_name": "Anita Rosenbaum",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Chef Tony",
+                            "credit_id": "627e52b8dcf875004f960f3d",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2743446,
+                            "known_for_department": "Acting",
+                            "name": "James Morris",
+                            "original_name": "James Morris",
+                            "popularity": 0.778,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Chef's Assistant",
+                            "credit_id": "627e52cd5aadc41363ad04e3",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3300624,
+                            "known_for_department": "Acting",
+                            "name": "Jordan Swenson",
+                            "original_name": "Jordan Swenson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-04-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1487957,
+                    "name": "Not Alone",
+                    "overview": "Kyle wakes from a horrific nightmare, struggling to bridge the gap between his dreams and reality in the darkness of his room. But then, he notices something... an ominous figure standing silent in the darkness. He is not alone.",
+                    "production_code": "",
+                    "runtime": 9,
+                    "season_number": 1,
+                    "show_id": 79499,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Kyle",
+                            "credit_id": "627e604fcaa50813ce86ddb1",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2747638,
+                            "known_for_department": "Acting",
+                            "name": "Sean D. Hunter",
+                            "original_name": "Sean D. Hunter",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Air Force General (Voice)",
+                            "credit_id": "627e63bbc92c5d009d3ca964",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547788,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Smith Jones",
+                            "original_name": "Nathan Smith Jones",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "George Morris (Voice)",
+                            "credit_id": "627e63d1dcf875004f964315",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2743446,
+                            "known_for_department": "Acting",
+                            "name": "James Morris",
+                            "original_name": "James Morris",
+                            "popularity": 0.778,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Alien",
+                            "credit_id": "627e6405006eee342487fab3",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3547791,
+                            "known_for_department": "Acting",
+                            "name": "Samuel Morris",
+                            "original_name": "Samuel Morris",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2016-11-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1487958,
+                    "name": "They Live Inside Us",
+                    "overview": "A writer spends the night in a notoriously haunted house in hope of finding inspiration for his latest project. He soon realizes that he is living in his own horror story.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 79499,
+                    "still_path": null,
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-05-13",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 1487959,
+                    "name": "Is That You?",
+                    "overview": "Confined to her bedroom on Halloween night, Whitney notices an eerie figure lurking outside her home.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 79499,
+                    "still_path": null,
+                    "vote_average": 10,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 103768,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    }
+}

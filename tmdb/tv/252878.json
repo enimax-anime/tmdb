@@ -1,0 +1,541 @@
+{
+    "adult": false,
+    "backdrop_path": "/aTNq2DXYyuLcRMWXV2GPGlKFKGE.jpg",
+    "created_by": [
+        {
+            "id": 1031603,
+            "credit_id": "6633d04d83ee670124407acf",
+            "name": "Jon Karthaus",
+            "original_name": "Jon Karthaus",
+            "gender": 2,
+            "profile_path": "/tMpj0FUZJvODofDNDl0n4sMerHK.jpg"
+        }
+    ],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2024-05-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81674126",
+    "id": 252878,
+    "in_production": true,
+    "languages": [
+        "nl"
+    ],
+    "last_air_date": "2024-05-02",
+    "last_episode_to_air": {
+        "id": 5307782,
+        "name": "Episode 8",
+        "overview": "The crew prepares for a memorable night at Costa, but Duuk feels like something is missing.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-05-02",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 28,
+        "season_number": 1,
+        "show_id": 252878,
+        "still_path": null
+    },
+    "name": "Costa!! The Series",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "Costa!! de serie",
+    "overview": "When the owner of the Costa. succumbs to the club's success and has to temporarily go into a quiet retreat to recover, it is up to his staff to keep the club running.",
+    "popularity": 6.735,
+    "poster_path": "/8iUsFvQC4AK2DXnmzYQZ6L0UEWT.jpg",
+    "production_companies": [
+        {
+            "id": 5573,
+            "logo_path": "/5f6PEiCcH3n9RWgVw0gGvvECt13.png",
+            "name": "NL Film en TV",
+            "origin_country": "NL"
+        },
+        {
+            "id": 144980,
+            "logo_path": null,
+            "name": "Interstellar Pictures",
+            "origin_country": "NL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-05-02",
+            "episode_count": 8,
+            "id": 390582,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/xtMEV3pOkUw1sVBy1Or1RKOaV0i.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 9,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "662d4774d96c3c01289846d9",
+            "air_date": "2024-05-02",
+            "episodes": [
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5307750,
+                    "name": "Episode 1",
+                    "overview": "Mila wants to be a DJ. Duuk is stranded in Spain. When they both end up at Club Costa, they're in for the wildest summer of their lives.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Maria Dos Santos",
+                            "credit_id": "6633d0b6c3926601266db5e3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1770569,
+                            "known_for_department": "Acting",
+                            "name": "Rafaela Rivas",
+                            "original_name": "Rafaela Rivas",
+                            "popularity": 0.008,
+                            "profile_path": "/pmsiqxySpt7LwBREcr6J8r1Wqlc.jpg"
+                        },
+                        {
+                            "character": "Costa Guest - Ricardo",
+                            "credit_id": "6633d0dc470ead012a111c03",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2065319,
+                            "known_for_department": "Acting",
+                            "name": "Justin van Dijk",
+                            "original_name": "Justin van Dijk",
+                            "popularity": 0.001,
+                            "profile_path": "/uBwPd0ALH5qcRFtcgNWP1ClhSEK.jpg"
+                        },
+                        {
+                            "character": "Beach babe",
+                            "credit_id": "6633d0f26611b4012a6690e2",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3841596,
+                            "known_for_department": "Costume & Make-Up",
+                            "name": "Maud Zoutenbier",
+                            "original_name": "Maud Zoutenbier",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Bus driver",
+                            "credit_id": "6633d104813cb60121871386",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1475704,
+                            "known_for_department": "Sound",
+                            "name": "Timo Hegtermans",
+                            "original_name": "Timo Hegtermans",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Applicant girl",
+                            "credit_id": "6633d118c0442901298e6a64",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3554772,
+                            "known_for_department": "Sound",
+                            "name": "Anna-Belle Touré",
+                            "original_name": "Anna-Belle Touré",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5307772,
+                    "name": "Episode 2",
+                    "overview": "Club owner Thomas reluctantly delegates management duties to the crew. During a night out, they discover that not everyone is a fan of Costa.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Surf Dude",
+                            "credit_id": "6633d1c5fe6c1801232f6fe6",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3680084,
+                            "known_for_department": "Directing",
+                            "name": "Tony van der Veer",
+                            "original_name": "Tony van der Veer",
+                            "popularity": 0.001,
+                            "profile_path": "/vklbMF6Zv8e4gTUDBGDDSEmYkks.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5307773,
+                    "name": "Episode 3",
+                    "overview": "Duuk catches someone's eye while Mila makes a romantic connection of her own. The crew's plan to promote the club leads to a powerful enemy.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Jorn",
+                            "credit_id": "6633d227ad59b501226d55a5",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4689775,
+                            "known_for_department": "Acting",
+                            "name": "Rens Mijnhardt",
+                            "original_name": "Rens Mijnhardt",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5307776,
+                    "name": "Episode 4",
+                    "overview": "The crew pulls together to make the full moon party a success, but Mike's squabble with their irate neighbor jeopardizes the festivities.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "DJ Shy",
+                            "credit_id": "6633d254ad59b501256d580a",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3245479,
+                            "known_for_department": "Acting",
+                            "name": "Fjodor Jozefzoon",
+                            "original_name": "Fjodor Jozefzoon",
+                            "popularity": 0.017,
+                            "profile_path": "/wdIYIkJWojbm82dkPckxTIMLuBz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5307777,
+                    "name": "Episode 5",
+                    "overview": "The future of Costa hangs in the balance as the crew picks up the pieces from the beach party. Duuk and Mila both run into romantic complications.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Maria Dos Santos",
+                            "credit_id": "6633d0b6c3926601266db5e3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1770569,
+                            "known_for_department": "Acting",
+                            "name": "Rafaela Rivas",
+                            "original_name": "Rafaela Rivas",
+                            "popularity": 0.008,
+                            "profile_path": "/pmsiqxySpt7LwBREcr6J8r1Wqlc.jpg"
+                        },
+                        {
+                            "character": "Hugo",
+                            "credit_id": "6633d27ec3926601266db631",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 45748,
+                            "known_for_department": "Acting",
+                            "name": "Mark Rietman",
+                            "original_name": "Mark Rietman",
+                            "popularity": 0.739,
+                            "profile_path": "/xxVqR3iww6ZUfViSje6VUkYuL2T.jpg"
+                        },
+                        {
+                            "character": "Kimberley",
+                            "credit_id": "6633d2c0470ead0125112040",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4689777,
+                            "known_for_department": "Acting",
+                            "name": "Roos Bottinga",
+                            "original_name": "Roos Bottinga",
+                            "popularity": 0.001,
+                            "profile_path": "/rxxBkRZNJfOBlcKdZGzbgCsofUE.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5307779,
+                    "name": "Episode 6",
+                    "overview": "Mike does his worst to save Costa while Mila considers a rival offer. After putting Duuk in his place, Esmee reconnects with someone from her past.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Hugo",
+                            "credit_id": "6633d27ec3926601266db631",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 45748,
+                            "known_for_department": "Acting",
+                            "name": "Mark Rietman",
+                            "original_name": "Mark Rietman",
+                            "popularity": 0.739,
+                            "profile_path": "/xxVqR3iww6ZUfViSje6VUkYuL2T.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5307780,
+                    "name": "Episode 7",
+                    "overview": "Thomas returns to find Costa in disrepair. When an elaborate scheme to reopen the club goes awry, sacrifices must be made.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-02",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 5307782,
+                    "name": "Episode 8",
+                    "overview": "The crew prepares for a memorable night at Costa, but Duuk feels like something is missing.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 252878,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Hector Dos Santos",
+                            "credit_id": "6633d09b358da7012d54bc52",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1077953,
+                            "known_for_department": "Acting",
+                            "name": "Milo Taboada",
+                            "original_name": "Milo Taboada",
+                            "popularity": 1.676,
+                            "profile_path": "/a4evMG06B5CfwzQlWOEgg1G5BzB.jpg"
+                        },
+                        {
+                            "character": "Maria Dos Santos",
+                            "credit_id": "6633d0b6c3926601266db5e3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1770569,
+                            "known_for_department": "Acting",
+                            "name": "Rafaela Rivas",
+                            "original_name": "Rafaela Rivas",
+                            "popularity": 0.008,
+                            "profile_path": "/pmsiqxySpt7LwBREcr6J8r1Wqlc.jpg"
+                        },
+                        {
+                            "character": "Hugo",
+                            "credit_id": "6633d27ec3926601266db631",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 45748,
+                            "known_for_department": "Acting",
+                            "name": "Mark Rietman",
+                            "original_name": "Mark Rietman",
+                            "popularity": 0.739,
+                            "profile_path": "/xxVqR3iww6ZUfViSje6VUkYuL2T.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 390582,
+            "poster_path": "/xtMEV3pOkUw1sVBy1Or1RKOaV0i.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

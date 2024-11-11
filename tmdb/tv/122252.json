@@ -1,0 +1,108 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-09-30",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 122252,
+    "in_production": true,
+    "languages": [
+        "ms"
+    ],
+    "last_air_date": "2019-09-30",
+    "last_episode_to_air": {
+        "id": 2844113,
+        "name": "American Icons",
+        "overview": "Know what this is about?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-09-30",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 122252,
+        "still_path": null
+    },
+    "name": "Wildlife Heroes",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Wildlife Heroes",
+    "overview": "Wildlife Heroes celebrates inspirational men and women from all walks of life who have dedicated their lives to the protection and conservation of wildlife.\n\nEach amazing individual has been chosen for their dedication, courage and support for wildlife conservation. Many are well-known, but others are unsung heroes who are well overdue the public recognition they deserve for their tireless work.",
+    "popularity": 0.011,
+    "poster_path": "/7xPe2RdA4kjyYxgtqQlWySr3qAn.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "MY",
+            "name": "Malaysia"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-09-30",
+            "episode_count": 1,
+            "id": 188812,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Malay",
+            "iso_639_1": "ms",
+            "name": "Bahasa melayu"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6066775b12c6040040bf1c6e",
+            "air_date": "2019-09-30",
+            "episodes": [
+                {
+                    "air_date": "2019-09-30",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2844113,
+                    "name": "American Icons",
+                    "overview": "Know what this is about?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 122252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 188812,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

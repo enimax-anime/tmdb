@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": "/gQDJS198S6Dgazkhf1f1IpemS29.jpg",
+    "created_by": [
+        {
+            "id": 2957758,
+            "credit_id": "64b788ba109cd000e4e9787f",
+            "name": "Steffen Sailer",
+            "original_name": "Steffen Sailer",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        53
+    ],
+    "first_air_date": "2020-01-01",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 197867,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-01-08",
+    "last_episode_to_air": {
+        "id": 3670359,
+        "name": "Polar Night",
+        "overview": "In winter, cold and darkness dominate the Arctic Circle, but nature copes astonishingly well. Discover how plants and animals survive these brutal conditions.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-01-08",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 197867,
+        "still_path": "/qcKD3JPe1TgjZncFSDkarmtM00Z.jpg"
+    },
+    "name": "Land of the Far North",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Land of the Far North",
+    "overview": "Exploring the polar day and night in northern Scandinavia while shedding light on the various challenges animals and plants face for survival.",
+    "popularity": 0.677,
+    "poster_path": "/AsMBtxz7wqcOmZwsJ97f0G6LwAY.jpg",
+    "production_companies": [
+        {
+            "id": 18404,
+            "logo_path": null,
+            "name": "Marco Polo Film AG",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-01",
+            "episode_count": 2,
+            "id": 288087,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "625c76603dd126009cb7fc64",
+            "air_date": "2020-01-01",
+            "episodes": [
+                {
+                    "air_date": "2020-01-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3670358,
+                    "name": "Polar Day",
+                    "overview": "North of the Arctic Circle, the sun hardly sets in summer. Food is abundant, but animals and plants alike face great challenges such as sleep deprivation, pests and predators.",
+                    "production_code": "",
+                    "runtime": 53,
+                    "season_number": 1,
+                    "show_id": 197867,
+                    "still_path": "/l0yNl9oQ7wTZUl7idHUIdaEf0Jg.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-08",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3670359,
+                    "name": "Polar Night",
+                    "overview": "In winter, cold and darkness dominate the Arctic Circle, but nature copes astonishingly well. Discover how plants and animals survive these brutal conditions.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 197867,
+                    "still_path": "/qcKD3JPe1TgjZncFSDkarmtM00Z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 288087,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

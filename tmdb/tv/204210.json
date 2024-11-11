@@ -1,0 +1,158 @@
+{
+    "adult": false,
+    "backdrop_path": "/mkaMpPRyOXNufWMWozZ3IaSjava.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-07-17",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 204210,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-07-17",
+    "last_episode_to_air": {
+        "id": 3789329,
+        "name": "In The Extreme",
+        "overview": "Sharks have adapted to thrive in extreme places, is there anywhere they can't survive?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-07-17",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 204210,
+        "still_path": "/7n44YEX2zHoeCad8ifKEaHLM32q.jpg"
+    },
+    "name": "Planet Shark",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 43,
+            "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Planet Shark",
+    "overview": "For the first time, scientists are unlocking the secrets of sharks. Featuring newly discovered species, locations and behavior, The series combines stunning 4K archive footage with original content from the world’s leading shark scientists to take a timely and in-depth look at the greatest predator on Earth.",
+    "popularity": 0.54,
+    "poster_path": "/hbucBHFgrjbrLtViRZKR1iCzkH9.jpg",
+    "production_companies": [
+        {
+            "id": 7521,
+            "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+            "name": "National Geographic",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-17",
+            "episode_count": 3,
+            "id": 297640,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "62ab480beb14fa09de137856",
+            "air_date": "2022-07-17",
+            "episodes": [
+                {
+                    "air_date": "2022-07-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3789322,
+                    "name": "Ultimate Predator",
+                    "overview": "Scientists from around the world reveal what makes sharks the ocean's ultimate predators.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 204210,
+                    "still_path": "/yIHNfzCdtejtiOCiZ0JDQaoTf14.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3789328,
+                    "name": "Ocean Voyagers",
+                    "overview": "Sharks are the ocean's most resilient hunters; discovering just how far they are willing to go.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 204210,
+                    "still_path": "/eYVa6MI8XcToNJqIyUzHBFDrIT2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-17",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3789329,
+                    "name": "In The Extreme",
+                    "overview": "Sharks have adapted to thrive in extreme places, is there anywhere they can't survive?",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 204210,
+                    "still_path": "/7n44YEX2zHoeCad8ifKEaHLM32q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297640,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

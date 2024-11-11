@@ -1,0 +1,204 @@
+{
+    "adult": false,
+    "backdrop_path": "/gm4EqsubwqE3fLkCbHE02YglVxE.jpg",
+    "created_by": [
+        {
+            "id": 1816117,
+            "credit_id": "633deca8a313b80081233df8",
+            "name": "James Holland",
+            "original_name": "James Holland",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-11-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/nazi-war-machines-secrets-uncovered",
+    "id": 96669,
+    "in_production": true,
+    "languages": [
+        "en",
+        "fr",
+        "cs"
+    ],
+    "last_air_date": "2019-12-16",
+    "last_episode_to_air": {
+        "id": 2023000,
+        "name": "The Guns",
+        "overview": "James explores just how effective German weaponry was in battle conditions and uncovers the secret flaws the Nazis tried to hide",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-12-16",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 96669,
+        "still_path": "/v8lArdXHLJJw4SLxS5o4Va8a1zV.jpg"
+    },
+    "name": "Nazi War Machines: Secrets Uncovered",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 298,
+            "logo_path": "/sO1KfGZzrqIiWohoHgzbvvHEAkr.png",
+            "name": "More4",
+            "origin_country": "GB"
+        },
+        {
+            "id": 4106,
+            "logo_path": "/69WC8uq4u10eg7pAtfo0B3CRjQP.png",
+            "name": "Histoire TV",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Nazi War Machines: Secrets Uncovered",
+    "overview": "Historian James Holland goes inside the Nazi war machine, exploring the extraordinary weapons produced under the Third Reich, in a series that includes rare archive material",
+    "popularity": 2.111,
+    "poster_path": "/uIEYw2FgAUFEiYKPzsVmHv3cvTU.jpg",
+    "production_companies": [
+        {
+            "id": 67667,
+            "logo_path": "/d5TsW4Aj8NmQw2n6RaKKWTIEMBI.png",
+            "name": "Tern TV",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-11-25",
+            "episode_count": 4,
+            "id": 138663,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uIEYw2FgAUFEiYKPzsVmHv3cvTU.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5dfc2923d1a893001483e760",
+            "air_date": "2019-11-25",
+            "episodes": [
+                {
+                    "air_date": "2019-11-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2022997,
+                    "name": "Luftwaffe",
+                    "overview": "At the outbreak of the war, the Nazis had the finest air force in the world. Just five years later it was a broken fleet. Why?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 96669,
+                    "still_path": "/o8XDt5xbHzLO0deNYvyQRSFB11g.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2022998,
+                    "name": "The Panzers",
+                    "overview": "James Holland uncovers the truth behind Germany's Panzer tank divisions, from the mini Panzer II to the enormous Tiger tank. He also goes for a ride in Hitler's luxury Mercedes.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 96669,
+                    "still_path": "/18Hfgo1Oz58MDNUpN9iv91R9Lbk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-09",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2022999,
+                    "name": "The U-Boats",
+                    "overview": "James goes to the depths with Germany's Wolf Packs, the U-boats, the force that most threatened wartime Britain's survival - from suicidal one-man torpedoes to the potentially game-changing Type XXI",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 96669,
+                    "still_path": "/uj0aM83GfjB5D545LU4txiCqXPw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-12-16",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 2023000,
+                    "name": "The Guns",
+                    "overview": "James explores just how effective German weaponry was in battle conditions and uncovers the secret flaws the Nazis tried to hide",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 96669,
+                    "still_path": "/v8lArdXHLJJw4SLxS5o4Va8a1zV.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 138663,
+            "poster_path": "/uIEYw2FgAUFEiYKPzsVmHv3cvTU.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

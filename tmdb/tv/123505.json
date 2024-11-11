@@ -1,0 +1,724 @@
+{
+    "adult": false,
+    "backdrop_path": "/6r5ioLgouMiVVEoAD1h56z9oC7u.jpg",
+    "created_by": [
+        {
+            "id": 319549,
+            "credit_id": "607e13d401b1ca0041e6a3fe",
+            "name": "Michael Bennett",
+            "original_name": "Michael Bennett",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 2532284,
+            "credit_id": "607a99c1ab684900428281de",
+            "name": "Harriet Crampton",
+            "original_name": "Harriet Crampton",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2021-04-19",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.tvnz.co.nz/shows/vegas",
+    "id": 123505,
+    "in_production": true,
+    "languages": [
+        "en",
+        "mi"
+    ],
+    "last_air_date": "2021-05-24",
+    "last_episode_to_air": {
+        "id": 2950321,
+        "name": "The Normal Life",
+        "overview": "Hina lives through a terrible trial while Kingi risks everything on a throw of the dice.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-05-24",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 123505,
+        "still_path": "/oY5tT9WYJsMtTVrZmm5WEyIJa9Q.jpg"
+    },
+    "name": "Vegas",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 123,
+            "logo_path": "/wGMxGK0IlrDER4GqWKqr3wzOj1v.png",
+            "name": "TVNZ 2",
+            "origin_country": "NZ"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NZ"
+    ],
+    "original_language": "en",
+    "original_name": "Vegas",
+    "overview": "A business owner is thrust into New Zealand's dark underbelly after a million-dollar drug deal goes wrong on a blood-stained night, setting off a chain of events between dangerous factions.",
+    "popularity": 1.943,
+    "poster_path": "/rcf0lknfnbPD6aT6iQeSmIE5szu.jpg",
+    "production_companies": [
+        {
+            "id": 295,
+            "logo_path": "/24lAsHZaGi4GzNrWzlkK60HLMBx.png",
+            "name": "NZ on Air",
+            "origin_country": "NZ"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-04-19",
+            "episode_count": 6,
+            "id": 190929,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rcf0lknfnbPD6aT6iQeSmIE5szu.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Maori",
+            "iso_639_1": "mi",
+            "name": ""
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Never bow your head.",
+    "type": "Scripted",
+    "vote_average": 4.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "607a9984fbe36f0029aae85c",
+            "air_date": "2021-04-19",
+            "episodes": [
+                {
+                    "air_date": "2021-04-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2880131,
+                    "name": "Feed the Worms",
+                    "overview": "On a stormy night, a young leader makes a terrible decision which throws him into the path of a beautiful pub owner. Meanwhile, a desperate boy commits a crime which will change his life forever.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/wKZ2Qm52Kapqqf4S51iap2t6cLg.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "607e130ce6d3cc002939cd34",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1492394,
+                            "known_for_department": "Directing",
+                            "name": "Kiel McNaughton",
+                            "original_name": "Kiel McNaughton",
+                            "popularity": 0.543,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Cinematography",
+                            "department": "Crew",
+                            "credit_id": "607e7c07f8595800414e03ca",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 144897,
+                            "known_for_department": "Lighting",
+                            "name": "Grant McKinnon",
+                            "original_name": "Grant McKinnon",
+                            "popularity": 0.284,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Line Producer",
+                            "department": "Production",
+                            "credit_id": "607e7c72aa659e0078e08bbd",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2095497,
+                            "known_for_department": "Production",
+                            "name": "Jarl Devine",
+                            "original_name": "Jarl Devine",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Editor",
+                            "department": "Editing",
+                            "credit_id": "607e7cad1b1f3c006eb3fb3a",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3060230,
+                            "known_for_department": "Editing",
+                            "name": "Carl Turner",
+                            "original_name": "Carl Turner",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "607e7ce866f2d2002921bc07",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1497524,
+                            "known_for_department": "Sound",
+                            "name": "Mike J. Newport",
+                            "original_name": "Mike J. Newport",
+                            "popularity": 0.004,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "607e7d06031deb0029ac9aae",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1375901,
+                            "known_for_department": "Sound",
+                            "name": "Mahuia Bridgman-Cooper",
+                            "original_name": "Mahuia Bridgman-Cooper",
+                            "popularity": 0.214,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Huang Duc 'Chuck' Minh",
+                            "credit_id": "607e770c031deb00599d9321",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2502664,
+                            "known_for_department": "Acting",
+                            "name": "Gary Young",
+                            "original_name": "Gary Young",
+                            "popularity": 0.741,
+                            "profile_path": "/heRD8lOrn4JnrQagYHd0bjpGa9h.jpg"
+                        },
+                        {
+                            "character": "George Smiley",
+                            "credit_id": "607e7749a1d3320029fd5df3",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 41784,
+                            "known_for_department": "Acting",
+                            "name": "Nathaniel Lees",
+                            "original_name": "Nathaniel Lees",
+                            "popularity": 2.924,
+                            "profile_path": "/l35ATgC4SbzyKGeAZBAQSyYs18P.jpg"
+                        },
+                        {
+                            "character": "Big Smiley",
+                            "credit_id": "607e7775aa659e0078e088ec",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2107047,
+                            "known_for_department": "Directing",
+                            "name": "Vela Manusaute",
+                            "original_name": "Vela Manusaute",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Waka Phillips",
+                            "credit_id": "607e7795f6787a00786144be",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1983556,
+                            "known_for_department": "Acting",
+                            "name": "Wayne Hapi",
+                            "original_name": "Wayne Hapi",
+                            "popularity": 1.425,
+                            "profile_path": "/5vSfOrYLGNvvZGcdfeI3omyPKn3.jpg"
+                        },
+                        {
+                            "character": "Ginny Poulan",
+                            "credit_id": "607e77b8713ed40058db4884",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 205407,
+                            "known_for_department": "Acting",
+                            "name": "Aidee Walker",
+                            "original_name": "Aidee Walker",
+                            "popularity": 1.09,
+                            "profile_path": "/aZXzj5qcAqDCtuDjWpxULeX1T3a.jpg"
+                        },
+                        {
+                            "character": "Annie Poulan",
+                            "credit_id": "607fac9b7e3483006fa3cb94",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 186450,
+                            "known_for_department": "Acting",
+                            "name": "Miriama Smith",
+                            "original_name": "Miriama Smith",
+                            "popularity": 3.278,
+                            "profile_path": "/pBSzslMqid2v6FKvws5KNOaNOoU.jpg"
+                        },
+                        {
+                            "character": "Felicity Carr-Fry",
+                            "credit_id": "607facc5160e73007718a862",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3061412,
+                            "known_for_department": "Acting",
+                            "name": "Abi Turner",
+                            "original_name": "Abi Turner",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hohepa 'Horse' Phillips",
+                            "credit_id": "607face5726fb10059b3f170",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3061413,
+                            "known_for_department": "Acting",
+                            "name": "Maateiwarangi Heta Morris",
+                            "original_name": "Maateiwarangi Heta Morris",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Tom Tom Tamihana",
+                            "credit_id": "607fad14f6787a0029a09010",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3061414,
+                            "known_for_department": "Acting",
+                            "name": "Zharn Pokoati",
+                            "original_name": "Zharn Pokoati",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Evander Lawrence",
+                            "credit_id": "607fad310f0da500587c1965",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3061415,
+                            "known_for_department": "Acting",
+                            "name": "Matia Mitai",
+                            "original_name": "Matia Mitai",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Jasmine Reid",
+                            "credit_id": "607fc87a43d9b1006eafaa40",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3061493,
+                            "known_for_department": "Acting",
+                            "name": "Whiteman, Nicole",
+                            "original_name": "Whiteman, Nicole",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Lester Burton",
+                            "credit_id": "607fc8ea01b1ca0041e8a293",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3495,
+                            "known_for_department": "Acting",
+                            "name": "John Sumner",
+                            "original_name": "John Sumner",
+                            "popularity": 0.686,
+                            "profile_path": "/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg"
+                        },
+                        {
+                            "character": "Yaromir 'Sid' Kravchenko",
+                            "credit_id": "607fc91c726fb10059b40eeb",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1340025,
+                            "known_for_department": "Acting",
+                            "name": "Aaron McGregor",
+                            "original_name": "Aaron McGregor",
+                            "popularity": 0.49,
+                            "profile_path": "/c1gqmXdfXC8wvVi7OPBnfYj24JA.jpg"
+                        },
+                        {
+                            "character": "Pio Duncan",
+                            "credit_id": "60a2fd8a59008600581f1d64",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3094194,
+                            "known_for_department": "Acting",
+                            "name": "Evander Brown",
+                            "original_name": "Evander Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2893664,
+                    "name": "Macbeth",
+                    "overview": "Kingi stakes out The Black Horse to get closer to Toni, but bigger forces are already moving against him.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/zGFC33d6jNdYSbAI9dVkH0asyyW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "607e130ce6d3cc002939cd34",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1492394,
+                            "known_for_department": "Directing",
+                            "name": "Kiel McNaughton",
+                            "original_name": "Kiel McNaughton",
+                            "popularity": 0.543,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bill Crooke",
+                            "credit_id": "608734ab2c6b7b0041f9c763",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1440014,
+                            "known_for_department": "Acting",
+                            "name": "Stephen Ure",
+                            "original_name": "Stephen Ure",
+                            "popularity": 8.704,
+                            "profile_path": "/g5sLvAz07eZgJ5A6vg5d4totVXz.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2916812,
+                    "name": "No Small Thing",
+                    "overview": "Ari and Tyrone are hunted like animals and Mātz forces Kingi to accept a new deal.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/5ExsQLtad899ydTeONaFFmgFiF3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "608fc817dd83fa00293f95bf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2630251,
+                            "known_for_department": "Directing",
+                            "name": "Tim Worrall",
+                            "original_name": "Tim Worrall",
+                            "popularity": 0.158,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-05-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2939775,
+                    "name": "Between Man and Beast",
+                    "overview": "Toni is on the path to truth as Kingi loses his best friend and Hina and Ruthie get their revenge.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/PVk0VXQ8AuQY1yRUCe4Pg1K0Xb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "609902ce965220003c3e136e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 174683,
+                            "known_for_department": "Directing",
+                            "name": "Mike Smith",
+                            "original_name": "Mike Smith",
+                            "popularity": 1.711,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Stacey (nurse)",
+                            "credit_id": "6099d0c3bd32090041324bf3",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3086349,
+                            "known_for_department": "Acting",
+                            "name": "Ngati Kuia Wehipeihana",
+                            "original_name": "Ngati Kuia Wehipeihana",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hannah Walker",
+                            "credit_id": "6099d0fc72a2c9003c343228",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3086350,
+                            "known_for_department": "Acting",
+                            "name": "Hayley D'Ath",
+                            "original_name": "Hayley D'Ath",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2950320,
+                    "name": "Blue Smoke",
+                    "overview": "Kingi and Toni's worlds collide with devastating consequences.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/fJQan5HjunhtWier2W929J6h6r8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "607e130ce6d3cc002939cd34",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1492394,
+                            "known_for_department": "Directing",
+                            "name": "Kiel McNaughton",
+                            "original_name": "Kiel McNaughton",
+                            "popularity": 0.543,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Pio Duncan",
+                            "credit_id": "60a2fd8a59008600581f1d64",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3094194,
+                            "known_for_department": "Acting",
+                            "name": "Evander Brown",
+                            "original_name": "Evander Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-24",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2950321,
+                    "name": "The Normal Life",
+                    "overview": "Hina lives through a terrible trial while Kingi risks everything on a throw of the dice.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 123505,
+                    "still_path": "/oY5tT9WYJsMtTVrZmm5WEyIJa9Q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "607a9a19f48e0d0077c054bf",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 319549,
+                            "known_for_department": "Writing",
+                            "name": "Michael Bennett",
+                            "original_name": "Michael Bennett",
+                            "popularity": 0.473,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "607e130ce6d3cc002939cd34",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1492394,
+                            "known_for_department": "Directing",
+                            "name": "Kiel McNaughton",
+                            "original_name": "Kiel McNaughton",
+                            "popularity": 0.543,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bill Crooke",
+                            "credit_id": "608734ab2c6b7b0041f9c763",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1440014,
+                            "known_for_department": "Acting",
+                            "name": "Stephen Ure",
+                            "original_name": "Stephen Ure",
+                            "popularity": 8.704,
+                            "profile_path": "/g5sLvAz07eZgJ5A6vg5d4totVXz.jpg"
+                        },
+                        {
+                            "character": "Pio Duncan",
+                            "credit_id": "60a2fd8a59008600581f1d64",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3094194,
+                            "known_for_department": "Acting",
+                            "name": "Evander Brown",
+                            "original_name": "Evander Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 190929,
+            "poster_path": "/rcf0lknfnbPD6aT6iQeSmIE5szu.jpg",
+            "season_number": 1,
+            "vote_average": 7
+        }
+    }
+}

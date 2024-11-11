@@ -1,0 +1,102 @@
+{
+    "adult": false,
+    "backdrop_path": "/wKmqlzAetzqPRVCoyAjEk4DEk7m.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-08-28",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 132242,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2021-08-28",
+    "last_episode_to_air": {
+        "id": 3164800,
+        "name": "Episode 1",
+        "overview": "Guy Fieri and his family roll through the Hawaiian Islands for a deep dive into the tradition, the adventure and all types of great food.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-08-28",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 132242,
+        "still_path": null
+    },
+    "name": "Guy: Hawaiian Style",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Guy: Hawaiian Style",
+    "overview": "Guy Fieri is putting down the grilling tongs and packing up the sunscreen to take viewers on a once-in-a-lifetime journey through Hawaii. Follow Guy as he and his wife Lori, sons Hunter and Ryder, and nephew Jules embark on a 20-day adventure to Maui, the Big Island of Hawaii, and Oahu.",
+    "popularity": 0.154,
+    "poster_path": "/gRxFBjJWblP0asFXys3d06EyfJH.jpg",
+    "production_companies": [
+        {
+            "id": 26784,
+            "logo_path": "/p3qLEuW57lelJkmC9TIuwIYgsg3.png",
+            "name": "Citizen Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-08-28",
+            "episode_count": 1,
+            "id": 208177,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/gRxFBjJWblP0asFXys3d06EyfJH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "612acf7142f19f00957947ac",
+            "air_date": "2021-08-28",
+            "episodes": [
+                {
+                    "air_date": "2021-08-28",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3164800,
+                    "name": "Episode 1",
+                    "overview": "Guy Fieri and his family roll through the Hawaiian Islands for a deep dive into the tradition, the adventure and all types of great food.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 132242,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 208177,
+            "poster_path": "/gRxFBjJWblP0asFXys3d06EyfJH.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

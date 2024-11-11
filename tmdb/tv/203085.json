@@ -1,0 +1,842 @@
+{
+    "adult": false,
+    "backdrop_path": "/dVTvzp1PEnvloYy7qzYCFeAkPQ3.jpg",
+    "created_by": [
+        {
+            "id": 71538,
+            "credit_id": "6295099b3acd2000698d77d6",
+            "name": "Dave Filoni",
+            "original_name": "Dave Filoni",
+            "gender": 2,
+            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2022-10-26",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/star-wars-tales-of-the-jedi/7ZQbZDR64MvB",
+    "id": 203085,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-10-26",
+    "last_episode_to_air": {
+        "id": 3947848,
+        "overview": "A former Jedi is faced with the truth that they cannot be something they are not.",
+        "name": "Resolve",
+        "vote_average": 7.684,
+        "vote_count": 19,
+        "air_date": "2022-10-26",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 15,
+        "season_number": 1,
+        "show_id": 203085,
+        "still_path": "/f8YLMAC7qsMJCGkitFPAfCVAoZF.jpg"
+    },
+    "name": "Star Wars: Tales of the Jedi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2739,
+            "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+            "name": "Disney+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Star Wars: Tales of the Jedi",
+    "overview": "Journey into the lives of two distinctly different Jedi from the prequel era – Ahsoka Tano and Count Dooku. Each will be put to the test as they make choices that will define their destinies.",
+    "popularity": 192.569,
+    "poster_path": "/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg",
+    "production_companies": [
+        {
+            "id": 1,
+            "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+            "name": "Lucasfilm Ltd.",
+            "origin_country": "US"
+        },
+        {
+            "id": 108270,
+            "logo_path": "/eDWGeg5tdVNcI8aBaaJ21bEBtFa.png",
+            "name": "Lucasfilm Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-26",
+            "episode_count": 6,
+            "id": 295484,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/l6p2eG9YDt7x6OgTC2PCW8yvVqb.jpg",
+            "season_number": 1,
+            "vote_average": 7.2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Two stories of fate. One destiny.",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 282,
+    "season_data": {
+        "1": {
+            "_id": "6292f7ba7d5db510a667dbf4",
+            "air_date": "2022-10-26",
+            "episodes": [
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3947794,
+                    "name": "Life and Death",
+                    "overview": "A child goes through a rite of passage with unexpected results.",
+                    "production_code": "",
+                    "runtime": 17,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/eml92TQ7fupbbqDBCPXfOAZepT2.jpg",
+                    "vote_average": 6.045,
+                    "vote_count": 22,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f42bea7b0e0091435adc",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3078619,
+                            "known_for_department": "Directing",
+                            "name": "Nathaniel Villanueva",
+                            "original_name": "Nathaniel Villanueva",
+                            "popularity": 5.733,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f435a1353300797cd080",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 30.086,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Gantika (voice)",
+                            "credit_id": "6358f45ee894a6007e23e2c0",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1256258,
+                            "known_for_department": "Acting",
+                            "name": "Toks Olagundoye",
+                            "original_name": "Toks Olagundoye",
+                            "popularity": 24.097,
+                            "profile_path": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg"
+                        },
+                        {
+                            "character": "Nak-il (voice)",
+                            "credit_id": "6358f4702ceb530090475dc0",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 109014,
+                            "known_for_department": "Acting",
+                            "name": "Sunil Malhotra",
+                            "original_name": "Sunil Malhotra",
+                            "popularity": 38.709,
+                            "profile_path": "/vCuWowwG4dWVgUf9Oe2BFxWblNC.jpg"
+                        },
+                        {
+                            "character": "Pav-ti (voice)",
+                            "credit_id": "6358f47e2cefc2007d2be06f",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 210665,
+                            "known_for_department": "Acting",
+                            "name": "Janina Gavankar",
+                            "original_name": "Janina Gavankar",
+                            "popularity": 33.659,
+                            "profile_path": "/3lj5jZFvjjc4XD6pdykMdgyPREp.jpg"
+                        },
+                        {
+                            "character": "Villager (voice)",
+                            "credit_id": "6358f48ae894a600796ed3cd",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1703156,
+                            "known_for_department": "Acting",
+                            "name": "Noshir Dalal",
+                            "original_name": "Noshir Dalal",
+                            "popularity": 13.707,
+                            "profile_path": "/kPZhR7ZxU5hnOimPZcJQMJ3qjoy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3947845,
+                    "name": "Justice",
+                    "overview": "Two Jedi are dispatched to resolve a hostage situation on a distant planet.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/9myhOLBqoNAYGbf7hLg167yjBdt.jpg",
+                    "vote_average": 7.143,
+                    "vote_count": 21,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f435a1353300797cd080",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 30.086,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f50ac439c000831de067",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 12.463,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Qui-Gon Jinn (voice)",
+                            "credit_id": "6358f560665408008196e8d3",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2202462,
+                            "known_for_department": "Acting",
+                            "name": "Micheál Richardson",
+                            "original_name": "Micheál Richardson",
+                            "popularity": 15.3,
+                            "profile_path": "/z9uCzTIAy9pi3r3X2fDGiYuLCXK.jpg"
+                        },
+                        {
+                            "character": "Senator Dagonet (voice)",
+                            "credit_id": "6358f571665408007e0bd5b4",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6576,
+                            "known_for_department": "Acting",
+                            "name": "Mark Rolston",
+                            "original_name": "Mark Rolston",
+                            "popularity": 30.24,
+                            "profile_path": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+                        },
+                        {
+                            "character": "Senator's Son (voice)",
+                            "credit_id": "6358f57ec439c0008de5d2a4",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 20903,
+                            "known_for_department": "Acting",
+                            "name": "Josh Keaton",
+                            "original_name": "Josh Keaton",
+                            "popularity": 47.173,
+                            "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+                        },
+                        {
+                            "character": "Village Elder (voice)",
+                            "credit_id": "6358f58e2b9320008275f769",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 81663,
+                            "known_for_department": "Acting",
+                            "name": "Vanessa Marshall",
+                            "original_name": "Vanessa Marshall",
+                            "popularity": 30.07,
+                            "profile_path": "/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
+                        },
+                        {
+                            "character": "Armed Villager / Dooku (voice)",
+                            "credit_id": "6362eed7d04d1a007c8a7906",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35219,
+                            "known_for_department": "Acting",
+                            "name": "Corey Burton",
+                            "original_name": "Corey Burton",
+                            "popularity": 28.329,
+                            "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3947849,
+                    "name": "Choices",
+                    "overview": "Jedi Knights investigate the mysterious death of one of their own.",
+                    "production_code": "",
+                    "runtime": 14,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/ykFWg8IUdOjzOLzKd0EQTgC1DZm.jpg",
+                    "vote_average": 7.05,
+                    "vote_count": 20,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f50ac439c000831de067",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 12.463,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f75d30813100a3366226",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 176826,
+                            "known_for_department": "Writing",
+                            "name": "Charles Murray",
+                            "original_name": "Charles Murray",
+                            "popularity": 9.499,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f777ea7b0e007a40712e",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 176826,
+                            "known_for_department": "Writing",
+                            "name": "Charles Murray",
+                            "original_name": "Charles Murray",
+                            "popularity": 9.499,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f792a13533008184b4d9",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3758421,
+                            "known_for_department": "Writing",
+                            "name": "Elan Murray",
+                            "original_name": "Elan Murray",
+                            "popularity": 2.744,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Guard / Hanel (voice)",
+                            "credit_id": "6358f7c442f19f0091c38426",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1373048,
+                            "known_for_department": "Acting",
+                            "name": "Andrew Kishino",
+                            "original_name": "Andrew Kishino",
+                            "popularity": 10.438,
+                            "profile_path": "/dnQ6GYWWfogRnzapjzz7qgi5wPe.jpg"
+                        },
+                        {
+                            "character": "Ki-Adi-Mundi (voice)",
+                            "credit_id": "6358f7d1c439c0008de5d3b3",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 58511,
+                            "known_for_department": "Acting",
+                            "name": "Brian George",
+                            "original_name": "Brian George",
+                            "popularity": 37.386,
+                            "profile_path": "/mHjc58pfKkxtghhliPOnNz0SlcT.jpg"
+                        },
+                        {
+                            "character": "Mace Windu (voice)",
+                            "credit_id": "6358f7e1ea7b0e0091435cb8",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 233191,
+                            "known_for_department": "Acting",
+                            "name": "Terrence 'T.C.' Carson",
+                            "original_name": "Terrence 'T.C.' Carson",
+                            "popularity": 12.306,
+                            "profile_path": "/3cKzbe7UY61ELyQSEWCHWzDSnNG.jpg"
+                        },
+                        {
+                            "character": "Semage (voice)",
+                            "credit_id": "6358f7ed31644b007a1c1657",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 80446,
+                            "known_for_department": "Acting",
+                            "name": "Terrell Tilford",
+                            "original_name": "Terrell Tilford",
+                            "popularity": 12.81,
+                            "profile_path": "/8jCXQSWLYDJU3WqIBzfX7GsMZTN.jpg"
+                        },
+                        {
+                            "character": "Senator Larik (voice)",
+                            "credit_id": "6358f800c439c0007b25177d",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51995,
+                            "known_for_department": "Acting",
+                            "name": "Theo Rossi",
+                            "original_name": "Theo Rossi",
+                            "popularity": 37.323,
+                            "profile_path": "/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+                        },
+                        {
+                            "character": "Dooku (voice)",
+                            "credit_id": "6362eee4d75bd600927085ab",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35219,
+                            "known_for_department": "Acting",
+                            "name": "Corey Burton",
+                            "original_name": "Corey Burton",
+                            "popularity": 28.329,
+                            "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3947846,
+                    "name": "The Sith Lord",
+                    "overview": "A Jedi master makes a troubling discovery.",
+                    "production_code": "",
+                    "runtime": 16,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/2I2ct24R5FDTLjjFmazkdosaBiC.jpg",
+                    "vote_average": 7.85,
+                    "vote_count": 20,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f435a1353300797cd080",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 30.086,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f50ac439c000831de067",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 12.463,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Darth Sidious (voice)",
+                            "credit_id": "6358fa394a4bf60079323e3f",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 27762,
+                            "known_for_department": "Acting",
+                            "name": "Ian McDiarmid",
+                            "original_name": "Ian McDiarmid",
+                            "popularity": 31.237,
+                            "profile_path": "/jeoA2UQdKoz5rp4xLv0O32gzJ38.jpg"
+                        },
+                        {
+                            "character": "Jedi Temple Archive Voice (voice)",
+                            "credit_id": "6358fa7c2cefc200986418a1",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3758428,
+                            "known_for_department": "Acting",
+                            "name": "Meg Marchand",
+                            "original_name": "Meg Marchand",
+                            "popularity": 2.744,
+                            "profile_path": "/dbrbj8scUib3DycTSpWWflwq6gd.jpg"
+                        },
+                        {
+                            "character": "Jocasta Nu (voice)",
+                            "credit_id": "6358fa872b9320008275f9ad",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1490662,
+                            "known_for_department": "Acting",
+                            "name": "Flo Di Re",
+                            "original_name": "Flo Di Re",
+                            "popularity": 9.865,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Qui-Gon Jinn (voice)",
+                            "credit_id": "6358fa9263d937009b125837",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3896,
+                            "known_for_department": "Acting",
+                            "name": "Liam Neeson",
+                            "original_name": "Liam Neeson",
+                            "popularity": 110.969,
+                            "profile_path": "/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+                        },
+                        {
+                            "character": "Yaddle (voice)",
+                            "credit_id": "6358fa9f2cefc2007a59f9bc",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 18997,
+                            "known_for_department": "Acting",
+                            "name": "Bryce Dallas Howard",
+                            "original_name": "Bryce Dallas Howard",
+                            "popularity": 56.006,
+                            "profile_path": "/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+                        },
+                        {
+                            "character": "Dooku (voice)",
+                            "credit_id": "6362eee4d75bd600927085ab",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35219,
+                            "known_for_department": "Acting",
+                            "name": "Corey Burton",
+                            "original_name": "Corey Burton",
+                            "popularity": 28.329,
+                            "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3947847,
+                    "name": "Practice Makes Perfect",
+                    "overview": "A Jedi Padawan is given a seemingly impossible exercise.",
+                    "production_code": "",
+                    "runtime": 11,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/s6A4oL9ep86fDftDgRh29xoNSVR.jpg",
+                    "vote_average": 7.474,
+                    "vote_count": 19,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f435a1353300797cd080",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 30.086,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f50ac439c000831de067",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 12.463,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Anakin Skywalker (voice)",
+                            "credit_id": "6358fb0c63d937007b95c400",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 34202,
+                            "known_for_department": "Acting",
+                            "name": "Matt Lanter",
+                            "original_name": "Matt Lanter",
+                            "popularity": 33.821,
+                            "profile_path": "/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+                        },
+                        {
+                            "character": "Captain Rex / Jesse (voice)",
+                            "credit_id": "6358fb1915959f007f1cfdc3",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 23680,
+                            "known_for_department": "Acting",
+                            "name": "Dee Bradley Baker",
+                            "original_name": "Dee Bradley Baker",
+                            "popularity": 32.493,
+                            "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+                        },
+                        {
+                            "character": "Obi-Wan Kenobi (voice)",
+                            "credit_id": "6358fb3242f19f0091c38672",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 19506,
+                            "known_for_department": "Acting",
+                            "name": "James Arnold Taylor",
+                            "original_name": "James Arnold Taylor",
+                            "popularity": 24.564,
+                            "profile_path": "/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg"
+                        },
+                        {
+                            "character": "Ahsoka Tano (voice)",
+                            "credit_id": "649a47d67e3483011c223318",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 41345,
+                            "known_for_department": "Acting",
+                            "name": "Ashley Eckstein",
+                            "original_name": "Ashley Eckstein",
+                            "popularity": 20.938,
+                            "profile_path": "/jdzSL5AJePycTs1KQpYzm6I55qC.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-10-26",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3947848,
+                    "name": "Resolve",
+                    "overview": "A former Jedi is faced with the truth that they cannot be something they are not.",
+                    "production_code": "",
+                    "runtime": 15,
+                    "season_number": 1,
+                    "show_id": 203085,
+                    "still_path": "/f8YLMAC7qsMJCGkitFPAfCVAoZF.jpg",
+                    "vote_average": 7.684,
+                    "vote_count": 19,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6358f435a1353300797cd080",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 71538,
+                            "known_for_department": "Production",
+                            "name": "Dave Filoni",
+                            "original_name": "Dave Filoni",
+                            "popularity": 30.086,
+                            "profile_path": "/iMpXDe7D3eimy3Y8esJcF9czVbm.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "6358f50ac439c000831de067",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1845715,
+                            "known_for_department": "Directing",
+                            "name": "Saul Ruiz",
+                            "original_name": "Saul Ruiz",
+                            "popularity": 12.463,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Bail Organa (voice)",
+                            "credit_id": "6358fb8115959f007f1cfdf7",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 31549,
+                            "known_for_department": "Acting",
+                            "name": "Phil LaMarr",
+                            "original_name": "Phil LaMarr",
+                            "popularity": 36.651,
+                            "profile_path": "/l5w0qABfsFBxjfWNnpFiaXnh4Nm.jpg"
+                        },
+                        {
+                            "character": "Inquisitor (voice)",
+                            "credit_id": "6358fb8f63d937009b1258a5",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 6574,
+                            "known_for_department": "Acting",
+                            "name": "Clancy Brown",
+                            "original_name": "Clancy Brown",
+                            "popularity": 87.907,
+                            "profile_path": "/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+                        },
+                        {
+                            "character": "Old Man (voice)",
+                            "credit_id": "6358fba830813100a33663ea",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 193254,
+                            "known_for_department": "Acting",
+                            "name": "David Shaughnessy",
+                            "original_name": "David Shaughnessy",
+                            "popularity": 14.889,
+                            "profile_path": "/pjevZtJQKWwwYGQa2pph409ePP3.jpg"
+                        },
+                        {
+                            "character": "Security Clone (voice)",
+                            "credit_id": "6358fbb431644b0098c667ac",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 23680,
+                            "known_for_department": "Acting",
+                            "name": "Dee Bradley Baker",
+                            "original_name": "Dee Bradley Baker",
+                            "popularity": 32.493,
+                            "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+                        },
+                        {
+                            "character": "Village Brother (voice)",
+                            "credit_id": "6358fbc1c439c0007b25193d",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1221990,
+                            "known_for_department": "Acting",
+                            "name": "Bryton James",
+                            "original_name": "Bryton James",
+                            "popularity": 20.527,
+                            "profile_path": "/x8nQdEaQLADA9qs1OCqvFTxFyQw.jpg"
+                        },
+                        {
+                            "character": "Village Sister (voice)",
+                            "credit_id": "6358fbcd15959f007a583ecc",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 39556,
+                            "known_for_department": "Acting",
+                            "name": "Dana Davis",
+                            "original_name": "Dana Davis",
+                            "popularity": 34.247,
+                            "profile_path": "/jsMOVi4z2E2kvLS0j3Paxd0NJsk.jpg"
+                        },
+                        {
+                            "character": "Ahsoka Tano (voice)",
+                            "credit_id": "649a47d67e3483011c223318",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 41345,
+                            "known_for_department": "Acting",
+                            "name": "Ashley Eckstein",
+                            "original_name": "Ashley Eckstein",
+                            "popularity": 20.938,
+                            "profile_path": "/jdzSL5AJePycTs1KQpYzm6I55qC.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 295484,
+            "poster_path": "/l6p2eG9YDt7x6OgTC2PCW8yvVqb.jpg",
+            "season_number": 1,
+            "vote_average": 7.2
+        }
+    }
+}

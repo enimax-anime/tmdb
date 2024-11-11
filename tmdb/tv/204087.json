@@ -1,0 +1,456 @@
+{
+    "adult": false,
+    "backdrop_path": "/6csy55zATyIt38JehrR5AKJG8LQ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-07-07",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.qayvbuimq7lxab6y2cs9tbcj",
+    "id": 204087,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-07-06",
+    "last_episode_to_air": {
+        "id": 4571839,
+        "name": "Really Big Rock / Wing-Ding Leaf",
+        "overview": "A large rock rolls between Duck and Goose during nap time. / The duo embarks on a journey to find a unique treasure.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-07-06",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 2,
+        "show_id": 204087,
+        "still_path": "/5OTW8hxBHXYKRUJgv6biEquS6fP.jpg"
+    },
+    "name": "Duck & Goose",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 17,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Duck & Goose",
+    "overview": "Feathered friends Duck and Goose couldn’t be more different, but in this preschool show, they learn how to bring out the best in one another. Based on books by Tad Hills.",
+    "popularity": 5.643,
+    "poster_path": "/r8hYMspbGJd2RPfop3VHAwQjk6x.jpg",
+    "production_companies": [
+        {
+            "id": 50072,
+            "logo_path": null,
+            "name": "Jane Startz Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 4152,
+            "logo_path": "/8G3bKbfSreYlfPnEPFPuJn8tOOX.png",
+            "name": "Titmouse",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-07",
+            "episode_count": 9,
+            "id": 297449,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/r8hYMspbGJd2RPfop3VHAwQjk6x.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-07-06",
+            "episode_count": 8,
+            "id": 341397,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/4PfKooMSQKZeVGj7L7U9qgRhFeZ.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "You be you and I’ll be me.",
+    "type": "Scripted",
+    "vote_average": 4.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "62a905c1bbd0b0009ca0a117",
+            "air_date": "2022-07-07",
+            "episodes": [
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3784962,
+                    "name": "Find Something Round / Fuzzy Field",
+                    "overview": "A game of tag leads to a curious discovery. / Duck and Goose meet up with Thistle and learn about what makes her unique.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/2VS8BP3kInOy7r99kiIFsNZy6NI.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Squirrel",
+                            "credit_id": "64dced2ab77d4b1141f82f6a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4218813,
+                            "known_for_department": "Acting",
+                            "name": "Bailey Sheetz",
+                            "original_name": "Bailey Sheetz",
+                            "popularity": 0.174,
+                            "profile_path": "/m7ch5Gv7Rtd3H2u5lG2DO9eEKzd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3825467,
+                    "name": "Go to the Beach / Measuring Tree",
+                    "overview": "Duck convinces Goose to take a trip to the beach. / The duo find out how much they’ve grown and a disappointed Duck attempts to grow faster.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/wr6OqI355TuLZMMw4UoL1r5a9Hv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3825469,
+                    "name": "Fly a Kite / Purple Plums",
+                    "overview": "Duck and Goose learn the value of persistence while trying to build and fly a kite. / After picking plums, they face a delivery dilemma.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/idfwVBRLS3sPdXf7nM4OQvbJEFu.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3825472,
+                    "name": "Shiny Rock / Paint a Picture",
+                    "overview": "On a trip to find the shiniest rock, Duck and Goose discover all of the fun within the forest. / A happy accident inspires a special birthday gift for Thistle.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/n8KFtbOs6AlOrUpQRE4vjiowBQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Squirrel",
+                            "credit_id": "64dced2ab77d4b1141f82f6a",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4218813,
+                            "known_for_department": "Acting",
+                            "name": "Bailey Sheetz",
+                            "original_name": "Bailey Sheetz",
+                            "popularity": 0.174,
+                            "profile_path": "/m7ch5Gv7Rtd3H2u5lG2DO9eEKzd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3825474,
+                    "name": "Sticky Song / Build a Playhouse",
+                    "overview": "Duck and Goose get a catchy tune stuck in their heads. / When a toy goes missing, they learn they have different approaches to tidying up.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/udpimtUr7rma5KhNRQP29S9kfGR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3825476,
+                    "name": "Sunrise / Magic Trick",
+                    "overview": "Determined to see their first sunrise, the pals try to stay awake all night. / Bluebird’s talent for magic motivates Duck and Goose.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3825478,
+                    "name": "Go Trick-or-Treating / Three-Legged Race",
+                    "overview": "A quest for sweets turns spooky when Duck and Goose catch wind of a local “swamp monster.” / A race between friends hits an unexpected snag.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/DsSu3M5j6OCxClGLaIumiM103i.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-07",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3825480,
+                    "name": "Snowy Day / Flower Bud",
+                    "overview": "Duck and Goose plan for fun in a winter wonderland. / The pals work hard to help a lonesome flower bloom in the meadow.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/4FACvEnryPi8C5GSziYY0ks7qHx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-08",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 4507725,
+                    "name": "When Duck Met Goose",
+                    "overview": "When Thistle gets upset with her new neighbor, Bluebird recalls the bumpy days of Duck and Goose’s early friendship.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 204087,
+                    "still_path": "/fQPBkqjwN63Kq6tyMDAk0ZJOgk1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297449,
+            "poster_path": "/r8hYMspbGJd2RPfop3VHAwQjk6x.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "64664cf5c3514c01745ab0e1",
+            "air_date": "2023-07-06",
+            "episodes": [
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4452505,
+                    "name": "Follow the Leader / Shadows",
+                    "overview": "Duck encourages Goose to step out of his comfort zone. / During a game of hide-and-seek, the friends lose sight of their shadows.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/p0ErVUz9ZfnhYPlKfpLj03c20UE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4569660,
+                    "name": "Thistle's Beach / Skunk",
+                    "overview": "Hoping to cheer up Thistle, Duck and Goose plan a creative surprise. / The duo helps a skunk manage her not-so-charming stink clouds.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/ieCABfG7CaNBWDkP8uVHpzHxjfH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4569662,
+                    "name": "Moose / Ants",
+                    "overview": "The friends cross paths with a struggling giant. / Duck and Goose attempt to save a teeny-tiny community.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/pAPgD1QIULXzJSelJ6JhN9X8LZW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4569664,
+                    "name": "Dancing Swans / Cheer Up Bluebird",
+                    "overview": "Inspired by an elegant trio, Duck and Goose stage a dance performance. / The pals try to uplift Bluebird with songs and treats.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/z80BwgrVwJftI7tayMLob32AUpH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4569666,
+                    "name": "Dragonfly / Granola Bars",
+                    "overview": "Duck and Goose help Rabbit see a dragonfly up close. / Kindness leads to chaos while making snacks.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/mrFHRQdfixd023or0g7xN8PMq3q.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4571835,
+                    "name": "Thistle's Quest for the Best / Beaver's Sticks",
+                    "overview": "Hoping to find her calling, Thistle practices new skills. / Duck and Goose set out to return branches to a crafty beaver.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/dR4of5Tjp6ZS1OmHONEimCyoVMz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4571837,
+                    "name": "Bear / Little Raccoons",
+                    "overview": "In the snow, Duck and Goose stumble upon a sleepy local. / The friends help Mama Raccoon's twins embrace their differences.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/v8BRoUkWQBX4z1ib6ExIpe6ydOo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-07-06",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4571839,
+                    "name": "Really Big Rock / Wing-Ding Leaf",
+                    "overview": "A large rock rolls between Duck and Goose during nap time. / The duo embarks on a journey to find a unique treasure.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 204087,
+                    "still_path": "/5OTW8hxBHXYKRUJgv6biEquS6fP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 341397,
+            "poster_path": "/4PfKooMSQKZeVGj7L7U9qgRhFeZ.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

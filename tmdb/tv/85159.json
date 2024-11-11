@@ -1,0 +1,217 @@
+{
+    "adult": false,
+    "backdrop_path": "/ybpGrJqfoGWMoGmdKy99r1yEdqo.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2018-12-21",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80207124",
+    "id": 85159,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2018-12-21",
+    "last_episode_to_air": {
+        "id": 1650200,
+        "name": "League of Legends",
+        "overview": "",
+        "vote_average": 6,
+        "vote_count": 1,
+        "air_date": "2018-12-21",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 47,
+        "season_number": 1,
+        "show_id": 85159,
+        "still_path": "/8piP19UTcgNoGAJM8JwYLso4uiM.jpg"
+    },
+    "name": "7 Days Out",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "7 Days Out",
+    "overview": "Witness the excitement and drama behind the scenes in the seven days leading up to major live events in the worlds of sports, fashion, space and food.",
+    "popularity": 1.872,
+    "poster_path": "/qaOCo51dpaLP2olD7ihKJbmviO1.jpg",
+    "production_companies": [
+        {
+            "id": 85984,
+            "logo_path": "/2CaCVxh0IbjIpLmqvLxyAHBVGaU.png",
+            "name": "Boardwalk Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130514,
+            "logo_path": "/b4pZZSOipwIRJAvYsoTxfTqdKK0.png",
+            "name": "Abstract",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-12-21",
+            "episode_count": 6,
+            "id": 114784,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/qaOCo51dpaLP2olD7ihKJbmviO1.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "A behind the scenes countdown to the world's biggest events.",
+    "type": "Documentary",
+    "vote_average": 6.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5c1ed05fc3a3686ffce9b60f",
+            "air_date": "2018-12-21",
+            "episodes": [
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1650058,
+                    "name": "Westminster Dog Show",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/9El6cngtyOgbGWdtWNVi49d8qtI.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1650196,
+                    "name": "Eleven Madison Park",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/3rBoKw7WvNfTSnDRqceQVP0kxvW.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1650197,
+                    "name": "NASA’s Cassini Mission",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/nE4mCho19k9NCyWv9GTZzHkOsQW.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1650198,
+                    "name": "Kentucky Derby",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/nWMFnKNSrW5r88LDWZB3kSaphFs.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1650199,
+                    "name": "CHANEL Haute Couture Fashion Show",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/6dumP9pseRQqNeMyOl8gyqrg8AY.jpg",
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-12-21",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1650200,
+                    "name": "League of Legends",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 85159,
+                    "still_path": "/8piP19UTcgNoGAJM8JwYLso4uiM.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 114784,
+            "poster_path": "/qaOCo51dpaLP2olD7ihKJbmviO1.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        }
+    }
+}

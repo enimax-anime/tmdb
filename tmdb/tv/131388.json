@@ -1,0 +1,209 @@
+{
+    "adult": false,
+    "backdrop_path": "/1Uj6NgId1Qltry9pt6pV5uS2hoC.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-10-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 131388,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-12-01",
+    "last_episode_to_air": {
+        "id": 3309087,
+        "name": "Pinhead",
+        "overview": "Emerging from a low budget independent film, this character who was simply called \"Lead Cenobite\" would become the undeniable symbol of pleasure and pain and the icon of the \"Hellraiser\" franchise.",
+        "vote_average": 5,
+        "vote_count": 1,
+        "air_date": "2021-12-01",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 131388,
+        "still_path": null
+    },
+    "name": "Behind the Monsters",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2949,
+            "logo_path": "/Ap2jtXPy3QlLMi1GYLtasq7VoN3.png",
+            "name": "Shudder",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Behind the Monsters",
+    "overview": "A docu-series exploring how Chucky, Michael Myers, Pinhead and more came to be icons of the horror genre.",
+    "popularity": 7.896,
+    "poster_path": "/nMmjYx0ZIvtktBXkr8xDuWwTZCt.jpg",
+    "production_companies": [
+        {
+            "id": 107490,
+            "logo_path": null,
+            "name": "Stage 3 Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-27",
+            "episode_count": 6,
+            "id": 206343,
+            "name": "Season 1",
+            "overview": "No horror icon came out of a filmmaker’s first draft fully formed. There were early drafts, wrong turns, experimentation. Once made flesh (or latex), there’s presentation, impact, audience response and legacy. Each of these steps that nudge a horror creation toward the annals of legend will be explored in Shudder’s BEHIND THE MONSTERS. Each episode examines a horror icon who has broken free of the confines of the film from which it was born and become the stuff of legend.",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 6.7
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "season_data": {
+        "1": {
+            "_id": "611c942c3a4a12002f4b8c84",
+            "air_date": "2021-10-27",
+            "episodes": [
+                {
+                    "air_date": "2021-10-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3138996,
+                    "name": "Michael Myers",
+                    "overview": "A cheap film shot in 21 days changed the landscape of horror, made several careers, and gave one actress an iconic role that she’s tweaking 42 years later.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3309083,
+                    "name": "Candyman",
+                    "overview": "The genre's first black slasher showed up in 1992, rich with subtext about racial tensions in American history. In 2021, he's coming back - and is perhaps the most relevant horror icon imaginable.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3309084,
+                    "name": "Chucky",
+                    "overview": "What started as a nasty spin on 80s consumerism flourished over three decades into an unlikely progressive horror property that refuses to get back on the shelf.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3309085,
+                    "name": "Freddy",
+                    "overview": "Perhaps the most recognizable horror icon, Freddy Krueger's one-liners and merchandise has proven to be enjoyed by horror and non-horror fans alike.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3309086,
+                    "name": "Jason Voorhees",
+                    "overview": "A look at the accidental creation of a machete-wielding avatar of conservative 1980s morality - one that, absent a new entry, a fiercely loyal fan base has taken to resurrecting on their own.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-01",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3309087,
+                    "name": "Pinhead",
+                    "overview": "Emerging from a low budget independent film, this character who was simply called \"Lead Cenobite\" would become the undeniable symbol of pleasure and pain and the icon of the \"Hellraiser\" franchise.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 131388,
+                    "still_path": null,
+                    "vote_average": 5,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "No horror icon came out of a filmmaker’s first draft fully formed. There were early drafts, wrong turns, experimentation. Once made flesh (or latex), there’s presentation, impact, audience response and legacy. Each of these steps that nudge a horror creation toward the annals of legend will be explored in Shudder’s BEHIND THE MONSTERS. Each episode examines a horror icon who has broken free of the confines of the film from which it was born and become the stuff of legend.",
+            "id": 206343,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 6.7
+        }
+    }
+}

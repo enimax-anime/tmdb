@@ -1,0 +1,883 @@
+{
+    "adult": false,
+    "backdrop_path": "/qqB8PW25FuhWPFoYV6nZAI9MUoZ.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2019-05-28",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.nbc.com/songland",
+    "id": 89428,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-06-15",
+    "last_episode_to_air": {
+        "id": 2277797,
+        "name": "Usher",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-06-15",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 2,
+        "show_id": 89428,
+        "still_path": null
+    },
+    "name": "Songland",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6,
+            "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+            "name": "NBC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 21,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Songland",
+    "overview": "Songwriters compete for a chance to have their work selected by a major recording artist.",
+    "popularity": 6.481,
+    "poster_path": "/rZhXAAP235SKqjkcc6RM9Dk8bs0.jpg",
+    "production_companies": [
+        {
+            "id": 26727,
+            "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+            "name": "Universal Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 82119,
+            "logo_path": null,
+            "name": "222 Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 60078,
+            "logo_path": null,
+            "name": "Live Animals",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-05-28",
+            "episode_count": 11,
+            "id": 124291,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/46O3NpjOYlkqVozHuiYz0kmgHz8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-04-13",
+            "episode_count": 10,
+            "id": 146301,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/rZhXAAP235SKqjkcc6RM9Dk8bs0.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Behind every hit song is a songwriter with a dream.",
+    "type": "Reality",
+    "vote_average": 7.8,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "5cdaf4c1c3a3681443c44b14",
+            "air_date": "2019-05-28",
+            "episodes": [
+                {
+                    "air_date": "2019-05-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1791318,
+                    "name": "John Legend",
+                    "overview": "Unknown songwriters pitch their original songs to John Legend and the panel. Three songs move on to the 2nd round where each producer helps one songwriter adapt their song to fit John’s style. One song is chosen to be recorded by John and is ready for the global audience to hear tonight.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/XrNaOXx2NwCMTkUv5k7gM00YLR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5d057069c3a368489e23e9fb",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 113461,
+                            "known_for_department": "Acting",
+                            "name": "John Legend",
+                            "original_name": "John Legend",
+                            "popularity": 11.509,
+                            "profile_path": "/cCv0YBy2YFFWp9h3kvNPmwWwrCD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-06-04",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1808376,
+                    "name": "will.i.am",
+                    "overview": "will.i.am comes to \"Songland\" to hear unknown songwriters pitch their original material to be the next hit song for the Black Eyed Peas. Three of the most successful and sought-after writer-producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the Black Eyed Peas' style. One song is chosen to be recorded by the Black Eyed Peas and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/tTQ2mrvKAzLkjL5epr3nki4Rev.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5d057075c3a368445b2b8ad6",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 82092,
+                            "known_for_department": "Acting",
+                            "name": "Will.i.am",
+                            "original_name": "Will.i.am",
+                            "popularity": 3.799,
+                            "profile_path": "/uQgowLkEJyB5oBm34sqSKTPcZwv.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-06-11",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1815225,
+                    "name": "Kelsea Ballerini",
+                    "overview": "Undiscovered songwriters pitch original material to Kelsea Ballerini, who's looking for her next hit, and a panel of top music producers, who work to creatively adapt the songs to the star; Kelsea Ballerini chooses one song to record and release.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/e8lUP3jXUOrp6nZJwJYJqo0V3HC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5d05708292514163d1be1a8b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1658804,
+                            "known_for_department": "Acting",
+                            "name": "Kelsea Ballerini",
+                            "original_name": "Kelsea Ballerini",
+                            "popularity": 1.796,
+                            "profile_path": "/c7oIbaPIixaoglyRpR3qhggFDJ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-06-18",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1823689,
+                    "name": "Jonas Brothers",
+                    "overview": "Unknown songwriters pitch their original songs to the Jonas Brothers and the panel. Three songs move on to the 2nd round where each producer helps one songwriter adapt their song to fit the Brothers's style. One song is chosen to be recorded by the Jonas Brothers and is ready for the global audience to hear tonight.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/nm23eh6tAmBrP1KMOUWrAGg4JeP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5d08e8ce0e0a267fe0ca93c2",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 130565,
+                            "known_for_department": "Acting",
+                            "name": "Nick Jonas",
+                            "original_name": "Nick Jonas",
+                            "popularity": 13.463,
+                            "profile_path": "/o0BVIpLe8VnCkTuLsk5ObcQmRJr.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5d08e8d60e0a267ffbca8462",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 130566,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Jonas",
+                            "original_name": "Kevin Jonas",
+                            "popularity": 2.66,
+                            "profile_path": "/oDXOLZ4vLAN2dMWkMpqCnPWF6yw.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5d08e8dec3a3687c751ecbbe",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 85757,
+                            "known_for_department": "Acting",
+                            "name": "Joe Jonas",
+                            "original_name": "Joe Jonas",
+                            "popularity": 8.041,
+                            "profile_path": "/wlzMYfBH3uBwOyU0LfDMK3XaFpr.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-06-25",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1837159,
+                    "name": "Meghan Trainor",
+                    "overview": "Undiscovered songwriters pitch original material to Meghan Trainor, who's looking for her next hit, and a panel of top music producers who work to creatively adapt the songs to the star; Meghan Trainor chooses one song to record and release.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/3hFfPHseTGqDcRatzFzhDepjkUo.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47ef16dea3a001bf97468",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1452128,
+                            "known_for_department": "Acting",
+                            "name": "Meghan Trainor",
+                            "original_name": "Meghan Trainor",
+                            "popularity": 2.986,
+                            "profile_path": "/1qf8FpC55eZGhVSW5a1aCJrJ6p5.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-07-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1841871,
+                    "name": "Aloe Blacc/Fast & Furious Presents: Hobbs & Shaw",
+                    "overview": "Undiscovered songwriters pitch original material to Aloe Blacc and director David Leitch, who are looking for material for the film \"Fast & Furious Presents: Hobbs & Shaw\"; one song is chosen to be recorded by Blacc and featured in the film.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/bPVEDgkV4Ld9ANdOLEIncsmHcxi.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7e8f168b1ea0079cc0e5d",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1036174,
+                            "known_for_department": "Acting",
+                            "name": "Aloe Blacc",
+                            "original_name": "Aloe Blacc",
+                            "popularity": 2.948,
+                            "profile_path": "/omrVWsEh237RREqYCAZhoSSAInX.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1890619,
+                    "name": "Macklemore",
+                    "overview": "Undiscovered songwriters pitch original material to Macklemore, who's looking for his next hit, and a panel of top music producers, who work to creatively adapt the songs to the star; Macklemore chooses one song to record and release.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/6cimELUPdkiLgqNuok9nBi23ZGA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47f1d28723c001f4d76a0",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1196726,
+                            "known_for_department": "Acting",
+                            "name": "Macklemore",
+                            "original_name": "Macklemore",
+                            "popularity": 3.455,
+                            "profile_path": "/A8TakrFqdj0DwOMRUMXan5hg1CY.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-08-21",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1896444,
+                    "name": "Old Dominion/Jeep",
+                    "overview": "Country hitmakers Old Dominion come to \"Songland\" to hear unknown songwriters pitch their original material to be featured in an upcoming Jeep commercial. Three of the most successful and sought-after writer-producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the styles of Old Dominion and Jeep. One song is chosen to be recorded by Old Dominion, released for a global audience, and featured in the next Jeep commercial.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/qwURsAvnwjd6PbTyA4q4YEnddM1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-08-28",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1896445,
+                    "name": "Leona Lewis",
+                    "overview": "Leona Lewis comes to \"Songland\" to hear unknown songwriters pitch their original material to be her next hit song. Three of the most successful and sought-after writer-producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit Lewis's style. One song is chosen to be recorded by Lewis and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/oQQVZjUsM3scw3Cp3vm0OuAqxCm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47f4428723c001f4d7737",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 216710,
+                            "known_for_department": "Acting",
+                            "name": "Leona Lewis",
+                            "original_name": "Leona Lewis",
+                            "popularity": 2.716,
+                            "profile_path": "/cCgs7rAMbCA7AG7YNGnI6KmQoVD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-04",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 1896449,
+                    "name": "Charlie Puth",
+                    "overview": "Global superstar Charlie Puth comes to \"Songland\" to hear unknown songwriters pitch their original material. Three of the most successful and sought-after writer-producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the style of Puth.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/l8DReqERfDBfZebPpi7c5q8UI2W.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47f6c8e2e00002120e529",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1724000,
+                            "known_for_department": "Acting",
+                            "name": "Charlie Puth",
+                            "original_name": "Charlie Puth",
+                            "popularity": 2.849,
+                            "profile_path": "/2PMmarBt8J6b1iLLkSqx5MbHDjb.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2019-09-11",
+                    "episode_number": 11,
+                    "episode_type": "finale",
+                    "id": 1896451,
+                    "name": "OneRepublic",
+                    "overview": "In the season one finale, Ryan Tedder moves into the guest recording artist spot when his band, OneRepublic, comes to \"Songland\" to hear unknown songwriters pitch their original material to be the band's next hit song. Special guest Jason Evigan, an accomplished writer-producer and hitmaker behind Maroon 5's #1 song \"Girls Like You,\" and \"What Lovers Do,\" joins Ester Dean and Shane McAnally to help creatively adapt the songs to perfectly fit the style of OneRepublic. One song is chosen to be recorded by OneRepublic and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 89428,
+                    "still_path": "/gi8VoBw8gkoLZzB3wMcO3FM49UB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ed01d1ca2a008eb67a29",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1848120,
+                            "known_for_department": "Acting",
+                            "name": "Ryan Tedder",
+                            "original_name": "Ryan Tedder",
+                            "popularity": 1.447,
+                            "profile_path": "/8TQN8YLHsLotgtTVlN8lGN9yyXM.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ed0e68b1ea009effa31f",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2330997,
+                            "known_for_department": "Acting",
+                            "name": "Zach Filkins",
+                            "original_name": "Zach Filkins",
+                            "popularity": 0.581,
+                            "profile_path": "/hf4IDV4cImP7aIb3ClxQS0tVx7F.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ed1969c70f00bdbd27a3",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2330999,
+                            "known_for_department": "Acting",
+                            "name": "Eddie Fisher",
+                            "original_name": "Eddie Fisher",
+                            "popularity": 0.444,
+                            "profile_path": "/e9iRclh9DaBXvtrF1bzhOgYUcD5.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ed2746f354008fc8e63f",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2331000,
+                            "known_for_department": "Acting",
+                            "name": "Brent Kutzle",
+                            "original_name": "Brent Kutzle",
+                            "popularity": 0.811,
+                            "profile_path": "/dEdsoJXbh6ULRqXPCAxvAAV9AkR.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ed32d1ca2a00aad83e07",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2357192,
+                            "known_for_department": "Acting",
+                            "name": "Drew Brown",
+                            "original_name": "Drew Brown",
+                            "popularity": 0.469,
+                            "profile_path": "/uVhMODqKrDjMwn3fNuIxR4wThrV.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 124291,
+            "poster_path": "/46O3NpjOYlkqVozHuiYz0kmgHz8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5e7ec86570309f0017608812",
+            "air_date": "2020-04-13",
+            "episodes": [
+                {
+                    "air_date": "2020-04-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2203654,
+                    "name": "Lady A",
+                    "overview": "Undiscovered songwriters pitch original material to Lady Antebellum and a panel of top music producers who work to creatively adapt the songs to the star  Lady Antebellum chooses one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/kxePummrPn7AbmLgZPvx7NmmrOx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47e67140bad001c15c2bd",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1559716,
+                            "known_for_department": "Acting",
+                            "name": "Hillary Scott",
+                            "original_name": "Hillary Scott",
+                            "popularity": 0.911,
+                            "profile_path": "/vNBDCZbgrPmZicU29jstaKeJrNb.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47e866c849200212862bf",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1559717,
+                            "known_for_department": "Acting",
+                            "name": "Charles Kelley",
+                            "original_name": "Charles Kelley",
+                            "popularity": 0.37,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47e9f140bad001d16382b",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1728429,
+                            "known_for_department": "Acting",
+                            "name": "Dave Haywood",
+                            "original_name": "Dave Haywood",
+                            "popularity": 0.684,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-20",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2219815,
+                    "name": "Luis Fonsi",
+                    "overview": "Undiscovered songwriters pitch original material to Luis Fonsi and a panel of top music producers, who work to creatively adapt the songs to the star  Luis Fonsi chooses one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/699EaGfk5dHivSYXqWtg7ZczxlA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47d156dea3a001cfa1c01",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2051927,
+                            "known_for_department": "Acting",
+                            "name": "Luis Fonsi",
+                            "original_name": "Luis Fonsi",
+                            "popularity": 0.988,
+                            "profile_path": "/7106gZI9p3sohIflDPuwv0epW3r.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-04-27",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2219817,
+                    "name": "H.E.R.",
+                    "overview": "Undiscovered songwriters pitch original material to H.E.R. and a panel of top music producers who work to creatively adapt the songs to the star H.E.R.  chooses one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/zDQikE6q9OGnQdjlED9bAObGSYj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47d038e2e0000201c489a",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2320763,
+                            "known_for_department": "Acting",
+                            "name": "H.E.R.",
+                            "original_name": "H.E.R.",
+                            "popularity": 4.078,
+                            "profile_path": "/8T5I5HQOB2NQLvga8vW90DremWc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-04",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2243123,
+                    "name": "Martina McBride",
+                    "overview": "Five-time CMA-winning country superstar, Martina McBride, comes to \"Songland\" to hear unknown songwriters pitch their original material. Three of the most successful and sought-after writer-producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the superstar artist. One song is chosen to be recorded by the guest recording artist and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/nb4q6Qu02GH2QXjmVb1t0X3d0lA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47cb2d2147c0022b7244f",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 158039,
+                            "known_for_department": "Acting",
+                            "name": "Martina McBride",
+                            "original_name": "Martina McBride",
+                            "popularity": 0.962,
+                            "profile_path": "/a1YnStUvMSZH6q0R07odfLh6t0Q.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-11",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2258728,
+                    "name": "Julia Michaels",
+                    "overview": "Grammy Award winning singer/songwriter, Julia Michaels, comes to \"Songland\" to hear unknown songwriters pitch their original material. Three of the most successful and sought after writer producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the superstar artist. One song is chosen to be recorded by the guest recording artist and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/2tYKYNdTYySjPKX7gU5wZMYzEWZ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5ec47c7de635710022cadf92",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1955435,
+                            "known_for_department": "Acting",
+                            "name": "Julia Michaels",
+                            "original_name": "Julia Michaels",
+                            "popularity": 2.213,
+                            "profile_path": "/ffgQqidt2OdZq7giOMlFyEqPRb9.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-18",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2258729,
+                    "name": "Florida Georgia Line",
+                    "overview": "Eight time ACM and seven time CMT Award winning country duo, Florida Georgia Line, come to \"Songland\" to hear unknown songwriters pitch their original material. Three of the most successful and sought after writer producers in music, Ryan Tedder, Ester Dean and Shane McAnally, produce the songwriters to creatively adapt their songs to perfectly fit the superstar artist. One song is chosen to be recorded by the guest recording artist and released for a global audience.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/kr6Gz6sQwn3naMje4ucjNxR0Dyb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self [Florida Georgia Line]",
+                            "credit_id": "5ec47c3c8e2e00002120da48",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2645516,
+                            "known_for_department": "Acting",
+                            "name": "Tyler Hubbard",
+                            "original_name": "Tyler Hubbard",
+                            "popularity": 0.161,
+                            "profile_path": "/ecjEA6zhvp1vzsBOl6Wp9IMPI5.jpg"
+                        },
+                        {
+                            "character": "Self [Florida Georgia Line]",
+                            "credit_id": "5ec47c5ad2147c0022b72350",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2645517,
+                            "known_for_department": "Acting",
+                            "name": "Brian Kelley",
+                            "original_name": "Brian Kelley",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-05-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2277794,
+                    "name": "Boyz II Men",
+                    "overview": "Undiscovered songwriters pitch original material to Boyz II Men and a panel of top music producers, who work to creatively adapt the songs to the star; Boyz II Men choose one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/kdaaohVIzjzTbaCI4VC1yiSE2lJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-01",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2277795,
+                    "name": "Bebe Rexha",
+                    "overview": "Undiscovered songwriters pitch original material to Bebe Rexha and a panel of top music producers, who work to creatively adapt the songs to the star; Bebe Rexha chooses one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": "/kfsY17zEAN9I0puyLfzqzJCv5dX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ede168b1ea00bd2d86bb",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2167419,
+                            "known_for_department": "Acting",
+                            "name": "Bebe Rexha",
+                            "original_name": "Bebe Rexha",
+                            "popularity": 2.821,
+                            "profile_path": "/gvsYubb8Go9MTBrWaW3p18g2jft.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-06-08",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2277796,
+                    "name": "Ben Platt",
+                    "overview": "Undiscovered songwriters pitch original material to Ben Platt and a panel of top music producers, who work to creatively adapt the songs to the star; Ben Platt chooses one song to record and release for a global audience the same night.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7edf43d74540086d5266f",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1107296,
+                            "known_for_department": "Acting",
+                            "name": "Ben Platt",
+                            "original_name": "Ben Platt",
+                            "popularity": 9.746,
+                            "profile_path": "/bGZDEzMWopuLdAiHTUjKZ2HDNgY.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-06-15",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2277797,
+                    "name": "Usher",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 89428,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "63f7ee0646f35400812ff995",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 57108,
+                            "known_for_department": "Acting",
+                            "name": "Usher",
+                            "original_name": "Usher",
+                            "popularity": 2.408,
+                            "profile_path": "/5LGTj79RPTJdBD19E30HtItbx5y.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 146301,
+            "poster_path": "/rZhXAAP235SKqjkcc6RM9Dk8bs0.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

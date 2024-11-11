@@ -1,0 +1,266 @@
+{
+    "adult": false,
+    "backdrop_path": "/eNCPEsPzsAZAzd1mfS26FxJUCnU.jpg",
+    "created_by": [
+        {
+            "id": 52934,
+            "credit_id": "6348825f43d9b10079b935ba",
+            "name": "Nicholas Stoller",
+            "original_name": "Nicholas Stoller",
+            "gender": 2,
+            "profile_path": "/247iI9VZHnKB9QteCIUheKAAZtI.jpg"
+        },
+        {
+            "id": 167321,
+            "credit_id": "6673440e201435fb186ead42",
+            "name": "Carla Kettner",
+            "original_name": "Carla Kettner",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2022-09-26",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 210095,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-11-07",
+    "last_episode_to_air": {
+        "id": 3951321,
+        "name": "Cammie Get Your Gun",
+        "overview": "Bell struggles with his lack of closure; Cammie faces a tense mediation.",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2022-11-07",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 210095,
+        "still_path": "/hSXsZ2Y3r3nHlExFfr2KMHyhFyL.jpg"
+    },
+    "name": "Panhandle",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2871,
+            "logo_path": "/ta0tkJ6VUugXwQzdea6T7jzUYkI.png",
+            "name": "Spectrum",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Panhandle",
+    "overview": "Since personal tragedy struck five years ago, loquacious, eccentric Bell Prescott hasn't left the rambling property on the Apalachicola River that he shares with his mother.",
+    "popularity": 8.506,
+    "poster_path": "/mt8cGIRth22K0Uv22XZvUI0Xmkg.jpg",
+    "production_companies": [
+        {
+            "id": 11073,
+            "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+            "name": "Sony Pictures Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-26",
+            "episode_count": 8,
+            "id": 308403,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rKPCyj7fvmuRJQCQcdT5ZcGB1vx.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.3,
+    "vote_count": 19,
+    "season_data": {
+        "1": {
+            "_id": "631fb086b865eb007d42ef61",
+            "air_date": "2022-09-26",
+            "episodes": [
+                {
+                    "air_date": "2022-09-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3951314,
+                    "name": "To Bell or Not To Bell?",
+                    "overview": "When a dead body is found on his property, Bell suspects it is connected to an unsolved murder.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/3ZZvN8IrilMV1IyrtIBQMUruG4p.jpg",
+                    "vote_average": 7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3951315,
+                    "name": "One Billboard Outside Boggsville, Florida",
+                    "overview": "Cammie and Bell search for clues to Vida's final days; Cammie receives a surprise visit.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/sLFoDcacwWUhAlVbH8EpzcOxP4f.jpg",
+                    "vote_average": 7.333,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3951316,
+                    "name": "A Fistful of Sand Dollars",
+                    "overview": "Bell is visited by one of Vida's family members; Cammie checks out the Perez's beach home.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/3oSB3oxE1gYvIjhrI83Y0tCB5pt.jpg",
+                    "vote_average": 7.667,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3951317,
+                    "name": "Sex, Lies and Ponce de Leon",
+                    "overview": "Cammie finds evidence that could implicate Bell; Bell ventures off the property.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/x7HHLq0GSZJYtGE6uf6LWoOXiFA.jpg",
+                    "vote_average": 7.667,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3951318,
+                    "name": "One Flew Over the Peacock's Nest",
+                    "overview": "Bell and Cammie learn another person has been killed; Cammie is pressured to turn over evidence.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/um6l8WhUrVmE3FMp5jsGkzfwBDr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-24",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3951319,
+                    "name": "Fear and Loathing in El Calvero",
+                    "overview": "Cammie takes Bell on a road trip; Millicent is left alone for the first time in years.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/b5miCP9qnPo6SJhRNvI2HJoUfHw.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-31",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3951320,
+                    "name": "Machetes Out",
+                    "overview": "Bell and Cammie attempt to steal highly confidential files; Bell calls a family dinner.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/1vuhDAwc4nxVtNcdkSDNjtFQ8EW.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-07",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3951321,
+                    "name": "Cammie Get Your Gun",
+                    "overview": "Bell struggles with his lack of closure; Cammie faces a tense mediation.",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 1,
+                    "show_id": 210095,
+                    "still_path": "/hSXsZ2Y3r3nHlExFfr2KMHyhFyL.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 308403,
+            "poster_path": "/rKPCyj7fvmuRJQCQcdT5ZcGB1vx.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

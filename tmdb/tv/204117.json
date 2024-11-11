@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2007-07-20",
+    "genres": [],
+    "homepage": "",
+    "id": 204117,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2007-07-20",
+    "last_episode_to_air": {
+        "id": 3785970,
+        "name": "My Three Franks",
+        "overview": "Frank helps Frankie demonstrate his favorite number, the number 3!",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2007-07-20",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 204117,
+        "still_path": null
+    },
+    "name": "Frankie and Frank",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Frankie and Frank",
+    "overview": "Even though Frankie and Frank are quite different, oneâ€™s a little boy and the otherâ€™s a big monster, they are best buddies who love to play together. Join them as they have loads of fun filled with sweet surprises and lots of learning!",
+    "popularity": 0.006,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2007-07-20",
+            "episode_count": 1,
+            "id": 297501,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62a99e447e12f00e27193a34",
+            "air_date": "2007-07-20",
+            "episodes": [
+                {
+                    "air_date": "2007-07-20",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3785970,
+                    "name": "My Three Franks",
+                    "overview": "Frank helps Frankie demonstrate his favorite number, the number 3!",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 204117,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297501,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

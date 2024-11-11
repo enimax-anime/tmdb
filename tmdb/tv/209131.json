@@ -1,0 +1,904 @@
+{
+    "adult": false,
+    "backdrop_path": "/afdQCbwhw4kbFIUOqflEWWhYZWe.jpg",
+    "created_by": [
+        {
+            "id": 1251219,
+            "credit_id": "630cd78e226c560092cb514a",
+            "name": "Ron Holsey",
+            "original_name": "Ron Holsey",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        12
+    ],
+    "first_air_date": "2022-11-17",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://tv.apple.com/show/umc.cmc.18gr0rhyi18lt79vgtw794wcw",
+    "id": 209131,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-28",
+    "last_episode_to_air": {
+        "id": 4749795,
+        "name": "Starting From Scratch / Snow White’s Seven",
+        "overview": "Benjamin asks Piper to create an original story. / Piper meets new friends while trying to unlock the gates of the royal kingdom.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-09-28",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 209131,
+        "still_path": "/wiCSFHOjBTkR6ltEHAiTS39XRz9.jpg"
+    },
+    "name": "Interrupting Chicken",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 17,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Interrupting Chicken",
+    "overview": "A young little chicken named Piper has a habit of interrupting storytime! Every time Piper hears a story, she can’t help but jump in, ask questions and let her imagination run wild as she tries to fill in details, guess what happens next or insert herself in the middle of the action to help save the day.",
+    "popularity": 11.551,
+    "poster_path": "/Av52YtR9fvE0aqPrso1fbkM1fDC.jpg",
+    "production_companies": [
+        {
+            "id": 79465,
+            "logo_path": "/6qOISqaMEeKhvYGB0ryEtlcRZaM.png",
+            "name": "Mercury Filmworks",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-11-17",
+            "episode_count": 5,
+            "id": 316723,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-11-17",
+            "episode_count": 9,
+            "id": 306546,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/Av52YtR9fvE0aqPrso1fbkM1fDC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-09-28",
+            "episode_count": 8,
+            "id": 356819,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7,
+    "vote_count": 8,
+    "season_data": {
+        "1": {
+            "_id": "630cd7580398ab007a2a4f6e",
+            "air_date": "2022-11-17",
+            "episodes": [
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3919790,
+                    "name": "Not So Bad Wolf / Chicken of the Sea",
+                    "overview": "Piper tries to save the Three Little Pigs from the Big Bad Wolf. / When Terry Turtle hatches, Piper and friends help him get to Turtle Island.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/4Jd09TeCEGmGAtO6R09la7UZ9BT.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b722a410c80079219fec",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1251219,
+                            "known_for_department": "Writing",
+                            "name": "Ron Holsey",
+                            "original_name": "Ron Holsey",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4059107,
+                    "name": "The Elephant of Surprise / The Chicken and the Egg",
+                    "overview": "Piper and the Three Billy Goats Gruff outsmart the Bridge Troll. / The King's Knights help Piper put Humpty Dumpty back together again.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/zdWpN3KqYFGBdMD7jEVe2o395XG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b722a410c80079219fec",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1251219,
+                            "known_for_department": "Writing",
+                            "name": "Ron Holsey",
+                            "original_name": "Ron Holsey",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b8b8fb8346007c48f3c7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3743357,
+                            "known_for_department": "Writing",
+                            "name": "Josh Riley Brown",
+                            "original_name": "Josh Riley Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4059109,
+                    "name": "Hercul-easy / The Lion, the Mouse and the Chicken",
+                    "overview": "In Greece, Piper attempts to make Hercules’ heroic journey easier. / A lion with a thorn in his paw seeks Piper's help to outrun a helpful mouse.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/4WZaVPQe7IrPJOeFAH9QOeXVIyY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b8ed0398ab00a8fb4f53",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2174411,
+                            "known_for_department": "Writing",
+                            "name": "Jennifer Keene",
+                            "original_name": "Jennifer Keene",
+                            "popularity": 0.077,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b92e229ae2155c54b8ec",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3808186,
+                            "known_for_department": "Writing",
+                            "name": "Laura Kleinbaum",
+                            "original_name": "Laura Kleinbaum",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4059111,
+                    "name": "Where's the Party? / Chicken Out West",
+                    "overview": "Piper, Aladdin, and Genie search for the perfect place to host an ice cream party. / Piper joins the Pony Express for a cross-country adventure.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/7LdtFJ1strlUTMIPRkhTIk9B3jG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bbfecb802800a872ffcf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3212136,
+                            "known_for_department": "Writing",
+                            "name": "Scott Gray",
+                            "original_name": "Scott Gray",
+                            "popularity": 0.429,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bc3a5ed8e900ca727a3d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3641012,
+                            "known_for_department": "Writing",
+                            "name": "Jessica Welsh",
+                            "original_name": "Jessica Welsh",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Penelope (voice)",
+                            "credit_id": "64c5594363aad2020ec33891",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1217658,
+                            "known_for_department": "Acting",
+                            "name": "Julie Nathanson",
+                            "original_name": "Julie Nathanson",
+                            "popularity": 10.191,
+                            "profile_path": "/3f0AHlAUCBEMsGd5O6fqTeQ8yrd.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4059113,
+                    "name": "Disco Chickens / Little Red and the Little Red Chicken",
+                    "overview": "At a disco roller rink, Piper investigates how Grandma and Grandpa met. / Piper tries to warn Little Red Riding Hood about the Big Bad Wolf.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/jxwNTJZGjTKT1thEIVskMRf7yBl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bc865ed8e900ca727a96",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3808193,
+                            "known_for_department": "Writing",
+                            "name": "Alex Mack",
+                            "original_name": "Alex Mack",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bca9a410c8008cd5cca8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35746,
+                            "known_for_department": "Writing",
+                            "name": "Dave Polsky",
+                            "original_name": "Dave Polsky",
+                            "popularity": 0.525,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4059115,
+                    "name": "Dawn of Wonder Chicken / The Chicken Who Cried Wolf",
+                    "overview": "Piper transforms into Wonder Chicken to save Chickenopolis. / After a shepherd boy cries wolf, Piper helps him find his lost sheep.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b8b8fb8346007c48f3c7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3743357,
+                            "known_for_department": "Writing",
+                            "name": "Josh Riley Brown",
+                            "original_name": "Josh Riley Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bd3b0398ab007c87c846",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1251220,
+                            "known_for_department": "Writing",
+                            "name": "Lazar Saric",
+                            "original_name": "Lazar Saric",
+                            "popularity": 2.303,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Guard Monster / Boy",
+                            "credit_id": "63cf11eb028f14007f5c64a0",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1116802,
+                            "known_for_department": "Acting",
+                            "name": "Jet Jurgensmeyer",
+                            "original_name": "Jet Jurgensmeyer",
+                            "popularity": 10.711,
+                            "profile_path": "/gxZeJjBYmIvxuOOa1Ql1kFTNC6L.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4059117,
+                    "name": "Arizona Chickenstone and the Temple of the Troll / The Chicken and the Beanstalk",
+                    "overview": "As a world explorer, Piper rescues an artifact from a hidden jungle temple. / Piper reimagines Jack and the Beanstalk from the Giant's perspective.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/oR6CFxiVPrYKW69UuN7GHUVo5Za.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b8ed0398ab00a8fb4f53",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2174411,
+                            "known_for_department": "Writing",
+                            "name": "Jennifer Keene",
+                            "original_name": "Jennifer Keene",
+                            "popularity": 0.077,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bbfecb802800a872ffcf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3212136,
+                            "known_for_department": "Writing",
+                            "name": "Scott Gray",
+                            "original_name": "Scott Gray",
+                            "popularity": 0.429,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4059119,
+                    "name": "Dr. Chickenstein / The Sorcerer's Thesaurus",
+                    "overview": "On Halloween, Piper writes a spooky monster story. / Piper helps the Sorcerer's Apprentice use magic to defeat a four-headed dragon.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/2TiadBWLTF7L3hs9g6aUK5K1lJ0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386c0642e06970245e81621",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 584803,
+                            "known_for_department": "Writing",
+                            "name": "Tim McKeon",
+                            "original_name": "Tim McKeon",
+                            "popularity": 0.682,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386c114cb802800813a3384",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261402,
+                            "known_for_department": "Writing",
+                            "name": "Mark De Angelis",
+                            "original_name": "Mark De Angelis",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-12-01",
+                    "episode_number": 9,
+                    "episode_type": "finale",
+                    "id": 4083067,
+                    "name": "A Chicken Carol",
+                    "overview": "When Ebenezer Wolf decides to cancel the holidays, Piper teams up with the Three Little Pigs and some ghostly friends to change his mind.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 209131,
+                    "still_path": "/pbDBOXQmf6yw6APC65CGNmZv10t.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b722a410c80079219fec",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1251219,
+                            "known_for_department": "Writing",
+                            "name": "Ron Holsey",
+                            "original_name": "Ron Holsey",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 306546,
+            "poster_path": "/Av52YtR9fvE0aqPrso1fbkM1fDC.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "650324f46a222700aba9c1e8",
+            "air_date": "2023-09-28",
+            "episodes": [
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4730783,
+                    "name": "Captain Claw’s Clawsome Quest / Cinderella’s Story",
+                    "overview": "Piper sets sail with a pirate crew to search for treasure. / When a favorite book falls apart, Piper and friends try to piece it back together.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/3Bh68kwTEgbsWPUd7M5xfdo3KqH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b92e229ae2155c54b8ec",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3808186,
+                            "known_for_department": "Writing",
+                            "name": "Laura Kleinbaum",
+                            "original_name": "Laura Kleinbaum",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6690235eebd679fc49b3a1b9",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2865319,
+                            "known_for_department": "Acting",
+                            "name": "Alex Mack",
+                            "original_name": "Alex Mack",
+                            "popularity": 0.161,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4749783,
+                    "name": "Funky Chicken / Hansel & Gretel and the Chicken",
+                    "overview": "Papa’s friend shares his passion for hip-hop. / Piper rewrites a time-honored tale to make it a little less spooky.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/68YGK4craNJlsMYNuLLy23zHHXj.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b722a410c80079219fec",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1251219,
+                            "known_for_department": "Writing",
+                            "name": "Ron Holsey",
+                            "original_name": "Ron Holsey",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bc3a5ed8e900ca727a3d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3641012,
+                            "known_for_department": "Writing",
+                            "name": "Jessica Welsh",
+                            "original_name": "Jessica Welsh",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4749785,
+                    "name": "Save the Stalk! / Why Did the Chicken Cross the Road?",
+                    "overview": "Grandpa encourages Piper to help a struggling storybook character. / A friendly lion looks to Piper for guidance on how to be funny.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/mGeX8OBGVqsk70E3gqOcItdYooC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bbfecb802800a872ffcf",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3212136,
+                            "known_for_department": "Writing",
+                            "name": "Scott Gray",
+                            "original_name": "Scott Gray",
+                            "popularity": 0.429,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6690243b3c8bec76e8cc3b7d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3329904,
+                            "known_for_department": "Writing",
+                            "name": "Andrew Blanchette",
+                            "original_name": "Andrew Blanchette",
+                            "popularity": 0.018,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4749787,
+                    "name": "Mary Had a Little Chicken / The Princess, the Chicken and the Pea",
+                    "overview": "Piper puts fun genre twists on a familiar favorite. / When a royal athlete can’t fall asleep, Piper leaps into action.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b8b8fb8346007c48f3c7",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3743357,
+                            "known_for_department": "Writing",
+                            "name": "Josh Riley Brown",
+                            "original_name": "Josh Riley Brown",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6690243b3c8bec76e8cc3b7d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3329904,
+                            "known_for_department": "Writing",
+                            "name": "Andrew Blanchette",
+                            "original_name": "Andrew Blanchette",
+                            "popularity": 0.018,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4749789,
+                    "name": "The Magnificent Magician of the Mailbox / Once Upon a Chicken",
+                    "overview": "Theodore, Duckston and Piper work together on an illustrated story. / Mrs. Slothworth teaches the class about fairy-tale clichés.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/6T934nQy9FjwnqqZCMI9i4fUtkm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bc3a5ed8e900ca727a3d",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3641012,
+                            "known_for_department": "Writing",
+                            "name": "Jessica Welsh",
+                            "original_name": "Jessica Welsh",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "669024ff62b1651cfc807dba",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2779107,
+                            "known_for_department": "Writing",
+                            "name": "Isabel Galupo",
+                            "original_name": "Isabel Galupo",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4749791,
+                    "name": "The Royal Rollercoaster / Clucky Sinclair and the Three Bears",
+                    "overview": "Piper and friends help the King build an exciting new ride. / Hoping to solve a mystery, Piper transforms into a detective.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/g7r2VfB0gI31YjAnpKKQhdKwFBa.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b92e229ae2155c54b8ec",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3808186,
+                            "known_for_department": "Writing",
+                            "name": "Laura Kleinbaum",
+                            "original_name": "Laura Kleinbaum",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386bca9a410c8008cd5cca8",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 35746,
+                            "known_for_department": "Writing",
+                            "name": "Dave Polsky",
+                            "original_name": "Dave Polsky",
+                            "popularity": 0.525,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4749793,
+                    "name": "Wonder Chicken Returns / Professor Goose Visits",
+                    "overview": "Grandma teaches a valuable lesson as Piper suits up for a superhero mission. / A popular author sparks creativity for Mrs. Slothworth’s class.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/lwG8PhlkV3Fl8BEkdrAHL6ZstE7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b722a410c80079219fec",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1251219,
+                            "known_for_department": "Writing",
+                            "name": "Ron Holsey",
+                            "original_name": "Ron Holsey",
+                            "popularity": 0.739,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386b92e229ae2155c54b8ec",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3808186,
+                            "known_for_department": "Writing",
+                            "name": "Laura Kleinbaum",
+                            "original_name": "Laura Kleinbaum",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-28",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4749795,
+                    "name": "Starting From Scratch / Snow White’s Seven",
+                    "overview": "Benjamin asks Piper to create an original story. / Piper meets new friends while trying to unlock the gates of the royal kingdom.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 209131,
+                    "still_path": "/wiCSFHOjBTkR6ltEHAiTS39XRz9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6386c114cb802800813a3384",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1261402,
+                            "known_for_department": "Writing",
+                            "name": "Mark De Angelis",
+                            "original_name": "Mark De Angelis",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6690263b397d7e6da8807d97",
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3042851,
+                            "known_for_department": "Acting",
+                            "name": "Robby Hoffman",
+                            "original_name": "Robby Hoffman",
+                            "popularity": 0.011,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 356819,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

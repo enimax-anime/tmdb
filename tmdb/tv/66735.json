@@ -1,0 +1,146 @@
+{
+    "adult": false,
+    "backdrop_path": "/2GOsBYLOXPlWs71BcxKcM7LnTmD.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-06-09",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.aetv.com/shows/streets-of-compton",
+    "id": 66735,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-06-16",
+    "last_episode_to_air": {
+        "id": 1200086,
+        "name": "Part 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-06-16",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 66735,
+        "still_path": null
+    },
+    "name": "Streets of Compton",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 129,
+            "logo_path": "/ptSTdU4GPNJ1M8UVEOtA0KgtuNk.png",
+            "name": "A&E",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Streets of Compton",
+    "overview": "The history of the city of Compton is spotlighted, featuring interviews with prominent residents and an examination of the impact drugs, gangs and political strife had on its music and culture.",
+    "popularity": 0.296,
+    "poster_path": "/w2nhZaIz6oR9S0rjASyvkJgZAnH.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-06-09",
+            "episode_count": 3,
+            "id": 77683,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5759c4a29251416b5300044c",
+            "air_date": "2016-06-09",
+            "episodes": [
+                {
+                    "air_date": "2016-06-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1198675,
+                    "name": "pilot",
+                    "overview": "The history of the city of Compton is spotlighted, featuring interviews with prominent residents and an examination of the impact drugs, gangs and political strife had on its music and culture.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66735,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1199993,
+                    "name": "Part 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66735,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2016-06-16",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1200086,
+                    "name": "Part 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 66735,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 77683,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "adult": false,
+    "backdrop_path": "/5KYb2QEsq25JTtpFCyRmRNey47v.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        25
+    ],
+    "first_air_date": "2024-10-13",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 274766,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-10-13",
+    "last_episode_to_air": {
+        "id": 5690983,
+        "name": "Episode 4",
+        "overview": "The secret is discovered. The enemy is revealed. Escape is impossible. And now Kevin is the only one who can save his family.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-10-13",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 274766,
+        "still_path": null
+    },
+    "name": "The Unreal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 7848,
+            "logo_path": "/AbDw9DJmQTnJhOSq1II4GT3kER7.png",
+            "name": "RTÉ Kids (IE)",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "IE"
+    ],
+    "original_language": "en",
+    "original_name": "The Unreal",
+    "overview": "Kevin is stuck in a boring holiday park with his family, when he discovers a video-tape from an obscure 1980s TV show. When he plays the video he accidentally unleashes a strange creature known as the Pooka into the world. The Pooka causes chaos and Kevin gets the blame. His family don’t believe him when he tells them it’s the creature’s fault.",
+    "popularity": 3.343,
+    "poster_path": "/tTqUtJYYiRP6Nt8mry90ByTqHfR.jpg",
+    "production_companies": [
+        {
+            "id": 1923,
+            "logo_path": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+            "name": "RTÉ",
+            "origin_country": "IE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-10-13",
+            "episode_count": 4,
+            "id": 424498,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/f0BGsXYAViWQElQlabLJNnsKhSw.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "6715aee19943637ce5828bd9",
+            "air_date": "2024-10-13",
+            "episodes": [
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5689936,
+                    "name": "Episode 1",
+                    "overview": "When Kevin plays a video-tape from an old 1980s TV show, strange and spooky things start to happen .....and Kevin gets the blame.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 274766,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5690981,
+                    "name": "Episode 2",
+                    "overview": "Kevin and the Caretaker investigate the strange creature known as the Pooka....and uncover an incredible supernatural mystery.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 274766,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5690982,
+                    "name": "Episode 3",
+                    "overview": "Kevin and his sister struggle to keep the latest revelations a secret, while joining the Caretaker on a Pooka hunt.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 274766,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-10-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5690983,
+                    "name": "Episode 4",
+                    "overview": "The secret is discovered. The enemy is revealed. Escape is impossible. And now Kevin is the only one who can save his family.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 274766,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 424498,
+            "poster_path": "/f0BGsXYAViWQElQlabLJNnsKhSw.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

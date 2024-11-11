@@ -1,0 +1,551 @@
+{
+    "adult": false,
+    "backdrop_path": "/90PWUIHcP0Z0J1F70Ar1HdG4sZV.jpg",
+    "created_by": [
+        {
+            "id": 1212667,
+            "credit_id": "62acd122a5d849005391a686",
+            "name": "Nathan Fielder",
+            "original_name": "Nathan Fielder",
+            "gender": 2,
+            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2022-07-15",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.hbo.com/the-rehearsal",
+    "id": 204284,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2022-08-19",
+    "last_episode_to_air": {
+        "id": 3791317,
+        "name": "Pretend Daddy",
+        "overview": "The aftermath of a birthday party causes Nathan to re-evaluate his entire project.",
+        "vote_average": 8.7,
+        "vote_count": 3,
+        "air_date": "2022-08-19",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 32,
+        "season_number": 1,
+        "show_id": 204284,
+        "still_path": "/lhnntfihixxQXrHGxawdgy6oUvl.jpg"
+    },
+    "name": "The Rehearsal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 49,
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Rehearsal",
+    "overview": "With a construction crew, a legion of actors, and seemingly unlimited resources, Nathan Fielder allows ordinary people to prepare for life’s biggest moments by “rehearsing” them in carefully crafted simulations of his own design. When a single misstep could shatter your entire world, why leave life to chance?",
+    "popularity": 11.46,
+    "poster_path": "/uI2nDcPa92UDK6c88J4Mni7yHqR.jpg",
+    "production_companies": [
+        {
+            "id": 178370,
+            "logo_path": null,
+            "name": "Rise Management",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-07-15",
+            "episode_count": 6,
+            "id": 297810,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uI2nDcPa92UDK6c88J4Mni7yHqR.jpg",
+            "season_number": 1,
+            "vote_average": 8.8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Why leave life to chance?",
+    "type": "Documentary",
+    "vote_average": 8.065,
+    "vote_count": 154,
+    "season_data": {
+        "1": {
+            "_id": "62acce4e23d278005180bbd5",
+            "air_date": "2022-07-15",
+            "episodes": [
+                {
+                    "air_date": "2022-07-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3791295,
+                    "name": "Orange Juice, No Pulp",
+                    "overview": "Nathan Fielder helps a Brooklyn-based trivia aficionado come clean to his teammate about a long-held lie.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/Agcvyw6kALEX33Dkv4ITyfzluCX.jpg",
+                    "vote_average": 9.2,
+                    "vote_count": 5,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62accf63cba36f0063247ea6",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1665161,
+                            "known_for_department": "Production",
+                            "name": "Clark Reinking",
+                            "original_name": "Clark Reinking",
+                            "popularity": 0.152,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Fake Tricia",
+                            "credit_id": "62df3c1d5ca7040b2ad3137b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1360226,
+                            "known_for_department": "Acting",
+                            "name": "Gigi Burgdorf",
+                            "original_name": "Gigi Burgdorf",
+                            "popularity": 0.133,
+                            "profile_path": "/2vnB62wtIdLqb3Qpl27c7pZKzvV.jpg"
+                        },
+                        {
+                            "character": "Fake Kor",
+                            "credit_id": "62df3c85ea84c714e587fe4f",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 143328,
+                            "known_for_department": "Acting",
+                            "name": "K. Todd Freeman",
+                            "original_name": "K. Todd Freeman",
+                            "popularity": 0.883,
+                            "profile_path": "/2v7WacMtmuX6MrUx6X5bvy0gk8O.jpg"
+                        },
+                        {
+                            "character": "Fake Trivia Host",
+                            "credit_id": "62df3c9dd2b209004db29afe",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2654899,
+                            "known_for_department": "Acting",
+                            "name": "Tony Nation",
+                            "original_name": "Tony Nation",
+                            "popularity": 0.039,
+                            "profile_path": "/x8YlzfHPDt07mjOYr35uKCXa9Rx.jpg"
+                        },
+                        {
+                            "character": "Fake Bartender",
+                            "credit_id": "62df3ce45ca7040b2856704b",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2959532,
+                            "known_for_department": "Acting",
+                            "name": "Vilma Ortiz Donovan",
+                            "original_name": "Vilma Ortiz Donovan",
+                            "popularity": 0.003,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-07-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3791313,
+                    "name": "Scion",
+                    "overview": "Nathan allows an Oregon woman to prepare for motherhood by simulating the experience of raising a child from zero to eighteen.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/pfWHY5k16XXqRBCMGLh7jnV7bUg.jpg",
+                    "vote_average": 8.2,
+                    "vote_count": 4,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62ad0afe0d9f5a00630df686",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939251,
+                            "known_for_department": "Directing",
+                            "name": "David Paige",
+                            "original_name": "David Paige",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-07-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3791314,
+                    "name": "Gold Digger",
+                    "overview": "While Angela continues to raise her “son,” Nathan goes to new lengths to help a man prepare for a difficult conversation.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/jNznw2353CjHVwugawG5NjUcKev.jpg",
+                    "vote_average": 9,
+                    "vote_count": 4,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62ad0afe0d9f5a00630df686",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939251,
+                            "known_for_department": "Directing",
+                            "name": "David Paige",
+                            "original_name": "David Paige",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-05",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3791315,
+                    "name": "The Fielder Method",
+                    "overview": "Nathan travels to LA to train actors for his show.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/3h96iwTHroJZkbPWAV0G125cNEe.jpg",
+                    "vote_average": 9,
+                    "vote_count": 4,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62ad0afe0d9f5a00630df686",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939251,
+                            "known_for_department": "Directing",
+                            "name": "David Paige",
+                            "original_name": "David Paige",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Adam age 15",
+                            "credit_id": "63d809b212b10e0093e8e22d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3242088,
+                            "known_for_department": "Acting",
+                            "name": "Joshua Benard",
+                            "original_name": "Joshua Benard",
+                            "popularity": 0.864,
+                            "profile_path": "/sOPii7WWI9C5vMhBDrfHUC8NoWH.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-12",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3791316,
+                    "name": "Apocalypto",
+                    "overview": "After a visit from his parents, Nathan struggles to stick up for his values.",
+                    "production_code": "",
+                    "runtime": 31,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/oV1WRodB5pE1PO3XYdSwvrWBahQ.jpg",
+                    "vote_average": 8.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62ad0afe0d9f5a00630df686",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939251,
+                            "known_for_department": "Directing",
+                            "name": "David Paige",
+                            "original_name": "David Paige",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Adam age 15",
+                            "credit_id": "63d809b212b10e0093e8e22d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3242088,
+                            "known_for_department": "Acting",
+                            "name": "Joshua Benard",
+                            "original_name": "Joshua Benard",
+                            "popularity": 0.864,
+                            "profile_path": "/sOPii7WWI9C5vMhBDrfHUC8NoWH.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-19",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3791317,
+                    "name": "Pretend Daddy",
+                    "overview": "The aftermath of a birthday party causes Nathan to re-evaluate his entire project.",
+                    "production_code": "",
+                    "runtime": 32,
+                    "season_number": 1,
+                    "show_id": 204284,
+                    "still_path": "/lhnntfihixxQXrHGxawdgy6oUvl.jpg",
+                    "vote_average": 8.7,
+                    "vote_count": 3,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "62d36cf5cf62cd006773fd0c",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "62d36cfcd465370055f72ab1",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1212667,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Fielder",
+                            "original_name": "Nathan Fielder",
+                            "popularity": 15.792,
+                            "profile_path": "/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+                        },
+                        {
+                            "job": "Executive Producer",
+                            "department": "Production",
+                            "credit_id": "62ad0afe0d9f5a00630df686",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 939251,
+                            "known_for_department": "Directing",
+                            "name": "David Paige",
+                            "original_name": "David Paige",
+                            "popularity": 0.769,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 297810,
+            "poster_path": "/uI2nDcPa92UDK6c88J4Mni7yHqR.jpg",
+            "season_number": 1,
+            "vote_average": 8.8
+        }
+    }
+}

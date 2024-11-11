@@ -1,0 +1,291 @@
+{
+    "adult": false,
+    "backdrop_path": "/vIZVJXNCzUigKUaOEOUk7tgpYPE.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        23
+    ],
+    "first_air_date": "2020-01-10",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "http://www.cc.com/shows/bill-burr-presents-the-ringers",
+    "id": 97300,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-02-14",
+    "last_episode_to_air": {
+        "id": 2038798,
+        "name": "Gavin Matts, Brenton Biddlecombe, Punkie Johnson",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-02-14",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 23,
+        "season_number": 1,
+        "show_id": 97300,
+        "still_path": null
+    },
+    "name": "Bill Burr Presents: The Ringers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 47,
+            "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+            "name": "Comedy Central",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bill Burr Presents: The Ringers",
+    "overview": "Legendary comedian Bill Burr curates stand-up from a lineup of exciting up-and-coming comics.",
+    "popularity": 1.772,
+    "poster_path": "/6GyZVcien04XrIZ1iCDrDyvxP6y.jpg",
+    "production_companies": [
+        {
+            "id": 109715,
+            "logo_path": "/kFNhhuKpTlDKla243zceGMvNd2C.png",
+            "name": "All Things Comedy",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-01-10",
+            "episode_count": 6,
+            "id": 139913,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6GyZVcien04XrIZ1iCDrDyvxP6y.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5e1107b35907de0017db6429",
+            "air_date": "2020-01-10",
+            "episodes": [
+                {
+                    "air_date": "2020-01-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2038792,
+                    "name": "Rosebud Baker, Jordan Temple, Josh Adam Meyers",
+                    "overview": "Rosebud Baker reveals her grandfather was a secretary of state, Jordan Temple recounts getting pulled over in a cab, and Josh Adam Meyers critiques a Journey music video.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": "/pOXohCKylIlOssQqiCSylOuooCv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Herself",
+                            "credit_id": "5e1697870cb3350013041e7b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1355795,
+                            "known_for_department": "Acting",
+                            "name": "Rosebud Baker",
+                            "original_name": "Rosebud Baker",
+                            "popularity": 0.768,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e1697940cb3350013041ea7",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2504620,
+                            "known_for_department": "Writing",
+                            "name": "Jordan Temple",
+                            "original_name": "Jordan Temple",
+                            "popularity": 0.591,
+                            "profile_path": "/zntLtd0gzrM3R2wmeVYywi945Sq.jpg"
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e1697a51f748b0012852c79",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2504621,
+                            "known_for_department": "Acting",
+                            "name": "Josh Adam Meyers",
+                            "original_name": "Josh Adam Meyers",
+                            "popularity": 0.001,
+                            "profile_path": "/uM8NS3UyzStKuUKXx2SoK0ht5tR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2038793,
+                    "name": "Kiry Shabazz, J.F. Harris, Rick Ingraham",
+                    "overview": "Kiry Shabazz confesses he doesn’t always answer his brother’s calls, J.F. Harris talks about dealing with drunks, and Rick Ingraham discloses what it’s like being from Kansas.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": "/JezMaFRdo2ioWCC7qWM3BFOUzE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e1697b5cf4b8b0011808a14",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2504622,
+                            "known_for_department": "Acting",
+                            "name": "Kiry Shabazz",
+                            "original_name": "Kiry Shabazz",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e1697d00cb3350017043634",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2504623,
+                            "known_for_department": "Acting",
+                            "name": "J.F. Harris",
+                            "original_name": "J.F. Harris",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Himself",
+                            "credit_id": "5e1697d81f748b0012852df2",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2504624,
+                            "known_for_department": "Acting",
+                            "name": "Rick Ingraham",
+                            "original_name": "Rick Ingraham",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2038794,
+                    "name": "Ismael Loutfi, Luke Schwartz, Eleanor Kerrigan",
+                    "overview": "Ismael Loutfi explains how to learn about Muslim culture, Luke Schwartz talks about being jealous of a vibrator, and Eleanor Kerrigan questions why her mother had 10 kids.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-01-31",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2038796,
+                    "name": "Caleb Synan, Chase Bernstein, Joey Villagomez",
+                    "overview": "Caleb Synan reflects on growing up in a small town, Chase Bernstein shares her friend’s dating strategy, and Joey Villagomez advises against smoking weed at a vegan’s house.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2038797,
+                    "name": "Steph Tolev, Ron Taylor, Mark Ellis",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-14",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2038798,
+                    "name": "Gavin Matts, Brenton Biddlecombe, Punkie Johnson",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 97300,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 139913,
+            "poster_path": "/6GyZVcien04XrIZ1iCDrDyvxP6y.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

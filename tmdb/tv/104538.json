@@ -1,0 +1,107 @@
+{
+    "adult": false,
+    "backdrop_path": "/pcrIQvGITTxP4fENLJQIPjnCECI.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2015-07-14",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 104538,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2015-07-14",
+    "last_episode_to_air": {
+        "id": 2300874,
+        "name": "Season 1, Episode 1",
+        "overview": "Season 1, Episode 1",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2015-07-14",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 104538,
+        "still_path": null
+    },
+    "name": "Natural Born Monsters",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Natural Born Monsters",
+    "overview": "Hidden across our planet are unique worlds, born from millions of years of intense weather. From arid deserts to humid jungles to frigid mountains, these extreme climates are governed by their own laws of nature - and populated with their own unique breed of MONSTERS. From the highly venomous tiger snake born out of the windswept Chappell Island off Australia to the adaptable killer crocodiles of The Nile, these monsters have evolved from our planet's most extreme climates. They've been hidden away for centuries, and now one man is taking it upon himself to expose their existence to the world. Explorer Sean Duggan journeys to the far-flung corners of the planet to unearth these peculiar and dangerous animals that have been produced by weather itself.",
+    "popularity": 0.593,
+    "poster_path": "/lQOPT3PwJJ4dhUzlh3zqnF7ISaI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2015-07-14",
+            "episode_count": 1,
+            "id": 153004,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5edd557eb42242002293acc8",
+            "air_date": "2015-07-14",
+            "episodes": [
+                {
+                    "air_date": "2015-07-14",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2300874,
+                    "name": "Season 1, Episode 1",
+                    "overview": "Season 1, Episode 1",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 104538,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 153004,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

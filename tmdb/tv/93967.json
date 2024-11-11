@@ -1,0 +1,581 @@
+{
+    "adult": false,
+    "backdrop_path": "/sMucqGPaJEs3SnC4aYKUzQ5pNZi.jpg",
+    "created_by": [
+        {
+            "id": 13309,
+            "credit_id": "5d890b63d9f4a600184d3dae",
+            "name": "Oprah Winfrey",
+            "original_name": "Oprah Winfrey",
+            "gender": 1,
+            "profile_path": "/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+        }
+    ],
+    "episode_run_time": [
+        60,
+        43,
+        19,
+        36,
+        12
+    ],
+    "first_air_date": "2019-11-01",
+    "genres": [
+        {
+            "id": 10767,
+            "name": "Talk"
+        }
+    ],
+    "homepage": "https://tv.apple.com/us/show/oprahs-book-club/umc.cmc.5h8lbz88c6dbjm6suhviylcui",
+    "id": 93967,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-10-22",
+    "last_episode_to_air": {
+        "id": 4142778,
+        "name": "Richard Powers: Bewilderment",
+        "overview": "Oprah and Powers talk about his first novel since a Pulitzer Prize win, finding empathy through our differences, and his hopes for our planet.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-10-22",
+        "episode_number": 14,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 29,
+        "season_number": 1,
+        "show_id": 93967,
+        "still_path": null
+    },
+    "name": "Oprah's Book Club",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2552,
+            "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+            "name": "Apple TV+",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Oprah's Book Club",
+    "overview": "Get a front row seat to unguarded conversations with incredible authors. It’s a book club for today’s world.",
+    "popularity": 3.973,
+    "poster_path": "/j4VexJpHR0k4SpvtD4asz72z2L2.jpg",
+    "production_companies": [
+        {
+            "id": 70230,
+            "logo_path": null,
+            "name": "Harpo Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-11-01",
+            "episode_count": 14,
+            "id": 132990,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/j4VexJpHR0k4SpvtD4asz72z2L2.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Read. Watch. Discuss.",
+    "type": "Talk Show",
+    "vote_average": 4,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5d890b09b76cbb0027e43846",
+            "air_date": "2019-11-01",
+            "episodes": [
+                {
+                    "air_date": "2019-11-01",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1937105,
+                    "name": "Ta-Nehisi Coates: The Water Dancer",
+                    "overview": "Oprah and Ta-Nehisi discuss the 10-year process of writing his #1 best-selling debut novel and the cultural conversation it has provoked. Plus, Ta-Nehisi visits Monticello, which inspired his book’s setting.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/5ALfNnzZHjXcaVGtJDDsOsFUjiX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5d890cc1172d7f001f4bfc4b",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1962705,
+                            "known_for_department": "Writing",
+                            "name": "Ta-Nehisi Coates",
+                            "original_name": "Ta-Nehisi Coates",
+                            "popularity": 1.824,
+                            "profile_path": "/s8mRwuQQyxs26DpasgQWqi3ycCR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-01-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2057504,
+                    "name": "Elizabeth Strout: Olive, Again",
+                    "overview": "Elizabeth tells Oprah how her celebrated protagonist reappeared and why she finds the everydayness of life to be extraordinary.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/tv2GBDlalfHVBoAgVJGtdRTiyal.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5e264640091e62000f4d8475",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2012719,
+                            "known_for_department": "Writing",
+                            "name": "Elizabeth Strout",
+                            "original_name": "Elizabeth Strout",
+                            "popularity": 0.109,
+                            "profile_path": "/v068qIpYD7WznJZ0uwZQQDY3rF2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2185201,
+                    "name": "Jeanine Cummins: American Dirt, Part 1",
+                    "overview": "Jeanine and Oprah are joined by authors Reyna Grande, Julissa Arce, and Esther Cepeda for a raw, revealing conversation about the novel.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/uB4e9CbbChRtP20OMDNIdvwXyiF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5e676f45357c0000113b34db",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2561858,
+                            "known_for_department": "Acting",
+                            "name": "Reyna Grande",
+                            "original_name": "Reyna Grande",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5e676f5d151c5c001902a4f7",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1789684,
+                            "known_for_department": "Acting",
+                            "name": "Julissa Arce",
+                            "original_name": "Julissa Arce",
+                            "popularity": 0.1,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5e676f6e357c0000113b34fb",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2561859,
+                            "known_for_department": "Acting",
+                            "name": "Esther Cepeda",
+                            "original_name": "Esther Cepeda",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "5e676f3acee2f600159659e6",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2561857,
+                            "known_for_department": "Acting",
+                            "name": "Jeanine Cummins",
+                            "original_name": "Jeanine Cummins",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-03-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2185203,
+                    "name": "Jeanine Cummins: American Dirt, Part 2",
+                    "overview": "Latinx people who saw themselves reflected in the book share insights into real-life migrant experiences.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/32kExu58rDkp3KIfpcHzwLL47oX.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5e676f3acee2f600159659e6",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2561857,
+                            "known_for_department": "Acting",
+                            "name": "Jeanine Cummins",
+                            "original_name": "Jeanine Cummins",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-06-12",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2464416,
+                    "name": "Robert Kolker: Hidden Valley Road",
+                    "overview": "Oprah has in-depth discussions with author Kolker and surviving members of the Galvin family about living this extraordinary true story.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/8T2RnEpFE0CaFGWhaXpySfLRG3Z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f873d83f3b49a0036b4b968",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1450308,
+                            "known_for_department": "Acting",
+                            "name": "Robert Kolker",
+                            "original_name": "Robert Kolker",
+                            "popularity": 0.137,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-07-30",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2464418,
+                    "name": "James McBride: Deacon King Kong",
+                    "overview": "Oprah and McBride discuss how his novel speaks to the current moment, his focus on the Black experience, and the inspiration for his characters.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/6hbfBSIuCUQMxU48ZqR5fRAnVNB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f873d94f3b49a0034b591bc",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 72135,
+                            "known_for_department": "Writing",
+                            "name": "James McBride",
+                            "original_name": "James McBride",
+                            "popularity": 0.216,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2020-10-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2464419,
+                    "name": "Isabel Wilkerson: Caste",
+                    "overview": "Calling the book ”a must-read for all of humanity,” Oprah asks Wilkerson what compelled her to write it and why we need a new language for race.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": "/xOriSWyaidRa6y7G5YPn6Su2kM4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "5f873da6a8067300363c6e3b",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1923274,
+                            "known_for_department": "Acting",
+                            "name": "Isabel Wilkerson",
+                            "original_name": "Isabel Wilkerson",
+                            "popularity": 0.572,
+                            "profile_path": "/5GD5QBRdexuSSnMgnko10oaCxxi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-23",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3094178,
+                    "name": "Marilynne Robinson: Gilead",
+                    "overview": "Oprah talks to Robinson about her Pulitzer Prize-winning second novel, finding the character of John Ames, and how faith shapes her writing.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "60ff473533ec26002f6ef395",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 543594,
+                            "known_for_department": "Writing",
+                            "name": "Marilynne Robinson",
+                            "original_name": "Marilynne Robinson",
+                            "popularity": 0.014,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-30",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3094179,
+                    "name": "Marilynne Robinson: Home",
+                    "overview": "Robinson explains what inspired her to revisit the story of Gilead from different points of view and why she chose to address the subject of race.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "60ff473533ec26002f6ef395",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 543594,
+                            "known_for_department": "Writing",
+                            "name": "Marilynne Robinson",
+                            "original_name": "Marilynne Robinson",
+                            "popularity": 0.014,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-07",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3094180,
+                    "name": "Marilynne Robinson: Lila",
+                    "overview": "Oprah and Robinson discuss finding new layers in established characters, what America looks like at its best, and how loneliness can be a privilege.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "60ff473533ec26002f6ef395",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 543594,
+                            "known_for_department": "Writing",
+                            "name": "Marilynne Robinson",
+                            "original_name": "Marilynne Robinson",
+                            "popularity": 0.014,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-05-14",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3094182,
+                    "name": "Marilynne Robinson: Jack",
+                    "overview": "Discussing the fourth Gilead novel, Robinson opens up about its interracial romance, her writing process, and the possibility of more stories.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "60ff473533ec26002f6ef395",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 543594,
+                            "known_for_department": "Writing",
+                            "name": "Marilynne Robinson",
+                            "original_name": "Marilynne Robinson",
+                            "popularity": 0.014,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-07-23",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 3094183,
+                    "name": "Nathan Harris: The Sweetness of Water",
+                    "overview": "Oprah sits down with Harris to discuss his debut novel's inspiration, his writing process, and how a biracial upbringing shaped his point of view.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "60ff4777a58902005d70ca85",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3173850,
+                            "known_for_department": "Acting",
+                            "name": "Nathan Harris",
+                            "original_name": "Nathan Harris",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-09-23",
+                    "episode_number": 13,
+                    "episode_type": "standard",
+                    "id": 3239296,
+                    "name": "Honorée Fanonne Jeffers: The Love Songs of W.E.B. Du Bois",
+                    "overview": "The acclaimed poet opens up to Oprah about the inspiration for her epic debut novel and what she hopes to impart about the Black experience.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "614e1ae4fb834600611fdad3",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3246401,
+                            "known_for_department": "Acting",
+                            "name": "Honorée Fanonne Jeffers",
+                            "original_name": "Honorée Fanonne Jeffers",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-10-22",
+                    "episode_number": 14,
+                    "episode_type": "finale",
+                    "id": 4142778,
+                    "name": "Richard Powers: Bewilderment",
+                    "overview": "Oprah and Powers talk about his first novel since a Pulitzer Prize win, finding empathy through our differences, and his hopes for our planet.",
+                    "production_code": "",
+                    "runtime": 29,
+                    "season_number": 1,
+                    "show_id": 93967,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 132990,
+            "poster_path": "/j4VexJpHR0k4SpvtD4asz72z2L2.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

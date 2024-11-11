@@ -1,0 +1,592 @@
+{
+    "adult": false,
+    "backdrop_path": "/c1wBucDd0HkgLOOkXYDmHBvsgXo.jpg",
+    "created_by": [
+        {
+            "id": 3469257,
+            "credit_id": "628ff38ea6fdaa00505b770b",
+            "name": "Simone Nathan",
+            "original_name": "Simone Nathan",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2022-05-26",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.tvnz.co.nz/shows/kid-sister",
+    "id": 202894,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-12-07",
+    "last_episode_to_air": {
+        "id": 4997318,
+        "name": "A Bird and a Fish",
+        "overview": "The divided family are forced to attend Hershey’s party. Lulu must confront her avoidance of the baby she gave away - but is it too late for her and Ollie?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-12-07",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 2,
+        "show_id": 202894,
+        "still_path": "/rO4tTYcQM3uX3GutTuU3w1gwite.jpg"
+    },
+    "name": "Kid Sister",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5450,
+            "logo_path": "/uJurSPk6q0o6XxAz539UGCTTqLF.png",
+            "name": "TVNZ+",
+            "origin_country": "NZ"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "NZ"
+    ],
+    "original_language": "en",
+    "original_name": "Kid Sister",
+    "overview": "Lulu, a loveable train wreck, goes on a laugh-out-loud ride as she struggles to balance her love of family and culture with finding her own path… one mistake at a time.",
+    "popularity": 1.467,
+    "poster_path": "/5Xlk4X8VrufpOIbPqCKkH4tI74S.jpg",
+    "production_companies": [
+        {
+            "id": 103181,
+            "logo_path": "/aqicjb5pM859n0CLwrLoGnjyecb.png",
+            "name": "Greenstone TV",
+            "origin_country": "NZ"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-05-26",
+            "episode_count": 5,
+            "id": 295184,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2023-12-07",
+            "episode_count": 5,
+            "id": 369763,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/tZwsxuz8UnZWlugoHORZftjtyhj.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "628ff11da242320065d438e3",
+            "air_date": "2022-05-26",
+            "episodes": [
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3745469,
+                    "name": "Episode 1",
+                    "overview": "At a family funeral, Lulu invents a Jewish boyfriend to appease her parents before sneaking out to hook up with her very real non-Jewish boyfriend Ollie.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 202894,
+                    "still_path": "/f60X7FHtdT7KYevy7NXDuku52Dk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Nurse Sofia",
+                            "credit_id": "62ac83c65507e900500301d0",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2824286,
+                            "known_for_department": "Acting",
+                            "name": "Angella Dravid",
+                            "original_name": "Angella Dravid",
+                            "popularity": 0.235,
+                            "profile_path": "/9vCpnJHv4NY9DPq8yQO4O256jAN.jpg"
+                        },
+                        {
+                            "character": "Aunt Kim",
+                            "credit_id": "62ac83e2cf9ba30062b8af6f",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591809,
+                            "known_for_department": "Acting",
+                            "name": "Stephanie Wilkin",
+                            "original_name": "Stephanie Wilkin",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Uncle Avi",
+                            "credit_id": "62ac83fbbfeb8b03a8dd4ba7",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591810,
+                            "known_for_department": "Acting",
+                            "name": "David Nathan",
+                            "original_name": "David Nathan",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Mikey Gold",
+                            "credit_id": "62ac841888055102e7f498fc",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591812,
+                            "known_for_department": "Acting",
+                            "name": "Reuben Beattie",
+                            "original_name": "Reuben Beattie",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Cousin",
+                            "credit_id": "62ac842cc7176d00515a6dc9",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591814,
+                            "known_for_department": "Acting",
+                            "name": "Alex Spalter",
+                            "original_name": "Alex Spalter",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Cousin",
+                            "credit_id": "62ac8436bfeb8b03a8dd4bd5",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591816,
+                            "known_for_department": "Acting",
+                            "name": "Isaac Spalter",
+                            "original_name": "Isaac Spalter",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Cousin",
+                            "credit_id": "62ac8443651fcf03299bc417",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591817,
+                            "known_for_department": "Acting",
+                            "name": "Joshua Korpus",
+                            "original_name": "Joshua Korpus",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Rabbi Rob",
+                            "credit_id": "62ac830cc7176d008bd16509",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1240909,
+                            "known_for_department": "Acting",
+                            "name": "Ari Boyland",
+                            "original_name": "Ari Boyland",
+                            "popularity": 1.116,
+                            "profile_path": "/kioXyk2JHrvYna5YrpMKCOjgL8m.jpg"
+                        },
+                        {
+                            "character": "Doctor Waldman",
+                            "credit_id": "62ac83b35ad76b0506b5737d",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 932425,
+                            "known_for_department": "Acting",
+                            "name": "Florence Hartigan",
+                            "original_name": "Florence Hartigan",
+                            "popularity": 1.169,
+                            "profile_path": "/9BDmytE2xjaBDB8xnIDGNr0YQ9M.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3745470,
+                    "name": "Episode 2",
+                    "overview": "Lulu's attempt to come clean to her brother Leo only results in her being reminded again of just how untenable her situation really is. She suggests a way of solving both of their problems but Leo wants nothing to do with her unhinged proposal.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 1,
+                    "show_id": 202894,
+                    "still_path": "/zjcadtVX03Z6CyAWQ32KMBoIiwU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Waiter",
+                            "credit_id": "62ac83433009aa03d012263e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591806,
+                            "known_for_department": "Acting",
+                            "name": "Henry Beasley",
+                            "original_name": "Henry Beasley",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Young Lulu",
+                            "credit_id": "62ac837588055102e7f49895",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591807,
+                            "known_for_department": "Acting",
+                            "name": "Sascha Newland",
+                            "original_name": "Sascha Newland",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Rabbi Rob",
+                            "credit_id": "62ac830cc7176d008bd16509",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1240909,
+                            "known_for_department": "Acting",
+                            "name": "Ari Boyland",
+                            "original_name": "Ari Boyland",
+                            "popularity": 1.116,
+                            "profile_path": "/kioXyk2JHrvYna5YrpMKCOjgL8m.jpg"
+                        },
+                        {
+                            "character": "Sina",
+                            "credit_id": "62ac82fba3e4ba0052d5077e",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420489,
+                            "known_for_department": "Acting",
+                            "name": "Roxie Mohebbi",
+                            "original_name": "Roxie Mohebbi",
+                            "popularity": 1.227,
+                            "profile_path": "/ydceO7eKKhQnOAiM3A4g8h7T0bs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3745471,
+                    "name": "Episode 3",
+                    "overview": "Struggling to deal with her breakup, Lulu reconnects with her best friend Sina. Meanwhile, Ollie investigates what it would take to get Lulu back.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 202894,
+                    "still_path": "/kqRh2W5xVxWEsC8GF35BxcxnZ2c.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Rabbi Rob",
+                            "credit_id": "62ac830cc7176d008bd16509",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1240909,
+                            "known_for_department": "Acting",
+                            "name": "Ari Boyland",
+                            "original_name": "Ari Boyland",
+                            "popularity": 1.116,
+                            "profile_path": "/kioXyk2JHrvYna5YrpMKCOjgL8m.jpg"
+                        },
+                        {
+                            "character": "Doctor Waldman",
+                            "credit_id": "62ac83b35ad76b0506b5737d",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 932425,
+                            "known_for_department": "Acting",
+                            "name": "Florence Hartigan",
+                            "original_name": "Florence Hartigan",
+                            "popularity": 1.169,
+                            "profile_path": "/9BDmytE2xjaBDB8xnIDGNr0YQ9M.jpg"
+                        },
+                        {
+                            "character": "Sarah",
+                            "credit_id": "62ac849ca3e4ba0062e2a543",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1193861,
+                            "known_for_department": "Acting",
+                            "name": "Morgana O'Reilly",
+                            "original_name": "Morgana O'Reilly",
+                            "popularity": 1.552,
+                            "profile_path": "/mRiqzwyC3O6r9Fj6bQOu0SfgR9J.jpg"
+                        },
+                        {
+                            "character": "Sina",
+                            "credit_id": "62ac82fba3e4ba0052d5077e",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420489,
+                            "known_for_department": "Acting",
+                            "name": "Roxie Mohebbi",
+                            "original_name": "Roxie Mohebbi",
+                            "popularity": 1.227,
+                            "profile_path": "/ydceO7eKKhQnOAiM3A4g8h7T0bs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3745472,
+                    "name": "Episode 4",
+                    "overview": "Lulu forges ahead with her foolhardy plans, bringing her whole family along for the ride, all while trying desperately to put Ollie out of her mind.",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 202894,
+                    "still_path": "/u7f7rht8I3phtFdQNL2IuoqEUHC.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Sonographer",
+                            "credit_id": "62ac84da34e15204691e901e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3591820,
+                            "known_for_department": "Acting",
+                            "name": "Bianca Seinafo",
+                            "original_name": "Bianca Seinafo",
+                            "popularity": 1.189,
+                            "profile_path": "/fQHOUbTqv0KNiaemmj5iREbvf2H.jpg"
+                        },
+                        {
+                            "character": "Sina",
+                            "credit_id": "62ac82fba3e4ba0052d5077e",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420489,
+                            "known_for_department": "Acting",
+                            "name": "Roxie Mohebbi",
+                            "original_name": "Roxie Mohebbi",
+                            "popularity": 1.227,
+                            "profile_path": "/ydceO7eKKhQnOAiM3A4g8h7T0bs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3745473,
+                    "name": "Episode 5",
+                    "overview": "Not speaking to her family or the man she is living with is diminishing Lulu's pregnancy glow. But when a family crisis occurs, Lulu and Ollie put aside their argument and finally talk about what they really want.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 202894,
+                    "still_path": "/6RgrjUs3pbguAkuesNjAtXgdMYG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Sina",
+                            "credit_id": "62ac82fba3e4ba0052d5077e",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2420489,
+                            "known_for_department": "Acting",
+                            "name": "Roxie Mohebbi",
+                            "original_name": "Roxie Mohebbi",
+                            "popularity": 1.227,
+                            "profile_path": "/ydceO7eKKhQnOAiM3A4g8h7T0bs.jpg"
+                        },
+                        {
+                            "character": "Doctor Reddy",
+                            "credit_id": "62ac850488055102e69972db",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1255010,
+                            "known_for_department": "Acting",
+                            "name": "Blair Strang",
+                            "original_name": "Blair Strang",
+                            "popularity": 2.297,
+                            "profile_path": "/323mqQi8OG3GdGUAZfSb0TfnA9j.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 295184,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "657a9cb54d23dd010060552d",
+            "air_date": "2023-12-07",
+            "episodes": [
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4997314,
+                    "name": "Seasonal Repression",
+                    "overview": "Lulu and Ollie move in with friends, but Lulu discovers it’s not as easy as she thought to return to her pre-birth self. She and Ollie are surprised by the new Rabbi’s plans for them.",
+                    "production_code": "",
+                    "runtime": 23,
+                    "season_number": 2,
+                    "show_id": 202894,
+                    "still_path": "/5AJQmWtMQEjQL24ZGIcqF6CtyB2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4997315,
+                    "name": "Shabbos Goy",
+                    "overview": "Lulu and Ollie undertake a fast-tracked religious learning path with their new Rabbi, which creates issues in the home when they attempt to ‘Jew-over’ the flat.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 202894,
+                    "still_path": "/kxXbKeE72r1kjF3e1EmnNqEgQ54.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4997316,
+                    "name": "My Yiddishe Momme",
+                    "overview": "Lulu and Ollie’s differing experiences of the conversion process come to a head when they are forced to host a meal for Rabbi Wolf.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 202894,
+                    "still_path": "/lNmAoA6SYCAqiYoyxDbMwBtOZaq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4997317,
+                    "name": "The C Word",
+                    "overview": "Lulu’s mounting doubts and denial come to a head when it matters most, leaving Ollie alone at the altar of his circumcision.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 202894,
+                    "still_path": "/y6rF1J6HbYH7UT3Bl84dhoTaotv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-12-07",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4997318,
+                    "name": "A Bird and a Fish",
+                    "overview": "The divided family are forced to attend Hershey’s party. Lulu must confront her avoidance of the baby she gave away - but is it too late for her and Ollie?",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 202894,
+                    "still_path": "/rO4tTYcQM3uX3GutTuU3w1gwite.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 369763,
+            "poster_path": "/tZwsxuz8UnZWlugoHORZftjtyhj.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

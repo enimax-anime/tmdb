@@ -1,0 +1,136 @@
+{
+    "adult": false,
+    "backdrop_path": "/ogQ4bht7lkD2oq5S77x47PsM6lv.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2016-08-22",
+    "genres": [],
+    "homepage": "",
+    "id": 74467,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2017-10-17",
+    "last_episode_to_air": {
+        "id": 1380968,
+        "name": "Streets",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-10-17",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 74467,
+        "still_path": null
+    },
+    "name": "Adventure Capitalists",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 175,
+            "logo_path": "/q9ybGdIXHriXSAVynw0DwAahEzb.png",
+            "name": "CNBC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Adventure Capitalists",
+    "overview": "Entrepreneurs who specialize in outdoor activities pitch their visions and products to investors Jeremy Bloom, Shawn Johnson East, Craig Cooper and Dhani Jones, who see for themselves if they're worth the risk.",
+    "popularity": 0.204,
+    "poster_path": "/rcXdE3osVUWZjX2J2yXwiY9NAL8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2016-08-22",
+            "episode_count": 1,
+            "id": 93881,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2017-10-17",
+            "episode_count": 1,
+            "id": 94118,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "59dd15af925141251f07d671",
+            "air_date": "2016-08-22",
+            "episodes": [
+                {
+                    "air_date": "2016-08-22",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1378614,
+                    "name": "Lake/Mountain",
+                    "overview": "Companies that specialize in outdoor activities pitch their visions and products to investors in this series, which begins with a trip to the Sierra Nevada Mountains.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 74467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 93881,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "59e68787c3a368128f000b83",
+            "air_date": "2017-10-17",
+            "episodes": [
+                {
+                    "air_date": "2017-10-17",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1380968,
+                    "name": "Streets",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 74467,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 94118,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

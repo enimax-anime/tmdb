@@ -1,0 +1,180 @@
+{
+    "adult": false,
+    "backdrop_path": "/fT4XnXM5MJtArYvlPivoIk1IZDH.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-11-23",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0B8PL7FDR",
+    "id": 214836,
+    "in_production": true,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "last_air_date": "2022-11-30",
+    "last_episode_to_air": {
+        "id": 4066300,
+        "name": "A New Frontier",
+        "overview": "As the U.S. and Mexican cultures and economies have grown closer, so has the competitiveness of the countries’ soccer rivalry.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-11-30",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 1,
+        "show_id": 214836,
+        "still_path": null
+    },
+    "name": "Good Rivals",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Prime Video",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Good Rivals",
+    "overview": "The definitive documentary on the US and Mexico men’s national soccer teams told through the lens of one of the fiercest rivalries in international sports. The series peels back the political, social and sporting layers of the rivalry through the eyes of Landon Donovan (US) and Rafael Márquez (MX), who became symbols of their countries’ soccer cultures.",
+    "popularity": 1.917,
+    "poster_path": "/nceZGeGPuioNGUBiirrYM76Ftrv.jpg",
+    "production_companies": [
+        {
+            "id": 186737,
+            "logo_path": null,
+            "name": "Meadowlark Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 186738,
+            "logo_path": null,
+            "name": "Ocellated Media",
+            "origin_country": "MX"
+        },
+        {
+            "id": 173807,
+            "logo_path": "/vXKfbGDlT9bNCio5BXmiWpOp6Vi.png",
+            "name": "Skydance Sports",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-11-23",
+            "episode_count": 3,
+            "id": 317175,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "The game is only half the story.",
+    "type": "Miniseries",
+    "vote_average": 5.7,
+    "vote_count": 3,
+    "season_data": {
+        "1": {
+            "_id": "637b823831644b007d817764",
+            "air_date": "2022-11-23",
+            "episodes": [
+                {
+                    "air_date": "2022-11-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4066298,
+                    "name": "A Rivalry Is Born",
+                    "overview": "Mexico dominated the U.S. in soccer for decades, but it became a real rivalry in the 1990s.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 214836,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4066299,
+                    "name": "Fresh Stars and Old Curses",
+                    "overview": "The U.S. stunned Mexico at the 2002 World Cup, and the rivalry reached a fever pitch over the next decade.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 214836,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-11-30",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4066300,
+                    "name": "A New Frontier",
+                    "overview": "As the U.S. and Mexican cultures and economies have grown closer, so has the competitiveness of the countries’ soccer rivalry.",
+                    "production_code": "",
+                    "runtime": 52,
+                    "season_number": 1,
+                    "show_id": 214836,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 317175,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

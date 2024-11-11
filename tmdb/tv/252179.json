@@ -1,0 +1,168 @@
+{
+    "adult": false,
+    "backdrop_path": "/tbWIXb3G734trBqp42E3yzfEDmU.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2024-07-11",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 252179,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-07-11",
+    "last_episode_to_air": {
+        "id": 5439763,
+        "name": "So Long and Thanks for All the Fish",
+        "overview": "An icy storm affects the race to the finish line; Big Boi bounces back; BoldFace hits her stride.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-07-11",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 252179,
+        "still_path": null
+    },
+    "name": "The Hungry Games: Alaska's Big Bear Challenge",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3353,
+            "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+            "name": "Peacock",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Hungry Games: Alaska's Big Bear Challenge",
+    "overview": "Follows the bears of Alaska's Katmai National Park as they bulk up for winter hibernation. Over 150 days, the bears battle the elements – and each other – using brains and brawn to consume three million calories and gain up to 200 pounds in Nature’s real-life survival show.",
+    "popularity": 33.344,
+    "poster_path": "/8aH9MZDITygx4qPC322xBJuAYns.jpg",
+    "production_companies": [
+        {
+            "id": 148389,
+            "logo_path": "/yxMO0fJc6TT1HDP169WmqEQoGyr.png",
+            "name": "Love Nature",
+            "origin_country": "CA"
+        },
+        {
+            "id": 87403,
+            "logo_path": "/wZQuQgwxXwsACeUKUWNtQ6IcdyP.png",
+            "name": "AMPLE Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-07-11",
+            "episode_count": 3,
+            "id": 389135,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "662153f078570e017e108173",
+            "air_date": "2024-07-11",
+            "episodes": [
+                {
+                    "air_date": "2024-07-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5289857,
+                    "name": "Welcome to the Tundra",
+                    "overview": "As the competition begins, lean, mean and newly awakened bears brawl over spring resources.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 252179,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-07-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5439762,
+                    "name": "Slammin' Salmon",
+                    "overview": "The Stage 1 winners and some tough new recruits dash to cash on July's frantic salmon feast.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 252179,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2024-07-11",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 5439763,
+                    "name": "So Long and Thanks for All the Fish",
+                    "overview": "An icy storm affects the race to the finish line; Big Boi bounces back; BoldFace hits her stride.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 252179,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 389135,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

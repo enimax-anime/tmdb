@@ -1,0 +1,195 @@
+{
+    "adult": false,
+    "backdrop_path": "/nZrQGyPhCZNqaYraR3HV2Uw4fQi.jpg",
+    "created_by": [
+        {
+            "id": 141536,
+            "credit_id": "62271511b76cbb0066dee135",
+            "name": "Emer Kenny",
+            "original_name": "Emer Kenny",
+            "gender": 1,
+            "profile_path": "/nJs1lenchFwZTB6VTIF3SPmYfgW.jpg"
+        },
+        {
+            "id": 1482504,
+            "credit_id": "64482e873dc31304f7dad285",
+            "name": "Gareth Bryn",
+            "original_name": "Gareth Bryn",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        88
+    ],
+    "first_air_date": "2022-09-25",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://player.stv.tv/summary/karen-pirie",
+    "id": 194636,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-10-09",
+    "last_episode_to_air": {
+        "id": 3964097,
+        "name": "Episode 3",
+        "overview": "Karen is forced to confront a version of the truth she never thought possible - with everything at stake, will she finally find Rosie's killer and achieve justice after 25 years?",
+        "vote_average": 8.2,
+        "vote_count": 5,
+        "air_date": "2022-10-09",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 89,
+        "season_number": 1,
+        "show_id": 194636,
+        "still_path": "/kmdSzrlG0miY2QSQ0vu713C9Qr8.jpg"
+    },
+    "name": "Karen Pirie",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 9,
+            "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+            "name": "ITV1",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Karen Pirie",
+    "overview": "When a 25-year-old murder in St Andrews becomes the subject of a provocative true-crime podcast, DS Karen Pirie is tasked with heading up a review. Digging up the past, Karen uncovers fresh evidence and a potential perpetrator. But when suspects start coming under attack, the cold case turns into an active investigation. Can Karen find the killer before it’s too late?",
+    "popularity": 10.502,
+    "poster_path": "/phknCqSIyo3YbCdsZhdXqImuqDz.jpg",
+    "production_companies": [
+        {
+            "id": 10532,
+            "logo_path": "/fgnJcdnipMiexhxaWC3w14b5Nbg.png",
+            "name": "World Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-09-25",
+            "episode_count": 3,
+            "id": 282461,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/rESArJ89OLYt6zezpJDoEFeLEgh.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.9,
+    "vote_count": 48,
+    "season_data": {
+        "1": {
+            "_id": "622714d80a517c004758911f",
+            "air_date": "2022-09-25",
+            "episodes": [
+                {
+                    "air_date": "2022-09-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3581861,
+                    "name": "Episode 1",
+                    "overview": "When a historic murder case in St Andrews becomes the subject of a provocative true crime podcast, fearless detective Karen Pirie is tasked with heading up the cold case review.",
+                    "production_code": "",
+                    "runtime": 86,
+                    "season_number": 1,
+                    "show_id": 194636,
+                    "still_path": "/8b69UZnLD6SF1c1c9ey1JoPrVtJ.jpg",
+                    "vote_average": 7.8,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3964096,
+                    "name": "Episode 2",
+                    "overview": "With suspects under attack, Karen's cold case review becomes a live investigation. Is someone out for revenge for Rosie's death, or trying to ensure that the truth remains hidden?",
+                    "production_code": "",
+                    "runtime": 86,
+                    "season_number": 1,
+                    "show_id": 194636,
+                    "still_path": "/ocggPBKvciPm346u6dpoLVX4GK6.jpg",
+                    "vote_average": 8,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-09",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3964097,
+                    "name": "Episode 3",
+                    "overview": "Karen is forced to confront a version of the truth she never thought possible - with everything at stake, will she finally find Rosie's killer and achieve justice after 25 years?",
+                    "production_code": "",
+                    "runtime": 89,
+                    "season_number": 1,
+                    "show_id": 194636,
+                    "still_path": "/kmdSzrlG0miY2QSQ0vu713C9Qr8.jpg",
+                    "vote_average": 8.2,
+                    "vote_count": 5,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Professor Keen",
+                            "credit_id": "6442be16d35dea0481fb10e7",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1629487,
+                            "known_for_department": "Acting",
+                            "name": "Barrie Hunter",
+                            "original_name": "Barrie Hunter",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 282461,
+            "poster_path": "/rESArJ89OLYt6zezpJDoEFeLEgh.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

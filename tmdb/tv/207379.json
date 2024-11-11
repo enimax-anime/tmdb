@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/9A7XGIN8PAvEZDW3TOt51zy7hYb.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-05-10",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 207379,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-05-24",
+    "last_episode_to_air": {
+        "id": 3869263,
+        "name": "Sex, Sugar and Screens",
+        "overview": "Addiction doesn’t need drink or drugs to ruin lives. Darren meets the people who are struggling every day with life-threatening addiction to pornography, sugar, gambling and gaming.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-05-24",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 58,
+        "season_number": 1,
+        "show_id": 207379,
+        "still_path": "/qORlOVSFaoarbagwtgnelVkaZ5r.jpg"
+    },
+    "name": "Darren McGarvey's Addictions",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3278,
+            "logo_path": "/81igZwiplDuM1jqLiUMFjB6wdJm.png",
+            "name": "BBC Scotland",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Darren McGarvey's Addictions",
+    "overview": "Darren McGarvey explores why Scotland is the most addicted country in Europe.",
+    "popularity": 0.454,
+    "poster_path": "/yeH4LVJHnPFr8Gd6ziJ1V7FTm82.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-05-10",
+            "episode_count": 3,
+            "id": 303292,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62ea77ba8566d2006276ade5",
+            "air_date": "2022-05-10",
+            "episodes": [
+                {
+                    "air_date": "2022-05-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3869260,
+                    "name": "Booze",
+                    "overview": "Darren McGarvey explores Scotland’s dangerous love affair with alcohol. He meets doctors, scientists, and problem drinkers to understand why so many are drinking themselves to death.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 207379,
+                    "still_path": "/l9t6OUrDzGYm62yWG8gRsxMZu10.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3869262,
+                    "name": "Drugs",
+                    "overview": "Darren sets out to discover why there are so many drug-related deaths in Scotland, meeting the people living in the midst of the crisis every day.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 207379,
+                    "still_path": "/sjYxa9OunH2JwuV07mrH0bYfdhd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-24",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3869263,
+                    "name": "Sex, Sugar and Screens",
+                    "overview": "Addiction doesn’t need drink or drugs to ruin lives. Darren meets the people who are struggling every day with life-threatening addiction to pornography, sugar, gambling and gaming.",
+                    "production_code": "",
+                    "runtime": 58,
+                    "season_number": 1,
+                    "show_id": 207379,
+                    "still_path": "/qORlOVSFaoarbagwtgnelVkaZ5r.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 303292,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

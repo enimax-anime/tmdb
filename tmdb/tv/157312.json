@@ -1,0 +1,200 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        54
+    ],
+    "first_air_date": "2022-02-11",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.sho.com/everythings-gonna-be-all-white",
+    "id": 157312,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-03-04",
+    "last_episode_to_air": {
+        "id": 3499701,
+        "name": "Everything's NOT Gonna Be All White",
+        "overview": "Everything’s not gonna be all white as prominent voices from various communities across the country sit down to wax poetic on our present, shining a light on how America can attain a more equitable future in all spaces.",
+        "vote_average": 1,
+        "vote_count": 2,
+        "air_date": "2022-03-04",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 54,
+        "season_number": 1,
+        "show_id": 157312,
+        "still_path": null
+    },
+    "name": "Everything's Gonna Be All White",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 67,
+            "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+            "name": "Showtime",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Everything's Gonna Be All White",
+    "overview": "A deep dive into America's past and present through the experiences of people of color. The docuseries marries humor with history as it confronts the facets of racism, exploitation and discrimination that contributed to the formation of America.",
+    "popularity": 1.065,
+    "poster_path": "/9cmQwNOE6eI0xDDw9YIa41g3Kk2.jpg",
+    "production_companies": [
+        {
+            "id": 62657,
+            "logo_path": "/lrjP8bqSziFpahMsE13qImlWLBQ.png",
+            "name": "Mass Appeal",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-02-11",
+            "episode_count": 4,
+            "id": 243283,
+            "name": "Miniseries",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "America from the POC POV.",
+    "type": "Miniseries",
+    "vote_average": 1.9,
+    "vote_count": 14,
+    "season_data": {
+        "1": {
+            "_id": "6204181a0dea6e008ac2258c",
+            "air_date": "2022-02-11",
+            "episodes": [
+                {
+                    "air_date": "2022-02-11",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3496070,
+                    "name": "White Lies Matter",
+                    "overview": "What does it mean to be an American during a time of heightened xenophobia, anger and chaos? Who gets to be American? Despite being a nation of immigrants, these questions have become more complicated than ever.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 157312,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "650f14343a4a1200ff4e4979",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1815523,
+                            "known_for_department": "Acting",
+                            "name": "Linda Sarsour",
+                            "original_name": "Linda Sarsour",
+                            "popularity": 0.048,
+                            "profile_path": "/rWIoM8SaCk8Agmr0eaZafbgNAyh.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-18",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3499699,
+                    "name": "White Colour Crime",
+                    "overview": "Looking at project housing, Puerto Rico, the Black Hills and the relegation of Indigenous nations to reservations amid dishonored and broken treaties, episode two calls out the many iterations of settler colonialism and systemic racism present in urban communities of color – then and now.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 157312,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "650f0ec23a4a1200e2940ee0",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2233313,
+                            "known_for_department": "Acting",
+                            "name": "Pramila Jayapal",
+                            "original_name": "Pramila Jayapal",
+                            "popularity": 0.472,
+                            "profile_path": "/prqIFYeRdI833Cn5WrH5lP3mbNQ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-02-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3499700,
+                    "name": "White Noize",
+                    "overview": "From blackface to blackfishing, King Kong to Mandingo tropes, episode three deep-dives into the perpetuation of racist, classist, xenophobic and misogynistic depictions and analyzes how they see us vs. how we see us.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 157312,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-04",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 3499701,
+                    "name": "Everything's NOT Gonna Be All White",
+                    "overview": "Everything’s not gonna be all white as prominent voices from various communities across the country sit down to wax poetic on our present, shining a light on how America can attain a more equitable future in all spaces.",
+                    "production_code": "",
+                    "runtime": 54,
+                    "season_number": 1,
+                    "show_id": 157312,
+                    "still_path": null,
+                    "vote_average": 1,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Miniseries",
+            "overview": "",
+            "id": 243283,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 1
+        }
+    }
+}

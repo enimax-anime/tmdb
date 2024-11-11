@@ -1,0 +1,341 @@
+{
+    "adult": false,
+    "backdrop_path": "/jTpcWY1vjydAMbxQzoTs7WXVDvl.jpg",
+    "created_by": [
+        {
+            "id": 2328144,
+            "credit_id": "63757bfe2faf4d0082fed007",
+            "name": "Jeong Jong-yeon",
+            "original_name": "정종연",
+            "gender": 2,
+            "profile_path": "/ky9v0C0YnzsL9kV6iQpKJwcmr05.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2023-09-26",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://netflix.com/title/81653386",
+    "id": 214582,
+    "in_production": true,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2023-10-10",
+    "last_episode_to_air": {
+        "id": 4761987,
+        "name": "Episode 12",
+        "overview": "The 7-day journey is nearing the end, and it's time for the final match. Who among the remaining two will be crowned winner?",
+        "vote_average": 8.7,
+        "vote_count": 3,
+        "air_date": "2023-10-10",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 76,
+        "season_number": 1,
+        "show_id": 214582,
+        "still_path": "/5FYh8NabRopx9UJTLqYVYBK1ETF.jpg"
+    },
+    "name": "The Devil's Plan",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 12,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "데블스 플랜",
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "popularity": 36.687,
+    "poster_path": "/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "production_companies": [
+        {
+            "id": 186378,
+            "logo_path": "/3eNeUhAUa1EpY24zKmMSdwbOiws.png",
+            "name": "TEO",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-09-26",
+            "episode_count": 12,
+            "id": 316633,
+            "name": "Season 1",
+            "overview": "12 contestants face off in games of wit, strategy and wisdom over 6 nights and 7 days. Who will be crowned the ultimate victor?",
+            "poster_path": "/vNoINLWniSpqS2Qaol4BINX7BSY.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 364718,
+            "name": "Season 2",
+            "overview": "The devil will return, more devious and cunning than ever.",
+            "poster_path": "/u25HtKCE9KlvBkMjyj0iUps7sFS.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "A whole new chapter of brain competition.",
+    "type": "Reality",
+    "vote_average": 7.6,
+    "vote_count": 74,
+    "season_data": {
+        "1": {
+            "_id": "63757bab25a5360095204342",
+            "air_date": "2023-09-26",
+            "episodes": [
+                {
+                    "air_date": "2023-09-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4688786,
+                    "name": "Episode 1",
+                    "overview": "Twelve contestants begin their 7-day journey. The first match is nothing like what they've expected — it's time to get those brain cells working!",
+                    "production_code": "",
+                    "runtime": 71,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/wWLnMzA2IVfC5e9Q5hJs12T23Ne.jpg",
+                    "vote_average": 8.3,
+                    "vote_count": 6,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4724016,
+                    "name": "Episode 2",
+                    "overview": "The results of the first match have everyone shocked. Someone from the losing team must go to jail. When the next match begins, conflict starts brewing.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/uDEFNF3oC3SudPQ7pmyzh6svuuf.jpg",
+                    "vote_average": 7.8,
+                    "vote_count": 4,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-26",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4724017,
+                    "name": "Episode 3",
+                    "overview": "It's day 2, and people are eager to form deeper alliances. This time, the match will result in the very first elimination. Who will be sent home?",
+                    "production_code": "",
+                    "runtime": 72,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/6HNOeSwXJMHzWGWziYH9YYJfuDq.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4724019,
+                    "name": "Episode 4",
+                    "overview": "The group grows emotional over the result of the first elimination. Meanwhile, a contestant happens upon a secret hidden by the Devil.",
+                    "production_code": "",
+                    "runtime": 63,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/80hFM4pnNVDcIlojmHZZVRPytyr.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4761980,
+                    "name": "Episode 5",
+                    "overview": "The ORBIT alliance or a new alliance? While the contestants rethink their loyalties, someone commits an act of betrayal during the main match.",
+                    "production_code": "",
+                    "runtime": 67,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/shhkdVOSqhkdECc8qFmxZf6u2Dk.jpg",
+                    "vote_average": 8.3,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4761981,
+                    "name": "Episode 6",
+                    "overview": "A betrayal leads to an unforeseen elimination. Emotions flare among the remaining players, but in this prize match, they must work as a team.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/wgFJgATsLG514XLnSSr9Ge2BAvm.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4761982,
+                    "name": "Episode 7",
+                    "overview": "It's day 4, and a group commits a fatal mistake. As their allegiances waver, other contestants come closer to unlocking the Devil's secret.",
+                    "production_code": "",
+                    "runtime": 70,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/fbtQGPSNm8HUPxAxsWfrPfoMUXJ.jpg",
+                    "vote_average": 7.5,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4761983,
+                    "name": "Episode 8",
+                    "overview": "The contestants struggle to solve the Devil's secret. During the fifth main match, Lee See-won attempts to face off against ORBIT.",
+                    "production_code": "",
+                    "runtime": 62,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/52pTzAhPVWnzUzF6350NSykntt.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-03",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4761984,
+                    "name": "Episode 9",
+                    "overview": "The competition takes a new turn due to one player's surprising move. Shortly afterward, the truth surrounding the move is revealed.",
+                    "production_code": "",
+                    "runtime": 63,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/pXy9pCurENmIh7qe32H6F9vQUAX.jpg",
+                    "vote_average": 9,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-10",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4761985,
+                    "name": "Episode 10",
+                    "overview": "The secrets of the prison result in a painful night for some. The last main match of the competition commences. Who will move on to the next round?",
+                    "production_code": "",
+                    "runtime": 68,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/2yzpXEHtQWhny8D2K3YXwm0w1ep.jpg",
+                    "vote_average": 8.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-10",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 4761986,
+                    "name": "Episode 11",
+                    "overview": "Contestants give it their all in the main match, but only three emerge triumphant. The last prize match begins.",
+                    "production_code": "",
+                    "runtime": 71,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/9QVBYnaWTFCHiQc2YbYbzUiekTW.jpg",
+                    "vote_average": 8,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-10-10",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 4761987,
+                    "name": "Episode 12",
+                    "overview": "The 7-day journey is nearing the end, and it's time for the final match. Who among the remaining two will be crowned winner?",
+                    "production_code": "",
+                    "runtime": 76,
+                    "season_number": 1,
+                    "show_id": 214582,
+                    "still_path": "/5FYh8NabRopx9UJTLqYVYBK1ETF.jpg",
+                    "vote_average": 8.7,
+                    "vote_count": 3,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "12 contestants face off in games of wit, strategy and wisdom over 6 nights and 7 days. Who will be crowned the ultimate victor?",
+            "id": 316633,
+            "poster_path": "/vNoINLWniSpqS2Qaol4BINX7BSY.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        },
+        "2": {
+            "_id": "6549a21c924ce600adb02abe",
+            "air_date": null,
+            "episodes": [],
+            "name": "Season 2",
+            "overview": "The devil will return, more devious and cunning than ever.",
+            "id": 364718,
+            "poster_path": "/u25HtKCE9KlvBkMjyj0iUps7sFS.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

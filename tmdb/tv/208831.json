@@ -1,0 +1,234 @@
+{
+    "adult": false,
+    "backdrop_path": "/r3jONijvUkotjhb5TtX2KIpmhAA.jpg",
+    "created_by": [
+        {
+            "id": 1108178,
+            "credit_id": "6335f7a685702e007db6b9a1",
+            "name": "Michael Leendertse",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        49
+    ],
+    "first_air_date": "2022-09-29",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://kro-ncrv.nl/programmas/rampvlucht/dramaserie",
+    "id": 208831,
+    "in_production": false,
+    "languages": [
+        "he",
+        "nl",
+        "en"
+    ],
+    "last_air_date": "2022-10-04",
+    "last_episode_to_air": {
+        "id": 3963118,
+        "name": "Episode 5",
+        "overview": "",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2022-10-04",
+        "episode_number": 5,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 208831,
+        "still_path": "/oUiQkQNbubFRWzkPX1FiuxuXuwX.jpg"
+    },
+    "name": "The Crash",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1433,
+            "logo_path": "/eDObRs53SyWCHlnFoKTTnwZGPpB.png",
+            "name": "NPO 1",
+            "origin_country": "NL"
+        }
+    ],
+    "number_of_episodes": 5,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "Rampvlucht",
+    "overview": "Following the catastrophic crash of a large El Al cargo aircraft into Amsterdam's 'Bijlmer' high-rise district in October 1992, a local young veterinarian and two journalists find themselves drawn into a years-long investigation into the many puzzling questions, about the disaster and its aftermath, the powers that be seem determined to keep unanswered.",
+    "popularity": 14.616,
+    "poster_path": "/ijTCiRRTePUQAwx5qzkcgZNm4eh.jpg",
+    "production_companies": [
+        {
+            "id": 99613,
+            "logo_path": "/u9a9AizRCLzcDMKqJnAy0uYtCJT.png",
+            "name": "KRO-NCRV",
+            "origin_country": "NL"
+        },
+        {
+            "id": 180802,
+            "logo_path": "/1ODnM2ePOgvyB3tYluYPePwbszE.png",
+            "name": "Big Blue",
+            "origin_country": "NL"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-10-05",
+            "episode_count": 1,
+            "id": 310744,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-09-29",
+            "episode_count": 5,
+            "id": 305838,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dfhbExrU9z0YCH1ELSIHNoMbJg2.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Hebrew",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+        },
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Miniseries",
+    "vote_average": 6.6,
+    "vote_count": 10,
+    "season_data": {
+        "1": {
+            "_id": "6305e499dcb6a3007bb231c4",
+            "air_date": "2022-09-29",
+            "episodes": [
+                {
+                    "air_date": "2022-09-29",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3911157,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 208831,
+                    "still_path": "/gX0YDORY6rKAyLJWdlqFogL7BGG.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-30",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3963115,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 208831,
+                    "still_path": "/219AFxjOHdVKdgFRTHKThTB7Qn4.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3963116,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 208831,
+                    "still_path": "/lZ1260mEEDEZNNBaVeS6Sn9NcGN.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-03",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3963117,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 208831,
+                    "still_path": "/vKqvPLIikibtZCJK4pK1VAXCnja.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-04",
+                    "episode_number": 5,
+                    "episode_type": "finale",
+                    "id": 3963118,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 208831,
+                    "still_path": "/oUiQkQNbubFRWzkPX1FiuxuXuwX.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 305838,
+            "poster_path": "/dfhbExrU9z0YCH1ELSIHNoMbJg2.jpg",
+            "season_number": 1,
+            "vote_average": 8.2
+        }
+    }
+}

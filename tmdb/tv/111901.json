@@ -1,0 +1,137 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQawX7aJIx3KzTIgZt8fTjrrlM7.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2017-12-08",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 111901,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-12-22",
+    "last_episode_to_air": {
+        "id": 2760513,
+        "name": "Gods Darlings: Beetles",
+        "overview": "God's Darling - Beetles: Beetles have conquered almost every corner of Earth, make up a fourth of the animal population and have outlived dinosaurs. Why are they so successful?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-12-22",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 111901,
+        "still_path": null
+    },
+    "name": "Macro Worlds",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Macro Worlds",
+    "overview": "",
+    "popularity": 0.008,
+    "poster_path": "/dqEXEK7qkmJkJBNJhQlOhyvlwNk.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-12-08",
+            "episode_count": 3,
+            "id": 166450,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/lGURUGJSTz4GXFotnbwtMMdPwip.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5f90ec6e278d8a0038363cea",
+            "air_date": "2017-12-08",
+            "episodes": [
+                {
+                    "air_date": "2017-12-08",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2473445,
+                    "name": "Winter Is Coming",
+                    "overview": "God's Darling - Beetles: Beetles have conquered almost every corner of Earth, make up a fourth of the animal population and have outlived dinosaurs. Why are they so successful?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 111901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-12-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2760509,
+                    "name": "The Meadow Of Horror",
+                    "overview": "Meadow of Horror: Discover the dangers lurking in a meadow. It may seem peaceful and idyllic but it's home to praying mantises, ravenous spiders and venomous wasps.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 111901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2017-12-22",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2760513,
+                    "name": "Gods Darlings: Beetles",
+                    "overview": "God's Darling - Beetles: Beetles have conquered almost every corner of Earth, make up a fourth of the animal population and have outlived dinosaurs. Why are they so successful?",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 111901,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 166450,
+            "poster_path": "/lGURUGJSTz4GXFotnbwtMMdPwip.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/50diSHKgnZWMhfvxtp7reVhUhQ.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2022-06-07",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 203595,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2022-06-07",
+    "last_episode_to_air": {
+        "id": 3767678,
+        "name": "A Well-Planned Escape?",
+        "overview": "Does Nithyananda's sensationalism serve as a smokescreen to his bigger plans?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-06-07",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 1,
+        "show_id": 203595,
+        "still_path": "/qb3cm9x1HZbtWDDm5XD534fdJq3.jpg"
+    },
+    "name": "My Daughter Joined A Cult",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4883,
+            "logo_path": "/iKvdFk5lpbvs4g0vd6yVUcV36i3.png",
+            "name": "discovery+",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "My Daughter Joined A Cult",
+    "overview": "Follow the life of the controversial and self-styled godman, Swami Nithyananda.",
+    "popularity": 1.951,
+    "poster_path": "/lZrW8IJgXALz2wXZQ6SPDzGSmQv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2022-06-07",
+            "episode_count": 3,
+            "id": 296558,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "629f36e81130bd0066b1a339",
+            "air_date": "2022-06-07",
+            "episodes": [
+                {
+                    "air_date": "2022-06-07",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3767663,
+                    "name": "He Took My Daughters",
+                    "overview": "Accusations open up a Pandora’s box of Nithyananda's alleged crimes & misdeeds.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 203595,
+                    "still_path": "/vgIynaNntl3SdraKhXGInVN5M9Z.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3767674,
+                    "name": "Crime After Crime?",
+                    "overview": "In light of new allegations against Nithyananda, several survivors come forward.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 203595,
+                    "still_path": "/3tgDc2iewInjIZJGzHCHVoiQl69.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-06-07",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3767678,
+                    "name": "A Well-Planned Escape?",
+                    "overview": "Does Nithyananda's sensationalism serve as a smokescreen to his bigger plans?",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 1,
+                    "show_id": 203595,
+                    "still_path": "/qb3cm9x1HZbtWDDm5XD534fdJq3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 296558,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

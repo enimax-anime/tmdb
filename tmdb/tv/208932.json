@@ -1,0 +1,437 @@
+{
+    "adult": false,
+    "backdrop_path": "/wb5ZtQqNdk4bnbuUcPiP3D7B63A.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2022-08-28",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://viaplay.se/serier/cell-8",
+    "id": 208932,
+    "in_production": false,
+    "languages": [
+        "sv"
+    ],
+    "last_air_date": "2022-08-28",
+    "last_episode_to_air": {
+        "id": 3916456,
+        "name": "Final Arguments",
+        "overview": "Mariana follows the clues back to Sweden and discovers who murdered Elisabeth. While Hanna reveals this to Finnigan, he completes her plan and sends himself to death row.",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2022-08-28",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 208932,
+        "still_path": "/m4KmXFLLjkN5c68jAh3ARiB7RwU.jpg"
+    },
+    "name": "Cell 8",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1585,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Cell 8",
+    "overview": "Follows detectives Mariana Hermansson and Ewert Grens, as they get into a mysterious and increasingly dark series of events.",
+    "popularity": 8.113,
+    "poster_path": "/7lCPOcy8W84e92qkYNCa6jvx6yV.jpg",
+    "production_companies": [
+        {
+            "id": 182804,
+            "logo_path": null,
+            "name": "Nent Group",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-28",
+            "episode_count": 6,
+            "id": 306047,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/dEWixCVlh5pAzdKf4DRo6RXGOYL.jpg",
+            "season_number": 1,
+            "vote_average": 8.8
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.857,
+    "vote_count": 7,
+    "season_data": {
+        "1": {
+            "_id": "6307a93d6e938a007bf161e8",
+            "air_date": "2022-08-28",
+            "episodes": [
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3912886,
+                    "name": "Everybody's Somebody's Fool",
+                    "overview": "On a cruise ship to Stockholm, an American man attacks a passenger. When Marianna Hermansson from the Stockholm police arrives, he has escaped. What she doesn't know is that the man is her boyfriend, John.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/k95QPj3uceQLDRoNucRvSwd0kg0.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Elisabeth's Friend",
+                            "credit_id": "6470b3255437f500a9079c96",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081816,
+                            "known_for_department": "Acting",
+                            "name": "Isabella Abolrous",
+                            "original_name": "Isabella Abolrous",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Elisabeth Finnigan",
+                            "credit_id": "6470b331336e0100e80c5209",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1693439,
+                            "known_for_department": "Acting",
+                            "name": "Lily Dodsworth-Evans",
+                            "original_name": "Lily Dodsworth-Evans",
+                            "popularity": 3.459,
+                            "profile_path": "/oaij4943rI7ro3mXfmDGQgffj8b.jpg"
+                        },
+                        {
+                            "character": "George",
+                            "credit_id": "6470b34377070000df13f02b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081817,
+                            "known_for_department": "Acting",
+                            "name": "Stefan Hein",
+                            "original_name": "Stefan Hein",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Isak",
+                            "credit_id": "6470b34dc5ada5011865d918",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1418971,
+                            "known_for_department": "Acting",
+                            "name": "Henrik Kalmet",
+                            "original_name": "Henrik Kalmet",
+                            "popularity": 1.4,
+                            "profile_path": "/oAUHrvybUb0B0gnbXz5VSZ5qBrm.jpg"
+                        },
+                        {
+                            "character": "Alex",
+                            "credit_id": "6470b354726fb100e1c326e3",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1418967,
+                            "known_for_department": "Acting",
+                            "name": "Kristjan Üksküla",
+                            "original_name": "Kristjan Üksküla",
+                            "popularity": 1.615,
+                            "profile_path": "/cZ0qETzFbSYviWE3bEe0CUCasRt.jpg"
+                        },
+                        {
+                            "character": "Sven Sundkvist",
+                            "credit_id": "6470b369336e01010971c463",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2335001,
+                            "known_for_department": "Acting",
+                            "name": "Kristofer Kamiyasu",
+                            "original_name": "Kristofer Kamiyasu",
+                            "popularity": 2.281,
+                            "profile_path": "/iMLlQPCIAJeE5PKCAf3v4AOKWKp.jpg"
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "6470b3da13a3200133861c6c",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081821,
+                            "known_for_department": "Acting",
+                            "name": "Kaarel Kuusk",
+                            "original_name": "Kaarel Kuusk",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "6470b3dec5ada500a82e04fd",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3314626,
+                            "known_for_department": "Acting",
+                            "name": "Mihkel Kuusk",
+                            "original_name": "Mihkel Kuusk",
+                            "popularity": 0.98,
+                            "profile_path": "/bVKazMEG9v8f3YaSJuDewZ0x7hT.jpg"
+                        },
+                        {
+                            "character": "Young Woman",
+                            "credit_id": "6470b3f813a32000f9afbf65",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081822,
+                            "known_for_department": "Acting",
+                            "name": "Eliis Pärna-Kundla",
+                            "original_name": "Eliis Pärna-Kundla",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "",
+                            "credit_id": "6470b40a5437f501263ab231",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081824,
+                            "known_for_department": "Acting",
+                            "name": "Joel-Rasmus Remmel",
+                            "original_name": "Joel-Rasmus Remmel",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Alice Finnigan",
+                            "credit_id": "6470b4125437f501263ab235",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3902,
+                            "known_for_department": "Acting",
+                            "name": "Sara Stewart",
+                            "original_name": "Sara Stewart",
+                            "popularity": 7.153,
+                            "profile_path": "/nNjpDF0RuKZ7z5rMI5yxdLDim8z.jpg"
+                        },
+                        {
+                            "character": "Cop 1",
+                            "credit_id": "6470b43277070001192493c0",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081827,
+                            "known_for_department": "Acting",
+                            "name": "Rafael Antonio Zayas",
+                            "original_name": "Rafael Antonio Zayas",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Cop 2",
+                            "credit_id": "6470b44813a32000f9afbf9e",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081828,
+                            "known_for_department": "Acting",
+                            "name": "Jene Walker",
+                            "original_name": "Jene Walker",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Mike Watson",
+                            "credit_id": "6470b45277070000a947ea11",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1683124,
+                            "known_for_department": "Acting",
+                            "name": "Barney White",
+                            "original_name": "Barney White",
+                            "popularity": 1.546,
+                            "profile_path": "/a43kmXK330UTPGRDEBjTglRsr3B.jpg"
+                        },
+                        {
+                            "character": "Hardcore Band",
+                            "credit_id": "6470b46f13a3200116b6aa20",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081832,
+                            "known_for_department": "Acting",
+                            "name": "Taavi Veidner",
+                            "original_name": "Taavi Veidner",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hardcore Band",
+                            "credit_id": "6470b47b5437f501263ab270",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081833,
+                            "known_for_department": "Acting",
+                            "name": "Henri Mäll",
+                            "original_name": "Henri Mäll",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hardcore Band",
+                            "credit_id": "6470b4ab13a32000bf52131b",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4081835,
+                            "known_for_department": "Acting",
+                            "name": "Georg Eduard Aranson",
+                            "original_name": "Georg Eduard Aranson",
+                            "popularity": 0.6,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3916452,
+                    "name": "Dead Man Walking",
+                    "overview": "Mariana discovers that John is not only the attacker, but that he also supposedly died ten years ago, executed in a prison in Ohio. When John tries to escape, Mariana lures him back.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/r90mvAuLXIvZ9foyaIKmG4AMZZQ.jpg",
+                    "vote_average": 9,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3916453,
+                    "name": "Conflict of Interest",
+                    "overview": "John is acquitted of the assault charges, but the Foreign Office decides to extradite him. Mariana is convinced of his innocence and helps him escape from prison again.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/4fBtIXssutNBgVLDLPArdJ2gfso.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3916454,
+                    "name": "Extraordinary Rendition",
+                    "overview": "With Mariana and John on the run, Ewert negotiates a deal to keep John from being extradited, but in Ohio, Edward Finnigan has other ideas.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/a6q20ubnUNYlMtDbh3E7hefpWdV.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3916455,
+                    "name": "Meaning of the Verdict",
+                    "overview": "When John is back on death row, Mariana travels to Ohio to help prove his innocence. She comes into conflict with Hanna, who wants to focus on putting political pressure on Finnigan.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/nsxFj9rEbd9eNzNaUawm9wv4az7.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-28",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3916456,
+                    "name": "Final Arguments",
+                    "overview": "Mariana follows the clues back to Sweden and discovers who murdered Elisabeth. While Hanna reveals this to Finnigan, he completes her plan and sends himself to death row.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 208932,
+                    "still_path": "/m4KmXFLLjkN5c68jAh3ARiB7RwU.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 306047,
+            "poster_path": "/dEWixCVlh5pAzdKf4DRo6RXGOYL.jpg",
+            "season_number": 1,
+            "vote_average": 8.8
+        }
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "adult": false,
+    "backdrop_path": "/tjwaZNvThH2F1TUzB1JqyZSpQOP.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        43,
+        44,
+        48,
+        49,
+        47,
+        55,
+        60
+    ],
+    "first_air_date": "2021-10-21",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81405213",
+    "id": 134365,
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2022-05-26",
+    "last_episode_to_air": {
+        "id": 3747716,
+        "name": "Episode 7",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-05-26",
+        "episode_number": 7,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 2,
+        "show_id": 134365,
+        "still_path": "/9Ysg0QXasm0231Nbnnl7qYeewz3.jpg"
+    },
+    "name": "Insiders",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 14,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Insiders",
+    "overview": "Twelve people think they're in the final casting round for a reality show. In fact, they're already being secretly filmed, with 100,000 euros at stake.",
+    "popularity": 5.148,
+    "poster_path": "/6GLyZMKs3ndDstAxomwRbFbnFBA.jpg",
+    "production_companies": [
+        {
+            "id": 163002,
+            "logo_path": null,
+            "name": "iZen",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-21",
+            "episode_count": 7,
+            "id": 212294,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/6GLyZMKs3ndDstAxomwRbFbnFBA.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-05-19",
+            "episode_count": 7,
+            "id": 290029,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/q0B2ZuhKF2u2VRpmkEhcOL8NvuG.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 6.468,
+    "vote_count": 47,
+    "season_data": {
+        "1": {
+            "_id": "614b59bad2c0c1006682bfe2",
+            "air_date": "2021-10-21",
+            "episodes": [
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3235878,
+                    "name": "Welcome to Insiders",
+                    "overview": "Najwa details the inner workings of the show. The oblivious candidates move into the house where the alleged casting will be taking place.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/tGnryIXHVXFSWx7pq2geuEgKAAE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3235880,
+                    "name": "If You Tell Anyone, You´re Out",
+                    "overview": "A leak jeopardizes the show, or so they are led to believe. Emotions run high when a moral challenge tests how far they would be willing to go to win.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/A2pKPY0oETE7W02YbCsOMeFSFl4.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3295982,
+                    "name": "No Such Thing as Perfection",
+                    "overview": "A social media experiment causes a storm between Nicole and Peter. Everyone focuses on improving their metrics. Estefanía is racked with guilt.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/vSk0jYRVREdXCnMAM9KcLtkYQRY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3295983,
+                    "name": "Streaming Life",
+                    "overview": "Najwa discloses the truth about the show to the contestants, revealing that the winner will be chosen after one final —and intense— week at the house.",
+                    "production_code": "",
+                    "runtime": 49,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/kv6aaoMEkg76PifcXJcUCTiijCs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3295984,
+                    "name": "Double Feature",
+                    "overview": "The contestants are confronted with clips taken when they thought the cameras weren't rolling. Then they get to vote someone off.",
+                    "production_code": "",
+                    "runtime": 48,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/3qv6azuADwJEX4WtJXNUjVExCZy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3295985,
+                    "name": "Taking You Down with Me",
+                    "overview": "Hugo surprises everyone with his decision, especially Nicole. Iván's game strategy is exposed. Peter makes a shocking move.",
+                    "production_code": "",
+                    "runtime": 55,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/lXslHlRkUlsgFr5ZVl9zhsvbrE9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-21",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 3295986,
+                    "name": "The Last Shall Be First",
+                    "overview": "The final four play their cards and trip up their rivals. But their strategies are turned upside down when they discover who gets to decide the winner.",
+                    "production_code": "",
+                    "runtime": 60,
+                    "season_number": 1,
+                    "show_id": 134365,
+                    "still_path": "/hpo0iJKr55OT8OkuhNZGRXMvnt5.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 212294,
+            "poster_path": "/6GLyZMKs3ndDstAxomwRbFbnFBA.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "626692f5713ed430e8358208",
+            "air_date": "2022-05-19",
+            "episodes": [
+                {
+                    "air_date": "2022-05-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3683860,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/yrNHFy5hOGVHaaRkm79omiGjCQq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-19",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3683861,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 51,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/6xyBph9RKiISI9b4UY6S8BBJYol.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-19",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3683862,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/2vTO2goi9iAOVFkFGkBoqpExeft.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3747713,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/kZvP4fbyX75ZrByAChz7UMhV5EH.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3747714,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 39,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/4XYWgi8yjwwffjunH2r6aTD28QE.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3747715,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/oqyVRJEUOpey4IXAZ62C4gEjFda.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-05-26",
+                    "episode_number": 7,
+                    "episode_type": "finale",
+                    "id": 3747716,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 46,
+                    "season_number": 2,
+                    "show_id": 134365,
+                    "still_path": "/9Ysg0QXasm0231Nbnnl7qYeewz3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 290029,
+            "poster_path": "/q0B2ZuhKF2u2VRpmkEhcOL8NvuG.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

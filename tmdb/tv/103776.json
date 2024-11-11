@@ -1,0 +1,456 @@
+{
+    "adult": false,
+    "backdrop_path": "/iwyG70EnurGEzMYgYytR14eFhe2.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        42
+    ],
+    "first_air_date": "2020-05-27",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.discovery.com/shows/mysteries-of-the-deep",
+    "id": 103776,
+    "in_production": true,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "last_air_date": "2022-10-05",
+    "last_episode_to_air": {
+        "id": 3980410,
+        "name": "Secrets of Russia's Nuclear Sub",
+        "overview": "Jeremy Wade explores an accident involving a Russian nuclear submarine on a top-secret mission, and shocking details emerge surrounding the vessel's design; scientists investigate ancient human remains emerging from a lake in Finland",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-10-05",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 2,
+        "show_id": 103776,
+        "still_path": "/7Ai6ceNP1UvQ8UyjB8nqUH9DMDM.jpg"
+    },
+    "name": "Mysteries of the Deep",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 64,
+            "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+            "name": "Discovery",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mysteries of the Deep",
+    "overview": "Extreme angler and underwater detective Jeremy Wade dives into greater depths to solve the greatest underwater mysteries known to man.",
+    "popularity": 1.801,
+    "poster_path": "/irGgEMYAqApEwCebTJw4VJvjZKZ.jpg",
+    "production_companies": [
+        {
+            "id": 99272,
+            "logo_path": "/xt9cawh63M0bkKrc0VvDtZ8q2sa.png",
+            "name": "Icon Films",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-05-27",
+            "episode_count": 10,
+            "id": 151462,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/ojxGsJ8Dxh9WCMV6UQSQdoIlPAq.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        },
+        {
+            "air_date": "2022-08-10",
+            "episode_count": 8,
+            "id": 304640,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/ybBbuKEeDugPCHhvr4abxI3fDlZ.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 6.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "5ec6c3849979d2001f346444",
+            "air_date": "2020-05-27",
+            "episodes": [
+                {
+                    "air_date": "2020-05-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2278864,
+                    "name": "The Bermuda Triangle Conspiracy",
+                    "overview": "Jeremy Wade investigates if one of the Bermuda Triangle's most infamous disappearances was part of a conspiracy by a secret agent at war with the United States, and using technology, experts reveal if it vanished for far stranger reasons.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/kSwchpgb1vKgvThV6hAq1Od9AqI.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-22",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2278865,
+                    "name": "Nazi Toxic Hell Sub",
+                    "overview": "A sunken Nazi submarine packed with toxic cargo is a ticking timebomb that could put the whole world at risk; Jeremy Wade reveals the sub's top-secret mission on the day it sank and how experts keep it from sparking a global catastrophe.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/m3mLMPSwClr7dfTTdldgd6nCmsW.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-29",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2312965,
+                    "name": "Curse of the Kraken",
+                    "overview": "Jeremy Wade reveals the new deep-sea discoveries that might offer definitive proof of the infamous giant squid, and using this fresh evidence, experts investigate if this underwater monster is the legendary kraken.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/rrvvFKDNn7mg61cy8LFR7PIbh86.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-06",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2315613,
+                    "name": "Hunt for Noah's Ark",
+                    "overview": "Jeremy Wade goes inside a cutting-edge archaeological investigation that is unearthing brand-new discoveries about Noah's Ark; as experts get closer to finding its final resting place, they reveal the long-lost secrets of this famous vessel.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/yS3eN3rTJ1yjluN8pQ9lOL9p3We.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-13",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2324190,
+                    "name": "Mummy on the Ghost Ship",
+                    "overview": "When a mummified body is discovered on an abandoned boat, investigators struggle to explain where it came from, so Jeremy Wade sets out to reveal what happened.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/twHqV9mYIVjNqB2dwU0AvqJNS5C.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-20",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2325773,
+                    "name": "US Navy vs. UFO",
+                    "overview": "Newly declassified files reveal the details of an unexplained encounter between the US Navy and UFOs that seem to defy the laws of physics; using cutting-edge tech, Jeremy Wade investigates the truth behind this alien mystery.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/6Bx3b8dMYJXTC1RLpWTfAyzwxI7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-10-27",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2354391,
+                    "name": "Bermuda Triangle Doomsday",
+                    "overview": "Mysterious reports of boiling seas in the Bermuda Triangle might be evidence of a deadly undersea volcano with a long list of victims; Jeremy Wade investigates the newest discoveries from this strange stretch of water in search of proof.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/yDayAuiTnKKe6Xqa1xTAoW1T2L3.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-03",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2357121,
+                    "name": "NASA's Lost Treasure",
+                    "overview": "Jeremy Wade investigates the whereabouts of a lost relic of the Space Age that tarnished the reputation of NASA's first astronauts; as cutting-edge technology turns up brand-new evidence, experts might finally vindicate this American hero.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/7pLqUfuyPnNFtJE44Ckj4QAlphq.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-10",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2357123,
+                    "name": "The Loch Ness Conspiracy",
+                    "overview": "Jeremy Wade chases new leads in pursuit of the Loch Ness Monster.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/9Xxle5OZC4LcTsnSgG5RTkutSPN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-11-17",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2374457,
+                    "name": "Escobar's Treasure Sub",
+                    "overview": "Jeremy Wade reveals details of a high-speed chase between a narco sub and the US Coast Guard; with the help of declassified files and cutting-edge military technology, experts investigate if they've found Pablo Escobar's lost treasure.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 103776,
+                    "still_path": "/fqQG6bhtkOhW8ZEJrYfxAoLQzIA.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 151462,
+            "poster_path": "/ojxGsJ8Dxh9WCMV6UQSQdoIlPAq.jpg",
+            "season_number": 1,
+            "vote_average": 7.5
+        },
+        "2": {
+            "_id": "62f8d92a175051007f905eaf",
+            "air_date": "2022-08-10",
+            "episodes": [
+                {
+                    "air_date": "2022-08-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3891808,
+                    "name": "Shipwreck of Nazi Treasure",
+                    "overview": "Jeremy Wade explores a shipwreck that may contain stolen Nazi treasure, the priceless lost furnishings of the 18th century Amber Room. Also, astonishing footage captures the exact moment when freight ship MV Arvin split in two and sank in the Black Sea.",
+                    "production_code": "",
+                    "runtime": 42,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/lTD1bEoQQzspfb3jLykfnU2VeTO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-17",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3891826,
+                    "name": "Mystery of the Ancient Battle",
+                    "overview": "Jeremy Wade explores a fresh scientific discovery that may finally uncover the truth behind the Battle of Actium, one of history's most puzzling military defeats. Also, Jeremy investigates what could be the first recorded case of a whale rescuing a human.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/6SLEa41QGyMB2eyx74UPnaoKn1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-08-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3891821,
+                    "name": "Shipwreck Ghosts of Mexico",
+                    "overview": "Jeremy Wade explores the hidden and dark secrets behind a 150-year-old shipwreck off the coast of Sisal, Mexico, revealing an unknown and troubling maritime past. Also, a mysterious boiling river hidden deep in the heart of the Amazon is uncovered.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/lRPd1uffupSwTVDhO31caZhnN5Y.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3980407,
+                    "name": "Secrets of the MS Estonia",
+                    "overview": "Jeremy Wade follows investigators as they dive the wreck of the ferry MS Estonia; the case of America's notorious skyjacker DB Cooper takes an intriguing underwater twist.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/p1maQu5RctD5WrvdhaoUL4sx6tc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3980409,
+                    "name": "Titanic Phenomenon",
+                    "overview": "Jeremy Wade investigates the infamous shipwreck of the Titanic; locals are baffled when a bag containing 54 severed human hands is found on the banks of a Siberian river.",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/qLrsSsK7IWhSjONW3Glj5WUQQjz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-21",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3980408,
+                    "name": "Debris Of Amelia Earhart",
+                    "overview": "Jeremy Wade examines new evidence that could finally reveal what happened to aviator Amelia Earhart; Jeremy investigates a strange anchor found in the Mediterranean Sea.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/m8nXKCXqaGhL85UQbBmvTtqKDrF.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-09-28",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3985179,
+                    "name": "Mystery of the Sub Destroyer",
+                    "overview": "Jeremy Wade explores the puzzling disappearance of an Indonesian submarine, and the latest research into an underwater phenomenon may help piece together how it vanished. Also, a hoard of riches is found inside the wreck of an 18th-century Dutch vessel.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/qA97ARsn15vasHoK0MqOoqHqBZl.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-10-05",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3980410,
+                    "name": "Secrets of Russia's Nuclear Sub",
+                    "overview": "Jeremy Wade explores an accident involving a Russian nuclear submarine on a top-secret mission, and shocking details emerge surrounding the vessel's design; scientists investigate ancient human remains emerging from a lake in Finland",
+                    "production_code": "",
+                    "runtime": 43,
+                    "season_number": 2,
+                    "show_id": 103776,
+                    "still_path": "/7Ai6ceNP1UvQ8UyjB8nqUH9DMDM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 304640,
+            "poster_path": "/ybBbuKEeDugPCHhvr4abxI3fDlZ.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

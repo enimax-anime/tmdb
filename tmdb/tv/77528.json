@@ -1,0 +1,401 @@
+{
+    "adult": false,
+    "backdrop_path": "/sTZtXcTHa9bXXPBMR0FOwGArHAt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "2018-03-02",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "http://www.channel5.com/show/the-yorkshire-steam-railway-all-aboard/",
+    "id": 77528,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-12-23",
+    "last_episode_to_air": {
+        "id": 3315149,
+        "name": "Christmas on the Yorkshire Steam Railway",
+        "overview": "It’s Christmas at the NYMR! There’s festive jollity aplenty as the railway prepares for the 2019 Santa Season. What started as a bit of good fun is now absolutely crucial depths-of-winter revenue generator for the railway. And to make sure this is the most successful Santa Season ever they’ve added a whole new train, the Northern Lights Express. This spectacular new service - involving 25,000 lights fixed to a moving steam train and its carriages, as well as illuminating sections of the 18 mile track – is an incredible technical and logistical challenge. How will this marriage of Victorian engineering and 21st century come together?",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-12-23",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 3,
+        "show_id": 77528,
+        "still_path": null
+    },
+    "name": "The Yorkshire Steam Railway: All Aboard",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 99,
+            "logo_path": "/bMuKs6xuhI0GHSsq4WWd9FsntUN.png",
+            "name": "Channel 5",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 15,
+    "number_of_seasons": 3,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Yorkshire Steam Railway: All Aboard",
+    "overview": "Behind the scenes at the North Yorkshire Moors Railway, taking a look back in time to the golden age of steam. A tireless army of staff and volunteers give the inside track on what it takes to run a heritage railway.",
+    "popularity": 5.503,
+    "poster_path": "/8uV6lKuzFTNMDPVUJ2Gw9Yk2XWN.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-03-02",
+            "episode_count": 3,
+            "id": 100092,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2019-05-17",
+            "episode_count": 6,
+            "id": 124087,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2020-02-21",
+            "episode_count": 6,
+            "id": 143236,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a965e790e0a26543b005468",
+            "air_date": "2018-03-02",
+            "episodes": [
+                {
+                    "air_date": "2018-03-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1444722,
+                    "name": "50th Anniversary",
+                    "overview": "To celebrate its 50th anniversary, the railway has hired headlining steam engine Royal Scot, but she has a problem with her boiler, carriages that haven't been serviced in five years, and no-one even knows if she will fit the line.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-09",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1444723,
+                    "name": "Teachers Ride For Free",
+                    "overview": "The marketing manager targets teachers in hope they'll return with students, Chris reveals how some bridges are in desperate need of repair, and Piglet has a race against time to fix an engine which is hoped be on display for the Tour de Yorkshire.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-16",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 1449073,
+                    "name": "The Overhaul",
+                    "overview": "The busy summer season is looming and the steam engines are old, so there's always something to fix. The only chance of getting through the summer is if they complete the overhaul of Repton, a 1934 Schools class engine.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 100092,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5cd6794292514106f6ce1d11",
+            "air_date": "2019-05-17",
+            "episodes": [
+                {
+                    "air_date": "2019-05-17",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1788263,
+                    "name": "The Heat Is On",
+                    "overview": "A summer heatwave brings record numbers to the railway, but also risks fires in the dry national parks through which the line runs, putting the very existence of the railway in danger.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1788264,
+                    "name": "The Romance of Steam",
+                    "overview": "Head boilersmith Mark and his fiancee Emma choose their beloved B1 steam train to lead their wedding, but not everything goes to plan.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-05-31",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1796233,
+                    "name": "The Gala Festival",
+                    "overview": "For the annual Gala Festival, the NYMR plans to swap their precious Q6 engine with another from the Severn Valley, but there is a crack in the engine box and no-one to fix it on short notice.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-07",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1801330,
+                    "name": "War Weekend",
+                    "overview": "It is War Weekend at the North Yorkshire Moors Steam railway, a celebration of the part the railway played in WWII - and almost 30,000 visitors are expected. In a packed weekend,the railway is transported back in time to 1939.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-14",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1815974,
+                    "name": "Steam Gala",
+                    "overview": "Piglet acquires a 92 Squadron engine for the Steam Gala, but steam superfan Steve has another task for the classic RAF-themed machine.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-06-21",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 1815975,
+                    "name": "Curry Train",
+                    "overview": "Under pressure to bring in extra revenue now that the season is nearly over, the NYMR team decide to put on a massive bash for Halloween. Perfect time for all the lights to blow out.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 2,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 124087,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        },
+        "3": {
+            "_id": "5e44f38a0c27100015853ab3",
+            "air_date": "2020-02-21",
+            "episodes": [
+                {
+                    "air_date": "2020-02-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2161570,
+                    "name": "D-Day for the Omaha",
+                    "overview": "New loco manager Piglet is once more in the thick of it with engine problems.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": "/rhtBduCKeidIxK1pde1zBQmsuxO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-02-28",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2172913,
+                    "name": "From Scrap to Steam",
+                    "overview": "Piglet tries to succeed where 50 years' worth of repair attempts have failed to try to save the powerful 9F engine.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": "/k7AzdfCqTod94XSzrKLRA9XDHGh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-06",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2174918,
+                    "name": "Loco Crazy",
+                    "overview": "At the steam gala, Piglet's beloved 9F has serious competition from visiting engines.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": "/jXS16tZ9fHBI3lrHaCWvIROaQTs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-13",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2182856,
+                    "name": "Baking Bank Holiday",
+                    "overview": "August Bank Holiday brings sun, and lots of people to the line.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": "/7wfl4F2B8oEVZOUPUKY5CphbaCn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-03-20",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2187191,
+                    "name": "Bringing Out the Big Guns",
+                    "overview": "It's the annual War Weekend, and the event's centrepiece, a WWII artillery gun, is putting up a fight.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": "/KNlm0v1LEVPY9IflvVV9XFdBh0.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-12-23",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3315149,
+                    "name": "Christmas on the Yorkshire Steam Railway",
+                    "overview": "It’s Christmas at the NYMR! There’s festive jollity aplenty as the railway prepares for the 2019 Santa Season. What started as a bit of good fun is now absolutely crucial depths-of-winter revenue generator for the railway. And to make sure this is the most successful Santa Season ever they’ve added a whole new train, the Northern Lights Express. This spectacular new service - involving 25,000 lights fixed to a moving steam train and its carriages, as well as illuminating sections of the 18 mile track – is an incredible technical and logistical challenge. How will this marriage of Victorian engineering and 21st century come together?",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 3,
+                    "show_id": 77528,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 3",
+            "overview": "",
+            "id": 143236,
+            "poster_path": null,
+            "season_number": 3,
+            "vote_average": 0
+        }
+    }
+}

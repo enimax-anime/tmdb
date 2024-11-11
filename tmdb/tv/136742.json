@@ -1,0 +1,134 @@
+{
+    "adult": false,
+    "backdrop_path": "/3xc9N5wBWPTEmpKgpkraF12WRzN.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-10-19",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/p09xhxsc",
+    "id": 136742,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-10-26",
+    "last_episode_to_air": {
+        "id": 3294262,
+        "name": "Episode 2",
+        "overview": "The couples are put to the test with the first dance-off, while emotions run high in the house.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-10-26",
+        "episode_number": 2,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 136742,
+        "still_path": null
+    },
+    "name": "I Like The Way U Move",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "I Like The Way U Move",
+    "overview": "I Like The Way U Move is a dating show like no other, as it will give contestants the chance to find love through dance!  Instead of sitting down over dinner or retreating to a villa, people will attempt to find romance through dancing. The series will see world-renowned choreographer Kaelynn ‘KK’ Harris as the resident dance expert helping contestants to perfect their dance moves, and she'll be joined by guest judges along the way.",
+    "popularity": 0.697,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-10-19",
+            "episode_count": 2,
+            "id": 216305,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "616f4e1ac8f85800434aa558",
+            "air_date": "2021-10-19",
+            "episodes": [
+                {
+                    "air_date": "2021-10-19",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3293619,
+                    "name": "Episode 1",
+                    "overview": "Five professional dancers try to find romance with a non-dancer rookie. Kaelynn 'KK' Harris sets the couples their first challenge, and things heat up.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 136742,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-10-26",
+                    "episode_number": 2,
+                    "episode_type": "finale",
+                    "id": 3294262,
+                    "name": "Episode 2",
+                    "overview": "The couples are put to the test with the first dance-off, while emotions run high in the house.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 136742,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 216305,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

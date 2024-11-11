@@ -1,0 +1,148 @@
+{
+    "adult": false,
+    "backdrop_path": "/A1IKlx7c3TQnpEtKjdkoAta0EDm.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        47
+    ],
+    "first_air_date": "2020-09-23",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.channel4.com/programmes/grayson-perrys-big-american-road-trip",
+    "id": 110873,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-09-23",
+    "last_episode_to_air": {
+        "id": 3305665,
+        "name": "Wisconsin",
+        "overview": "Grayson dives into the 'culture wars'in the American Midwest.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-09-23",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 47,
+        "season_number": 1,
+        "show_id": 110873,
+        "still_path": null
+    },
+    "name": "Grayson Perry’s Big American Road Trip",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 26,
+            "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+            "name": "Channel 4",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Grayson Perry’s Big American Road Trip",
+    "overview": "Artist and social commentator Grayson Perry crosses the US, exploring its biggest fault lines, from race to class and identity, making art as he goes",
+    "popularity": 2.456,
+    "poster_path": "/2dp2o6uCAOhbNxTOgzaamChBSgQ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-09-23",
+            "episode_count": 3,
+            "id": 164454,
+            "name": "Season 1",
+            "overview": "Artist and social commentator Grayson Perry crosses the US, exploring its biggest fault lines, from race to class and identity, making art as he goes.",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "5f757c30bc8abc003a71cff7",
+            "air_date": "2020-09-23",
+            "episodes": [
+                {
+                    "air_date": "2020-09-23",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2449780,
+                    "name": "The South",
+                    "overview": "In Atlanta and Washington DC Grayson explores race and 'White privilege'",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 110873,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2449811,
+                    "name": "The East Coast",
+                    "overview": "Grayson asks how liberals view their country and how the country views them.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 110873,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-09-23",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3305665,
+                    "name": "Wisconsin",
+                    "overview": "Grayson dives into the 'culture wars'in the American Midwest.",
+                    "production_code": "",
+                    "runtime": 47,
+                    "season_number": 1,
+                    "show_id": 110873,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "Artist and social commentator Grayson Perry crosses the US, exploring its biggest fault lines, from race to class and identity, making art as he goes.",
+            "id": 164454,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,661 @@
+{
+    "adult": false,
+    "backdrop_path": "/wSZvueXsd3NW5n88VaIvsT90ZDi.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        180
+    ],
+    "first_air_date": "2024-04-14",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.foodnetwork.com/shows/24-in-24-last-chef-standing",
+    "id": 248021,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-05-12",
+    "last_episode_to_air": {
+        "id": 5262699,
+        "name": "Shift 8: Elevation",
+        "overview": "The four remaining chefs have survived 20 challenges and beat out 20 other chefs to arrive at this moment. In the final hours, hosts Michael Symon and Esther Choi revisit an old challenge where the chefs must cook the best dishes of their lives. Whoever can stave off the final daggers of exhaustion and impress a superstar panel of judges will walk away with a $50,000 prize and an unforgettable trip to Hawaii.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-05-12",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 248021,
+        "still_path": null
+    },
+    "name": "24 in 24: Last Chef Standing",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 143,
+            "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+            "name": "Food Network",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "24 in 24: Last Chef Standing",
+    "overview": "Food Network's most ambitious and grueling culinary competition to date. Featuring 24 talented and fearless chefs who take on 24 food challenges in 24 consecutive, non-stop hours, the 24-hour competition takes the chefs to the extreme, demanding they display the skills, creativity and stamina needed to be an elite chef. At the end of the 24 hours, there can be only one true master left standing.",
+    "popularity": 5.623,
+    "poster_path": "/oD4fH66d8fn6hRQmklJjThTc8wj.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-04-14",
+            "episode_count": 8,
+            "id": 381969,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "65e489e1278d8a0185c0e9a3",
+            "air_date": "2024-04-14",
+            "episodes": [
+                {
+                    "air_date": "2024-04-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 5189766,
+                    "name": "Shift 1: Speed",
+                    "overview": "The first three-hour shift is designed to test one of the most important qualities a true master must possess: speed. Speed judge Jet Tila will taste and score every dish, separating the leaders of the pack from the chefs on the brink of elimination. Right out of the gate, the chefs are served up a shocking twist that sets the tone for the rest of the competition, letting them know that no one will be safe from elimination until the end.",
+                    "production_code": "",
+                    "runtime": 89,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f2fdd768fe0162419405",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2745116,
+                            "known_for_department": "Acting",
+                            "name": "Jet Tila",
+                            "original_name": "Jet Tila",
+                            "popularity": 0.766,
+                            "profile_path": "/dYPzfzwYTDoajqa7kmKgCYkdNah.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d225e1e64890162d4737c",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3207517,
+                            "known_for_department": "Acting",
+                            "name": "Aarthi Sampath",
+                            "original_name": "Aarthi Sampath",
+                            "popularity": 0.016,
+                            "profile_path": "/sjxtnwfQLwM2eGkLYSFsRss85Q2.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d22ceec0c580163743002",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654061,
+                            "known_for_department": "Acting",
+                            "name": "Airis Johnson",
+                            "original_name": "Airis Johnson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d22e8cffeed018691ba8f",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654062,
+                            "known_for_department": "Acting",
+                            "name": "Camille Le Caer",
+                            "original_name": "Camille Le Caer",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d231fe4886001853b6f33",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3921364,
+                            "known_for_department": "Acting",
+                            "name": "Carlos Anthony",
+                            "original_name": "Carlos Anthony",
+                            "popularity": 0.001,
+                            "profile_path": "/5LF07clXWu47LP4WOC7tMnSNOUR.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d23f5fd4a96013b6b6099",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3921388,
+                            "known_for_department": "Acting",
+                            "name": "Chad Rosenthal",
+                            "original_name": "Chad Rosenthal",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d2428931ea1018665b0f1",
+                            "order": 513,
+                            "adult": true,
+                            "gender": 0,
+                            "id": 1753149,
+                            "known_for_department": "Acting",
+                            "name": "Charlie Ray",
+                            "original_name": "Charlie Ray",
+                            "popularity": 1.38,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d244e67203d018613f9ec",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654069,
+                            "known_for_department": "Acting",
+                            "name": "Chris Dodson",
+                            "original_name": "Chris Dodson",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d24680102c9016306a7d5",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3259748,
+                            "known_for_department": "Acting",
+                            "name": "Chris Oh",
+                            "original_name": "Chris Oh",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d247b4ca67601641c2e97",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654074,
+                            "known_for_department": "Acting",
+                            "name": "Christopher Ingram",
+                            "original_name": "Christopher Ingram",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d251d931ea1018665b1bb",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654081,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Lee",
+                            "original_name": "Daniel Lee",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d253ccffeed016391471d",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3921372,
+                            "known_for_department": "Acting",
+                            "name": "Declan Horgan",
+                            "original_name": "Declan Horgan",
+                            "popularity": 0.001,
+                            "profile_path": "/lPnU0FsgE4GVjT39llwmEtWw5qx.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d254f931ea1018665b1e5",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3644722,
+                            "known_for_department": "Acting",
+                            "name": "Elizabeth Falkner",
+                            "original_name": "Elizabeth Falkner",
+                            "popularity": 0.158,
+                            "profile_path": "/xcE5q9KUVk7GmY4B7MwgPUDvg8T.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d25654ca67601641c2ed8",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654082,
+                            "known_for_department": "Acting",
+                            "name": "Emilie Bishop",
+                            "original_name": "Emilie Bishop",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d257b0102c90149066249",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4025622,
+                            "known_for_department": "Acting",
+                            "name": "Gabriella Baldwin",
+                            "original_name": "Gabriella Baldwin",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d2597cffeed0163914734",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654084,
+                            "known_for_department": "Acting",
+                            "name": "Josie Clemens",
+                            "original_name": "Josie Clemens",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d25b960c51d01864edaed",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654086,
+                            "known_for_department": "Acting",
+                            "name": "Kess Eshun",
+                            "original_name": "Kess Eshun",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d25e96f43ec01645cfae5",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654090,
+                            "known_for_department": "Acting",
+                            "name": "Marc Quinones",
+                            "original_name": "Marc Quinones",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d2606389da1016335e93b",
+                            "order": 525,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3921369,
+                            "known_for_department": "Acting",
+                            "name": "Marcel Vigneron",
+                            "original_name": "Marcel Vigneron",
+                            "popularity": 0.447,
+                            "profile_path": "/lVR4AIQvj0cxFYawu9Zy24JNMQT.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d261d3396b9017c7da04f",
+                            "order": 526,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654091,
+                            "known_for_department": "Acting",
+                            "name": "Martel Stone",
+                            "original_name": "Martel Stone",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d263bfd4a96016d6bc5cf",
+                            "order": 527,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654092,
+                            "known_for_department": "Acting",
+                            "name": "Matt Jordan",
+                            "original_name": "Matt Jordan",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d264d931ea10163651241",
+                            "order": 528,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654093,
+                            "known_for_department": "Acting",
+                            "name": "Michael Tascano",
+                            "original_name": "Michael Tascano",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d2674cb6db5018509f302",
+                            "order": 529,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654094,
+                            "known_for_department": "Acting",
+                            "name": "Mika Leon",
+                            "original_name": "Mika Leon",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d26880102c9016306a8c2",
+                            "order": 530,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3921390,
+                            "known_for_department": "Acting",
+                            "name": "Viet Pham",
+                            "original_name": "Viet Pham",
+                            "popularity": 0.001,
+                            "profile_path": "/e22Yasd5kgVuv436jJBUFyIAwG2.jpg"
+                        },
+                        {
+                            "character": "Self - Contestant",
+                            "credit_id": "661d269e6f43ec01875d819f",
+                            "order": 531,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4654096,
+                            "known_for_department": "Acting",
+                            "name": "Vijay Sadhu",
+                            "original_name": "Vijay Sadhu",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-04-24",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5262693,
+                    "name": "Shift 2: Adaptability",
+                    "overview": "During hours three through six, the remaining chefs are forced to adapt to constant twists and turns. Hosts Michael Symon and Esther Choi have two chefs face elimination immediately, while the others enjoy a moment of rest. Then, the chefs must overcome restrictions, curveballs and expert judging from Stephanie Izard in order to make it to hour seven.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f310b09bde017ebcc9ec",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2277026,
+                            "known_for_department": "Acting",
+                            "name": "Stephanie Izard",
+                            "original_name": "Stephanie Izard",
+                            "popularity": 0.412,
+                            "profile_path": "/qzbVZg7CLZEB0boAYFCkjAQ6vVT.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-04-24",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5262694,
+                    "name": "Shift 3: Resourcefulness",
+                    "overview": "Fatigue starts to set in as the chefs face hours seven and eight in this intense culinary journey. Hosts Michael Symon and Esther Choi put forth three challenges in one where the chefs must turn one bag of ingredients into three distinct, delicious meals. This never-before-seen social experiment will be over for whoever fails to impress guest judge Scott Conant.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f3248c0a48017e041539",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1226861,
+                            "known_for_department": "Acting",
+                            "name": "Scott Conant",
+                            "original_name": "Scott Conant",
+                            "popularity": 2.767,
+                            "profile_path": "/iUuFxfT2b8RvvgLWs4WuoAMfwuu.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-01",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5262695,
+                    "name": "Shift 4: Teamwork",
+                    "overview": "By the end of shift four, the remaining chefs will have been cooking for 12 consecutive hours. To make it to hour 13, Michael Symon and Esther Choi present their toughest task yet -- teamwork. Working with chefs they just met mere hours ago, the competitors have to strategize, collaborate and execute under the critical eyes of guest judges Michael and Bryan Voltaggio.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f3391fa1c8017cd1ef3c",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2594937,
+                            "known_for_department": "Acting",
+                            "name": "Bryan Voltaggio",
+                            "original_name": "Bryan Voltaggio",
+                            "popularity": 0.533,
+                            "profile_path": "/6V7gmMBr8BHTRcNjWb9oi0C7uW9.jpg"
+                        },
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f34319690c017ca3539c",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1456466,
+                            "known_for_department": "Acting",
+                            "name": "Michael Voltaggio",
+                            "original_name": "Michael Voltaggio",
+                            "popularity": 2.069,
+                            "profile_path": "/vUc8O9eWKZtIncFuIif63S7Rijc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-01",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5262696,
+                    "name": "Shift 5: Artistry",
+                    "overview": "Exhaustion becomes palpable as the chefs enter hour 13 of their 24-hour competition. Hosts Michael Symon and Esther Choi challenge them with the unenviable task of turning microwave meals into works of art, and that's the easy part! Guest judge Eric Adjepong will decide which of these chefs must clock out.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f352b09bde017ebcca3c",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 3914531,
+                            "known_for_department": "Acting",
+                            "name": "Eric Adjepong",
+                            "original_name": "Eric Adjepong",
+                            "popularity": 1.141,
+                            "profile_path": "/afu4YwpUVOBpdD8DUxiD0ZAiKCs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-08",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 5262697,
+                    "name": "Shift 6: Risk Taking",
+                    "overview": "Hosts Michael Symon and Esther Choi begin the most devious shift of all as the chefs earn points during each challenge. They'll be tested in cooking, strategy and much more as guest judge Maneet Chauhan decides their fate. Whoever has the lowest point total at the end will have to clock out, just two shifts shy of a massive pay day.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f35ed768fe0162419492",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2531165,
+                            "known_for_department": "Acting",
+                            "name": "Maneet Chauhan",
+                            "original_name": "Maneet Chauhan",
+                            "popularity": 0.965,
+                            "profile_path": "/xrIPHFC1ph1Tgb8db26XZhqbNul.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-08",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 5262698,
+                    "name": "Shift 7: Simplicity",
+                    "overview": "As hosts Michael Symon and Esther Choir introduce hour 18 of non-stop cooking, the chefs are bruised, battered and at their breaking point. Simplicity is one of the most difficult techniques to master for any chef, and when they're this exhausted, it borders on impossible. Guest judge Brooke Williamson decides which four chefs will receive a spot in the finale, a mere four challenges and three hours away.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Guest Judge",
+                            "credit_id": "6610f36b19690c017ca353d1",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3603693,
+                            "known_for_department": "Acting",
+                            "name": "Brooke Williamson",
+                            "original_name": "Brooke Williamson",
+                            "popularity": 0.868,
+                            "profile_path": "/oJeYKySjaR0UoZcuLYDZPucEDH6.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-05-12",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 5262699,
+                    "name": "Shift 8: Elevation",
+                    "overview": "The four remaining chefs have survived 20 challenges and beat out 20 other chefs to arrive at this moment. In the final hours, hosts Michael Symon and Esther Choi revisit an old challenge where the chefs must cook the best dishes of their lives. Whoever can stave off the final daggers of exhaustion and impress a superstar panel of judges will walk away with a $50,000 prize and an unforgettable trip to Hawaii.",
+                    "production_code": "",
+                    "runtime": 45,
+                    "season_number": 1,
+                    "show_id": 248021,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 381969,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

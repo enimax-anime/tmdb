@@ -1,0 +1,92 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2013-11-01",
+    "genres": [],
+    "homepage": "",
+    "id": 203775,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2013-11-01",
+    "last_episode_to_air": {
+        "id": 3775174,
+        "name": "Episode 1",
+        "overview": "We don't have an overview translated in English. Help us expand our database by adding one.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2013-11-01",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 203775,
+        "still_path": null
+    },
+    "name": "The Great Penguin Rescue",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Great Penguin Rescue",
+    "overview": "The African penguin is fighting for survival... Michaela Strachan is on a mission to help them. As the newest recruit to the SANCCOB chick bolstering team, Michaela will be finding out why the penguin numbers have crashed so dramatically and what can be done to save them. Every year SANCCOB (the South African Foundation for the Conservation of Coastal Birds) stages a dramatic rescue of hundreds of penguin chicks whose parents have been unable to feed them due to adverse conditions. For a frenetic 6 weeks its all hands to the deck as up to 500 helpless chicks must be rescued, cared for, taught survival skills and ultimately be released back into the wild.",
+    "popularity": 0.006,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2013-11-01",
+            "episode_count": 1,
+            "id": 296935,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "62a2f692bccf1e009d2cb106",
+            "air_date": "2013-11-01",
+            "episodes": [
+                {
+                    "air_date": "2013-11-01",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 3775174,
+                    "name": "Episode 1",
+                    "overview": "We don't have an overview translated in English. Help us expand our database by adding one.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 203775,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 296935,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

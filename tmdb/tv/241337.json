@@ -1,0 +1,607 @@
+{
+    "adult": false,
+    "backdrop_path": "/aDZ2cZ9tv57eAGrcyheWN2ZnWm2.jpg",
+    "created_by": [
+        {
+            "id": 1994759,
+            "credit_id": "6576d8fe7a3c5200ebfdcdf8",
+            "name": "Danielle Ward",
+            "original_name": "Danielle Ward",
+            "gender": 1,
+            "profile_path": "/zojkUegMI2ulQGQ6WQQe2XHoy9o.jpg"
+        }
+    ],
+    "episode_run_time": [],
+    "first_air_date": "2024-08-15",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0021k8h",
+    "id": 241337,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2024-08-29",
+    "last_episode_to_air": {
+        "id": 5175278,
+        "name": "Sadie",
+        "overview": "Malcolm throws Gemma a baby shower, and Derek surprises Malcolm with a birthday present. Xander discovers Gemma in labour, whilst Malcolm and Derek are locked in an escape room.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-08-29",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 26,
+        "season_number": 1,
+        "show_id": 241337,
+        "still_path": "/9b4IxTmIVw7zpUoRqJGPTpT0kbG.jpg"
+    },
+    "name": "Daddy Issues",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 3,
+            "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+            "name": "BBC Three",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Daddy Issues",
+    "overview": "After discovering she’s pregnant, hedonistic Gemma flatshares with her hapless father. Together, they have to navigate new friendships, new relationships and face up to parenthood.",
+    "popularity": 11.253,
+    "poster_path": "/4HzeVlIIpEPSkTyqtkHTLUHTjPp.jpg",
+    "production_companies": [
+        {
+            "id": 90272,
+            "logo_path": "/6hN3cnNGE5OJfvBj8cVXPX029Og.png",
+            "name": "Fudge Park Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 3324,
+            "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+            "name": "BBC",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2024-08-15",
+            "episode_count": 6,
+            "id": 369372,
+            "name": "Series 1",
+            "overview": "",
+            "poster_path": "/4HzeVlIIpEPSkTyqtkHTLUHTjPp.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 5,
+    "season_data": {
+        "1": {
+            "_id": "6576d8debbe1dd0138d000a5",
+            "air_date": "2024-08-15",
+            "episodes": [
+                {
+                    "air_date": "2024-08-15",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4990457,
+                    "name": "Happy Tears",
+                    "overview": "When Gemma discovers she is pregnant, she only has her hapless father for support. Malcolm, a sweet man in crisis, must learn to rebuild his life and his relationship with Gemma.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/rrrnw5v1ramLQy2Ab2KLqzhZl5e.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Davina",
+                            "credit_id": "66bccd0ea14c7df7dae1e2dc",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 42571,
+                            "known_for_department": "Acting",
+                            "name": "Susan Lynch",
+                            "original_name": "Susan Lynch",
+                            "popularity": 5.157,
+                            "profile_path": "/sTl2Tn2nzLRjKdk0CKMBb87Gz8X.jpg"
+                        },
+                        {
+                            "character": "Ben",
+                            "credit_id": "66bccd16362232b6c2825fdd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1420175,
+                            "known_for_department": "Acting",
+                            "name": "Tom Stourton",
+                            "original_name": "Tom Stourton",
+                            "popularity": 4.111,
+                            "profile_path": "/wTgXeYi22bd891pGLmJhKGFu63s.jpg"
+                        },
+                        {
+                            "character": "Russell",
+                            "credit_id": "66bccd1e27a56f3f3488f63d",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2127250,
+                            "known_for_department": "Acting",
+                            "name": "Matthew Durkan",
+                            "original_name": "Matthew Durkan",
+                            "popularity": 0.094,
+                            "profile_path": "/z30e2QxY9r7rZ208JpcGNH4fNme.jpg"
+                        },
+                        {
+                            "character": "Andy",
+                            "credit_id": "66bccd2719ad27c164ebde61",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1767292,
+                            "known_for_department": "Acting",
+                            "name": "William Fox",
+                            "original_name": "William Fox",
+                            "popularity": 0.004,
+                            "profile_path": "/m4MfpBOLTSDfpKzm31efqJgzXJR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-15",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 5175266,
+                    "name": "Normal Men",
+                    "overview": "Gemma tries to reconnect with the girls from school after a chance encounter with Cherry. Malcolm is encouraged to find a normal friend after Derek introduces him to close-up magic",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/iddwa4KZ4wiwWSwgPbKlY7Lt89T.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Tamika",
+                            "credit_id": "66bccd323eb0cbd6d0a45c66",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3069742,
+                            "known_for_department": "Acting",
+                            "name": "Cora Kirk",
+                            "original_name": "Cora Kirk",
+                            "popularity": 2.754,
+                            "profile_path": "/4av80vVFZSBuKJyzXqEXLE8Vftc.jpg"
+                        },
+                        {
+                            "character": "Stuart",
+                            "credit_id": "66bccd39c4525601f688f642",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97433,
+                            "known_for_department": "Acting",
+                            "name": "Cyril Nri",
+                            "original_name": "Cyril Nri",
+                            "popularity": 3.658,
+                            "profile_path": "/zrcX7Y1DhtaXsoxw8kTl5BWeEW2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-22",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 5175268,
+                    "name": "Sugar Daddies",
+                    "overview": "After receiving dodgy life advice from those around her, Gemma enlists Cherry to help find a potential father for her unborn child. Meanwhile, Malcolm finds love with a woman online",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/9BO3XpqeNWyxFPnLj10htybqh0i.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Fergal",
+                            "credit_id": "66bccd46f2a73e0b6bb55d6b",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1240398,
+                            "known_for_department": "Acting",
+                            "name": "Damien Molony",
+                            "original_name": "Damien Molony",
+                            "popularity": 1.52,
+                            "profile_path": "/foOwuCmNAzlumiVGLj6S1McmdJj.jpg"
+                        },
+                        {
+                            "character": "Helen",
+                            "credit_id": "66bccd679ec961dc1dc356fc",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4885842,
+                            "known_for_department": "Acting",
+                            "name": "Nina de Mitri",
+                            "original_name": "Nina de Mitri",
+                            "popularity": 0.001,
+                            "profile_path": "/aaNSUv2GmmOuGqGgmJI0JngBowy.jpg"
+                        },
+                        {
+                            "character": "Winnie",
+                            "credit_id": "66bccd7119ad27c164ebde66",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4756344,
+                            "known_for_department": "Acting",
+                            "name": "Chris Kerry",
+                            "original_name": "Chris Kerry",
+                            "popularity": 0.001,
+                            "profile_path": "/cMBHDateOtFG34BHUGztV1itwLu.jpg"
+                        },
+                        {
+                            "character": "Chelsea",
+                            "credit_id": "66bccd7a46e19559f9825ffd",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1231409,
+                            "known_for_department": "Acting",
+                            "name": "Jessica Ransom",
+                            "original_name": "Jessica Ransom",
+                            "popularity": 2.674,
+                            "profile_path": "/6ZFO1W2KiJF1yBMGfQrVMe2oqpg.jpg"
+                        },
+                        {
+                            "character": "Clint",
+                            "credit_id": "66bccd8d1d2a2af68ae11879",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4885843,
+                            "known_for_department": "Acting",
+                            "name": "Jonny Wright",
+                            "original_name": "Jonny Wright",
+                            "popularity": 0.001,
+                            "profile_path": "/htbHDImlKzeXvHkI0Bkm9haXAXN.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-22",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 5175270,
+                    "name": "Garden Sliders",
+                    "overview": "Gemma tries birthing classes but resorts to asking her aunt Jess for advice. Malcolm and Gemma get invited to Jess and Tyrone’s hot tub party, but Malcolm is scared of hot tubs!",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/1mc4RdncSTW885qQNHqnAgo9Of9.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Winnie",
+                            "credit_id": "66bccd7119ad27c164ebde66",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4756344,
+                            "known_for_department": "Acting",
+                            "name": "Chris Kerry",
+                            "original_name": "Chris Kerry",
+                            "popularity": 0.001,
+                            "profile_path": "/cMBHDateOtFG34BHUGztV1itwLu.jpg"
+                        },
+                        {
+                            "character": "Tyrone",
+                            "credit_id": "66bccda1f50fef49802164bc",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1252526,
+                            "known_for_department": "Acting",
+                            "name": "Perry Fitzpatrick",
+                            "original_name": "Perry Fitzpatrick",
+                            "popularity": 2.75,
+                            "profile_path": "/m6xLOTyZaDzQ3ds1GWnvJb7F4L9.jpg"
+                        },
+                        {
+                            "character": "Jess",
+                            "credit_id": "66bccdaa3990ba12fee994a0",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 86477,
+                            "known_for_department": "Acting",
+                            "name": "Claire Keelan",
+                            "original_name": "Claire Keelan",
+                            "popularity": 2.048,
+                            "profile_path": "/aKNSxAV4vqXi8tg28vrKjsyKACE.jpg"
+                        },
+                        {
+                            "character": "Twinky",
+                            "credit_id": "66bccdb5eb15b1d21de99569",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1382570,
+                            "known_for_department": "Acting",
+                            "name": "Lauren O'Rourke",
+                            "original_name": "Lauren O'Rourke",
+                            "popularity": 3.92,
+                            "profile_path": "/xqucM7j7zyMePn4bup7JH1USwE0.jpg"
+                        },
+                        {
+                            "character": "Doctor Rush",
+                            "credit_id": "66bccdbef4f49c2ff0e1e38d",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1251288,
+                            "known_for_department": "Acting",
+                            "name": "Margaret Cabourn-Smith",
+                            "original_name": "Margaret Cabourn-Smith",
+                            "popularity": 0.802,
+                            "profile_path": "/u3Ny2jS17KtnQdTV8tqjILdVkLe.jpg"
+                        },
+                        {
+                            "character": "Pippa",
+                            "credit_id": "66bccdc4ca3fc886c9ebde7f",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2041583,
+                            "known_for_department": "Acting",
+                            "name": "Shobi Rae Mclean",
+                            "original_name": "Shobi Rae Mclean",
+                            "popularity": 0.001,
+                            "profile_path": "/g50WyJHENb5jOOxJ6hdc77TAikb.jpg"
+                        },
+                        {
+                            "character": "Nigel",
+                            "credit_id": "66bccde3a92e8e9c1e9b5327",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4885844,
+                            "known_for_department": "Acting",
+                            "name": "Dan Sheader",
+                            "original_name": "Dan Sheader",
+                            "popularity": 0.001,
+                            "profile_path": "/8W9BSB7tkxOu4BHx2ZFw7eaANnA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-29",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 5175275,
+                    "name": "Man Mess",
+                    "overview": "Gemma bumps into an old flame and agrees to a date. Derek hatches a plan for Malcolm to retrieve his belongings from his old family house, so Malcolm invites Gemma’s new man along.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/zD9dMi1HkhqAduNU4AG0AL4zMOg.jpg",
+                    "vote_average": 7,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Ben",
+                            "credit_id": "66bccd16362232b6c2825fdd",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1420175,
+                            "known_for_department": "Acting",
+                            "name": "Tom Stourton",
+                            "original_name": "Tom Stourton",
+                            "popularity": 4.111,
+                            "profile_path": "/wTgXeYi22bd891pGLmJhKGFu63s.jpg"
+                        },
+                        {
+                            "character": "Kenny",
+                            "credit_id": "66bccdf62baef701eba45b81",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 110076,
+                            "known_for_department": "Acting",
+                            "name": "Nicholas Burns",
+                            "original_name": "Nicholas Burns",
+                            "popularity": 5.789,
+                            "profile_path": "/x8ETzUUeTrmBRuVdvPEaZ23Focf.jpg"
+                        },
+                        {
+                            "character": "Allegra",
+                            "credit_id": "66bccdfc18720ca015e11863",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 884406,
+                            "known_for_department": "Acting",
+                            "name": "Susannah Fielding",
+                            "original_name": "Susannah Fielding",
+                            "popularity": 2.98,
+                            "profile_path": "/7RokiUB5BEJAS4MDLG9xpaZKdI7.jpg"
+                        },
+                        {
+                            "character": "Agnes",
+                            "credit_id": "66bcce02022b6011e98c81ef",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 79897,
+                            "known_for_department": "Acting",
+                            "name": "Sherrie Hewson",
+                            "original_name": "Sherrie Hewson",
+                            "popularity": 1.859,
+                            "profile_path": "/uKQYZSoCXyzIW6Qst2MYsMKdE7J.jpg"
+                        },
+                        {
+                            "character": "Berty",
+                            "credit_id": "66bcce08360d0655eba45eab",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4885845,
+                            "known_for_department": "Acting",
+                            "name": "Leo Cosgriff",
+                            "original_name": "Leo Cosgriff",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2024-08-29",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 5175278,
+                    "name": "Sadie",
+                    "overview": "Malcolm throws Gemma a baby shower, and Derek surprises Malcolm with a birthday present. Xander discovers Gemma in labour, whilst Malcolm and Derek are locked in an escape room.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 241337,
+                    "still_path": "/9b4IxTmIVw7zpUoRqJGPTpT0kbG.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Davina",
+                            "credit_id": "66bccd0ea14c7df7dae1e2dc",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 42571,
+                            "known_for_department": "Acting",
+                            "name": "Susan Lynch",
+                            "original_name": "Susan Lynch",
+                            "popularity": 5.157,
+                            "profile_path": "/sTl2Tn2nzLRjKdk0CKMBb87Gz8X.jpg"
+                        },
+                        {
+                            "character": "Winnie",
+                            "credit_id": "66bccd7119ad27c164ebde66",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4756344,
+                            "known_for_department": "Acting",
+                            "name": "Chris Kerry",
+                            "original_name": "Chris Kerry",
+                            "popularity": 0.001,
+                            "profile_path": "/cMBHDateOtFG34BHUGztV1itwLu.jpg"
+                        },
+                        {
+                            "character": "Surgeon",
+                            "credit_id": "66bcce1de07c3f9104d0544e",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2044035,
+                            "known_for_department": "Acting",
+                            "name": "Charly Burridge Jones",
+                            "original_name": "Charly Burridge Jones",
+                            "popularity": 0.643,
+                            "profile_path": "/u6iuTS3TVoVGiE3zBGPB048jCzh.jpg"
+                        },
+                        {
+                            "character": "Warren",
+                            "credit_id": "66bcce2753a5255686e118e4",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1632927,
+                            "known_for_department": "Acting",
+                            "name": "Humphrey Ker",
+                            "original_name": "Humphrey Ker",
+                            "popularity": 2.8,
+                            "profile_path": "/sxjHZ2wY8tXTc4hpsd8P39U0VuN.jpg"
+                        },
+                        {
+                            "character": "Craig",
+                            "credit_id": "66bcce2dd156e936db66608c",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1974208,
+                            "known_for_department": "Acting",
+                            "name": "David Reed",
+                            "original_name": "David Reed",
+                            "popularity": 0.07,
+                            "profile_path": "/7NgdiYShOphpZlLmyrXRkUpkdfu.jpg"
+                        },
+                        {
+                            "character": "Astrid",
+                            "credit_id": "66bcce34ca3fc886c9ebde8b",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 4459008,
+                            "known_for_department": "Acting",
+                            "name": "Shareesa Valentine",
+                            "original_name": "Shareesa Valentine",
+                            "popularity": 0.001,
+                            "profile_path": "/m1w09oDzZCWTmA2LC6RmIVxk3aB.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Series 1",
+            "overview": "",
+            "id": 369372,
+            "poster_path": "/4HzeVlIIpEPSkTyqtkHTLUHTjPp.jpg",
+            "season_number": 1,
+            "vote_average": 7.6
+        }
+    }
+}

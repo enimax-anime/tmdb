@@ -1,0 +1,300 @@
+{
+    "adult": false,
+    "backdrop_path": "/otVMYZM6qxSEuPNx8tVvHzVczoN.jpg",
+    "created_by": [
+        {
+            "id": 1479099,
+            "credit_id": "63e880456c84920097ff663b",
+            "name": "Christopher Pahle",
+            "original_name": "Christopher Pahle",
+            "gender": 2,
+            "profile_path": "/a60QxhF2OAU0wEZTSGndfPb3UsX.jpg"
+        },
+        {
+            "id": 3916857,
+            "credit_id": "63e880806c849200cfb24d5c",
+            "name": "Marit Støre Valeur",
+            "original_name": "Marit Støre Valeur",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        20
+    ],
+    "first_air_date": "2023-11-02",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 220252,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2023-11-02",
+    "last_episode_to_air": {
+        "id": 4840718,
+        "name": "Episode 10",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-11-02",
+        "episode_number": 10,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 220252,
+        "still_path": null
+    },
+    "name": "Dumbsday",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 379,
+            "logo_path": "/4TTFfXnGIEosh3EPYX25ERWp1XG.png",
+            "name": "NRK1",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Dummedag",
+    "overview": "Dumbsday is a comedy-drama which plays with the conventions of post-apocalyptic TV series. The world has gone to hell in every possible way – and only seven people have survived. The show begins with our seven main characters trapped in an under-ground train tunnel in Oslo. Will they survive? And can these people really be the future of humanity?",
+    "popularity": 4.574,
+    "poster_path": "/tFMtL4Z6lmPVA6KXKqjr391R0eP.jpg",
+    "production_companies": [
+        {
+            "id": 88065,
+            "logo_path": "/8rmwQtvLzld7L6qB2tdV792SxtP.png",
+            "name": "Seefood Productions",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2023-11-02",
+            "episode_count": 10,
+            "id": 328597,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vtpFBKBGYe885Z32QXTGnApuTp8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "63e87de46c849200851af0e6",
+            "air_date": "2023-11-02",
+            "episodes": [
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4228450,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4840709,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4840710,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4840711,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4840712,
+                    "name": "Episode 5",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4840713,
+                    "name": "Episode 6",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4840714,
+                    "name": "Episode 7",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 4840716,
+                    "name": "Episode 8",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 4840717,
+                    "name": "Episode 9",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-11-02",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 4840718,
+                    "name": "Episode 10",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 220252,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 328597,
+            "poster_path": "/vtpFBKBGYe885Z32QXTGnApuTp8.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "adult": false,
+    "backdrop_path": "/t91NLoQrSlPJemZ3v4UhyhnRKux.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        44
+    ],
+    "first_air_date": "2017-09-06",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.viceland.com/en_us/show/epicly-laterd-tv",
+    "id": 73441,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2017-10-25",
+    "last_episode_to_air": {
+        "id": 1372177,
+        "name": "Harmony Korine",
+        "overview": "Harmony Korine has spent his life disrupting traditional cinema with his provocative films. What most people don't know is that first and foremost he's a skater.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-10-25",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 73441,
+        "still_path": "/jGDHajCgXa9lUQ6hCVmERPklJ2J.jpg"
+    },
+    "name": "Epicly Later'd",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1339,
+            "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+            "name": "Viceland",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Epicly Later'd",
+    "overview": "Filmmaker Patrick O'Dell explores the careers and lives of some of the most influential people in skateboarding–and in the culture at large.",
+    "popularity": 1.48,
+    "poster_path": "/s7mIbKRJJGCWSqCCob0MUhs3cav.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-06",
+            "episode_count": 8,
+            "id": 91706,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/vflNC8R2QfOl97k4pt7AYCi7qrv.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 10,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "599b011cc3a36839f901bef3",
+            "air_date": "2017-09-06",
+            "episodes": [
+                {
+                    "air_date": "2017-09-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1353666,
+                    "name": "Bam Margera",
+                    "overview": "Bam Margera, legendary pro skater and star of Jackass, struggles to overcome substance abuse and the loss of his best friend as he works to make a return to skateboarding.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/cDhP6q6qgyFJ96g4SmsnuI5uyIU.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59b1a1c1c3a3682cc808c382",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 56584,
+                            "known_for_department": "Acting",
+                            "name": "Bam Margera",
+                            "original_name": "Bam Margera",
+                            "popularity": 5.658,
+                            "profile_path": "/rqqWLWYitZ8Pl8YDGbEVxyCKZIE.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-09-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1356045,
+                    "name": "Heath Kirchart",
+                    "overview": "Legend Heath Kirchart, walked away from skating at the height of his career. He's gone from pushing his physical limits on a board to a new life of death-defying travel missions.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/G6AVtoWJ6W2dHEoiFovzAt7dhB.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59b1a1ce9251417e400376eb",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1025697,
+                            "known_for_department": "Acting",
+                            "name": "Heath Kirchart",
+                            "original_name": "Heath Kirchart",
+                            "popularity": 1.133,
+                            "profile_path": "/k749izD47YmqHBxtIRp1g86zpux.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-09-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1356046,
+                    "name": "Spike Jonze",
+                    "overview": "Influential filmmaker, Spike Jonze, looks back on his career and discusses how skateboarding influenced his work from groundbreaking music videos to Jackass to an Academy® Award.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/AdT84Pw21BMolDJiYO3RBrYMEnP.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "59b1a1d7c3a3682e64035978",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5953,
+                            "known_for_department": "Directing",
+                            "name": "Spike Jonze",
+                            "original_name": "Spike Jonze",
+                            "popularity": 5.306,
+                            "profile_path": "/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-09-27",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1357612,
+                    "name": "Andy Roy",
+                    "overview": "Andy Roy journeyed from pro skater to prison inmate, and back again. In this episode we dive into Andy's checkered past and explore how he's making up for lost time.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/xsgZDAKwCbKh9CCrQLyqlEn6tAz.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59d6894f925141384e001191",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1883776,
+                            "known_for_department": "Acting",
+                            "name": "Andy Roy",
+                            "original_name": "Andy Roy",
+                            "popularity": 1.5,
+                            "profile_path": "/uLbLy3yl19tB4tf40zpWJEALwR.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1360831,
+                    "name": "Chad Muska",
+                    "overview": "Chad Muska's evolution from homeless teenager to one of the most-hyped skateboarders of all time led him through Hollywood, high fashion, and the international art scene.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/dVjom0ovAUkDKwL0eofDp5Z69Xw.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59b1a1e3925141079d088ff6",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1228206,
+                            "known_for_department": "Acting",
+                            "name": "Chad Muska",
+                            "original_name": "Chad Muska",
+                            "popularity": 1.759,
+                            "profile_path": "/7l49oKo7kwtqzpYObodfOpFXfGi.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1366411,
+                    "name": "Andrew Reynolds",
+                    "overview": "Andrew Reynolds is pushing 40 and still skates huge gaps. In his early 20s his partying took its toll, but now he's become the poster child for skateboarding's fountain of youth.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/sFI0buLznaJQtaiEGBquZprYauN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59d68969925141380c0011fe",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1248649,
+                            "known_for_department": "Acting",
+                            "name": "Andrew Reynolds",
+                            "original_name": "Andrew Reynolds",
+                            "popularity": 2.758,
+                            "profile_path": "/8QqY2XrIXReaYbUAIFl8JzgwqUg.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-18",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1368896,
+                    "name": "Jason Dill",
+                    "overview": "In 2009 Jason Dill was hospitalized after years of whisky and Vicodin burned a hole in his stomach. After cleaning up his act, Dill now runs \"F**king Awesome\" skate company.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/94CjW2PER6VThCVYdCljIfamZV1.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59d68a7fc3a3685c4a0011ac",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 96823,
+                            "known_for_department": "Acting",
+                            "name": "Jason Dill",
+                            "original_name": "Jason Dill",
+                            "popularity": 1.263,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2017-10-25",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 1372177,
+                    "name": "Harmony Korine",
+                    "overview": "Harmony Korine has spent his life disrupting traditional cinema with his provocative films. What most people don't know is that first and foremost he's a skater.",
+                    "production_code": "",
+                    "runtime": 44,
+                    "season_number": 1,
+                    "show_id": 73441,
+                    "still_path": "/jGDHajCgXa9lUQ6hCVmERPklJ2J.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Himself",
+                            "credit_id": "59d68affc3a3685c570011d0",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 51918,
+                            "known_for_department": "Directing",
+                            "name": "Harmony Korine",
+                            "original_name": "Harmony Korine",
+                            "popularity": 2.425,
+                            "profile_path": "/nifHx1FlQdgYw57QaUfHSjBKmPy.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 91706,
+            "poster_path": "/vflNC8R2QfOl97k4pt7AYCi7qrv.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "adult": false,
+    "backdrop_path": "/b8znMIR0ZjXkI9nVzkEzUvnULCD.jpg",
+    "created_by": [
+        {
+            "id": 1724363,
+            "credit_id": "6031cfc8befb0900408f4970",
+            "name": "Maurizio De Giovanni",
+            "original_name": "Maurizio De Giovanni",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        105
+    ],
+    "first_air_date": "2021-01-25",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.raiplay.it/programmi/ilcommissarioricciardi",
+    "id": 116179,
+    "in_production": true,
+    "languages": [
+        "it"
+    ],
+    "last_air_date": "2023-03-21",
+    "last_episode_to_air": {
+        "id": 4282541,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2023-03-21",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 116179,
+        "still_path": "/9N18Y8OMouhFDjBbe1iShQgoNAe.jpg"
+    },
+    "name": "Inspector Ricciardi",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 533,
+            "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+            "name": "Rai 1",
+            "origin_country": "IT"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_name": "Il Commissario Ricciardi",
+    "overview": "Naples, 1932. Detective Luigi Alfredo Ricciardi leaves no crime unsolved, being able to see the ghosts of people who have died violently and listen to their last thought. But this extraordinary gift is both a blessing and a curse!",
+    "popularity": 13.32,
+    "poster_path": "/qTSQpMvSJRoRCL5hr6lU9KZUU13.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-01-25",
+            "episode_count": 6,
+            "id": 175476,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/w19Hu4E4XGPlFiNU2YhSi0FWEt3.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        },
+        {
+            "air_date": "2023-03-06",
+            "episode_count": 4,
+            "id": 331519,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/wPniFwQvAfY270oDry2byEOqcsM.jpg",
+            "season_number": 2,
+            "vote_average": 8.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 23,
+    "season_data": {
+        "1": {
+            "_id": "5ff76e12383df2003b3127e4",
+            "air_date": "2021-01-25",
+            "episodes": [
+                {
+                    "air_date": "2021-01-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2622371,
+                    "name": "Vengeance Will Be Mine",
+                    "overview": "The great tenor Arnaldo Vezzi is found dead in his dressing room at the Teatro San Carlo.",
+                    "production_code": "",
+                    "runtime": 104,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/tbe2Lyd0q0K04CGbhVwE8mXrnrn.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-01",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2702370,
+                    "name": "Blood Curse",
+                    "overview": "Ricciardi investigates the murder of a card-reader who also worked as a loan-shark in the poor neighborhood.",
+                    "production_code": "",
+                    "runtime": 109,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/jAwKc7WHROvHevAH6M495P3vrZb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-08",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2720367,
+                    "name": "Everyone in Their Place",
+                    "overview": "Ricciardi is called to investigate the murder of a Neapolitan noblewoman.",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/dNRRiUJzhqOYbpRS8ae7mSs7KKY.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Mario Capece",
+                            "credit_id": "60f49a475545ca005c191b04",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2335560,
+                            "known_for_department": "Acting",
+                            "name": "Luca Saccoia",
+                            "original_name": "Luca Saccoia",
+                            "popularity": 0.539,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Andrea Capece",
+                            "credit_id": "641e0e98e0ec5100b85b0814",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2217720,
+                            "known_for_department": "Acting",
+                            "name": "Domenico Cuomo",
+                            "original_name": "Domenico Cuomo",
+                            "popularity": 0.649,
+                            "profile_path": "/g9w7B1VdEB8N3KRdfzWN7g5TUnk.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-15",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2720368,
+                    "name": "The Day of the Dead",
+                    "overview": "The body of Matteo Diotallevi, one the many children living in the streets, is found near Capodimonte.",
+                    "production_code": "",
+                    "runtime": 100,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/qPyBGmhkR9WupX35aLo2OmEJ71S.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Carmen Fago",
+                            "credit_id": "6031d420dfe31d003f9cc1ac",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1136781,
+                            "known_for_department": "Acting",
+                            "name": "Christiane Filangieri",
+                            "original_name": "Christiane Filangieri",
+                            "popularity": 5.722,
+                            "profile_path": "/rVF8CrKJBdGPYaBcNWPoAPOiGum.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-22",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2720369,
+                    "name": "Viper",
+                    "overview": "Just before Easter, Vipera--Naples' most famous prostitute--is found dead, suffocated with a pillow.",
+                    "production_code": "",
+                    "runtime": 98,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/qbVtdmnCuodOEoiO1vViMOzuid9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-01",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 2720370,
+                    "name": "At the Bottom of Your Heart",
+                    "overview": "Rosa, Ricciardi's housekeeper, falls ill. Her niece comes to Naples to help her.",
+                    "production_code": "",
+                    "runtime": 108,
+                    "season_number": 1,
+                    "show_id": 116179,
+                    "still_path": "/qlHZWZhOzemDHacVBuc9MVsrN8K.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 175476,
+            "poster_path": "/w19Hu4E4XGPlFiNU2YhSi0FWEt3.jpg",
+            "season_number": 1,
+            "vote_average": 6
+        },
+        "2": {
+            "_id": "640652ed160e73007c38cef7",
+            "air_date": "2023-03-06",
+            "episodes": [
+                {
+                    "air_date": "2023-03-06",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4282535,
+                    "name": "Episode 1",
+                    "overview": "The death of a man in a lottery office leads Ricciardi to investigate a count and his charming wife. But his heart is disturbed by the advances that Enrica receives from a German major.",
+                    "production_code": "",
+                    "runtime": 102,
+                    "season_number": 2,
+                    "show_id": 116179,
+                    "still_path": "/iVjJGmz9U6MyU6Lc0JvmKr3jkqH.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-13",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4282539,
+                    "name": "Episode 2",
+                    "overview": "Countess Palmieri asks the inspector for help: her husband is accused of murdering lawyer Piro.",
+                    "production_code": "",
+                    "runtime": 106,
+                    "season_number": 2,
+                    "show_id": 116179,
+                    "still_path": "/c9WxzmcmkS6qGz35qGqXMuVsQew.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-20",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4282540,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 116179,
+                    "still_path": "/7SqgDLOhxqtztUFqlm96sFYYDUf.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-03-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4282541,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 116179,
+                    "still_path": "/9N18Y8OMouhFDjBbe1iShQgoNAe.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Fedora Marra",
+                            "credit_id": "65009b815545ca00e1afd43a",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1650388,
+                            "known_for_department": "Acting",
+                            "name": "Martina Palmitesta",
+                            "original_name": "Martina Palmitesta",
+                            "popularity": 0.708,
+                            "profile_path": "/hPta4XSIaKmRq1fyNrxWBgk7R8U.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 331519,
+            "poster_path": "/wPniFwQvAfY270oDry2byEOqcsM.jpg",
+            "season_number": 2,
+            "vote_average": 8.5
+        }
+    }
+}

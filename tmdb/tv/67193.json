@@ -1,0 +1,131 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        30
+    ],
+    "first_air_date": "2016-07-22",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.facebook.com/uktlc/",
+    "id": 67193,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2016-07-22",
+    "last_episode_to_air": {
+        "id": 1209292,
+        "name": "Episode 1",
+        "overview": "Series in which strangers meet in a darkened room and undress each other, and try to form a personal connection in 30 minutes",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2016-07-22",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 1,
+        "show_id": 67193,
+        "still_path": null
+    },
+    "name": "Undressed",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1172,
+            "logo_path": "/nDCnUdHNseEmnVaek4u3bPl0bZR.png",
+            "name": "TLC UK",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB",
+        "IT"
+    ],
+    "original_language": "en",
+    "original_name": "Undressed",
+    "overview": "Is it possible to fall in love with a complete stranger? In 30 minutes? Whilst undressed?\n\nUndressed is a dating show that accelerates intimacy and explores the accepted rules of attraction.  The bold, innovative and experimental show sees two perfect strangers undress each other and climb into bed on their first date.",
+    "popularity": 1.471,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 59127,
+            "logo_path": null,
+            "name": "RDF Media",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-07-22",
+            "episode_count": 1,
+            "id": 78735,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "579407d4c3a3687d1d000594",
+            "air_date": "2016-07-22",
+            "episodes": [
+                {
+                    "air_date": "2016-07-22",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1209292,
+                    "name": "Episode 1",
+                    "overview": "Series in which strangers meet in a darkened room and undress each other, and try to form a personal connection in 30 minutes",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 1,
+                    "show_id": 67193,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 78735,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

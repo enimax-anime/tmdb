@@ -1,0 +1,795 @@
+{
+    "adult": false,
+    "backdrop_path": "/bxN2a21PVhLieDeqgaH0oAbkAVW.jpg",
+    "created_by": [
+        {
+            "id": 2893175,
+            "credit_id": "63928eb2cee2f600e27bda21",
+            "name": "Tina Rygh",
+            "original_name": "Tina Rygh",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        29
+    ],
+    "first_air_date": "2022-08-21",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://viaplay.no/serier/nede",
+    "id": 207783,
+    "in_production": true,
+    "languages": [
+        "no"
+    ],
+    "last_air_date": "2022-08-21",
+    "last_episode_to_air": {
+        "id": 3906601,
+        "name": "Tramp Stamp",
+        "overview": "Mom wants a party, so she gathers everyone for a party.",
+        "vote_average": 8,
+        "vote_count": 2,
+        "air_date": "2022-08-21",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 33,
+        "season_number": 1,
+        "show_id": 207783,
+        "still_path": "/mlWXAPc2BzLulrSBu3IHS5rm6rs.jpg"
+    },
+    "name": "Below",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 2406,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "NO"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "NO"
+    ],
+    "original_language": "no",
+    "original_name": "Nede",
+    "overview": "A young woman whose life is turned upside down by a traffic accident that kills her best friend and leaves her paralyzed from the waist down.",
+    "popularity": 3.915,
+    "poster_path": "/9vIwJ3miXHqIOSm2lpMKaC7ifnj.jpg",
+    "production_companies": [
+        {
+            "id": 81482,
+            "logo_path": null,
+            "name": "Monster Scripted",
+            "origin_country": "NO"
+        },
+        {
+            "id": 178553,
+            "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+            "name": "Viaplay Group",
+            "origin_country": "NO"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NO",
+            "name": "Norway"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2022-08-21",
+            "episode_count": 6,
+            "id": 304016,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/yePZ0VkxljCZfQY1tRwydhRKytT.jpg",
+            "season_number": 1,
+            "vote_average": 6.5
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Norwegian",
+            "iso_639_1": "no",
+            "name": "Norsk"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 7.9,
+    "vote_count": 11,
+    "season_data": {
+        "1": {
+            "_id": "62f283cf813cb6007b349dd9",
+            "air_date": "2022-08-21",
+            "episodes": [
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3882305,
+                    "name": "Completely Torn",
+                    "overview": "Fanny moves in with Fam and gets an unwanted visit from Kurt’s widow.",
+                    "production_code": "",
+                    "runtime": 34,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/fdiljscwt8FVzd7WcdEGQ8INBga.jpg",
+                    "vote_average": 6,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Helene",
+                            "credit_id": "670d68609f3531e6b26c11af",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2483961,
+                            "known_for_department": "Acting",
+                            "name": "Marit Røste",
+                            "original_name": "Marit Røste",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Styreleder",
+                            "credit_id": "670d688142e1391c5666c05e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2941614,
+                            "known_for_department": "Acting",
+                            "name": "Jørgen Rudshaug",
+                            "original_name": "Jørgen Rudshaug",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Ergoterapeut",
+                            "credit_id": "670d68b342e1391c5666c07d",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000400,
+                            "known_for_department": "Acting",
+                            "name": "Herman Brune Leikanger",
+                            "original_name": "Herman Brune Leikanger",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Heisleverandør",
+                            "credit_id": "670d68ca0b800537d75c930b",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000401,
+                            "known_for_department": "Acting",
+                            "name": "Thea Dalen",
+                            "original_name": "Thea Dalen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3906597,
+                    "name": "Toot Beirut",
+                    "overview": "Fanny and Jill meet with the driver of the car that hit them.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/oKRSScD3g4sMEgq2UFx99IPb1xs.jpg",
+                    "vote_average": 0,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Maram",
+                            "credit_id": "670d692142e1391c5666c0d0",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1866518,
+                            "known_for_department": "Acting",
+                            "name": "Sarah Benfaddoul",
+                            "original_name": "Sarah Benfaddoul",
+                            "popularity": 0.005,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Hilde",
+                            "credit_id": "670d695ef58a9206aa418d80",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1975340,
+                            "known_for_department": "Acting",
+                            "name": "Melina Tranulis",
+                            "original_name": "Melina Tranulis",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Fastlege",
+                            "credit_id": "670d69b70b800537d75c93a3",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000409,
+                            "known_for_department": "Acting",
+                            "name": "Kaja Sandsdalen",
+                            "original_name": "Kaja Sandsdalen",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Aubergine",
+                            "credit_id": "670d69d0f58a9206aa418db0",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1976990,
+                            "known_for_department": "Acting",
+                            "name": "Kenneth Homstad",
+                            "original_name": "Kenneth Homstad",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Yogainstruktor",
+                            "credit_id": "670d6a03d5f93a3da0bbe1b9",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000420,
+                            "known_for_department": "Acting",
+                            "name": "Christian Andvig",
+                            "original_name": "Christian Andvig",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Heidi",
+                            "credit_id": "670d6a2bf58a9206aa418dc6",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1479362,
+                            "known_for_department": "Acting",
+                            "name": "Maria Grazia Di Meo",
+                            "original_name": "Maria Grazia Di Meo",
+                            "popularity": 2.813,
+                            "profile_path": "/fMMDZFxF9fZLgKhZHdZuHaytNk9.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3906598,
+                    "name": "Have a Nice Day",
+                    "overview": "It’s Fanny and Fam’s birthday, but they have different plans.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/oo6Mi1JkdfRpt5NAMfbBfn78zRx.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Creepy Nabo",
+                            "credit_id": "670d6ada0b800537d75c94ee",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1480030,
+                            "known_for_department": "Acting",
+                            "name": "Ola G. Furuseth",
+                            "original_name": "Ola G. Furuseth",
+                            "popularity": 1.556,
+                            "profile_path": "/kaOcvvHdnTn0kG34pyAgU4uWMmq.jpg"
+                        },
+                        {
+                            "character": "Marianne",
+                            "credit_id": "670d6afb42e1391c5666c1d4",
+                            "order": 513,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3212380,
+                            "known_for_department": "Acting",
+                            "name": "Rebekka Jynge",
+                            "original_name": "Rebekka Jynge",
+                            "popularity": 0.543,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Sjef",
+                            "credit_id": "670d6b240b800537d75c952a",
+                            "order": 514,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000431,
+                            "known_for_department": "Acting",
+                            "name": "Daniel Ruazol",
+                            "original_name": "Daniel Ruazol",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3906599,
+                    "name": "Problems",
+                    "overview": "Fanny tries grief yoga with Jill.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/993TCW4QyN7mx60tAk5B3UUa5L5.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Yogainstruktor",
+                            "credit_id": "670d6a03d5f93a3da0bbe1b9",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000420,
+                            "known_for_department": "Acting",
+                            "name": "Christian Andvig",
+                            "original_name": "Christian Andvig",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Heidi",
+                            "credit_id": "670d6a2bf58a9206aa418dc6",
+                            "order": 511,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1479362,
+                            "known_for_department": "Acting",
+                            "name": "Maria Grazia Di Meo",
+                            "original_name": "Maria Grazia Di Meo",
+                            "popularity": 2.813,
+                            "profile_path": "/fMMDZFxF9fZLgKhZHdZuHaytNk9.jpg"
+                        },
+                        {
+                            "character": "Creepy Nabo",
+                            "credit_id": "670d6ada0b800537d75c94ee",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1480030,
+                            "known_for_department": "Acting",
+                            "name": "Ola G. Furuseth",
+                            "original_name": "Ola G. Furuseth",
+                            "popularity": 1.556,
+                            "profile_path": "/kaOcvvHdnTn0kG34pyAgU4uWMmq.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3906600,
+                    "name": "Badger",
+                    "overview": "Fanny and Jill hit the town after a traumatic baby shower.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/fL0XMDylgo5yeEIbUeze4YtSV4v.jpg",
+                    "vote_average": 6,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Aubergine",
+                            "credit_id": "670d69d0f58a9206aa418db0",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1976990,
+                            "known_for_department": "Acting",
+                            "name": "Kenneth Homstad",
+                            "original_name": "Kenneth Homstad",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Creepy Nabo",
+                            "credit_id": "670d6ada0b800537d75c94ee",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1480030,
+                            "known_for_department": "Acting",
+                            "name": "Ola G. Furuseth",
+                            "original_name": "Ola G. Furuseth",
+                            "popularity": 1.556,
+                            "profile_path": "/kaOcvvHdnTn0kG34pyAgU4uWMmq.jpg"
+                        },
+                        {
+                            "character": "Lege",
+                            "credit_id": "670d6d08d5f93a3da0bbe31a",
+                            "order": 515,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2931006,
+                            "known_for_department": "Acting",
+                            "name": "Tonje Thwin",
+                            "original_name": "Tonje Thwin",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Brannteknisk",
+                            "credit_id": "670d6d800b800537d75c9685",
+                            "order": 516,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 5000449,
+                            "known_for_department": "Acting",
+                            "name": "David Heyerdahl",
+                            "original_name": "David Heyerdahl",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Venninne av Jill på Babyshower",
+                            "credit_id": "670d6dbdb15d97b1a93d330d",
+                            "order": 517,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3738488,
+                            "known_for_department": "Acting",
+                            "name": "Camilla Gullbrekken",
+                            "original_name": "Camilla Gullbrekken",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2022-08-21",
+                    "episode_number": 6,
+                    "episode_type": "finale",
+                    "id": 3906601,
+                    "name": "Tramp Stamp",
+                    "overview": "Mom wants a party, so she gathers everyone for a party.",
+                    "production_code": "",
+                    "runtime": 33,
+                    "season_number": 1,
+                    "show_id": 207783,
+                    "still_path": "/mlWXAPc2BzLulrSBu3IHS5rm6rs.jpg",
+                    "vote_average": 8,
+                    "vote_count": 2,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Radin",
+                            "credit_id": "670d6813f58a9206aa418cb1",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1899801,
+                            "known_for_department": "Acting",
+                            "name": "Arben Bala",
+                            "original_name": "Arben Bala",
+                            "popularity": 1.668,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Kurt",
+                            "credit_id": "670d6835f58a9206aa418cbe",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 4903386,
+                            "known_for_department": "Acting",
+                            "name": "Amell Basic",
+                            "original_name": "Amell Basic",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Helene",
+                            "credit_id": "670d68609f3531e6b26c11af",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2483961,
+                            "known_for_department": "Acting",
+                            "name": "Marit Røste",
+                            "original_name": "Marit Røste",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Styreleder",
+                            "credit_id": "670d688142e1391c5666c05e",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2941614,
+                            "known_for_department": "Acting",
+                            "name": "Jørgen Rudshaug",
+                            "original_name": "Jørgen Rudshaug",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Creepy Nabo",
+                            "credit_id": "670d6ada0b800537d75c94ee",
+                            "order": 512,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1480030,
+                            "known_for_department": "Acting",
+                            "name": "Ola G. Furuseth",
+                            "original_name": "Ola G. Furuseth",
+                            "popularity": 1.556,
+                            "profile_path": "/kaOcvvHdnTn0kG34pyAgU4uWMmq.jpg"
+                        },
+                        {
+                            "character": "Pål 1",
+                            "credit_id": "670d6e9b42e1391c5666c372",
+                            "order": 518,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000469,
+                            "known_for_department": "Acting",
+                            "name": "Ask Norstrøm",
+                            "original_name": "Ask Norstrøm",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Pål 2",
+                            "credit_id": "670d6ea79f3531e6b26c13ed",
+                            "order": 519,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000471,
+                            "known_for_department": "Acting",
+                            "name": "Oliver Norstrøm",
+                            "original_name": "Oliver Norstrøm",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Shabby Fyr",
+                            "credit_id": "670d6ec3f58a9206aa418fc3",
+                            "order": 520,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 5000473,
+                            "known_for_department": "Acting",
+                            "name": "Tobias Vik",
+                            "original_name": "Tobias Vik",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "PK 20-åring",
+                            "credit_id": "670d6ee2f58a9206aa418fea",
+                            "order": 521,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3404846,
+                            "known_for_department": "Acting",
+                            "name": "Matias Tunold",
+                            "original_name": "Matias Tunold",
+                            "popularity": 0.191,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Gutt",
+                            "credit_id": "670d6f2e42e1391c5666c3aa",
+                            "order": 522,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1986030,
+                            "known_for_department": "Acting",
+                            "name": "Kaja Meløy",
+                            "original_name": "Kaja Meløy",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        },
+                        {
+                            "character": "Marius",
+                            "credit_id": "670d6f539f3531e6b26c141d",
+                            "order": 523,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1750954,
+                            "known_for_department": "Acting",
+                            "name": "André Sørum",
+                            "original_name": "André Sørum",
+                            "popularity": 1.077,
+                            "profile_path": "/8mNd4P9jTHIN0Eq7EcmKTq5k3TB.jpg"
+                        },
+                        {
+                            "character": "Andelseier 1",
+                            "credit_id": "670d6fcdd5f93a3da0bbe440",
+                            "order": 524,
+                            "adult": false,
+                            "gender": 0,
+                            "id": 3289785,
+                            "known_for_department": "Directing",
+                            "name": "Karine Dokken",
+                            "original_name": "Karine Dokken",
+                            "popularity": 0.001,
+                            "profile_path": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 304016,
+            "poster_path": "/yePZ0VkxljCZfQY1tRwydhRKytT.jpg",
+            "season_number": 1,
+            "vote_average": 6.5
+        }
+    }
+}

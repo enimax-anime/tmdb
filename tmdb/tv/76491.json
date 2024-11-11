@@ -1,0 +1,141 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2017-10-23",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "",
+    "id": 76491,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2019-02-06",
+    "last_episode_to_air": {
+        "id": 1699268,
+        "name": "How to Build a Labrador Rat Rod",
+        "overview": "Collin and Corey are hired to transform a client's bruised up Crown Victoria Interceptor into a rough and ready rat rod; they make the Crown Vic roadworthy, strip it down to a rolling chassis and Frankenstein together a body from three 1950s wrecks.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-02-06",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 76491,
+        "still_path": null
+    },
+    "name": "Last Stop Garage",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 106,
+            "logo_path": "/cjw4Msu4fkMWOsV6LlA7x8ZOQ1l.png",
+            "name": "Discovery",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 2,
+    "number_of_seasons": 2,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Last Stop Garage",
+    "overview": "",
+    "popularity": 0.686,
+    "poster_path": "/rRSeaRWidtOlzJrjvVB6wE8i5zi.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2017-10-23",
+            "episode_count": 1,
+            "id": 98104,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2019-02-06",
+            "episode_count": 1,
+            "id": 118464,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5a612d9a9251410e26009bbd",
+            "air_date": "2017-10-23",
+            "episodes": [
+                {
+                    "air_date": "2017-10-23",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1420859,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 76491,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 98104,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5c5c8b4ac3a3683a4689afe1",
+            "air_date": "2019-02-06",
+            "episodes": [
+                {
+                    "air_date": "2019-02-06",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 1699268,
+                    "name": "How to Build a Labrador Rat Rod",
+                    "overview": "Collin and Corey are hired to transform a client's bruised up Crown Victoria Interceptor into a rough and ready rat rod; they make the Crown Vic roadworthy, strip it down to a rolling chassis and Frankenstein together a body from three 1950s wrecks.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 2,
+                    "show_id": 76491,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 118464,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

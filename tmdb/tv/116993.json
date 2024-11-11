@@ -1,0 +1,651 @@
+{
+    "adult": false,
+    "backdrop_path": "/4Yd8vIrTsqR8HLJiheGXFkX8Kol.jpg",
+    "created_by": [],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-02-04",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "https://www.trutv.com/shows/fast-foodies",
+    "id": 116993,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2022-04-21",
+    "last_episode_to_air": {
+        "id": 3639910,
+        "name": "Joel McHale",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2022-04-21",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 2,
+        "show_id": 116993,
+        "still_path": null
+    },
+    "name": "Fast Foodies",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 364,
+            "logo_path": "/c48pVcWAEYhEFXrWFsYxx343mjx.png",
+            "name": "truTV",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 22,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fast Foodies",
+    "overview": "Culinary masters compete to perfectly recreate, then skillfully reimagine a celebrity guest’s favorite fast food dish as they try to win the “Chompionship Trophy.”",
+    "popularity": 11.75,
+    "poster_path": "/9BJiM1hlidIrFA1HZ7vUCJ5MZMe.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-04",
+            "episode_count": 10,
+            "id": 177194,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/iCe57gLx5L6CRolaotVJgRVzO3C.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2022-01-27",
+            "episode_count": 12,
+            "id": 239040,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/9BJiM1hlidIrFA1HZ7vUCJ5MZMe.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Fast food remixed.",
+    "type": "Reality",
+    "vote_average": 2,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "600695dc9a358d003fc43c2f",
+            "air_date": "2021-02-04",
+            "episodes": [
+                {
+                    "air_date": "2021-02-04",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2658777,
+                    "name": "Joel McHale",
+                    "overview": "The one thing Joel misses the most from his Midwestern childhood stomping grounds is the Chicago-style wiener. Nuclear-neon green relish, poppy seeded bun and all. The wiener heat is on!",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/1JP4jzjwXyRiygknQYmZhkte6Bb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7ff2a39d0b005411b438",
+                            "order": 507,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 74949,
+                            "known_for_department": "Acting",
+                            "name": "Joel McHale",
+                            "original_name": "Joel McHale",
+                            "popularity": 14.204,
+                            "profile_path": "/rh7yqtDZv1fSQGTKvbRQwiVdJu2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-11",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2668353,
+                    "name": "Bobby Lee",
+                    "overview": "There's only one thing that can get Bobby Lee to leave the house before 3pm and that is a sausage muffin with egg. Which chef will channel their inner fast-food clown and pull off the best recreation of a breakfast classic?",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/c5itMi1uNglalEW8mBoNQYIR551.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7fe1a39d0b0028aae9fb",
+                            "order": 506,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 198149,
+                            "known_for_department": "Acting",
+                            "name": "Bobby Lee",
+                            "original_name": "Bobby Lee",
+                            "popularity": 21.237,
+                            "profile_path": "/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2668354,
+                    "name": "GaTa",
+                    "overview": "Professional hype man and rapper GaTa turns up the heat in the kitchen with a delicious and tropical pizza challenge for our three chefs.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/2ldzNEajNsjzCxlOTixKJi1j0hM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7fc853866e006a8ae29a",
+                            "order": 505,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 2495673,
+                            "known_for_department": "Acting",
+                            "name": "GaTa",
+                            "original_name": "GaTa",
+                            "popularity": 3.681,
+                            "profile_path": "/2axCSmwaghud0WVjnqxX022fUUF.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-02-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2668355,
+                    "name": "James Van Der Beek",
+                    "overview": "It's time to take a journey down memory lane with the ultimate '90s teenage heartthrob James Van Der Beek as he challenges the chefs to re-create then remix a delectable iconic Californian burger.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/9MsaqdxP2EyjpbPqvxcYFZhhKB7.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7fb24350110028f6e365",
+                            "order": 504,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 19210,
+                            "known_for_department": "Acting",
+                            "name": "James Van Der Beek",
+                            "original_name": "James Van Der Beek",
+                            "popularity": 17.588,
+                            "profile_path": "/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-04",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2723352,
+                    "name": "Amanda Seales",
+                    "overview": "All Amanda Seals can taco 'bout is this delicious fast-food concoction. The three chefs will attempt to re-create this taco-adjacent treat, then mix it up in the remix.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/nJh7podhIJSDLia5vGYHe55p2Mv.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7f9bd1ca2a002877a80b",
+                            "order": 503,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1758158,
+                            "known_for_department": "Acting",
+                            "name": "Amanda Seales",
+                            "original_name": "Amanda Seales",
+                            "popularity": 2.48,
+                            "profile_path": "/4yANAQHBGemNwqukSOb1yzlM2zs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-11",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2723353,
+                    "name": "Ron Funches",
+                    "overview": "Ron Funches has a new healthy lifestyle and has said goodbye to most of his fast food favorites. He's pressing pause on his strict diet when our three chefs invite him to party with his old redhead gal pal and her irresistible spicy chicken sandwich.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": "/6qx34qUn16Y3pXsXjC5d1iGiFRm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7f8123be46003cf9509b",
+                            "order": 502,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1260038,
+                            "known_for_department": "Acting",
+                            "name": "Ron Funches",
+                            "original_name": "Ron Funches",
+                            "popularity": 8.071,
+                            "profile_path": "/DtULMxPvAlOKfrwISxdEffIKlk.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-03-25",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2723355,
+                    "name": "Kevin Heffernan & Steve Lemme",
+                    "overview": "The stars of “Tacoma FD” go all out in this family-style episode where a certain Colonel has set the deep-fried chicken bar high.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7bca39a1a6003e9b9e5e",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 56251,
+                            "known_for_department": "Acting",
+                            "name": "Kevin Heffernan",
+                            "original_name": "Kevin Heffernan",
+                            "popularity": 11.335,
+                            "profile_path": "/2FgG3oPF1A7d6W4KaNNZV7kJ83g.jpg"
+                        },
+                        {
+                            "character": "Self",
+                            "credit_id": "605e7bd14350110028f6da6d",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 52051,
+                            "known_for_department": "Acting",
+                            "name": "Steve Lemme",
+                            "original_name": "Steve Lemme",
+                            "popularity": 6.314,
+                            "profile_path": "/iQnIsjeUA34B2w4EuM8mR1TglJZ.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-01",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2827588,
+                    "name": "Charlotte McKinney",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605ec0f87614210053d8f916",
+                            "order": 508,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1514065,
+                            "known_for_department": "Acting",
+                            "name": "Charlotte McKinney",
+                            "original_name": "Charlotte McKinney",
+                            "popularity": 10.139,
+                            "profile_path": "/kKus50JDqKtrWLqururLUArHhxo.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-08",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2827589,
+                    "name": "Andy Richter",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605ec10d1065d300281e88ab",
+                            "order": 509,
+                            "adult": false,
+                            "gender": 2,
+                            "id": 28637,
+                            "known_for_department": "Acting",
+                            "name": "Andy Richter",
+                            "original_name": "Andy Richter",
+                            "popularity": 11.032,
+                            "profile_path": "/qazhLkyKOsPmdOQSaUWWbbUjs9q.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2021-04-15",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 2827590,
+                    "name": "Fortune Feimster",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Self",
+                            "credit_id": "605ec1227c6de3006c5ec8b8",
+                            "order": 510,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1183672,
+                            "known_for_department": "Acting",
+                            "name": "Fortune Feimster",
+                            "original_name": "Fortune Feimster",
+                            "popularity": 8.203,
+                            "profile_path": "/aCV6S7Tuh9iUmF9on6EwaXC3rCI.jpg"
+                        }
+                    ]
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 177194,
+            "poster_path": "/iCe57gLx5L6CRolaotVJgRVzO3C.jpg",
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "61d9add0c3aa3f009ba5561c",
+            "air_date": "2022-01-27",
+            "episodes": [
+                {
+                    "air_date": "2022-01-27",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3437191,
+                    "name": "Nikki Glaser",
+                    "overview": "Comedian and roaster Nikki Glaser brings the chefs a fast-food  classic.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-03",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3492046,
+                    "name": "Chris Jericho",
+                    "overview": "Wrestling legend Chris Jericho puts both the smack and the snack down on the competition when bringing his favorite fast-food breakfast; the chefs attempt to prove they are a culinary powerhouse to be crowned \"Le Chompion\" by Chris",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-10",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3492047,
+                    "name": "Natasha Leggaro",
+                    "overview": "Comedian, roaster and TV host Natasha Leggero has the chefs re-create her favorite fast casual burrito.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-17",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3492048,
+                    "name": "Jesse Tyler Ferguson",
+                    "overview": "Jesse Tyler Ferguson proves that he fits in with the modern fast-food family with his love of food, strong drinks, and a fast-food sandwich like no other; the chefs try their best to re-create adn remix Jesse's complicated sandwich.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-02-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3526806,
+                    "name": "Jillian Bell",
+                    "overview": "Comedian and actress Jillian Bell has the chefs elevate the fast food game with their take on a modern-day, gourmet, fast food chicken sando.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3526807,
+                    "name": "Reggie Watts",
+                    "overview": "Multi-hyphenated musician, comedian, beatboxer and vocal artist Reggie Watts comes to Fast Foodies to drop some beats and eat some meats, bringing a dish of fast food royalty for the chefs to cook.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3526808,
+                    "name": "Bobby Moynihan",
+                    "overview": "SNL alum Bobby Moynihan learns how to use a stick and gets a dish named after a cyborg delivered by a falcon; two chefs get frosted tips, a goatee, and wear sunglasses on the back of their heads.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-24",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 3484169,
+                    "name": "Baron Davis",
+                    "overview": "Former NBA All-Star Baron Davis scores big points with the chefs by talking hoops, fast-food and chicken feet.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-03-31",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 3639906,
+                    "name": "Lucas Brothers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-07",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 3639907,
+                    "name": "Adam Pally/Jon Gabrus",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-14",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 3639909,
+                    "name": "Horatio Sanz",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2022-04-21",
+                    "episode_number": 12,
+                    "episode_type": "finale",
+                    "id": 3639910,
+                    "name": "Joel McHale",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 2,
+                    "show_id": 116993,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 239040,
+            "poster_path": "/9BJiM1hlidIrFA1HZ7vUCJ5MZMe.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

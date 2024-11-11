@@ -1,0 +1,90 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2020-08-01",
+    "genres": [],
+    "homepage": "",
+    "id": 106806,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2020-08-01",
+    "last_episode_to_air": {
+        "id": 2374267,
+        "name": "Episode 1",
+        "overview": "Pilot episode.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-08-01",
+        "episode_number": 1,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 106806,
+        "still_path": null
+    },
+    "name": "Hook Up, J.Ace Tv",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "Hook Up, J.Ace Tv",
+    "overview": "Hook Up: A Homemade Series",
+    "popularity": 0.013,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2020-08-01",
+            "episode_count": 1,
+            "id": 157883,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5f2654fbe263bb0036021dd6",
+            "air_date": "2020-08-01",
+            "episodes": [
+                {
+                    "air_date": "2020-08-01",
+                    "episode_number": 1,
+                    "episode_type": "finale",
+                    "id": 2374267,
+                    "name": "Episode 1",
+                    "overview": "Pilot episode.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 106806,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 157883,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

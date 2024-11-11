@@ -1,0 +1,929 @@
+{
+    "adult": false,
+    "backdrop_path": "/dd0yERHltFeEgLkYH5lcyLnD10V.jpg",
+    "created_by": [
+        {
+            "id": 172206,
+            "credit_id": "638aea71c3aa3f007a10ad3d",
+            "name": "Andrew Orenstein",
+            "original_name": "Andrew Orenstein",
+            "gender": 2,
+            "profile_path": "/2P5mSRTnXR87z721nG6BPnIp30p.jpg"
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "first_air_date": "2013-06-18",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 56176,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2014-12-21",
+    "last_episode_to_air": {
+        "id": 2297821,
+        "name": "Breakup (2)",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2014-12-21",
+        "episode_number": 13,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 2,
+        "show_id": 56176,
+        "still_path": null
+    },
+    "name": "Package Deal",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 92,
+            "logo_path": "/38EhAHYoNzRDFCXAUdF4PEH9Kfl.png",
+            "name": "Citytv",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 26,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Package Deal",
+    "overview": "Package Deal is a Canadian television sitcom created by Andrew Orenstein about three brothers and the woman that comes between them. It debuted on City on 18 June 2013.",
+    "popularity": 6.654,
+    "poster_path": "/7sfMue1T8B5cusgRkAZGGGfVGIv.jpg",
+    "production_companies": [
+        {
+            "id": 78028,
+            "logo_path": "/sTFcDFfJaSVT3sv3DoaZDE4SlGB.png",
+            "name": "Thunderbird Entertainment",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-06-18",
+            "episode_count": 13,
+            "id": 85755,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2014-09-12",
+            "episode_count": 13,
+            "id": 135297,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 3.5,
+    "vote_count": 4,
+    "season_data": {
+        "1": {
+            "_id": "58b95ed7c3a3686630009689",
+            "air_date": "2013-06-18",
+            "episodes": [
+                {
+                    "air_date": "2013-06-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2297795,
+                    "name": "The Dinner / The Picnic",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d849fc22df2e00b20a0b08",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97258,
+                            "known_for_department": "Directing",
+                            "name": "Adam Weissman",
+                            "original_name": "Adam Weissman",
+                            "popularity": 1.131,
+                            "profile_path": "/oWyxDGq3k66HqXfPKrHqOUJh8Pn.jpg"
+                        },
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-10-07",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2297796,
+                    "name": "Prank Wars",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d849fc22df2e00b20a0b08",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97258,
+                            "known_for_department": "Directing",
+                            "name": "Adam Weissman",
+                            "original_name": "Adam Weissman",
+                            "popularity": 1.131,
+                            "profile_path": "/oWyxDGq3k66HqXfPKrHqOUJh8Pn.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-10-14",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2297797,
+                    "name": "I Love You???",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d849fc22df2e00b20a0b08",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97258,
+                            "known_for_department": "Directing",
+                            "name": "Adam Weissman",
+                            "original_name": "Adam Weissman",
+                            "popularity": 1.131,
+                            "profile_path": "/oWyxDGq3k66HqXfPKrHqOUJh8Pn.jpg"
+                        },
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-10-21",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2297798,
+                    "name": "Kim vs. Karaoke",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "63d849fc22df2e00b20a0b08",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 97258,
+                            "known_for_department": "Directing",
+                            "name": "Adam Weissman",
+                            "original_name": "Adam Weissman",
+                            "popularity": 1.131,
+                            "profile_path": "/oWyxDGq3k66HqXfPKrHqOUJh8Pn.jpg"
+                        },
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-10-28",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2297799,
+                    "name": "Bully",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-11-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2297800,
+                    "name": "Danny Escapes to Prison",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-11-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2297801,
+                    "name": "Sheldon Pretends to Be Danny",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-11-21",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2297802,
+                    "name": "Ryan's Therapist",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-11-28",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2297803,
+                    "name": "A Few Good Muffins",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2013-12-12",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2297804,
+                    "name": "Big Brothers",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-01-02",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2297805,
+                    "name": "It's My Party",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-01-09",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 2297806,
+                    "name": "Sick Puppy",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-01-16",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 2297807,
+                    "name": "Kangaroo Court",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 1,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 85755,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        },
+        "2": {
+            "_id": "5dbf91d4ef4889001715930b",
+            "air_date": "2014-09-12",
+            "episodes": [
+                {
+                    "air_date": "2014-09-12",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1975576,
+                    "name": "Silverball",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": [
+                        {
+                            "character": "Young Woman",
+                            "credit_id": "5dbf92079d893900152f655c",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 2448603,
+                            "known_for_department": "Acting",
+                            "name": "Mia Fiona Kut",
+                            "original_name": "Mia Fiona Kut",
+                            "popularity": 0.593,
+                            "profile_path": null
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2014-09-26",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2297808,
+                    "name": "Sloppy Seconds",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-10-03",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2297809,
+                    "name": "Sex, Sex, Sex",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-10-10",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2297810,
+                    "name": "How I Met Your Brother",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-10-17",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2297811,
+                    "name": "Danny's New Job",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Hot Woman",
+                            "credit_id": "650abe170d5d8500c3e9b1a8",
+                            "order": 501,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 1390882,
+                            "known_for_department": "Acting",
+                            "name": "Tasya Teles",
+                            "original_name": "Tasya Teles",
+                            "popularity": 13.229,
+                            "profile_path": "/zga7iMMNRwnrIcnrxpbqGFxR5hs.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2014-11-03",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2297812,
+                    "name": "The Imperfect Storm",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-11-10",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2297813,
+                    "name": "Two Half Men",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-11-17",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 2297814,
+                    "name": "Downton Danny",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-11-24",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 2297815,
+                    "name": "Everybody Loves Beth",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-11-27",
+                    "episode_number": 10,
+                    "episode_type": "standard",
+                    "id": 2297816,
+                    "name": "Tea for Too Few",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-11-27",
+                    "episode_number": 11,
+                    "episode_type": "standard",
+                    "id": 2297817,
+                    "name": "Storage Lore",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-12-21",
+                    "episode_number": 12,
+                    "episode_type": "standard",
+                    "id": 2297819,
+                    "name": "Breakup (1)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2014-12-21",
+                    "episode_number": 13,
+                    "episode_type": "finale",
+                    "id": 2297821,
+                    "name": "Breakup (2)",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": 22,
+                    "season_number": 2,
+                    "show_id": 56176,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [
+                        {
+                            "job": "Casting",
+                            "department": "Production",
+                            "credit_id": "64ca9741297338020b03a423",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 4194039,
+                            "known_for_department": "Production",
+                            "name": "James Howells",
+                            "original_name": "James Howells",
+                            "popularity": 0.132,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 135297,
+            "poster_path": null,
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}

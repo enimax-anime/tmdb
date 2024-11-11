@@ -1,0 +1,940 @@
+{
+    "adult": false,
+    "backdrop_path": "/pZ2XiaQXh9jFse6UmOLFNEk00LD.jpg",
+    "created_by": [
+        {
+            "id": 1150747,
+            "credit_id": "5aedb2699251411d5b008310",
+            "name": "David Berron",
+            "gender": 2,
+            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+        },
+        {
+            "id": 1320572,
+            "credit_id": "5aedb291c3a3683461007fd1",
+            "name": "Geir Henning Hopland",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "first_air_date": "2018-02-26",
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://viaplay.com/serier/advokaten",
+    "id": 77516,
+    "in_production": false,
+    "languages": [
+        "da",
+        "sv"
+    ],
+    "last_air_date": "2020-06-21",
+    "last_episode_to_air": {
+        "id": 2337451,
+        "name": "Episode 8",
+        "overview": "Frank refuses to drop the case but realises the severity of the situation. Svend Erik tries to help him escape from Waldman. Therese's killer is revealed, and Sara closes in on the person who ordered the hit on her and Frank's parents.",
+        "vote_average": 9,
+        "vote_count": 1,
+        "air_date": "2020-06-21",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 2,
+        "show_id": 77516,
+        "still_path": "/cRY319rh1JIgph0KbmkF8yeCSIR.jpg"
+    },
+    "name": "The Lawyer",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1585,
+            "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+            "name": "Viaplay",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 18,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Advokaten",
+    "overview": "Frank Nordling is a young and exceptionally promising defense lawyer. When Frank learns the truth behind his parents' death, his whole world unravels. As children, Frank and his sister Sara witnessed their parents die in an explosion caused by a car bomb. As Frank finds out, they were murdered by one of the leaders in Copenhagen's criminal underworld, Thomas Waldman. In order to avenge his parents Frank must infiltrate Waldman's organization and become his personal lawyer and trusted confidant. To avoid putting those close to him in danger, Frank has to keep up appearances and play the game. But can he handle it? Is it worth the price? And who's really tricking whom?",
+    "popularity": 34.73,
+    "poster_path": "/vWh7jfPgTpN2J2JmKLNjSdeOydT.jpg",
+    "production_companies": [
+        {
+            "id": 105670,
+            "logo_path": "/1fLxrN5lOcZ35jJH9pXNx319KGJ.png",
+            "name": "MTG Studios",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-02-26",
+            "episode_count": 10,
+            "id": 100024,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/rNFs1B8eNvh19Yc9CMjC6txHSBs.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        },
+        {
+            "air_date": "2020-05-10",
+            "episode_count": 8,
+            "id": 155447,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/vWh7jfPgTpN2J2JmKLNjSdeOydT.jpg",
+            "season_number": 2,
+            "vote_average": 8.9
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 5.7,
+    "vote_count": 11,
+    "season_data": {
+        "1": {
+            "_id": "5a957c800e0a26086c009d39",
+            "air_date": "2018-02-26",
+            "episodes": [
+                {
+                    "air_date": "2018-02-26",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1443317,
+                    "name": "Episode 1",
+                    "overview": "Siblings Sara and Frank (now a police officer and a lawyer) as children watched their parents die in a car explosion. Sara is still pursuing leads to find out who killed their parents, and Frank reluctantly joins her investigations.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/owNIgYGWzD0BZ4fAYSEreUzo3aw.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f011235a76ac50034026ea3",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 2701946,
+                            "known_for_department": "Writing",
+                            "name": "Oliver Dixon",
+                            "original_name": "Oliver Dixon",
+                            "popularity": 1.286,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f0111d4a284eb0037974782",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1270193,
+                            "known_for_department": "Writing",
+                            "name": "Karin Gidfors",
+                            "original_name": "Karin Gidfors",
+                            "popularity": 1.456,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "5f01120ea284eb0036941bd5",
+                            "adult": false,
+                            "gender": 0,
+                            "id": 1077402,
+                            "known_for_department": "Writing",
+                            "name": "Maria Karlsson",
+                            "original_name": "Maria Karlsson",
+                            "popularity": 2.792,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-05",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1483029,
+                    "name": "Episode 2",
+                    "overview": "Frank gets a case at the law firm representing Thomas Waldman. He is given a week to win and for the first time is forced to play the game in order to get closer to the truth about his parents' death.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/kpuUT1MfE7fnp4Myvh8p4aI5465.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-12",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1483030,
+                    "name": "Episode 3",
+                    "overview": "To win Waldman's confidence, Frank defends one of his henchmen. But things become complicated when the prosecutor turns out to be Patricia Staaf, with whom Frank had an affair and still has feelings.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/kgvlFxSLr1gPLp9YLJ7aPNNAi7o.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-19",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 1483031,
+                    "name": "Episode 4",
+                    "overview": "Brian reveals to Frank that he has evidence that links the drugs business directly to Waldman, and Patricia agrees to give Brian witness protection. Sara is in danger of losing Liam's confidence by trying to help Frank.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/sfiyj5I2bxjVIMEVNgD6btt33v4.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-03-26",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 1483032,
+                    "name": "Episode 5",
+                    "overview": "Frank wants to avenge Patricia's shooting so decides against Sara's will to try to get Waldman's greatest enemy, Daniella Ayala, out of prison to create a drugs war. As a result, a gulf opens up between the two siblings.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/nDkel2PgiQtnNgAGTjjHIffU0YB.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6099186c168ea3003e148231",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1005983,
+                            "known_for_department": "Writing",
+                            "name": "Alex Haridi",
+                            "original_name": "Alex Haridi",
+                            "popularity": 4.146,
+                            "profile_path": "/ApvHCY19NFoXbXi2VgJpzQLz4aB.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": [
+                        {
+                            "character": "Sjuksköterska",
+                            "credit_id": "6109e8a0db154f002d180e51",
+                            "order": 500,
+                            "adult": false,
+                            "gender": 1,
+                            "id": 3185752,
+                            "known_for_department": "Acting",
+                            "name": "Yasmine Seifi",
+                            "original_name": "Yasmine Seifi",
+                            "popularity": 5.124,
+                            "profile_path": "/i891Nn9zvMIkakiooace7EuctAc.jpg"
+                        }
+                    ]
+                },
+                {
+                    "air_date": "2018-04-02",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 1483033,
+                    "name": "Episode 6",
+                    "overview": "Frank secretly helps his former colleague Fredrika to prepare for Daniella Ayala's review. Waldman becomes increasingly nervous and orders an attack against Ayala.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/NDsJcHofgIANXubMaX2kwbAd6n.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010d0b15959f003757c653",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1150747,
+                            "known_for_department": "Directing",
+                            "name": "David Berron",
+                            "original_name": "David Berron",
+                            "popularity": 1.868,
+                            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-09",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 1483034,
+                    "name": "Episode 7",
+                    "overview": "Sara is finally close to raiding the workshop in hope of finding drugs and putting away Bogdan. But when her team moves in there are no drugs to be found.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/dxhH26eGTK8ovlDJqr37UsyQx76.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010d0b15959f003757c653",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1150747,
+                            "known_for_department": "Directing",
+                            "name": "David Berron",
+                            "original_name": "David Berron",
+                            "popularity": 1.868,
+                            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+                        },
+                        {
+                            "job": "Writer",
+                            "department": "Writing",
+                            "credit_id": "6099186c168ea3003e148231",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1005983,
+                            "known_for_department": "Writing",
+                            "name": "Alex Haridi",
+                            "original_name": "Alex Haridi",
+                            "popularity": 4.146,
+                            "profile_path": "/ApvHCY19NFoXbXi2VgJpzQLz4aB.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-16",
+                    "episode_number": 8,
+                    "episode_type": "standard",
+                    "id": 1483035,
+                    "name": "Episode 8",
+                    "overview": "Sara gets fired from the police after her relapse and becomes increasingly indiscreet in her addiction. Frank tries to protect his sister whilst exploring every option to set Terese free.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/lnLINeewA6FAag38mn0hFVLUMbu.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010d0b15959f003757c653",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1150747,
+                            "known_for_department": "Directing",
+                            "name": "David Berron",
+                            "original_name": "David Berron",
+                            "popularity": 1.868,
+                            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-23",
+                    "episode_number": 9,
+                    "episode_type": "standard",
+                    "id": 1483036,
+                    "name": "Episode 9",
+                    "overview": "Sara chooses to believe Blanka and decides to let go of revenge. Meanwhile, Frank is fighting in court to free an increasingly fragile Therese.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/yWJGwWFysL4xkytB4mkIIH62ZrK.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010d0b15959f003757c653",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1150747,
+                            "known_for_department": "Directing",
+                            "name": "David Berron",
+                            "original_name": "David Berron",
+                            "popularity": 1.868,
+                            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2018-04-30",
+                    "episode_number": 10,
+                    "episode_type": "finale",
+                    "id": 1483037,
+                    "name": "Episode 10",
+                    "overview": "Sara's identity is revealed, and when Frank is ordered by Waldman to accompany him on a business trip to Lithuania, the siblings realize that they are running out of time.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 1,
+                    "show_id": 77516,
+                    "still_path": "/2kGqgwIvHNsqJMyakajuvc2oRF5.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010d0b15959f003757c653",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1150747,
+                            "known_for_department": "Directing",
+                            "name": "David Berron",
+                            "original_name": "David Berron",
+                            "popularity": 1.868,
+                            "profile_path": "/mViGaeS63Zgj8XIbHnMgqkQlRVg.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 100024,
+            "poster_path": "/rNFs1B8eNvh19Yc9CMjC6txHSBs.jpg",
+            "season_number": 1,
+            "vote_average": 8
+        },
+        "2": {
+            "_id": "5f010e9215959f003857fc61",
+            "air_date": "2020-05-10",
+            "episodes": [
+                {
+                    "air_date": "2020-05-10",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2337444,
+                    "name": "Episode 1",
+                    "overview": "Frank has been released from jail and is now the proud new father of baby Laura. Sara receives news concerning Therese Waldman's death, and Frank makes an unexpected move.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/vLJxKW1KRBwJyVY6AqvMMzibdX2.jpg",
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2337445,
+                    "name": "Episode 2",
+                    "overview": "The notion of having framed Therese for drug possession prior to her early demise, haunts Frank. Sara questions Frank's choices and worries about what he is about to do next.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/t8MMAbKPtuO13ZPqv7qcg7dsycF.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f010ca115959f003857f950",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1320572,
+                            "known_for_department": "Directing",
+                            "name": "Geir Henning Hopland",
+                            "original_name": "Geir Henning Hopland",
+                            "popularity": 4.232,
+                            "profile_path": null
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-17",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 2337446,
+                    "name": "Episode 3",
+                    "overview": "Svend Erik Wisén warns Frank, who understands that Thomas Waldman will stop at nothing to find out what happened to Therese.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/wtdzJEer8BrAWVFFj5WW5dXTK9W.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-24",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 2337447,
+                    "name": "Episode 4",
+                    "overview": "Frank finds himself pulled into the mess be created and finds an ally in Svend-Erik; Sara is put in a difficult position; Waldman and Ayalas' feud reaches its tipping point.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/i4MNswj4kf7mbHPb94wKbBSkawO.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f0110c9f0317400395711ff",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081835,
+                            "known_for_department": "Directing",
+                            "name": "Pontus Klänge",
+                            "original_name": "Pontus Klänge",
+                            "popularity": 4.278,
+                            "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-05-31",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 2337448,
+                    "name": "Episode 5",
+                    "overview": "Frank follows a lead that takes him to his parents' murder; Sara tries to get everything back to normal for her son and asks Frank to leave the investigation.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/dbapJOjeowTDpMW2ISpT4TiTCxY.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f0110c9f0317400395711ff",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081835,
+                            "known_for_department": "Directing",
+                            "name": "Pontus Klänge",
+                            "original_name": "Pontus Klänge",
+                            "popularity": 4.278,
+                            "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-07",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 2337449,
+                    "name": "Episode 6",
+                    "overview": "When Rex Bagger goes on trial, Frank gets the opportunity to interrogate someone who knew his father; Waldman feels the walls closing in. Sara is forced to deceive Frank in order to protect her son Liam.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/AnLpoBJInyRP6XgAJhMh62wkXVA.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f0110c9f0317400395711ff",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081835,
+                            "known_for_department": "Directing",
+                            "name": "Pontus Klänge",
+                            "original_name": "Pontus Klänge",
+                            "popularity": 4.278,
+                            "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-14",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 2337450,
+                    "name": "Episode 7",
+                    "overview": "Sara and Frank track down a new witness to testify against Bagger, and the puppet master who pulled Waldman's strings in the 1990s begins to emerge.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/bPWwqe94Z8QLUFcM6rzgcCFLFWD.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f0110c9f0317400395711ff",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081835,
+                            "known_for_department": "Directing",
+                            "name": "Pontus Klänge",
+                            "original_name": "Pontus Klänge",
+                            "popularity": 4.278,
+                            "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2020-06-21",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 2337451,
+                    "name": "Episode 8",
+                    "overview": "Frank refuses to drop the case but realises the severity of the situation. Svend Erik tries to help him escape from Waldman. Therese's killer is revealed, and Sara closes in on the person who ordered the hit on her and Frank's parents.",
+                    "production_code": "",
+                    "runtime": 50,
+                    "season_number": 2,
+                    "show_id": 77516,
+                    "still_path": "/cRY319rh1JIgph0KbmkF8yeCSIR.jpg",
+                    "vote_average": 9,
+                    "vote_count": 1,
+                    "crew": [
+                        {
+                            "job": "Director",
+                            "department": "Directing",
+                            "credit_id": "5f0110c9f0317400395711ff",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 1081835,
+                            "known_for_department": "Directing",
+                            "name": "Pontus Klänge",
+                            "original_name": "Pontus Klänge",
+                            "popularity": 4.278,
+                            "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg"
+                        },
+                        {
+                            "job": "Music",
+                            "department": "Sound",
+                            "credit_id": "609921a6efd3c2003b95babb",
+                            "adult": false,
+                            "gender": 2,
+                            "id": 73091,
+                            "known_for_department": "Sound",
+                            "name": "Adam Nordén",
+                            "original_name": "Adam Nordén",
+                            "popularity": 5.844,
+                            "profile_path": "/c3H4vW0U9ywtGQOC6IozbG0pRYB.jpg"
+                        }
+                    ],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 155447,
+            "poster_path": "/vWh7jfPgTpN2J2JmKLNjSdeOydT.jpg",
+            "season_number": 2,
+            "vote_average": 8.9
+        }
+    }
+}

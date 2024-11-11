@@ -1,0 +1,164 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [
+        59
+    ],
+    "first_air_date": "2019-07-09",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m0006pbh",
+    "id": 131059,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2019-07-11",
+    "last_episode_to_air": {
+        "id": 3124993,
+        "name": "The Final Showdown",
+        "overview": "Having failed to bring round Pym, Charles accuses the 'Five Members' of high treason and marches on Westminster.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-07-11",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 59,
+        "season_number": 1,
+        "show_id": 131059,
+        "still_path": null
+    },
+    "name": "Charles I: Downfall of a King",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 100,
+            "logo_path": "/AgsOSxGvfxIonhPgrfkWCmsOKfA.png",
+            "name": "BBC Four",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Charles I: Downfall of a King",
+    "overview": "Historian Lisa Hilton discovers how, in just fifty tempestuous days, Charles I’s rule collapsed, laying the foundations for civil war, the loss of royal power and, ultimately, the king’s head.",
+    "popularity": 0.503,
+    "poster_path": "/r5g22mo9E4u5ZhqN7QXWYBWY9Jl.jpg",
+    "production_companies": [
+        {
+            "id": 2015,
+            "logo_path": "/2QYmUQEca7nlEmFkuvKQjKQsE0m.png",
+            "name": "DSP",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2019-07-09",
+            "episode_count": 3,
+            "id": 205642,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "611591a699d5c30046ee0f2f",
+            "air_date": "2019-07-09",
+            "episodes": [
+                {
+                    "air_date": "2019-07-09",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3124988,
+                    "name": "Two Worlds Collide",
+                    "overview": "Historical docudrama series. Following a Catholic uprising in Ireland, in which thousands of Protestants are killed, Parliament passes a vote of no confidence in Charles I's rule.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 131059,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3124992,
+                    "name": "A Nation Divided",
+                    "overview": "Charles's predicament worsens. With the Queen implicated in the Irish rebellion, the King tries to buy off Pym by offering him the position of chancellor of the exchequer.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 131059,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-07-11",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 3124993,
+                    "name": "The Final Showdown",
+                    "overview": "Having failed to bring round Pym, Charles accuses the 'Five Members' of high treason and marches on Westminster.",
+                    "production_code": "",
+                    "runtime": 59,
+                    "season_number": 1,
+                    "show_id": 131059,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 205642,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

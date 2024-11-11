@@ -1,0 +1,138 @@
+{
+    "adult": false,
+    "backdrop_path": "/6Roc9DDcbPfMkJShvkx0POHUKRq.jpg",
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2021-06-03",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 126793,
+    "in_production": false,
+    "languages": [],
+    "last_air_date": "2021-06-17",
+    "last_episode_to_air": {
+        "id": 2997719,
+        "name": "Cocaine",
+        "overview": "In the ‘90s Liverpool’s Narcos set up direct contact with Colombian cartels to flood the UK with cocaine, becoming multi-millionaires in the process. The focus is Curtis Warren and on Stephen Mee, described by the police as kingpin Warren’s second in command.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-06-17",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 126793,
+        "still_path": null
+    },
+    "name": "Liverpool Narcos",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 4148,
+            "logo_path": "/ePgfopNKnZ6iSRMh1Gcm7IIamh1.png",
+            "name": "Sky Documentaries",
+            "origin_country": "GB"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Liverpool Narcos",
+    "overview": "In the 1980s, Liverpool became the epicentre of a drugs boom that was to change Britain forever. With unprecedented access to some of the biggest players, this is the story of how drugs went mainstream and dealing became a multi-billion pound business",
+    "popularity": 2.237,
+    "poster_path": "/emBT2Fvh7JapA4mT90Ma4BK3i2j.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2021-06-03",
+            "episode_count": 3,
+            "id": 197771,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 7,
+    "vote_count": 1,
+    "season_data": {
+        "1": {
+            "_id": "60b756a1dfaae9006ed57c0a",
+            "air_date": "2021-06-03",
+            "episodes": [
+                {
+                    "air_date": "2021-06-03",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2997715,
+                    "name": "Heroin",
+                    "overview": "How heroin and its availability in the ‘80s changed life for the criminal underworld and for communities where it was rife. The director interviews all sides of the trade – a smuggler, detectives and customs officers, a journalist, drugs counsellors and an addict.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126793,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-10",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2997718,
+                    "name": "Ecstasy",
+                    "overview": "Moving in to the late ‘80s, the drugs revolution sparked by the arrival of ecstasy and how dealers, club bouncers and their bosses fought it out to gain control of a very lucrative market",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126793,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-06-17",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2997719,
+                    "name": "Cocaine",
+                    "overview": "In the ‘90s Liverpool’s Narcos set up direct contact with Colombian cartels to flood the UK with cocaine, becoming multi-millionaires in the process. The focus is Curtis Warren and on Stephen Mee, described by the police as kingpin Warren’s second in command.",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 126793,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 197771,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

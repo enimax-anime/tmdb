@@ -1,0 +1,153 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [],
+    "episode_run_time": [],
+    "first_air_date": "2019-03-25",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 87943,
+    "in_production": true,
+    "languages": [],
+    "last_air_date": "2019-03-25",
+    "last_episode_to_air": {
+        "id": 1738736,
+        "name": "Episode 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2019-03-25",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 87943,
+        "still_path": null
+    },
+    "name": "Panzer!",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 1350,
+            "logo_path": "/dQPFVeKoJHy27pF18gqpT9xzIm.png",
+            "name": "ZDFinfo",
+            "origin_country": "DE"
+        }
+    ],
+    "number_of_episodes": 4,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "de",
+    "original_name": "Panzer!",
+    "overview": "",
+    "popularity": 0.01,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2019-03-25",
+            "episode_count": 4,
+            "id": 121152,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8
+        }
+    ],
+    "spoken_languages": [],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0,
+    "season_data": {
+        "1": {
+            "_id": "5c9a7a0e92514139baf6b9b7",
+            "air_date": "2019-03-25",
+            "episodes": [
+                {
+                    "air_date": "2019-03-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 1738733,
+                    "name": "Episode 1",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 87943,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-23",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 1738734,
+                    "name": "Episode 2",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 87943,
+                    "still_path": null,
+                    "vote_average": 8,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 1738735,
+                    "name": "Episode 3",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 87943,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2019-03-25",
+                    "episode_number": 4,
+                    "episode_type": "finale",
+                    "id": 1738736,
+                    "name": "Episode 4",
+                    "overview": "",
+                    "production_code": "",
+                    "runtime": null,
+                    "season_number": 1,
+                    "show_id": 87943,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 121152,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 8
+        }
+    }
+}

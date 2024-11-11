@@ -1,0 +1,185 @@
+{
+    "adult": false,
+    "backdrop_path": "/5A0mFZBThnqlVH0KxfB28PrJSqq.jpg",
+    "created_by": [
+        {
+            "id": 3415920,
+            "credit_id": "620055c2a402c100daa8119a",
+            "name": "Dan Slepian",
+            "original_name": "Dan Slepian",
+            "gender": 0,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        41
+    ],
+    "first_air_date": "2021-02-18",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 121893,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-04",
+    "last_episode_to_air": {
+        "id": 2829719,
+        "name": "Part Three",
+        "overview": "Thomas Randolph strikes back against his accusers in exclusive jailhouse interviews; featuring testimony from his accusers.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-03-04",
+        "episode_number": 3,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 1,
+        "show_id": 121893,
+        "still_path": null
+    },
+    "name": "The Widower",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 6,
+            "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+            "name": "NBC",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 3,
+    "number_of_seasons": 1,
+    "origin_country": [],
+    "original_language": "en",
+    "original_name": "The Widower",
+    "overview": "Explore behind the scenes of one of the country's most confounding murder investigations, revealing a tale of evil and a tireless quest for justice in real time.",
+    "popularity": 0.379,
+    "poster_path": "/sNnV7K7WlI3AvfvIN1Urv4TyT8S.jpg",
+    "production_companies": [
+        {
+            "id": 169433,
+            "logo_path": null,
+            "name": "Dateline NBC",
+            "origin_country": ""
+        },
+        {
+            "id": 1502,
+            "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+            "name": "NBC",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-18",
+            "episode_count": 3,
+            "id": 188062,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Documentary",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "season_data": {
+        "1": {
+            "_id": "605f402b39a1a60053f1d16e",
+            "air_date": "2021-02-18",
+            "episodes": [
+                {
+                    "air_date": "2021-02-18",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 2829702,
+                    "name": "Part One",
+                    "overview": "The murder of a Las Vegas wife and mother pits detectives against her wily husband, who has many secrets and four dead wives.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 121893,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-02-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 2829714,
+                    "name": "Part Two",
+                    "overview": "Detectives investigating a woman's murder hit the road to learn about her husband's five other marriages and three dead wives, discovering he's been on trial before in a case that resembles their own.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 121893,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-03-04",
+                    "episode_number": 3,
+                    "episode_type": "finale",
+                    "id": 2829719,
+                    "name": "Part Three",
+                    "overview": "Thomas Randolph strikes back against his accusers in exclusive jailhouse interviews; featuring testimony from his accusers.",
+                    "production_code": "",
+                    "runtime": 41,
+                    "season_number": 1,
+                    "show_id": 121893,
+                    "still_path": null,
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 188062,
+            "poster_path": null,
+            "season_number": 1,
+            "vote_average": 0
+        }
+    }
+}

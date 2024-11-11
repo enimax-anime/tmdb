@@ -1,0 +1,432 @@
+{
+    "adult": false,
+    "backdrop_path": "/s9Yr9RyJfUJQcDt2mTrPoty5PXU.jpg",
+    "created_by": [
+        {
+            "id": 2736115,
+            "credit_id": "61778cacf85958002a48c36d",
+            "name": "Gilbert Shelton",
+            "original_name": "Gilbert Shelton",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        24
+    ],
+    "first_air_date": "2021-11-14",
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://thefreakbrothers.com/",
+    "id": 137164,
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-09-24",
+    "last_episode_to_air": {
+        "id": 4464378,
+        "name": "Freaking Bad",
+        "overview": "After being challenged by Seth Rogen, Phineas becomes obsessed with winning a ribbon for his pot brownies at this year’s Cannabis Cup festival.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-09-24",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 30,
+        "season_number": 2,
+        "show_id": 137164,
+        "still_path": "/6mB3D4lTLxNtaqQBRjeZK2OaQf8.jpg"
+    },
+    "name": "The Freak Brothers",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "id": 5187,
+            "logo_path": "/8OAFRLPQ4w888UDkDtnXpdnRfEQ.png",
+            "name": "Tubi",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 2,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Freak Brothers",
+    "overview": "The escapades of a trio of stoner anti-establishment characters and their cat who wake up from a 50-year nap after smoking a magical strain of weed in 1969, and must adjust to life with a new family in present-day San Francisco.",
+    "popularity": 7.893,
+    "poster_path": "/2vOAmkxJHItO6jBlO77vSwZUGSM.jpg",
+    "production_companies": [
+        {
+            "id": 32542,
+            "logo_path": null,
+            "name": "Starburns Industries",
+            "origin_country": "US"
+        },
+        {
+            "id": 28523,
+            "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+            "name": "Lionsgate Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2020-05-05",
+            "episode_count": 4,
+            "id": 217027,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 0,
+            "vote_average": 0
+        },
+        {
+            "air_date": "2021-11-14",
+            "episode_count": 8,
+            "id": 217026,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c8Bknk3WtFEbTNUKMDg28rmT1pk.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        {
+            "air_date": "2023-06-25",
+            "episode_count": 8,
+            "id": 342137,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/2vOAmkxJHItO6jBlO77vSwZUGSM.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Blunt and bold.",
+    "type": "Scripted",
+    "vote_average": 5.6,
+    "vote_count": 16,
+    "season_data": {
+        "1": {
+            "_id": "61778aea924ce5002d30b930",
+            "air_date": "2021-11-14",
+            "episodes": [
+                {
+                    "air_date": "2021-11-14",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 3304687,
+                    "name": "Pilot",
+                    "overview": "After learning that the mystical Swami Bhajan holds the secret to the \"ultimate high,\" Franklin, Phineas, Freddy, & Kitty go to Woodstock to find him.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/yqflSz9OzSoIxYGdR5fDTrlmdk.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-14",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 3304714,
+                    "name": "Squatters' Rights",
+                    "overview": "The Freaks attempt to regrow the same strain of dope that transported them to 2020 by incubating a small seed stuck inside Freddy's ass.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/ho5xBIftXOGtWtFkDxxSTNyf2mh.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-21",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 3337127,
+                    "name": "The Expendables",
+                    "overview": "Kitty tricks the Freaks into taking a sweet gig as astronauts for Jeff Bezos' manned expedition to Mars.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/jFDYW7faTKPLjpjP7w4HSVQJi29.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-11-28",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 3337128,
+                    "name": "Son of a Freak",
+                    "overview": "While attending a UFC fight, Phineas discovers one of the fighters is his long-lost-now-fully-adult son. Elsewhere, Freddy pretends to be a cat.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/d5xfPOqSBTuSDSPPpjWqI8VEY2r.jpg",
+                    "vote_average": 1,
+                    "vote_count": 1,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-05",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 3337129,
+                    "name": "Bo-Freakian Rap-Sody",
+                    "overview": "After Freddy crashes ScHoolboy Q's golden golf cart, Q demands the Freaks pay him back by any means necessary.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/8nU5TcJl5pXJsIQFaKdoeW5M32b.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-12",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 3337130,
+                    "name": "Gender No-Binary",
+                    "overview": "Phineas falls in love with the girl of his dreams, only to learn she is a robot sex doll.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/gJNxC43Z3ZdRe6nwMcWwghRplod.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-19",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 3337131,
+                    "name": "The Candidate",
+                    "overview": "When Harper's billionaire tech bro boss runs for Mayor of San Francisco, Phineas is determined to challenge the man's pro-data-mining policy agenda.",
+                    "production_code": "",
+                    "runtime": 24,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/dTJOAXmXAZkCgtAhNrxgOLX4YlM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2021-12-26",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 3337132,
+                    "name": "Freakchella",
+                    "overview": "When Phineas and Freddy discover that Jim Morrison is alive and masquerading as a hologram at a music festival, Jim offers to share his secrets.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 1,
+                    "show_id": 137164,
+                    "still_path": "/bgk0iCRTavpwysMPIEUTSEniQrO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 1",
+            "overview": "",
+            "id": 217026,
+            "poster_path": "/c8Bknk3WtFEbTNUKMDg28rmT1pk.jpg",
+            "season_number": 1,
+            "vote_average": 1
+        },
+        "2": {
+            "_id": "646bf72c54a098011b2c2fe6",
+            "air_date": "2023-06-25",
+            "episodes": [
+                {
+                    "air_date": "2023-06-25",
+                    "episode_number": 1,
+                    "episode_type": "standard",
+                    "id": 4464324,
+                    "name": "Whack Shack",
+                    "overview": "Franklin becomes the “stunt cock” for Timothée Chalamet. When the Switzers threaten to destroy the Freaks’ old Whack Shack, Phineas takes the fight to city hall.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/aFVgkAcfYMYsoKoSfRnapDfbuBQ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-25",
+                    "episode_number": 2,
+                    "episode_type": "standard",
+                    "id": 4464372,
+                    "name": "True Freak-Tective",
+                    "overview": "When a professor is murdered on campus, clues lead police to believe Noah is the killer. The Freaks play detective to try and prove Noah’s innocence.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/1LwczZRhInTgLBBt2o5oPzriNYN.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-25",
+                    "episode_number": 3,
+                    "episode_type": "standard",
+                    "id": 4464373,
+                    "name": "High School Reunion",
+                    "overview": "Phineas goes to his 60th High School Reunion. Franklin deals with a case of just one crab. Meanwhile, Harper hosts a gender reveal party for her boss, Dennis Chang.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/v9tJMIjTfiS3GBldrLTyT775Jd9.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-06-25",
+                    "episode_number": 4,
+                    "episode_type": "standard",
+                    "id": 4464374,
+                    "name": "The Freaks Go to Washington",
+                    "overview": "After Freddy suffers an accident, the Freaks find themselves in need of cash. They tag along on Gretchen and Camille’s trip to Washington D.C.",
+                    "production_code": "",
+                    "runtime": 25,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/xYwvgScYIrnAKUzZxeHNnEMcURb.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-24",
+                    "episode_number": 5,
+                    "episode_type": "standard",
+                    "id": 4464375,
+                    "name": "Trans Trans Am",
+                    "overview": "When Franklin finds his prized old 1968 Pontiac Trans Am, he and Harper get immersed in San Fran’s cutthroat street drag racing scene.",
+                    "production_code": "",
+                    "runtime": 28,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/8UXUvidMWvw59EHlcBn0ul8ZWAn.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-24",
+                    "episode_number": 6,
+                    "episode_type": "standard",
+                    "id": 4464376,
+                    "name": "Pet Condoms",
+                    "overview": "After a pregnancy scare, Kitty inspires the Freaks to come up with a new business idea -- pet condoms.",
+                    "production_code": "",
+                    "runtime": 26,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/hebRkYfceut5wnOVcOxsy4Kmg43.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-24",
+                    "episode_number": 7,
+                    "episode_type": "standard",
+                    "id": 4464377,
+                    "name": "Meataverse",
+                    "overview": "When Kitty teaches Freddy how to cook, Mark Zuckerberg invites them to his state of the art homeless shelter to craft dishes using his new lab grown beef.",
+                    "production_code": "",
+                    "runtime": 27,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/45PEP297IIerPq7HMQJdpNpHNEO.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                },
+                {
+                    "air_date": "2023-09-24",
+                    "episode_number": 8,
+                    "episode_type": "finale",
+                    "id": 4464378,
+                    "name": "Freaking Bad",
+                    "overview": "After being challenged by Seth Rogen, Phineas becomes obsessed with winning a ribbon for his pot brownies at this year’s Cannabis Cup festival.",
+                    "production_code": "",
+                    "runtime": 30,
+                    "season_number": 2,
+                    "show_id": 137164,
+                    "still_path": "/6mB3D4lTLxNtaqQBRjeZK2OaQf8.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "crew": [],
+                    "guest_stars": []
+                }
+            ],
+            "name": "Season 2",
+            "overview": "",
+            "id": 342137,
+            "poster_path": "/2vOAmkxJHItO6jBlO77vSwZUGSM.jpg",
+            "season_number": 2,
+            "vote_average": 0
+        }
+    }
+}
